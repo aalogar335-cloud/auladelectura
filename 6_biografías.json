@@ -1,0 +1,1766 @@
+[
+    {
+        "titulo": "Ada Lovelace: La Encantadora de Números",
+        "tema": "biografías",
+        "texto": "Hace mucho tiempo, en la brumosa Londres de 1815, nació una niña llamada Ada Augusta Byron. Su llegada al mundo no fue común, pues su padre era el famoso y escandaloso poeta Lord Byron, un hombre conocido por sus versos románticos y su vida alocada. Sin embargo, la madre de Ada, Lady Byron, tenía un plan muy diferente para su hija. Aterrorizada por la idea de que Ada heredara la locura poética y el temperamento inestable de su padre, decidió alejarla de todo lo que tuviera que ver con la fantasía. Lady Byron sumergió a la pequeña Ada en un mundo estricto de matemáticas, lógica y ciencia, algo muy raro para las niñas de la época victoriana, a quienes solo se les enseñaba a coser, tocar el piano y ser buenas esposas. Pero Ada no era una niña cualquiera; su mente era un volcán en erupción que mezclaba la imaginación de su padre con la inteligencia fría de su madre.\n\nA los doce años, Ada sufrió una enfermedad grave, el sarampión, que la dejó paralizada en la cama durante casi tres años. Lejos de aburrirse, utilizó ese tiempo para observar a los pájaros por la ventana. Estudió su anatomía con precisión y escribió un libro ilustrado llamado 'Flyology' (Vuelología), donde diseñó unas alas mecánicas de papel, seda y alambres para que los humanos pudieran volar. Aquello fue la primera señal de lo que ella llamaría más tarde su 'Ciencia Poética': la capacidad de usar la imaginación para explorar las matemáticas.\n\nCuando tenía diecisiete años, su vida cambió para siempre al conocer a Charles Babbage, un matemático cascarrabias que estaba diseñando una máquina gigante llamada la 'Máquina Analítica'. Era un artilugio enorme de engranajes y palancas que, en teoría, podría hacer cálculos complejos. Mientras que la mayoría de la gente solo veía una calculadora gigante, Ada vio algo más. Ella entendió que, si se le daban las instrucciones correctas, esa máquina no solo podría procesar números, sino cualquier símbolo, incluso notas musicales o letras. Ada tradujo un artículo sobre la máquina escrito por un ingeniero italiano y añadió sus propias notas al margen. Estas notas terminaron siendo tres veces más largas que el texto original. En la famosa 'Nota G', Ada escribió una secuencia detallada de pasos para calcular los números de Bernoulli. Sin saberlo, había escrito el primer algoritmo de la historia destinado a ser procesado por una máquina. \n\nAda predijo el futuro de la tecnología cien años antes de que se construyera el primer ordenador real. Imaginó que las computadoras podrían componer música, crear gráficos y ayudar a la ciencia, tal como lo hacen hoy. Lamentablemente, Ada murió muy joven, a los 36 años, y su trabajo quedó olvidado en un cajón durante mucho tiempo. No fue hasta la era moderna que el mundo redescubrió a esta mujer increíble que, atrapada en un vestido de corsé victoriano, tuvo la visión de ver el mundo digital en el que vivimos ahora. Hoy la recordamos no solo como la hija de un poeta, sino como la madre de la programación, la mujer que nos enseñó que la tecnología sin imaginación no sirve de nada y que los números también pueden ser hermosos.",
+        "glosario": [
+            {
+                "palabra": "Victoriana",
+                "definición": "Época de la historia de Inglaterra durante el reinado de la reina Victoria, conocida por ser muy estricta y antigua en sus costumbres."
+            },
+            {
+                "palabra": "Temperamento",
+                "definición": "La forma de ser o el carácter de una persona, especialmente la manera en que reacciona ante las cosas."
+            },
+            {
+                "palabra": "Anatomía",
+                "definición": "Ciencia que estudia la forma y la estructura del cuerpo de los seres vivos."
+            },
+            {
+                "palabra": "Artilugio",
+                "definición": "Mecanismo, máquina o aparato, especialmente si es complicado o ingenioso."
+            },
+            {
+                "palabra": "Algoritmo",
+                "definición": "Lista ordenada de pasos o instrucciones que se deben seguir para resolver un problema o realizar una tarea."
+            },
+            {
+                "palabra": "Secuencia",
+                "definición": "Serie de cosas que van una detrás de otra en un orden determinado."
+            },
+            {
+                "palabra": "Corsé",
+                "definición": "Prenda de ropa interior muy ajustada que usaban las mujeres antiguamente para afinar la cintura, a veces resultaba incómoda."
+            },
+            {
+                "palabra": "Visión",
+                "definición": "En este texto, no se refiere a la vista, sino a la capacidad de imaginar el futuro o entender cosas que otros no ven."
+            },
+            {
+                "palabra": "Procesar",
+                "definición": "Trabajar con información o datos para transformarlos y obtener un resultado útil."
+            },
+            {
+                "palabra": "Inestable",
+                "definición": "Algo o alguien que cambia con frecuencia y que no se mantiene tranquilo o igual por mucho tiempo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Quién era el padre de Ada Lovelace?",
+                "tipo": "test",
+                "opciones": [
+                    "Charles Babbage",
+                    "Lord Byron",
+                    "Luigi Menabrea",
+                    "Un matemático famoso"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué enfermedad sufrió Ada cuando tenía doce años?",
+                "tipo": "test",
+                "opciones": [
+                    "Gripe",
+                    "Varicela",
+                    "Sarampión",
+                    "Neumonía"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llamaba la máquina diseñada por Charles Babbage?",
+                "tipo": "test",
+                "opciones": [
+                    "La Máquina del Tiempo",
+                    "La Máquina Poética",
+                    "La Máquina Analítica",
+                    "La Máquina Voladora"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué la madre de Ada quería que estudiara matemáticas?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que pudiera ganar mucho dinero",
+                    "Porque quería que fuera famosa",
+                    "Para alejarla de la 'locura poética' de su padre",
+                    "Porque era la única asignatura que se enseñaba"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa el concepto de 'Ciencia Poética' para Ada?",
+                "tipo": "test",
+                "opciones": [
+                    "Escribir poemas sobre ciencia",
+                    "Usar la imaginación para explorar las matemáticas",
+                    "Hacer rimas con los números",
+                    "Estudiar ciencia solo los fines de semana"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la gran diferencia entre lo que veía Babbage y lo que veía Ada en la máquina?",
+                "tipo": "test",
+                "opciones": [
+                    "Babbage veía una calculadora y Ada veía un ordenador capaz de procesar cualquier símbolo",
+                    "Ada pensaba que no servía para nada",
+                    "Babbage quería usarla para música y Ada para matemáticas",
+                    "No había ninguna diferencia, pensaban igual"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué hizo Ada con el artículo del ingeniero italiano?",
+                "tipo": "test",
+                "opciones": [
+                    "Lo copió tal cual",
+                    "Lo tiró a la basura",
+                    "Lo tradujo y añadió notas que eran más largas que el original",
+                    "Lo leyó y se lo devolvió"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se considera a Ada la primera programadora de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque inventó el ordenador portátil",
+                    "Porque escribió el primer algoritmo destinado a una máquina",
+                    "Porque vivía en la época victoriana",
+                    "Porque era amiga de Charles Babbage"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que la madre de Ada hizo bien prohibiéndole la poesía? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que su madre no hizo del todo bien, porque prohibir cosas no suele ser la mejor solución. Aunque quería protegerla, al final Ada necesitaba las dos cosas: las matemáticas y la imaginación. Gracias a que Ada mezcló las dos, pudo inventar la programación. Si solo hubiera sabido mates, igual no se le habría ocurrido lo de la música."
+            },
+            {
+                "enunciado": "Si Ada Lovelace viviera hoy en día, ¿qué crees que pensaría de nuestros teléfonos móviles y ordenadores?",
+                "tipo": "abierta",
+                "respuestaModelo": "Seguro que alucinaría, pero también diría '¡Os lo dije!'. Creo que estaría súper contenta de ver que las máquinas hacen música, fotos y vídeos, tal como ella imaginó. A lo mejor también pensaría que pasamos demasiado tiempo mirando la pantalla en vez de observar los pájaros como hacía ella."
+            }
+        ]
+    },
+    {
+        "titulo": "Muhammad Ali: El Boxeador que Sacudió al Mundo",
+        "tema": "biografías",
+        "texto": "En la ciudad de Louisville, Estados Unidos, en 1942, nació un niño llamado Cassius Clay. Era un lugar difícil para vivir si tenías la piel oscura, porque en aquella época existía la segregación: los negros no podían ir a los mismos colegios, parques o restaurantes que los blancos. Un día, cuando Cassius tenía doce años, alguien le robó su bicicleta roja nueva, la cosa que más amaba en el mundo. Furioso y llorando, corrió a buscar a un policía llamado Joe Martin y le gritó que iba a darle una paliza al ladrón cuando lo encontrara. El policía, mirándolo con calma, le dijo: 'Bueno, antes de empezar a pelear, será mejor que aprendas a boxear'. Ese consejo cambió su destino.\n\nCassius comenzó a entrenar en el gimnasio con una dedicación asombrosa. No solo era fuerte, sino increíblemente rápido. En los Juegos Olímpicos de 1960 ganó la medalla de oro, pero al volver a su país, se dio cuenta de que la medalla no importaba: seguían tratándolo mal por su color de piel. Eso le dolió mucho, pero también encendió un fuego dentro de él. Se hizo profesional y empezó a ganar combate tras combate. Pero Cassius no era un boxeador normal. Era ruidoso, divertido y un poco arrogante. Se inventaba poemas para predecir en qué asalto caerían sus rivales y gritaba a los cuatro vientos: '¡Soy el más grande!'. Su estilo era único; no se quedaba quieto recibiendo golpes, sino que bailaba en el ring. Su lema era: 'Vuela como una mariposa, pica como una abeja'.\n\nPronto sorprendió al mundo al cambiar su nombre a Muhammad Ali, abrazando la religión musulmana. Pero su pelea más difícil no fue en el ring. Cuando el ejército quiso obligarlo a ir a la guerra de Vietnam, él se negó. Dijo que no tenía nada en contra de la gente de Vietnam y que su verdadera lucha estaba en Estados Unidos, defendiendo los derechos de su gente. Por esta decisión valiente, le quitaron su título de campeón y le prohibieron boxear durante tres años, justo en su mejor momento. Muchos le odiaron, pero otros empezaron a admirarlo por sus principios. Al volver, recuperó su título en combates legendarios, demostrando que la inteligencia vale más que la fuerza bruta. Años después, cuando se retiró, sufrió la enfermedad de Parkinson, que le hacía temblar. Sin embargo, en 1996, emocionó al planeta al encender el pebetero olímpico con sus manos temblorosas, demostrando que seguía siendo un luchador. Muhammad Ali nos enseñó que ser un campeón no es solo ganar trofeos, sino levantarse cuando la vida te golpea fuerte.",
+        "glosario": [
+            {
+                "palabra": "Segregación",
+                "definición": "Sistema injusto que separaba a las personas por su raza, impidiendo que estuvieran juntas en lugares públicos."
+            },
+            {
+                "palabra": "Arrogante",
+                "definición": "Persona que se cree superior a los demás y presume mucho de sus cualidades."
+            },
+            {
+                "palabra": "Profesional",
+                "definición": "Deportista que se dedica a su deporte como un trabajo y gana dinero por ello, a diferencia de los aficionados."
+            },
+            {
+                "palabra": "Pebetero",
+                "definición": "Gran recipiente o antorcha donde arde el fuego simbólico durante los Juegos Olímpicos."
+            },
+            {
+                "palabra": "Principios",
+                "definición": "Ideas y valores morales que tiene una persona y que respeta siempre, aunque le traiga problemas."
+            },
+            {
+                "palabra": "Rivales",
+                "definición": "Personas que compiten contra otra para conseguir el mismo objetivo o premio."
+            },
+            {
+                "palabra": "Parkinson",
+                "definición": "Enfermedad del cerebro que afecta al movimiento y suele provocar temblores en las manos y el cuerpo."
+            },
+            {
+                "palabra": "Legendarios",
+                "definición": "Hechos tan increíbles y famosos que se recuerdan durante mucho tiempo y pasan a la historia."
+            },
+            {
+                "palabra": "Asalto",
+                "definición": "Cada una de las partes o tiempos en los que se divide un combate de boxeo."
+            },
+            {
+                "palabra": "Bruta",
+                "definición": "Fuerza física sin control, sin pensar y sin usar la inteligencia."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué suceso hizo que Cassius Clay empezara a boxear?",
+                "tipo": "test",
+                "opciones": [
+                    "Quería ganar mucho dinero",
+                    "Le robaron su bicicleta roja",
+                    "Su padre le obligó a ir al gimnasio",
+                    "Se peleó en el colegio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ganó en los Juegos Olímpicos de 1960?",
+                "tipo": "test",
+                "opciones": [
+                    "Una bicicleta nueva",
+                    "El respeto de todo el mundo",
+                    "La medalla de oro",
+                    "Un contrato millonario"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era el famoso lema que definía su estilo de pelea?",
+                "tipo": "test",
+                "opciones": [
+                    "Golpea fuerte y corre rápido",
+                    "Soy el rey del mundo",
+                    "Vuela como una mariposa, pica como una abeja",
+                    "El boxeo es mi vida"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué enfermedad sufrió después de retirarse del boxeo?",
+                "tipo": "test",
+                "opciones": [
+                    "Sarampión",
+                    "Parkinson",
+                    "Asma",
+                    "Gripe"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se negó a ir a la guerra de Vietnam?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía miedo de luchar",
+                    "Porque estaba enfermo en ese momento",
+                    "Porque consideraba que su verdadera lucha estaba defendiendo los derechos en su país",
+                    "Porque le pagaban poco dinero"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué consecuencia tuvo su negativa a ir a la guerra?",
+                "tipo": "test",
+                "opciones": [
+                    "Le dieron una medalla al valor",
+                    "Le quitaron su título de campeón y le prohibieron boxear",
+                    "No pasó nada, le dejaron quedarse en casa",
+                    "Le obligaron a cambiar de nombre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "En el texto, ¿qué significa que la medalla olímpica 'no importaba' cuando volvió a casa?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la había perdido en el avión",
+                    "Que era de mala calidad",
+                    "Que a pesar de ser campeón, seguía sufriendo racismo y segregación",
+                    "Que no le gustaba el color dorado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el momento de encender el pebetero en 1996 fue tan emocionante?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se le cayó la antorcha",
+                    "Porque mostró su debilidad y su fuerza al mismo tiempo, superando sus temblores",
+                    "Porque corrió muy rápido",
+                    "Porque volvió a pelear en el ring"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece justo que le quitaran el título por no querer ir a la guerra? Razona tu respuesta.",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí no me parece justo. Yo creo que cada uno debería poder decidir si quiere luchar o no, sobre todo si piensa que la guerra está mal. Le quitaron su trabajo y lo que más le gustaba hacer solo por defender sus ideas. Fue un castigo demasiado duro porque él no había hecho daño a nadie."
+            },
+            {
+                "enunciado": "Muhammad Ali decía cosas como 'Soy el más grande'. ¿Crees que tener tanta confianza en uno mismo es bueno o malo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que depende. Es bueno confiar en ti mismo porque te ayuda a no tener miedo y a esforzarte, como le pasó a él. Pero si te pasas, puedes caer mal a la gente o volverte un chulo. En el caso de Ali, creo que le servía para animarse a sí mismo antes de las peleas difíciles."
+            }
+        ]
+    },
+    {
+        "titulo": "Leonardo da Vinci: El Hombre que Quería Saberlo Todo",
+        "tema": "biografías",
+        "texto": "En el corazón de Italia, en el año 1452, nació un niño que cambiaría la historia del pensamiento humano para siempre: Leonardo da Vinci. Creció en una pequeña aldea llamada Vinci, rodeado de colinas verdes y arroyos cristalinos. Como era hijo ilegítimo, no se le permitió asistir a las escuelas importantes ni aprender latín y griego, los idiomas de los sabios de la época. Sin embargo, esto, lejos de ser un problema, se convirtió en su mayor ventaja. Sin libros que memorizar, Leonardo aprendió de la mejor maestra posible: la naturaleza. Pasaba horas interminables observando el vuelo de los pájaros, la forma de las hojas, el movimiento del agua en los ríos y la anatomía de los insectos. Su curiosidad no tenía límites; era un hambre voraz por entender cómo funcionaba el universo.\n\nCuando su padre descubrió su talento para el dibujo, lo envió a Florencia al taller de Andrea del Verrocchio. Allí, Leonardo no solo aprendió a pintar, sino también a esculpir, fundir metales y diseñar maquinaria. Se cuenta una anécdota famosa: cuando Leonardo pintó un ángel en un cuadro de su maestro, lo hizo con tanta perfección y delicadeza que Verrocchio, asombrado y quizás un poco celoso, decidió no volver a pintar jamás. Pero Leonardo no se conformaba con el arte. Su mente saltaba de un tema a otro como una abeja entre flores. Llenaba cuadernos y más cuadernos con ideas, dibujos y notas. Lo curioso es que escribía de derecha a izquierda, en escritura especular, de modo que sus textos solo podían leerse usando un espejo. Algunos dicen que era para proteger sus secretos; otros, simplemente porque era zurdo y así no manchaba la tinta.\n\nLeonardo soñaba con cosas que parecían imposibles en el siglo XV. Diseñó trajes de buzo, bicicletas, paracaídas, tanques de guerra y, su mayor obsesión: máquinas voladoras. Estudió la anatomía de los murciélagos y las aves para crear el «ornitóptero», un aparato con alas mecánicas. Aunque nunca logró volar, sus diseños demostraron que su mente vivía cientos de años en el futuro. En el ámbito de la pintura, nos dejó obras maestras como «La Última Cena» y la enigmática «Mona Lisa». Utilizó una técnica llamada «sfumato», que consistía en difuminar los contornos para crear una atmósfera de misterio y realismo. Para Leonardo, pintar no era solo copiar lo que veía, sino comprender lo que había debajo: los músculos bajo la piel, las emociones bajo la sonrisa.\n\nSin embargo, su genialidad tenía un precio: la inconstancia. A menudo dejaba obras sin terminar porque su mente ya estaba ocupada en un nuevo enigma. Le interesaba más el proceso de descubrir que el resultado final. Diseñó ciudades perfectas con sistemas de alcantarillado para combatir la peste y estudió el corazón humano con una precisión que los médicos tardarían siglos en igualar. Murió en Francia en 1519, dejando un legado incalculable. Leonardo da Vinci nos enseñó que no hay barreras entre el arte y la ciencia; ambas son formas de explorar la belleza del mundo. Fue el hombre del Renacimiento por excelencia, alguien que nos demostró que la curiosidad es la herramienta más poderosa que posee el ser humano. Hoy, más de quinientos años después, seguimos mirando sus cuadernos con asombro, intentando descifrar los secretos de la mente más brillante que jamás haya existido.",
+        "glosario": [
+            {
+                "palabra": "Ilegítimo",
+                "definición": "Hijo de padres que no estaban casados entre sí, lo cual era mal visto antiguamente."
+            },
+            {
+                "palabra": "Voraz",
+                "definición": "Que tiene mucha hambre o ganas de consumir algo; en este caso, muchas ganas de aprender."
+            },
+            {
+                "palabra": "Anatomía",
+                "definición": "Ciencia que estudia la forma y estructura del cuerpo de los seres vivos."
+            },
+            {
+                "palabra": "Escritura especular",
+                "definición": "Forma de escribir al revés, como si estuviera reflejada en un espejo."
+            },
+            {
+                "palabra": "Ornitóptero",
+                "definición": "Máquina inventada para volar que imita el movimiento de las alas de los pájaros."
+            },
+            {
+                "palabra": "Sfumato",
+                "definición": "Técnica de pintura que difumina los bordes para que no se noten las líneas, creando suavidad."
+            },
+            {
+                "palabra": "Inconstancia",
+                "definición": "Falta de voluntad para terminar las cosas o para mantenerse firme en una tarea."
+            },
+            {
+                "palabra": "Renacimiento",
+                "definición": "Época histórica de gran esplendor en el arte y la ciencia donde se recuperó el saber antiguo."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Todo lo que una persona deja al mundo para que lo disfruten o aprendan las generaciones futuras."
+            },
+            {
+                "palabra": "Enigma",
+                "definición": "Algo que es difícil de entender, un misterio o un acertijo complicado."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Por qué Leonardo no pudo asistir a las escuelas importantes de su época?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era muy pobre",
+                    "Porque era hijo ilegítimo",
+                    "Porque no le gustaba estudiar",
+                    "Porque vivía muy lejos de la ciudad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué es la escritura especular que usaba Leonardo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una escritura con símbolos secretos",
+                    "Una escritura muy pequeña",
+                    "Una escritura que se lee reflejada en un espejo",
+                    "Una escritura en latín antiguo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era la mayor obsesión de Leonardo en sus inventos?",
+                "tipo": "test",
+                "opciones": [
+                    "Crear el mejor barco",
+                    "Construir máquinas voladoras",
+                    "Hacer esculturas de oro",
+                    "Inventar medicinas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra la anécdota del ángel que pintó en el taller de Verrocchio?",
+                "tipo": "test",
+                "opciones": [
+                    "Que Leonardo aprendía muy despacio",
+                    "Que su maestro era mejor que él",
+                    "Que Leonardo superó el talento de su maestro rápidamente",
+                    "Que a Leonardo no le gustaba pintar ángeles"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿por qué dejaba Leonardo muchas obras sin terminar?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se le acababa la pintura",
+                    "Porque era perezoso",
+                    "Porque su mente se interesaba por un nuevo enigma",
+                    "Porque no le pagaban suficiente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué relación establecía Leonardo entre el arte y la ciencia?",
+                "tipo": "test",
+                "opciones": [
+                    "Pensaba que eran cosas opuestas",
+                    "Creía que no había barreras entre ellas",
+                    "Prefería la ciencia al arte",
+                    "Solo usaba la ciencia para ganar dinero"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ventaja tuvo para Leonardo no aprender latín ni griego en la escuela?",
+                "tipo": "test",
+                "opciones": [
+                    "Pudo jugar más tiempo con sus amigos",
+                    "Aprendió observando directamente la naturaleza",
+                    "Se hizo amigo de gente importante",
+                    "Pudo viajar a otros países antes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica el diseño de ciudades con alcantarillado por parte de Leonardo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que le gustaba la arquitectura moderna",
+                    "Que le preocupaba la salud y el bienestar de las personas",
+                    "Que quería ser alcalde de su pueblo",
+                    "Que buscaba tesoros bajo tierra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que es mejor saber mucho de una sola cosa o saber un poco de todo como Leonardo? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que mola más ser como Leonardo y saber de todo. Si solo sabes de una cosa, te puedes aburrir, pero si te gusta todo, puedes mezclar ideas. Por ejemplo, él usó lo que sabía de los pájaros para inventar máquinas. Es como tener superpoderes variados."
+            },
+            {
+                "enunciado": "Leonardo dejaba muchas cosas a medias. ¿Piensas que eso le resta valor a su trabajo o es parte de su genialidad?",
+                "tipo": "abierta",
+                "respuestaModelo": "A ver, es una pena que no terminara algunos cuadros, pero creo que es parte de su genialidad. Tenía tantas ideas en la cabeza que no le daba tiempo a todo. Lo importante es que lo que sí hizo fue increíble y nos enseñó a ser curiosos, así que se lo perdono."
+            }
+        ]
+    },
+    {
+        "titulo": "Frida Kahlo: El Arte de Romper Moldes",
+        "tema": "Biografías",
+        "texto": "En el vibrante barrio de Coyoacán, en México, se encuentra una casa de color azul intenso que guarda la historia de una mujer inolvidable: Frida Kahlo. Nacida en 1907, Frida no tuvo una vida sencilla. Desde pequeña aprendió lo que era el dolor cuando una enfermedad llamada polio dejó una de sus piernas más delgada que la otra. Lejos de esconderse, Frida se enfrentó al mundo con rebeldía, jugando al fútbol y practicando boxeo, deportes que en aquella época eran considerados «solo para chicos». Pero el destino le tenía preparada una prueba aún más dura. Cuando tenía dieciocho años, el autobús en el que viajaba sufrió un terrible accidente. Frida resultó gravemente herida, con fracturas en la columna y en muchos huesos. Los médicos no sabían si sobreviviría.\n\nFue durante los largos y aburridos meses de recuperación en la cama cuando nació la artista. Su padre le regaló pinturas y su madre mandó instalar un espejo en el techo, justo encima de su cama. Sin poder moverse, Frida comenzó a pintar lo único que podía ver: a sí misma. «Me pinto a mí misma porque soy a quien mejor conozco», decía. Así, sus cuadros se convirtieron en un diario visual de sus sentimientos. No pintaba paisajes bonitos ni retratos perfectos; pintaba su dolor, sus miedos, sus operaciones y también su inmenso amor por la vida. Su estilo era único, lleno de colores brillantes, monos, loros y plantas tropicales que celebraban la cultura de México.\n\nFrida también rompió moldes con su apariencia. En una época en la que las mujeres intentaban parecer europeas, ella vestía con orgullo los trajes tradicionales de las mujeres indígenas de Tehuantepec: faldas largas bordadas y flores frescas en el pelo. Además, se negó a depilarse sus pobladas cejas y su bigote, desafiando las normas de belleza que decían cómo debía ser una mujer «guapa». Se casó con el famoso muralista Diego Rivera, con quien tuvo una relación apasionada pero muy complicada, llena de peleas y reconciliaciones. Diego decía que Frida era un genio, y tenía razón. El mundo del arte, dominado por hombres, quedó impactado por la fuerza de esa mujer pequeña y quebrada.\n\nFrida viajó a París y Nueva York, y aunque conoció a artistas famosos como Picasso, nunca dejó de ser ella misma. Odiaba que la etiquetaran como «surrealista» (artistas que pintan sueños), porque ella insistía en que no pintaba sueños, sino su propia realidad. A pesar de sufrir más de treinta operaciones a lo largo de su vida y de vivir con dolor constante, su lema fue «Viva la Vida», frase que escribió en su último cuadro de unas sandías. Murió en 1954, pero su espíritu nunca se apagó. Hoy, Frida Kahlo es mucho más que una pintora; es un icono mundial de resistencia, feminismo y autenticidad. Nos enseñó que el arte puede curar las heridas del alma y que ser diferente es, en realidad, algo maravilloso.",
+        "glosario": [
+            {
+                "palabra": "Polio",
+                "definición": "Enfermedad infecciosa que afecta al sistema nervioso y puede causar debilidad en los músculos."
+            },
+            {
+                "palabra": "Rebeldía",
+                "definición": "Actitud de oponerse a las normas o a lo que los demás esperan que hagas."
+            },
+            {
+                "palabra": "Muralista",
+                "definición": "Artista que se dedica a pintar cuadros de gran tamaño en paredes o muros."
+            },
+            {
+                "palabra": "Surrealista",
+                "definición": "Estilo artístico que mezcla la realidad con cosas extrañas, sueños y fantasía."
+            },
+            {
+                "palabra": "Indígena",
+                "definición": "Persona que pertenece a los pueblos originarios o nativos de un lugar."
+            },
+            {
+                "palabra": "Icono",
+                "definición": "Persona u objeto muy importante que representa una idea o un movimiento para mucha gente."
+            },
+            {
+                "palabra": "Feminismo",
+                "definición": "Movimiento que lucha para que las mujeres tengan los mismos derechos y oportunidades que los hombres."
+            },
+            {
+                "palabra": "Autenticidad",
+                "definición": "Cualidad de ser uno mismo, sin copiar a otros ni fingir ser lo que no se es."
+            },
+            {
+                "palabra": "Fracturas",
+                "definición": "Roturas de un hueso causadas por un golpe fuerte o un accidente."
+            },
+            {
+                "palabra": "Tehuantepec",
+                "definición": "Región de México famosa por sus trajes tradicionales coloridos que Frida solía usar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto fue fundamental para que Frida empezara a pintar en la cama?",
+                "tipo": "test",
+                "opciones": [
+                    "Un libro de arte",
+                    "Un espejo en el techo",
+                    "Una cámara de fotos",
+                    "La televisión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Frida decía que se pintaba a sí misma?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era vanidosa",
+                    "Porque no tenía dinero para modelos",
+                    "Porque era el tema que mejor conocía",
+                    "Porque Diego Rivera se lo pidió"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué deportes practicaba Frida de niña que eran inusuales para las chicas?",
+                "tipo": "test",
+                "opciones": [
+                    "Ballet y tenis",
+                    "Fútbol y boxeo",
+                    "Natación y correr",
+                    "Esgrima y golf"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué rechazaba Frida la etiqueta de 'surrealista'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque ella pintaba su realidad, no sueños",
+                    "Porque no le gustaban los sueños",
+                    "Porque se llevaba mal con los surrealistas",
+                    "Porque prefería el arte abstracto"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué mensaje transmitía Frida al usar ropa tradicional indígena y no depilarse?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no le importaba la moda",
+                    "Que quería parecerse a su madre",
+                    "Su orgullo por México y su rechazo a las normas de belleza impuestas",
+                    "Que tenía frío"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo transformó Frida el dolor de su accidente en algo positivo?",
+                "tipo": "test",
+                "opciones": [
+                    "Escribiendo canciones tristes",
+                    "Convirtiendo sus sentimientos en arte a través de la pintura",
+                    "Haciéndose doctora para curar a otros",
+                    "Olvidando todo lo que pasó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación hay entre los animales que pintaba y su vida?",
+                "tipo": "test",
+                "opciones": [
+                    "Eran animales que veía en el zoo",
+                    "Eran mascotas que le hacían compañía en su soledad",
+                    "Los pintaba porque eran fáciles de dibujar",
+                    "Eran encargos de tiendas de mascotas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el legado principal de Frida Kahlo hoy en día?",
+                "tipo": "test",
+                "opciones": [
+                    "Sus recetas de cocina mexicana",
+                    "Ser un ejemplo de resistencia, autenticidad y feminismo",
+                    "Haber descubierto nuevas técnicas de pintura",
+                    "Haber construido la Casa Azul"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Frida mostraba sus cicatrices y dolores en sus cuadros. ¿Crees que es bueno expresar la tristeza o es mejor guardársela? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que es mucho mejor sacarlo fuera como hacía ella. Si te guardas la tristeza dentro, se hace una bola gigante y te sientes peor. Al pintarlo o contarlo, es como si te quitaras un peso de encima, y además, puede que ayudes a otros que se sientan igual."
+            },
+            {
+                "enunciado": "Hoy en día mucha gente usa filtros en las fotos para verse perfecta. ¿Qué crees que opinaría Frida Kahlo de eso?",
+                "tipo": "abierta",
+                "respuestaModelo": "Seguro que a Frida no le gustaría nada de nada. Ella se dejaba el bigote y las cejas juntas para ser natural y rebelde. Creo que nos diría que dejemos de fingir y que seamos nosotros mismos, porque lo que nos hace diferentes es lo que nos hace especiales, no ser todos iguales."
+            }
+        ]
+    },
+    {
+        "titulo": "Steve Jobs: El Rebelde que Diseñó el Futuro",
+        "tema": "biografías",
+        "texto": "En un modesto garaje de California, entre herramientas oxidadas y cajas de componentes electrónicos, comenzó una revolución que cambiaría la forma en que el mundo se comunica, escucha música y trabaja. El protagonista de esta historia fue Steve Jobs, un joven inquieto, adoptado por una familia de clase trabajadora, que desde muy pequeño mostró una curiosidad insaciable por saber cómo funcionaban las cosas por dentro. No era el estudiante modelo que sacaba las mejores notas; de hecho, se aburría soberanamente en la universidad y decidió dejar las clases oficiales a los seis meses. Sin embargo, tomó una decisión extraña que marcaría su destino: se coló en un curso de caligrafía. Allí aprendió sobre la belleza de los trazos, los espacios y la tipografía, conocimientos que años más tarde harían que los ordenadores no solo fueran máquinas potentes, sino también objetos hermosos y fáciles de usar.\n\nJunto a su amigo Steve Wozniak, un genio de la ingeniería, fundó Apple en 1976. Wozniak construía los circuitos y Jobs, con su visión y carisma, convencía a la gente de que necesitaban ese aparato en sus vidas. Su primer gran éxito fue el Apple II, pero Steve quería más. Quería perfección. Esta obsesión por el detalle lo volvió un jefe difícil, exigente y a veces gritón. Las tensiones crecieron tanto que, en 1985, ocurrió algo impensable: la propia empresa que él había fundado lo despidió. De repente, Steve se encontró en la calle, sin trabajo y humillado públicamente. Cualquier otra persona se habría rendido, pero él amaba demasiado lo que hacía. Lejos de hundirse, aprovechó ese tiempo para fundar NeXT y comprar una pequeña empresa de animación llamada Pixar. Gracias a su impulso, Pixar creó 'Toy Story', la primera película hecha totalmente por ordenador, que se convirtió en un éxito mundial.\n\nMientras tanto, Apple se hundía sin su capitán. En 1997, la compañía estaba al borde de la quiebra y suplicaron a Steve que volviera. Su regreso fue triunfal. Eliminó los productos mediocres y se centró en innovar. De su mente maravillosa salieron el iPod, que puso mil canciones en nuestro bolsillo; el iPhone, que convirtió el teléfono en un ordenador inteligente; y el iPad. Steve Jobs nos enseñó que la tecnología no tenía por qué ser gris y aburrida, sino que podía ser elegante y mágica. Su filosofía era 'Pensar Diferente' (Think Different). Creía que las personas que están lo suficientemente locas como para pensar que pueden cambiar el mundo, son las que realmente lo hacen. Falleció en 2011 debido a una grave enfermedad, pero su espíritu sigue vivo en cada pantalla táctil que deslizamos hoy. Su vida nos demuestra que los caminos del éxito no son líneas rectas; a veces, un fracaso doloroso es simplemente el empujón necesario para empezar la etapa más creativa de nuestra vida. Steve Jobs no solo vendió aparatos; vendió sueños y nos regaló la posibilidad de tener el futuro en la palma de nuestras manos.",
+        "glosario": [
+            {
+                "palabra": "Caligrafía",
+                "definición": "Arte de escribir con letra bella, artística y bien formada, prestando atención a los trazos."
+            },
+            {
+                "palabra": "Tipografía",
+                "definición": "Estilo, forma y diseño de las letras que vemos impresas en papel o en las pantallas."
+            },
+            {
+                "palabra": "Obsesión",
+                "definición": "Deseo o interés muy fuerte por algo que hace que no puedas dejar de pensar en ello."
+            },
+            {
+                "palabra": "Quiebra",
+                "definición": "Situación en la que una empresa se queda sin dinero y no puede pagar sus deudas, teniendo que cerrar."
+            },
+            {
+                "palabra": "Innovar",
+                "definición": "Crear cosas nuevas o cambiar las que ya existen para mejorarlas y hacerlas más modernas."
+            },
+            {
+                "palabra": "Mediocres",
+                "definición": "Cosas que no son ni buenas ni malas, sino regulares, y que no destacan por su calidad."
+            },
+            {
+                "palabra": "Carisma",
+                "definición": "Capacidad especial que tienen algunas personas para atraer, fascinar y convencer a los demás."
+            },
+            {
+                "palabra": "Ingeniería",
+                "definición": "Ciencia que utiliza conocimientos matemáticos y técnicos para diseñar y construir máquinas y sistemas."
+            },
+            {
+                "palabra": "Filosofía",
+                "definición": "En este texto, se refiere a la forma de pensar y de ver la vida que tenía Steve Jobs."
+            },
+            {
+                "palabra": "Interfaz",
+                "definición": "El sistema visual que nos permite comunicarnos con una máquina, como los iconos y menús de una pantalla."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué clase 'inútil' tomó Steve Jobs en la universidad que luego fue muy importante?",
+                "tipo": "test",
+                "opciones": [
+                    "Matemáticas avanzadas",
+                    "Caligrafía",
+                    "Historia del arte",
+                    "Economía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba la empresa de animación que compró y llevó al éxito?",
+                "tipo": "test",
+                "opciones": [
+                    "Disney",
+                    "DreamWorks",
+                    "Pixar",
+                    "Warner Bros"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué lugar fundaron Steve Jobs y Steve Wozniak la empresa Apple?",
+                "tipo": "test",
+                "opciones": [
+                    "En una oficina moderna",
+                    "En un laboratorio de la universidad",
+                    "En un garaje",
+                    "En un sótano"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el despido de su propia empresa acabó siendo algo positivo para él?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque pudo descansar y no trabajar más",
+                    "Porque fundó nuevas empresas como Pixar y recuperó su creatividad",
+                    "Porque le dieron mucho dinero de indemnización",
+                    "Porque se dedicó a viajar por el mundo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación hay entre el curso de caligrafía y los ordenadores Mac?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna, fue una pérdida de tiempo",
+                    "Gracias a eso, los ordenadores tienen letras bonitas y diseños cuidados",
+                    "Le sirvió para escribir mejores correos electrónicos",
+                    "Le ayudó a mejorar su firma en los contratos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué rasgo de la personalidad de Steve Jobs causaba problemas con sus empleados?",
+                "tipo": "test",
+                "opciones": [
+                    "Era demasiado generoso",
+                    "Era muy despistado",
+                    "Su obsesión por la perfección y su exigencia",
+                    "Llegaba siempre tarde a las reuniones"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'Think Different' en el contexto de la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que pensar rápido",
+                    "Que no hay que copiar a los demás y atreverse a innovar",
+                    "Que hay que llevar la contraria siempre",
+                    "Que pensar es difícil"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal sobre el fracaso que nos deja esta biografía?",
+                "tipo": "test",
+                "opciones": [
+                    "Que si fracasas debes rendirte",
+                    "Que el fracaso es vergonzoso",
+                    "Que un fracaso puede ser el impulso para una etapa mejor y más creativa",
+                    "Que hay que evitar el fracaso a toda costa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Steve Jobs era un genio, pero también dicen que trataba mal a la gente. ¿Crees que vale la pena ser genial si no eres amable? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no vale la pena del todo. Está genial inventar cosas increíbles como el iPhone, pero si tratas mal a la gente, al final te quedas solo y haces daño. Lo ideal sería ser listo y amable a la vez. No creo que haga falta gritar para que las cosas salgan bien."
+            },
+            {
+                "enunciado": "Imagina que Steve Jobs no hubiera vuelto a Apple en 1997. ¿Cómo crees que sería la tecnología hoy?",
+                "tipo": "abierta",
+                "respuestaModelo": "Seguramente sería todo más aburrido y feo. A lo mejor seguiríamos usando teléfonos con teclas y sin pantalla táctil, o los ordenadores serían solo cajas grises. Creo que él nos empujó a todos a querer cosas más bonitas y fáciles de usar, así que sin él, la tecnología iría más atrasada."
+            }
+        ]
+    },
+    {
+        "titulo": "J.K. Rowling: La Magia de la Perseverancia",
+        "tema": "biografías",
+        "texto": "A veces, las ideas más mágicas aparecen en los lugares más corrientes. Para Joanne Rowling, ese momento ocurrió en 1990, mientras estaba sentada en un tren abarrotado que viajaba de Mánchester a Londres. El tren se averió y, durante cuatro largas horas de espera, la imagen de un niño flacucho, con gafas redondas y una cicatriz en forma de rayo, apareció de repente en su cabeza. Joanne no tenía bolígrafo para apuntarlo, así que se pasó el viaje imaginando cada detalle de un colegio de magia llamado Hogwarts. Sin embargo, la vida real de Joanne no tenía nada de mágico en aquel momento. Poco después de tener aquella idea, su madre falleció tras una larga enfermedad, un golpe que la dejó destrozada y que luego reflejaría en sus libros al hablar de la pérdida y el amor.\n\nJoanne se mudó a Portugal, se casó y tuvo una hija, pero las cosas no salieron bien. Regresó al Reino Unido sin dinero, sin trabajo y con un bebé al que cuidar sola. Se sentía una fracasada. Vivía en un apartamento pequeño y frío en Edimburgo, y sufría una tristeza tan profunda que sentía que nunca volvería a ser feliz. De esa oscuridad nacieron los «Dementores», esas criaturas que te roban la alegría. Pero Joanne tenía un arma secreta: su vieja máquina de escribir y una determinación de hierro. Mientras su hija dormía en el carrito, ella se iba a las cafeterías —no porque le gustara el café, sino porque allí había calefacción— y escribía sin parar las aventuras de Harry Potter. Escribir era su refugio, la única manera de escapar de sus problemas.\n\nCuando terminó el primer libro, «Harry Potter y la Piedra Filosofal», pensó que lo peor había pasado, pero se equivocaba. Envió el manuscrito a doce editoriales diferentes. Doce veces recibió una carta que decía «No». Le decían que los libros para niños no debían ser tan largos, o que a nadie le interesaban los magos. Pero ella no se rindió. Finalmente, el presidente de una pequeña editorial llamada Bloomsbury le dio el primer capítulo a su hija de ocho años, Alice. La niña lo leyó y exigió saber qué pasaba después. Gracias a la curiosidad de esa niña, aceptaron publicar el libro, aunque le aconsejaron a Joanne que se buscara un trabajo «normal» porque no ganaría dinero escribiendo cuentos.\n\nEl resto es historia. Harry Potter se convirtió en el mayor fenómeno literario del mundo. Los niños hacían colas de noche vestidas con capas para comprar los libros. Joanne pasó de no tener dinero para pagar la calefacción a ser una de las mujeres más ricas y generosas del planeta, donando millones a obras benéficas. J.K. Rowling nos enseñó que tocar fondo puede ser la base sólida sobre la que reconstruir tu vida. Nos demostró que la imaginación es el hechizo más poderoso y que, no importa cuántas veces te digan que «no», si crees en tu magia, debes seguir intentándolo hasta el final.",
+        "glosario": [
+            {
+                "palabra": "Manuscrito",
+                "definición": "Texto original de un libro escrito a mano o a máquina antes de ser publicado y convertido en libro final."
+            },
+            {
+                "palabra": "Editorial",
+                "definición": "Empresa que se dedica a corregir, imprimir y vender libros al público."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Capacidad de seguir esforzándose y no rendirse nunca, aunque las cosas se pongan muy difíciles."
+            },
+            {
+                "palabra": "Fenómeno",
+                "definición": "Suceso o cosa extraordinaria y sorprendente que llama mucho la atención de todo el mundo."
+            },
+            {
+                "palabra": "Dementores",
+                "definición": "Criaturas imaginarias de los libros de Harry Potter que se alimentan de la felicidad de las personas."
+            },
+            {
+                "palabra": "Determinasción",
+                "definición": "Valor y firmeza en las decisiones; estar muy seguro de querer hacer algo y hacerlo."
+            },
+            {
+                "palabra": "Refugio",
+                "definición": "Lugar seguro donde uno se siente protegido de los peligros o problemas del exterior."
+            },
+            {
+                "palabra": "Benéficas",
+                "definición": "Obras o actividades que se hacen para ayudar a los demás sin buscar ganar dinero."
+            },
+            {
+                "palabra": "Abarrotado",
+                "definición": "Lugar que está muy lleno de gente, donde casi no cabe nadie más."
+            },
+            {
+                "palabra": "Cicatriz",
+                "definición": "Marca que queda en la piel después de que se ha curado una herida."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde se le ocurrió a J.K. Rowling la idea de Harry Potter?",
+                "tipo": "test",
+                "opciones": [
+                    "En una biblioteca",
+                    "En un tren averiado",
+                    "En un avión",
+                    "En una escuela"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuántas editoriales rechazaron su libro antes de que una dijera que sí?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna, la primera aceptó",
+                    "Cinco editoriales",
+                    "Doce editoriales",
+                    "Veinte editoriales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién convenció al jefe de la editorial Bloomsbury para publicar el libro?",
+                "tipo": "test",
+                "opciones": [
+                    "Su esposa",
+                    "Un crítico famoso",
+                    "Su hija de ocho años",
+                    "El propio Harry Potter"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué representan los 'Dementores' en la vida real de la autora?",
+                "tipo": "test",
+                "opciones": [
+                    "Sus profesores del colegio",
+                    "La depresión y tristeza profunda que sufrió",
+                    "Los editores que la rechazaron",
+                    "Sus vecinos ruidosos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué escribía en las cafeterías según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque le encantaba el café",
+                    "Para que la gente la viera",
+                    "Porque en su casa hacía frío y allí había calefacción",
+                    "Porque no tenía mesa en casa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nos enseña el hecho de que no tuviera bolígrafo en el tren?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era muy desordenada",
+                    "Que tuvo que usar su imaginación para construir todo en su mente",
+                    "Que se le olvidó la historia",
+                    "Que se durmió en el viaje"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación hay entre la muerte de su madre y los libros?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna relación",
+                    "Dejó de escribir por eso",
+                    "Reflejó su dolor y los temas de pérdida y amor en la historia",
+                    "Dedicó el libro a los médicos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue el consejo equivocado que le dieron los editores?",
+                "tipo": "test",
+                "opciones": [
+                    "Que escribiera más corto",
+                    "Que se buscara un trabajo 'normal' porque no ganaría dinero",
+                    "Que cambiara el nombre del protagonista",
+                    "Que escribiera sobre astronautas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La autora fue rechazada 12 veces. ¿Cómo crees que se sentía cada vez que le decían que no y por qué siguió intentándolo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Seguro que se sentía fatal, súper triste y con ganas de tirar la toalla. Pero creo que siguió porque ella sabía dentro de su corazón que la historia era buena. A veces, cuando crees mucho en algo, te da igual lo que digan los demás, aunque duela."
+            },
+            {
+                "enunciado": "J.K. Rowling pasó de ser pobre a ser muy rica y donar dinero. ¿Qué harías tú si ganaras tanto dinero con algo que has creado?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pues yo haría lo mismo que ella. Me compraría una casa chula y cosas para mi familia, pero luego daría mucho dinero para ayudar a gente que lo pasa mal, porque como ella fue pobre, sabe lo duro que es. No tiene sentido tener tanto dinero guardado si no ayudas."
+            }
+        ]
+    },
+    {
+        "titulo": "Charles Darwin: El Detective de la Naturaleza",
+        "tema": "biografías",
+        "texto": "En la Inglaterra de 1825, un joven llamado Charles Darwin recibía constantes regaños de su padre. «No te interesa nada más que disparar, los perros y cazar ratas; serás una desgracia para ti y para toda tu familia», le decía el severo doctor Robert Darwin. Y es que Charles era un estudiante pésimo. Intentó estudiar medicina, pero se mareaba al ver sangre y salía huyendo de las operaciones. Luego intentó ser clérigo, pero se aburría soberanamente en las clases de teología. Lo que realmente amaba Charles era la naturaleza: coleccionar escarabajos, observar las rocas y pasear por el campo. Nadie podía imaginar entonces que ese chico despistado se convertiría en el científico más importante de la historia.\n\nTodo cambió cuando recibió una carta inesperada. El capitán Robert FitzRoy buscaba un acompañante para un viaje alrededor del mundo a bordo del barco HMS Beagle. A pesar de la oposición de su padre, Charles subió a bordo. Tenía 22 años y un problema: se mareaba terriblemente en el mar. Pasó cinco largos años navegando, sufriendo náuseas cada vez que el barco se mecía, pero su curiosidad era más fuerte que su estómago. Durante el viaje, el Beagle recorrió las costas de Sudamérica, Australia y África. Mientras la tripulación hacía mapas, Charles bajaba a tierra y se convertía en un detective. En Argentina, desenterró huesos gigantescos de animales extintos que se parecían sospechosamente a los armadillos actuales. En lo alto de la cordillera de los Andes, encontró conchas marinas fosilizadas, comprendiendo que esas montañas habían estado bajo el mar hace millones de años.\n\nPero el gran misterio le esperaba en un archipiélago perdido en el Pacífico: las Islas Galápagos. Allí, Charles notó algo extraño. Las tortugas gigantes tenían caparazones diferentes según la isla en la que vivían. Y los pinzones, unos pajaritos pequeños, tenían picos distintos: unos eran gruesos para romper semillas duras y otros finos para cazar insectos. ¿Por qué había tantas variaciones? Al regresar a Londres, Charles empezó a unir las piezas del rompecabezas. Se dio cuenta de que los animales no habían sido creados todos de golpe y para siempre, sino que cambiaban lentamente para sobrevivir. Aquellos que nacían con una característica útil, como un pico más fuerte, vivían más y tenían hijos que heredaban ese rasgo. Los que no, desaparecían. A esto lo llamó «Selección Natural».\n\nDarwin sabía que su idea era peligrosa. En aquella época, decir que los seres humanos y los monos compartían un antepasado común era un escándalo terrible que iba en contra de lo que decía la Iglesia. Asustado por la reacción de la sociedad, guardó su secreto durante veinte años. Escribió sus ideas en un cuaderno que escondió bajo la escalera, diciéndole a su esposa que solo lo publicara si él moría. Sin embargo, en 1858, recibió una carta de otro explorador, Alfred Russel Wallace, que había llegado a la misma conclusión. Darwin comprendió que debía ser valiente. En 1859 publicó «El Origen de las Especies». El libro se agotó el primer día y causó un terremoto de discusiones, burlas y caricaturas que lo pintaban con cuerpo de chimpancé.\n\nA pesar de las críticas, la verdad científica de Darwin se abrió paso. Nos enseñó que la vida es como un árbol gigante donde todas las ramas están conectadas. No somos dueños de la Tierra, sino parientes de todo lo que vive en ella, desde la ballena más grande hasta el escarabajo más pequeño. Charles Darwin murió en 1882, y fue enterrado con honores en la Abadía de Westminster, cerca de Isaac Newton. El niño que solo servía para cazar ratas había logrado descifrar el mayor secreto de la vida misma.",
+        "glosario": [
+            {
+                "palabra": "Teología",
+                "definición": "Estudio de las cosas relacionadas con Dios, la religión y las creencias sagradas."
+            },
+            {
+                "palabra": "Fosilizadas",
+                "definición": "Restos de animales o plantas antiguos que, con el paso de muchísimos años, se han convertido en piedra."
+            },
+            {
+                "palabra": "Extintos",
+                "definición": "Especies de animales o plantas que desaparecieron para siempre y ya no existen en la actualidad."
+            },
+            {
+                "palabra": "Archipiélago",
+                "definición": "Conjunto de islas agrupadas en una misma zona del mar u océano."
+            },
+            {
+                "palabra": "Selección Natural",
+                "definición": "Proceso por el cual los seres vivos que mejor se adaptan a su entorno son los que sobreviven."
+            },
+            {
+                "palabra": "Antepasado",
+                "definición": "Familiar que vivió hace mucho tiempo, antes que nuestros abuelos o bisabuelos."
+            },
+            {
+                "palabra": "Escándalo",
+                "definición": "Situación que causa gran asombro, indignación o discusión pública porque va en contra de lo establecido."
+            },
+            {
+                "palabra": "Variaciones",
+                "definición": "Pequeñas diferencias o cambios que hacen que los individuos de una misma especie no sean idénticos."
+            },
+            {
+                "palabra": "Despistado",
+                "definición": "Persona que se distrae con facilidad y no presta atención a lo que ocurre a su alrededor."
+            },
+            {
+                "palabra": "Abadía",
+                "definición": "Iglesia o monasterio muy importante; en este caso, lugar donde se entierra a personas ilustres de Inglaterra."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué profesión intentó estudiar Charles antes de ser científico, pero la dejó porque se mareaba?",
+                "tipo": "test",
+                "opciones": [
+                    "Sacerdote",
+                    "Medicina",
+                    "Abogado",
+                    "Capitán de barco"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba el barco en el que Darwin dio la vuelta al mundo?",
+                "tipo": "test",
+                "opciones": [
+                    "HMS Titanic",
+                    "HMS Victoria",
+                    "HMS Beagle",
+                    "La Santa María"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuánto tiempo duró el viaje de Darwin alrededor del mundo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un año",
+                    "Cinco años",
+                    "Diez años",
+                    "Dos meses"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Darwin tardó veinte años en publicar su teoría?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era muy perezoso",
+                    "Porque perdió el cuaderno",
+                    "Porque tenía miedo del escándalo y la reacción de la sociedad",
+                    "Porque no sabía escribir bien"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué dedujo Darwin al ver conchas marinas en lo alto de los Andes?",
+                "tipo": "test",
+                "opciones": [
+                    "Que alguien las había subido allí",
+                    "Que esas montañas habían estado bajo el mar hace millones de años",
+                    "Que los pájaros las transportaban",
+                    "Que allí había un lago secreto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué importancia tuvieron los picos de los pinzones en su descubrimiento?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna, solo le gustaban los pájaros",
+                    "Le demostraron que los animales cambian y se adaptan para alimentarse mejor",
+                    "Le sirvieron para hacer dibujos bonitos",
+                    "Eran su comida favorita durante el viaje"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Según el texto, ¿qué significa que la vida es como un 'árbol gigante'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que debemos plantar más árboles",
+                    "Que todos los seres vivos estamos conectados y venimos de un origen común",
+                    "Que la vida es muy alta",
+                    "Que los monos viven en los árboles"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hecho finalmente empujó a Darwin a publicar su libro?",
+                "tipo": "test",
+                "opciones": [
+                    "Su esposa se lo pidió",
+                    "Recibió una carta de Wallace con la misma idea",
+                    "Necesitaba dinero urgentemente",
+                    "Su padre le obligó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Darwin tuvo miedo de contar su secreto por lo que diría la gente. ¿Crees que hoy en día sigue siendo difícil decir lo que piensas si es diferente a lo que creen los demás?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí sigue siendo difícil. A veces, si dices algo que no es lo 'normal' en clase o en redes sociales, la gente se ríe de ti o te critica. Hay que ser muy valiente, como Darwin, para defender tus ideas, sobre todo si sabes que es la verdad aunque a los demás no les guste."
+            },
+            {
+                "enunciado": "Si el padre de Darwin le hubiera prohibido subir al barco, ¿cómo crees que habría cambiado la historia?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pues habría cambiado un montón. Igual Darwin habría acabado siendo un cura aburrido en un pueblo y nadie habría descubierto lo de la evolución hasta mucho más tarde. A lo mejor Wallace lo habría publicado él solo, pero nos habríamos perdido todas las aventuras y los estudios de las tortugas de Darwin."
+            }
+        ]
+    },
+    {
+        "titulo": "Ludwig van Beethoven: La Música del Silencio",
+        "tema": "biografías",
+        "texto": "Imagina por un momento que eres un pintor y te quedas ciego, o un chef que pierde el sentido del gusto. Eso fue exactamente lo que le ocurrió a Ludwig van Beethoven, uno de los compositores más geniales de todos los tiempos. Nació en Alemania en 1770, en una casa donde la música era obligatoria, pero no siempre alegre. Su padre, un músico mediocre y a menudo borracho, quería que Ludwig fuera un «niño prodigio» como Mozart. Le obligaba a practicar piano durante horas interminables, incluso de madrugada, castigándole severamente si se equivocaba. A pesar de esta infancia dura y triste, Ludwig amaba la música con locura. Era su refugio. A los 21 años se mudó a Viena, la capital mundial de la música, donde asombró a todos con su talento salvaje. Rompía cuerdas del piano de lo fuerte que tocaba y desafiaba a los nobles con su carácter rebelde.\n\nPero cuando estaba empezando a saborear el éxito, a los 26 años, notó algo aterrador: un zumbido constante en sus oídos. Al principio lo ocultó, temiendo que, si la gente sabía que se estaba quedando sordo, su carrera terminaría. Se aisló de sus amigos, volviéndose solitario y malhumorado. No era odio, era miedo y vergüenza. Llegó a estar tan desesperado que pensó en quitarse la vida, pero escribió una carta conocida como el «Testamento de Heiligenstadt», donde decidió que no dejaría este mundo hasta haber compuesto toda la música que sentía dentro de él. Y así comenzó su lucha titánica. A medida que el silencio exterior crecía, su música interior se volvía más poderosa.\n\nPara poder componer, Beethoven usaba trucos ingeniosos. Cortó las patas de su piano y lo puso directamente sobre el suelo; así, al tocar, podía tumbarse y sentir las vibraciones de las notas a través de la madera. Llevaba siempre consigo unos cuadernos de conversación donde la gente tenía que escribir lo que quería decirle. Era un hombre de aspecto desaliñado, con el pelo alborotado y ropa vieja, que gritaba melodías por la calle mientras las anotaba frenéticamente. Compuso obras maestras que cambiaron la música para siempre, llenas de emoción, tormenta y triunfo.\n\nEl momento más emocionante de su vida llegó en 1824, con el estreno de su Novena Sinfonía. El teatro estaba lleno a reventar. La orquesta, el coro y los solistas interpretaron el famoso «Himno de la Alegría», una explosión de felicidad y hermandad. Cuando la obra terminó, el público estalló en aplausos, gritos y pañuelos al aire. Pero Beethoven, que estaba de espaldas dirigiendo, no oyó nada. Seguía moviendo los brazos, perdido en su silencio, hasta que una cantante se acercó suavemente, le tomó del brazo y lo giró hacia el público. Fue entonces cuando vio la ovación que no podía escuchar. El viejo compositor rompió a llorar. Beethoven murió tres años después, durante una tormenta eléctrica, levantando el puño hacia el cielo. Nos dejó la lección más grande: no hace falta oír para escuchar, y los límites del cuerpo nunca pueden atrapar a un espíritu indomable.",
+        "glosario": [
+            {
+                "palabra": "Mediocre",
+                "definición": "Algo o alguien que no es ni bueno ni malo, que tiene una calidad regular y no destaca."
+            },
+            {
+                "palabra": "Prodigio",
+                "definición": "Persona, especialmente un niño, que tiene una capacidad extraordinaria para hacer algo muy difícil."
+            },
+            {
+                "palabra": "Severamente",
+                "definición": "De forma muy dura, estricta y sin mostrar compasión o amabilidad."
+            },
+            {
+                "palabra": "Titánica",
+                "definición": "Que requiere un esfuerzo gigantesco, enorme, casi sobrehumano."
+            },
+            {
+                "palabra": "Vibraciones",
+                "definición": "Movimientos rápidos y pequeños que se transmiten por el suelo o los objetos y que se pueden sentir al tacto."
+            },
+            {
+                "palabra": "Desaliñado",
+                "definición": "Que va mal vestido, despeinado o con aspecto descuidado y poco aseado."
+            },
+            {
+                "palabra": "Sinfonía",
+                "definición": "Obra musical larga y compleja creada para ser tocada por una orquesta completa."
+            },
+            {
+                "palabra": "Ovación",
+                "definición": "Aplauso muy fuerte y ruidoso que da el público para mostrar que algo le ha gustado muchísimo."
+            },
+            {
+                "palabra": "Indomable",
+                "definición": "Que no se puede dominar, controlar o vencer; que tiene un espíritu muy libre y fuerte."
+            },
+            {
+                "palabra": "Estreno",
+                "definición": "La primera vez que se presenta una obra de arte, película o música ante el público."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué instrumento le obligaba su padre a practicar durante horas?",
+                "tipo": "test",
+                "opciones": [
+                    "El violín",
+                    "El piano",
+                    "La flauta",
+                    "La guitarra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema de salud comenzó a sufrir Beethoven a los 26 años?",
+                "tipo": "test",
+                "opciones": [
+                    "Se quedó ciego",
+                    "Perdió el sentido del gusto",
+                    "Comenzó a quedarse sordo",
+                    "Se rompió las manos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Para qué cortó las patas de su piano?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era muy alto y no llegaba",
+                    "Para sentir las vibraciones de la música a través del suelo",
+                    "Porque estaban rotas",
+                    "Para que cupiera en su habitación"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se volvió Beethoven una persona solitaria y malhumorada al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque odiaba a la gente",
+                    "Porque se sentía superior a los demás",
+                    "Por miedo y vergüenza a que descubrieran su sordera",
+                    "Porque estaba siempre ocupado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué ocurrió al final del estreno de la Novena Sinfonía?",
+                "tipo": "test",
+                "opciones": [
+                    "El público abucheó la obra",
+                    "Beethoven salió corriendo",
+                    "Tuvieron que girarle para que viera los aplausos que no podía oír",
+                    "Se fue la luz del teatro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nos indica el hecho de que su padre le castigara si se equivocaba?",
+                "tipo": "test",
+                "opciones": [
+                    "Que su padre quería lo mejor para él con cariño",
+                    "Que tuvo una infancia feliz y tranquila",
+                    "Que sufrió una infancia dura bajo mucha presión",
+                    "Que no le gustaba la música"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "La lectura dice que 'la música interior se volvía más poderosa'. ¿Qué significa esto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que gritaba más fuerte al cantar",
+                    "Que al no oír los ruidos de fuera, se concentró más en su imaginación y sentimientos",
+                    "Que se compró instrumentos más ruidosos",
+                    "Que la música solo sonaba dentro de su casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la decisión clave que tomó en el 'Testamento de Heiligenstadt'?",
+                "tipo": "test",
+                "opciones": [
+                    "Dejar la música para siempre",
+                    "Suicidarse para no sufrir",
+                    "Seguir viviendo para crear toda la música que llevaba dentro",
+                    "Mudarse a otra ciudad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Imagina que eres amigo de Beethoven y te enteras de su secreto. ¿Qué le habrías dicho para animarlo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo le habría dicho que no se preocupara tanto por el qué dirán. Le diría que es un genio y que la gente lo admira por su música, no por sus oídos. También le ayudaría a escribir en sus cuadernos y le daría un abrazo, porque creo que se sentía muy solo."
+            },
+            {
+                "enunciado": "Beethoven siguió componiendo aunque no podía oír. ¿Qué crees que nos enseña esto sobre los problemas que tenemos nosotros?",
+                "tipo": "abierta",
+                "respuestaModelo": "Nos enseña que no hay excusas. A veces nos quejamos por tonterías, como que se nos ha roto el lápiz o que tenemos sueño. Si él pudo hacer sinfonías sin oír nada, nosotros podemos esforzarnos más en nuestras cosas. Nos demuestra que si quieres algo de verdad, buscas la manera de hacerlo."
+            }
+        ]
+    },
+    {
+        "titulo": "Mahatma Gandhi: La Fuerza de la Verdad",
+        "tema": "biografías",
+        "texto": "Mohandas Karamchand Gandhi no nació siendo un héroe. De hecho, cuando era pequeño en la India, era un niño extremadamente tímido y miedoso. Le aterraba la oscuridad, los fantasmas y las serpientes; a veces, incluso le daba vergüenza hablar con sus compañeros de clase y salía corriendo a casa en cuanto sonaba el timbre. Nadie podía imaginar que ese chiquillo asustadizo se convertiría en el «Mahatma» o «Alma Grande», el hombre que liberaría a su país del poderoso Imperio Británico sin disparar una sola bala.\n\nSu transformación comenzó lejos de su hogar. A los 23 años, siendo un joven abogado, aceptó un trabajo en Sudáfrica. Allí vivió una experiencia que le cambió la vida para siempre. Un día, viajaba en un tren en primera clase, vistiendo su mejor traje y con su billete pagado. Sin embargo, un pasajero blanco se quejó de su presencia. El revisor le ordenó a Gandhi que se mudara al vagón de carga, donde viajaba la gente pobre y de color. Gandhi se negó, argumentando que tenía derecho a estar allí. Como respuesta, fue empujado brutalmente fuera del tren en una estación fría y oscura llamada Pietermaritzburg. Tiritando de frío esa noche, Gandhi tomó una decisión: no huiría. Se quedaría y lucharía contra esa injusticia, pero lo haría de una forma que nadie había visto antes.\n\nGandhi desarrolló un método de lucha llamado «Satyagraha», que significa «la fuerza de la verdad». Su idea era revolucionaria: no usar la violencia, ni los puños, ni las armas. Si alguien te golpeaba, no debías devolver el golpe, pero tampoco debías obedecer una ley injusta. Al regresar a la India, aplicó estas ideas para luchar por la independencia. Los británicos gobernaban el país y cobraban impuestos abusivos a los indios pobres. Gandhi, que había dejado sus trajes caros de abogado para vestir una simple túnica blanca tejida por él mismo, animó a su pueblo a la desobediencia civil. Les pidió que fabricaran su propia ropa y dejaran de comprar telas británicas. La rueca de hilar se convirtió en un símbolo de libertad.\n\nEl momento más famoso de su lucha fue la «Marcha de la Sal» en 1930. Los británicos prohibían a los indios recoger sal del mar y les obligaban a comprarla a precios altísimos. Gandhi, con 60 años y un bastón de bambú, caminó 390 kilómetros hasta el océano. Miles de personas se unieron a él por el camino. Al llegar a la playa, se agachó, recogió un puñado de sal natural y dijo: «Con esto, sacudo los cimientos del Imperio». Fue un gesto sencillo, pero poderoso. Los soldados lo arrestaron a él y a 60.000 personas más, pero las cárceles se llenaron tanto que el gobierno no supo qué hacer. El mundo entero miraba con admiración a ese hombre pequeño y delgado que vencía a los cañones con paciencia.\n\nFinalmente, en 1947, la India consiguió su independencia. Sin embargo, la alegría se mezcló con la tristeza porque el país se dividió en dos: India y Pakistán, lo que provocó peleas violentas entre religiones. Gandhi, con el corazón roto, hizo huelgas de hambre para pedir paz entre hindúes y musulmanes, poniendo su vida en peligro hasta que la violencia paró. Lamentablemente, un hombre que no entendía su mensaje de amor lo asesinó en 1948. Gandhi murió, pero su espíritu se hizo inmortal. Su legado inspiró a otros gigantes de la historia como Martin Luther King Jr. y Nelson Mandela. Nos enseñó que la verdadera fuerza no está en los músculos, sino en la valentía de defender lo correcto sin hacer daño a nadie, demostrando que, como él decía: «Ojo por ojo y el mundo acabará ciego».",
+        "glosario": [
+            {
+                "palabra": "Imperio",
+                "definición": "Conjunto de territorios y países gobernados por una potencia extranjera más fuerte."
+            },
+            {
+                "palabra": "Desobediencia civil",
+                "definición": "Forma de protesta que consiste en negarse a cumplir leyes injustas de forma pacífica."
+            },
+            {
+                "palabra": "Satyagraha",
+                "definición": "Palabra que usaba Gandhi para llamar a su método de lucha pacífica basada en la verdad."
+            },
+            {
+                "palabra": "Abusivos",
+                "definición": "Que son exagerados, injustos y que se aprovechan de la gente más débil."
+            },
+            {
+                "palabra": "Rueca",
+                "definición": "Instrumento antiguo y manual que sirve para hilar y convertir la lana o el algodón en hilo."
+            },
+            {
+                "palabra": "Cimientos",
+                "definición": "La base sobre la que se construye un edificio; aquí significa la base del poder de los británicos."
+            },
+            {
+                "palabra": "Huelga de hambre",
+                "definición": "Dejar de comer voluntariamente como forma de protesta extrema para exigir algo."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Lo que una persona deja al mundo tras su muerte, como sus enseñanzas o su ejemplo."
+            },
+            {
+                "palabra": "Injusticia",
+                "definición": "Acción o situación que no es justa, donde no se trata a las personas con igualdad o respeto."
+            },
+            {
+                "palabra": "Inmortal",
+                "definición": "Que no muere nunca; en este caso, se refiere a que su recuerdo durará para siempre."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué suceso en Sudáfrica cambió la vida de Gandhi para siempre?",
+                "tipo": "test",
+                "opciones": [
+                    "Ganó un juicio importante",
+                    "Fue expulsado de un tren por ser de color",
+                    "Conoció a su esposa",
+                    "Perdió su trabajo de abogado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era el objetivo de la Marcha de la Sal?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacer ejercicio caminando",
+                    "Llegar a Pakistán",
+                    "Protestar contra la prohibición de recoger sal del mar",
+                    "Ir a nadar al océano"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué país gobernaba la India antes de su independencia?",
+                "tipo": "test",
+                "opciones": [
+                    "Estados Unidos",
+                    "Francia",
+                    "El Imperio Británico",
+                    "China"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Gandhi animó a la gente a usar la rueca y tejer su ropa?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la ropa británica era fea",
+                    "Para no depender de los británicos y boicotear sus telas",
+                    "Porque hacía mucho frío",
+                    "Para entretenerse en casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'Ojo por ojo y el mundo acabará ciego'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que ir al oculista",
+                    "Que si respondemos a la violencia con más violencia, todos salimos perdiendo",
+                    "Que la venganza es buena",
+                    "Que no vemos bien la realidad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el gobierno no supo qué hacer cuando las cárceles se llenaron?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se les acabaron las llaves",
+                    "Porque la protesta pacífica de tanta gente desbordó su capacidad de control",
+                    "Porque los presos se escaparon",
+                    "Porque los soldados se fueron a casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad demuestra Gandhi al hacer huelgas de hambre por la paz?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no tenía hambre",
+                    "Una capacidad de sacrificio extremo por sus ideales",
+                    "Que quería adelgazar",
+                    "Que no le gustaba la comida"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo contrasta el Gandhi niño con el Gandhi adulto?",
+                "tipo": "test",
+                "opciones": [
+                    "El niño era valiente y el adulto miedoso",
+                    "El niño era tímido y miedoso, y el adulto se convirtió en un líder valiente",
+                    "Eran exactamente iguales",
+                    "El niño era cruel y el adulto amable"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Gandhi decidió no responder a los golpes con golpes. ¿Crees que eso es ser cobarde o ser valiente? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que eso es ser súper valiente. Pegar de vuelta es lo fácil cuando te enfadas, pero quedarte quieto mientras te hacen daño, solo para demostrar que tienes razón y que eres mejor que ellos, requiere tener muchísima fuerza mental. Es mucho más difícil controlarse que soltar un puñetazo."
+            },
+            {
+                "enunciado": "Si Gandhi viera las noticias de hoy en día, ¿qué consejo crees que daría a los líderes mundiales?",
+                "tipo": "abierta",
+                "respuestaModelo": "Seguro que les diría que pararan las guerras inmediatamente. Les aconsejaría que se sentaran a hablar en vez de mandarse misiles. Creo que les recordaría que ganar una guerra no sirve de nada si destruyes el país y matas a gente inocente, y que la paz de verdad se consigue con respeto, no con miedo."
+            }
+        ]
+    },
+    {
+        "titulo": "Hedy Lamarr: La Actriz que Inventó el Futuro",
+        "tema": "biografías",
+        "texto": "En el deslumbrante Hollywood de los años 40, Hedy Lamarr era conocida como «la mujer más hermosa del mundo». Era una estrella de cine famosa, protagonista de películas donde siempre aparecía elegante y misteriosa. Sin embargo, Hedy guardaba un secreto que nadie en la industria del cine sospechaba. Cuando terminaban las fiestas lujosas y los rodajes, ella no se iba a dormir ni a comprar joyas. Se encerraba en una habitación de su casa que había convertido en un laboratorio de inventos. Allí, rodeada de planos, reglas y piezas mecánicas, Hedy se quitaba el disfraz de estrella y se convertía en lo que realmente era: una ingeniera brillante con una mente privilegiada.\n\nHedy había nacido en Austria y, antes de ser actriz, estuvo casada con un fabricante de armas muy rico y controlador. Durante las cenas aburridas de su marido, Hedy escuchaba atentamente a los generales hablar sobre los problemas de la guerra. Aprendió mucho sobre torpedos, unos proyectiles submarinos que a menudo fallaban porque el enemigo podía interferir sus señales de radio y desviarlos. Hedy, que odiaba a los nazis y quería ayudar a los aliados en la Segunda Guerra Mundial, escapó de su marido disfrazada de sirvienta y llegó a Estados Unidos con una idea revolucionaria en la cabeza.\n\nUn día, junto a su amigo y compositor George Antheil, se le ocurrió una solución genial observando una pianola (un piano que toca solo). Pensó: «¿Y si la señal de radio que guía al torpedo no fuera fija, sino que fuera saltando de una frecuencia a otra, como las notas de una canción?». Si el emisor y el receptor saltaban a la vez, el enemigo no sabría dónde interceptar la señal. Lo llamaron «Sistema de Salto de Frecuencia». Era una idea adelantada a su tiempo. Emocionada, Hedy patentó el invento y se lo regaló a la Marina de los Estados Unidos para ayudar a ganar la guerra. Pero la respuesta de los militares fue decepcionante y machista. Le dijeron que, si quería ayudar, mejor se dedicara a vender bonos de guerra y a dar besos a los soldados, porque una mujer tan guapa no podía entender de tecnología compleja. Guardaron su invento en un cajón y lo olvidaron.\n\nHedy siguió actuando, triste porque no la tomaban en serio por ser mujer y actriz. Pasaron muchos años. En la década de 1960, cuando la tecnología avanzó, la Marina redescubrió su patente y se dio cuenta de que era una maravilla. Empezaron a usarla durante la Crisis de los Misiles en Cuba. Pero lo más increíble llegó décadas después. Esa idea de Hedy de hacer «saltar» las señales es la base fundamental de la comunicación inalámbrica moderna. Sin el invento que ella diseñó en sus ratos libres, hoy no tendríamos WiFi, ni Bluetooth, ni GPS en nuestros teléfonos. Hedy murió en el año 2000, justo cuando el mundo empezaba a reconocer su mérito. Hoy sabemos que ella no solo fue una cara bonita en la pantalla, sino la madre de la tecnología que nos conecta a todos. Hedy nos enseñó que nunca debemos juzgar a un libro (o a una persona) por su portada, y que la inteligencia y la belleza pueden ir perfectamente de la mano.",
+        "glosario": [
+            {
+                "palabra": "Ingeniera",
+                "definición": "Persona que utiliza conocimientos científicos y técnicos para diseñar, construir y mantener máquinas o sistemas."
+            },
+            {
+                "palabra": "Interceptar",
+                "definición": "Atrapar o cortar el paso de algo (como una señal o un mensaje) antes de que llegue a su destino."
+            },
+            {
+                "palabra": "Frecuencia",
+                "definición": "Canal o onda invisible por donde viaja la información de la radio o el teléfono."
+            },
+            {
+                "palabra": "Patente",
+                "definición": "Documento oficial que te da el derecho exclusivo sobre un invento, reconociendo que tú lo creaste."
+            },
+            {
+                "palabra": "Inalámbrica",
+                "definición": "Tecnología que permite conectar aparatos y enviar datos sin necesidad de usar cables."
+            },
+            {
+                "palabra": "Aliados",
+                "definición": "Países que se unieron (como EE.UU., Reino Unido y Francia) para luchar contra los nazis en la guerra."
+            },
+            {
+                "palabra": "Machista",
+                "definición": "Actitud de quien cree que los hombres son superiores a las mujeres y que ellas no pueden hacer ciertas cosas."
+            },
+            {
+                "palabra": "Pianola",
+                "definición": "Piano mecánico antiguo que funciona con rollos de papel perforado y toca música sin pianista."
+            },
+            {
+                "palabra": "Torpedo",
+                "definición": "Proyectil con forma de tubo que lanzan los submarinos o barcos para atacar a otros por debajo del agua."
+            },
+            {
+                "palabra": "Subestimar",
+                "definición": "Darle a alguien o algo menos valor o importancia del que realmente tiene."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué hacía Hedy Lamarr cuando terminaba de rodar sus películas?",
+                "tipo": "test",
+                "opciones": [
+                    "Iba a fiestas lujosas",
+                    "Se iba a dormir inmediatamente",
+                    "Se encerraba en su laboratorio a inventar",
+                    "Salía de compras"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué objeto se inspiró para crear su sistema de comunicación?",
+                "tipo": "test",
+                "opciones": [
+                    "En un teléfono",
+                    "En una pianola",
+                    "En un coche",
+                    "En un reloj"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Para qué servía originalmente su invento?",
+                "tipo": "test",
+                "opciones": [
+                    "Para mejorar la radio del coche",
+                    "Para guiar torpedos sin que fueran detectados",
+                    "Para hacer mejores películas",
+                    "Para hablar por el móvil"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué la Marina rechazó su invento al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no funcionaba",
+                    "Porque era muy caro",
+                    "Por prejuicios, porque no creían que una actriz guapa supiera de tecnología",
+                    "Porque ya tenían uno mejor"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué tecnologías modernas existen hoy gracias a la idea de Hedy?",
+                "tipo": "test",
+                "opciones": [
+                    "La televisión en color",
+                    "El microondas",
+                    "El WiFi y el Bluetooth",
+                    "Los cohetes espaciales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo aprendió Hedy sobre armas y torpedos?",
+                "tipo": "test",
+                "opciones": [
+                    "Estudiando en la universidad",
+                    "Escuchando a los generales en las cenas de su primer marido",
+                    "Viendo películas de guerra",
+                    "Leyendo el periódico"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'Hedy se quitaba el disfraz de estrella'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se cambiaba de ropa",
+                    "Que dejaba de actuar y mostraba su verdadera personalidad inteligente",
+                    "Que no le gustaba ser famosa",
+                    "Que usaba máscaras"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la lección principal de la historia de Hedy Lamarr?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que ir a Hollywood",
+                    "Que las apariencias engañan y la inteligencia no depende de la belleza",
+                    "Que los pianos son útiles",
+                    "Que hay que vender patentes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La Marina le dijo a Hedy que mejor vendiera bonos y diera besos. ¿Qué piensas de esa respuesta y cómo crees que se sintió ella?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece una respuesta muy injusta y maleducada. Seguro que ella se sintió muy frustrada y triste, porque quería ayudar a salvar vidas con su cerebro, pero la trataron como si fuera tonta solo por ser mujer y actriz. Es horrible que no te tomen en serio cuando tienes una idea genial."
+            },
+            {
+                "enunciado": "Hedy Lamarr demostró que se puede ser artista y científica a la vez. ¿Crees que hoy en día seguimos pensando que hay cosas 'de ciencias' y cosas 'de letras' o que se pueden mezclar?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que todavía hay gente que piensa que o eres de ciencias o eres de letras, pero cada vez mezclamos más. Por ejemplo, para hacer videojuegos necesitas programar (ciencias) y dibujar (arte). Hedy nos enseñó que usar la imaginación sirve para todo, así que yo creo que lo mejor es mezclar las dos cosas."
+            }
+        ]
+    },
+    {
+        "titulo": "Nikola Tesla: El Mago que Iluminó el Mundo",
+        "tema": "biografías",
+        "texto": "Cuentan las leyendas familiares que Nikola Tesla nació en la actual Croacia durante una noche de verano de 1856, justo cuando una tormenta eléctrica sacudía el cielo con furia. La partera, asustada por los relámpagos, dijo que aquello era un mal presagio y que el bebé sería un «hijo de la oscuridad», pero su madre la corrigió de inmediato: «No, será un hijo de la luz». Aquella predicción marcaría el destino de un hombre cuya mente brillaba con más intensidad que cualquier bombilla. Desde niño, Nikola mostró una inteligencia fuera de lo común. Aprendió varios idiomas casi sin esfuerzo y tenía una capacidad visual asombrosa: podía memorizar libros enteros y visualizar sus inventos en su cabeza con tal precisión que no necesitaba dibujarlos en planos; podía construirlos, probarlos y corregirlos mentalmente antes de tocar un solo tornillo.\n\nSu fascinación por la electricidad comenzó un día que acariciaba a su gato Macak. Al pasar la mano por el lomo del animal, vio saltar chispas luminosas y le preguntó a su padre qué era aquello. «Es electricidad, lo mismo que los rayos de la tormenta», le respondió. Nikola quedó hipnotizado pensando: «¿Es la naturaleza un gato gigante?». A los 28 años, decidió viajar a Estados Unidos con poco más que la ropa puesta y una carta de recomendación para trabajar con el famoso Thomas Edison. Sin embargo, los dos genios eran como el agua y el aceite. Edison era un hombre de negocios práctico que defendía la «corriente continua», un sistema caro y poco eficiente que requería centrales eléctricas cada pocos kilómetros. Tesla, en cambio, proponía la «corriente alterna», mucho más potente y capaz de viajar grandes distancias. Cuando Tesla mejoró los motores de Edison, este se negó a pagarle lo prometido, burlándose de él. Ofendido, Tesla renunció y acabó cavando zanjas para sobrevivir, hasta que un inversor creyó en su visión.\n\nAsí comenzó la famosa «Guerra de las Corrientes». Tesla se alió con el empresario George Westinghouse y demostró la superioridad de su sistema iluminando la Feria Mundial de Chicago en 1893. Fue un espectáculo deslumbrante que dejó al público boquiabierto. Poco después, logró domar la fuerza de las Cataratas del Niágara para generar energía hidroeléctrica, llevando luz a la ciudad de Búfalo. Tesla había ganado la guerra, y gracias a él, hoy tenemos electricidad en nuestros enchufes. Pero Nikola no se detuvo ahí. Su mente bullía con ideas futuristas. Inventó la bobina de Tesla, que lanzaba rayos artificiales, y desarrolló la tecnología de radio antes que Marconi, aunque le robaran el mérito durante años. En 1898, presentó un barco de juguete que se movía por control remoto; la gente, asustada, pensaba que había un mono pequeño dentro pilotándolo, porque no podían concebir la idea de ondas invisibles.\n\nA pesar de ser un genio, Tesla era un hombre excéntrico y solitario. Tenía manías extrañas: estaba obsesionado con el número tres (daba tres vueltas a la manzana antes de entrar en un edificio), odiaba las perlas y tenía pánico a los gérmenes. Su sueño más ambicioso fue la Torre Wardenclyffe, una estructura gigante con la que quería enviar energía inalámbrica gratuita a todo el mundo. Desgraciadamente, se quedó sin dinero y el proyecto fracasó. Tesla pasó sus últimos años viviendo en un hotel de Nueva York, alimentando a las palomas del parque, a las que trataba como sus mejores amigas. Murió solo y pobre, pero dejó un legado de más de 300 patentes. Hoy, cuando encendemos la luz, usamos el móvil o conducimos un coche eléctrico, estamos viviendo en el futuro que Nikola Tesla soñó hace más de un siglo.",
+        "glosario": [
+            {
+                "palabra": "Presagio",
+                "definición": "Señal o suceso que se interpreta como el anuncio de que algo va a pasar en el futuro."
+            },
+            {
+                "palabra": "Eficiente",
+                "definición": "Que logra buenos resultados utilizando la menor cantidad posible de recursos o energía."
+            },
+            {
+                "palabra": "Hidroeléctrica",
+                "definición": "Energía eléctrica que se obtiene aprovechando la fuerza del agua en movimiento, como en ríos o cascadas."
+            },
+            {
+                "palabra": "Excéntrico",
+                "definición": "Persona que tiene un comportamiento extraño, raro o diferente a lo que se considera normal."
+            },
+            {
+                "palabra": "Inalámbrica",
+                "definición": "Sistema de comunicación o transmisión de energía que no utiliza cables, sino ondas invisibles."
+            },
+            {
+                "palabra": "Patentes",
+                "definición": "Derechos exclusivos que el gobierno da a un inventor para que nadie más pueda copiar su invento sin permiso."
+            },
+            {
+                "palabra": "Alterna",
+                "definición": "Tipo de corriente eléctrica que cambia de dirección constantemente y puede viajar muy lejos sin perder fuerza."
+            },
+            {
+                "palabra": "Continua",
+                "definición": "Tipo de corriente eléctrica que fluye siempre en la misma dirección, como la de las pilas."
+            },
+            {
+                "palabra": "Concebir",
+                "definición": "Imaginar, comprender o formar una idea de algo en la mente."
+            },
+            {
+                "palabra": "Visualizar",
+                "definición": "Capacidad de imaginar con mucho detalle imágenes o situaciones en la mente."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué fenómeno natural ocurría cuando nació Nikola Tesla?",
+                "tipo": "test",
+                "opciones": [
+                    "Un terremoto",
+                    "Una tormenta eléctrica",
+                    "Un eclipse de sol",
+                    "Una nevada histórica"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Con qué famoso inventor trabajó Tesla al llegar a Estados Unidos?",
+                "tipo": "test",
+                "opciones": [
+                    "Albert Einstein",
+                    "George Westinghouse",
+                    "Thomas Edison",
+                    "Guillermo Marconi"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué animal inspiró a Tesla su interés por la electricidad siendo niño?",
+                "tipo": "test",
+                "opciones": [
+                    "Un perro",
+                    "Una paloma",
+                    "Un gato",
+                    "Un caballo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué la gente pensaba que había un mono dentro del barco de juguete de Tesla?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se escuchaban ruidos de animal",
+                    "Porque vieron al mono entrar",
+                    "Porque no entendían la tecnología del control remoto y buscaban una explicación lógica",
+                    "Porque era un barco de circo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era la principal diferencia entre la visión de Edison y la de Tesla?",
+                "tipo": "test",
+                "opciones": [
+                    "Edison quería dinero y Tesla quería fama",
+                    "Edison defendía la corriente continua y Tesla la alterna",
+                    "Edison era científico y Tesla era mago",
+                    "No tenían diferencias, eran amigos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica el hecho de que Tesla pudiera construir inventos en su mente sin planos?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era muy perezoso para dibujar",
+                    "Que no tenía papel",
+                    "Que poseía una capacidad visual y una inteligencia espacial extraordinarias",
+                    "Que sus inventos eran muy simples"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué fracasó el proyecto de la Torre Wardenclyffe?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la torre se cayó",
+                    "Porque Tesla se quedó sin dinero y apoyo financiero",
+                    "Porque era imposible científicamente",
+                    "Porque Edison la destruyó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué rasgo de la personalidad de Tesla se destaca al final de su vida?",
+                "tipo": "test",
+                "opciones": [
+                    "Su alegría y fiestas constantes",
+                    "Su soledad, pobreza y cariño por las palomas",
+                    "Su riqueza y éxito empresarial",
+                    "Su vuelta a Croacia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Tesla quería dar energía gratis a todo el mundo, pero los inversores no le apoyaron porque no ganarían dinero. ¿Qué te parece esto? ¿Deberían ser gratis cosas tan importantes como la luz?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece un poco egoísta por parte de los inversores, aunque entiendo que las empresas quieran ganar dinero. Yo creo que cosas súper básicas como la luz o el agua deberían ser gratis o muy baratas para que nadie pase frío, porque son necesarias para vivir dignamente, como quería Tesla."
+            },
+            {
+                "enunciado": "A Tesla le llamaron 'loco' muchas veces por sus ideas adelantadas. ¿Crees que es difícil ser un genio y ver cosas que los demás no entienden?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, tiene que ser súper difícil y solitario. Si tú ves el futuro y los demás no, te tratan como a un bicho raro. Debe ser frustrante saber que tienes razón y que nadie te crea. Por eso creo que hay que ser muy valiente para seguir adelante con tus ideas aunque se rían de ti."
+            }
+        ]
+    },
+    {
+        "titulo": "Harriet Tubman: La General de la Libertad",
+        "tema": "biografías",
+        "texto": "Araminta Ross nació alrededor de 1822 en Maryland, Estados Unidos, pero no nació libre. Era hija de esclavos, lo que significaba que, desde su primer respiro, pertenecía a otra persona, como si fuera un objeto o un animal de granja. Su infancia fue dura y dolorosa, llena de trabajo forzado y castigos. Cuando era adolescente, sufrió un terrible accidente: un capataz lanzó una pesa de metal de un kilo contra otro esclavo, pero golpeó a Araminta en la cabeza. El golpe le rompió el cráneo y le dejó una secuela de por vida: sufría ataques de sueño repentinos y visiones extrañas. Sin embargo, Araminta, que era profundamente religiosa, interpretó esas visiones como mensajes de Dios que le indicaban el camino hacia la libertad.\n\nEn 1849, ante el miedo de ser vendida y separada de su familia, tomó la decisión más peligrosa de su vida: escapar. Cambió su nombre por el de Harriet Tubman, en honor a su madre, y huyó sola hacia el norte, guiándose únicamente por la Estrella Polar en el cielo nocturno. Viajó de noche y se escondió de día, perseguida por cazadores de esclavos y perros. Cuando por fin cruzó la frontera con el estado de Pensilvania, donde la esclavitud estaba prohibida, miró sus manos bajo la luz del sol y se sintió una persona nueva. «Había cruzado la línea. Era libre», dijo. Pero Harriet no podía ser feliz sabiendo que su familia y amigos seguían encadenados en el sur. Así que hizo algo inaudito: regresó.\n\nHarriet se convirtió en la conductora más famosa del «Ferrocarril Subterráneo». No era un tren de verdad con vías y vagones, sino una red secreta de casas, graneros y rutas ocultas donde personas valientes, blancas y negras, ayudaban a los esclavos a escapar. Harriet realizó 19 viajes peligrosísimos al sur, rescatando a unas 300 personas, incluidos sus padres ancianos. Era una líder astuta y dura; llevaba un revólver para protegerse de los lobos y de los traidores, y nunca permitía que nadie se rindiera a mitad de camino. «Sigue adelante o muere», les decía. Los esclavistas pusieron un precio altísimo a su cabeza, pero nunca la atraparon. Ella decía con orgullo: «Nunca descarrilé mi tren y nunca perdí a un pasajero». La llamaban «Moisés», como el personaje bíblico que liberó a su pueblo.\n\nCuando estalló la Guerra Civil en Estados Unidos, Harriet no se quedó quieta. Trabajó para el ejército del Norte como enfermera, cocinera y, lo más sorprendente, como espía. Gracias a su conocimiento del terreno, lideró una misión militar en el río Combahee, convirtiéndose en la primera mujer en dirigir un asalto armado en la guerra. En esa operación liberaron a más de 700 esclavos. Tras la guerra, Harriet siguió luchando, esta vez por el derecho de las mujeres a votar. A pesar de ser una heroína nacional, murió pobre en 1913, rodeada de amigos y familiares. Hoy, su rostro va a aparecer en los billetes de 20 dólares, reemplazando a antiguos presidentes esclavistas. Harriet Tubman nos enseñó que la libertad no es un regalo, sino una lucha constante, y que una sola persona, por pequeña y herida que esté, puede romper las cadenas de todo un pueblo.",
+        "glosario": [
+            {
+                "palabra": "Secuela",
+                "definición": "Consecuencia física o problema de salud que queda permanentemente después de una enfermedad o accidente."
+            },
+            {
+                "palabra": "Capataz",
+                "definición": "Persona encargada de vigilar y mandar a un grupo de trabajadores, a veces de forma cruel."
+            },
+            {
+                "palabra": "Inaudito",
+                "definición": "Algo que es tan sorprendente o extraordinario que nunca se había oído o visto antes."
+            },
+            {
+                "palabra": "Ferrocarril Subterráneo",
+                "definición": "Red secreta de rutas y casas seguras utilizada para ayudar a los esclavos a escapar hacia la libertad."
+            },
+            {
+                "palabra": "Astuta",
+                "definición": "Persona hábil para engañar, evitar el engaño o lograr sus objetivos usando la inteligencia."
+            },
+            {
+                "palabra": "Descarrilar",
+                "definición": "Salirse un tren de las vías; en el texto significa que Harriet nunca falló en sus misiones."
+            },
+            {
+                "palabra": "Moisés",
+                "definición": "Personaje de la Biblia que guió al pueblo hebreo para liberarlo de la esclavitud en Egipto."
+            },
+            {
+                "palabra": "Espía",
+                "definición": "Persona que observa en secreto lo que hace el enemigo para informar a su propio bando."
+            },
+            {
+                "palabra": "Esclavitud",
+                "definición": "Sistema en el que unas personas son propiedad de otras y son obligadas a trabajar sin sueldo y sin libertad."
+            },
+            {
+                "palabra": "Estrella Polar",
+                "definición": "Estrella del norte que brilla mucho y sirve de guía para orientarse en la noche."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué accidente sufrió Harriet cuando era adolescente?",
+                "tipo": "test",
+                "opciones": [
+                    "Se cayó de un caballo",
+                    "Un capataz le golpeó la cabeza con una pesa de metal",
+                    "Se cortó la mano trabajando",
+                    "Le mordió un perro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se guiaba Harriet en su huida hacia el norte?",
+                "tipo": "test",
+                "opciones": [
+                    "Con un mapa",
+                    "Preguntando a la gente",
+                    "Siguiendo la Estrella Polar",
+                    "Usando una brújula"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué era realmente el 'Ferrocarril Subterráneo'?",
+                "tipo": "test",
+                "opciones": [
+                    "Un metro bajo tierra",
+                    "Un tren muy rápido",
+                    "Una red secreta de rutas y casas seguras",
+                    "Un túnel mágico"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué papel desempeñó Harriet durante la Guerra Civil?",
+                "tipo": "test",
+                "opciones": [
+                    "Solo cocinera",
+                    "Enfermera y espía que lideró un asalto armado",
+                    "Soldado raso",
+                    "Se quedó en casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué regresó Harriet al sur después de haber conseguido ser libre?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se le olvidó algo",
+                    "Porque no podía ser feliz sabiendo que su familia seguía esclavizada",
+                    "Porque le pagaban mucho dinero",
+                    "Porque echaba de menos su casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos dice el apodo 'Moisés' sobre cómo la veía su gente?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la veían como una líder salvadora que los guiaba a la libertad",
+                    "Que pensaban que era un hombre",
+                    "Que era muy vieja",
+                    "Que le gustaba el agua"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué cualidad demuestra el hecho de que nunca perdiera a un pasajero?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenía mucha suerte",
+                    "Que los caminos eran fáciles",
+                    "Su gran habilidad, planificación y liderazgo astuto",
+                    "Que viajaba en coche"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué es irónico que Harriet muriera pobre?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaba el dinero",
+                    "Porque gastó todo en ropa",
+                    "Porque a pesar de ser una heroína que salvó a cientos, el país no la recompensó económicamente en vida",
+                    "Porque perdió su monedero"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Harriet llevaba un arma y decía 'sigue adelante o muere' a quien quería rendirse. ¿Te parece una medida demasiado dura o necesaria? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece muy dura, pero creo que era necesaria. Si alguien se rendía y volvía atrás, los cazadores de esclavos lo torturarían para que contara el secreto y pillarían a todos los demás. Harriet tenía que ser dura para proteger al grupo entero, no tenía otra opción."
+            },
+            {
+                "enunciado": "Van a poner la cara de Harriet en los billetes de 20 dólares. ¿Qué te parece que una mujer que fue esclava aparezca en el dinero?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece una idea genial y muy justa. Antes en los billetes solo salían hombres blancos y presidentes ricos, algunos que incluso tenían esclavos. Que salga Harriet es una forma de reconocer que ella fue una verdadera heroína y que construyó el país tanto o más que ellos."
+            }
+        ]
+    }
+]

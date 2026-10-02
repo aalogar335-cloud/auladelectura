@@ -1,0 +1,1472 @@
+[
+    {
+        "titulo": "El Relevo de la Amistad",
+        "tema": "deportes",
+        "texto": "El sol de justicia caía sobre la pista de atletismo municipal donde se celebraban las Olimpiadas escolares de este año. Silvia se ajustaba las zapatillas con nerviosismo mientras observaba a sus compañeras de equipo. Eran las cuatro mejores corredoras de sexto de primaria, pero el ambiente estaba cargado de tensión. Durante los entrenamientos, Lucía y Silvia habían competido ferozmente por ser la última relevista, la que cruza la meta y suele llevarse la mayor parte de los aplausos. El entrenador, consciente de que el atletismo no es solo correr sino también estrategia y compañerismo, decidió que Silvia entregaría el testigo a Lucía en el último tramo. La carrera de relevos 4x100 comenzó con el disparo de salida. La primera corredora salió como un rayo, manteniendo la posición frente a los otros colegios. Cuando llegó el turno de Silvia, el equipo iba en segundo lugar. Ella corrió con todas sus fuerzas, sintiendo el viento en su cara y el rítmico golpe de sus pies contra el tartán. Al acercarse a la zona de transferencia, vio a Lucía esperando con la mano extendida. Sin embargo, justo en ese momento crucial, Silvia tropezó levemente con un bache de la pista. El testigo estuvo a punto de resbalar, pero ella hizo un esfuerzo supremo por mantener el equilibrio y entregarlo con precisión en la mano de su compañera. Lucía, al ver el sacrificio de Silvia para no fallar al equipo, olvidó su antigua rivalidad y salió disparada con una energía renovada. Cruzó la meta en primera posición por apenas unos milímetros. Al terminar, en lugar de celebrar sola frente a las cámaras de los padres, Lucía corrió hacia atrás para abrazar a Silvia, que estaba recuperando el aliento. Le dio las gracias por esa entrega perfecta a pesar del tropiezo. El equipo comprendió entonces que el éxito no pertenecía a la que cruzaba la cinta, sino a la coordinación y al apoyo mutuo durante cada metro del trayecto. El deporte les había enseñado que la ambición personal nunca debe estar por encima del bienestar del grupo. Aquella medalla de oro no brillaba por el metal, sino por el valor del esfuerzo compartido. Silvia sonrió satisfecha, sabiendo que su tropiezo no las había detenido, sino que había servido para unir al equipo más que cualquier victoria fácil. Desde ese día, los entrenamientos cambiaron por completo: ya no eran cuatro corredoras individuales buscando destacar, sino un bloque sólido que sabía que la fuerza de una era la fuerza de todas. El público aplaudió no solo la victoria, sino el gesto de deportividad que ambas niñas mostraron en el podio. Fue una tarde donde el atletismo demostró ser el mejor maestro de vida, recordándoles que para llegar lejos, a veces hay que correr juntas. Silvia guardó el testigo de madera en su mochila como un tesoro, pues representaba el vínculo invisible que ahora las unía para siempre en la pista y fuera de ella.",
+        "glosario": [
+            {
+                "palabra": "Relevista",
+                "definición": "Deportista que participa en una carrera de relevos sustituyendo a un compañero."
+            },
+            {
+                "palabra": "Testigo",
+                "definición": "Barra cilíndrica que los corredores de un equipo deben pasarse unos a otros."
+            },
+            {
+                "palabra": "Tartán",
+                "definición": "Material plástico de color rojizo con el que se fabrican las pistas de atletismo."
+            },
+            {
+                "palabra": "Transferencia",
+                "definición": "En deportes, el momento exacto en el que se pasa el testigo de un jugador a otro."
+            },
+            {
+                "palabra": "Ferozmente",
+                "definición": "Hacer algo con muchísima intensidad, ganas o de forma competitiva."
+            },
+            {
+                "palabra": "Crucial",
+                "definición": "Un momento muy importante que decide si algo sale bien o mal."
+            },
+            {
+                "palabra": "Rivalidad",
+                "definición": "Competencia entre dos o más personas que buscan el mismo objetivo."
+            },
+            {
+                "palabra": "Podio",
+                "definición": "Plataforma de tres niveles donde se colocan los ganadores para recibir sus medallas."
+            },
+            {
+                "palabra": "Deportividad",
+                "definición": "Valor de jugar limpio, respetar al rival y saber ganar o perder con educación."
+            },
+            {
+                "palabra": "Ambición",
+                "definición": "Deseo intenso de conseguir algo grande, como una victoria o un premio."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué posición iba el equipo cuando Silvia recibió el testigo?",
+                "tipo": "test",
+                "opciones": [
+                    "Primera posición",
+                    "Segunda posición",
+                    "Tercera posición",
+                    "Última posición"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto deben pasarse los corredores en esta carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Una pelota",
+                    "Una cinta",
+                    "Un testigo",
+                    "Una medalla"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué le ocurrió a Silvia justo antes de entregar el testigo?",
+                "tipo": "test",
+                "opciones": [
+                    "Se le soltó una zapatilla",
+                    "Tropezó con un bache",
+                    "Se detuvo a descansar",
+                    "Se equivocó de carril"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el entrenador puso a Silvia antes que a Lucía en la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque Silvia era más lenta",
+                    "Por una decisión estratégica para fomentar el compañerismo",
+                    "Porque Silvia no quería cruzar la meta",
+                    "Porque Lucía estaba cansada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la relación entre Lucía y Silvia tras la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Dejaron de hablarse",
+                    "Se hicieron mejores amigas y trabajaron en equipo",
+                    "Siguieron peleando por el último puesto",
+                    "Se cambiaron de deporte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que correr solo es más rápido",
+                    "Que lo importante es ganar a toda costa",
+                    "Que el trabajo en equipo y el apoyo mutuo son la clave del éxito",
+                    "Que las medallas de oro son lo más importante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo reaccionó Lucía al ganar la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Se fue a su casa",
+                    "Abrazó a Silvia y le agradeció su esfuerzo",
+                    "Gritó que ella era la mejor",
+                    "Pidió repetir la carrera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que la medalla no brillaba por el metal?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era de plástico",
+                    "Que lo valioso era el sentimiento y el esfuerzo compartido",
+                    "Que estaba sucia",
+                    "Que no era una medalla real"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que es justo que la última corredora se lleve siempre más aplausos? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no es muy justo porque para que la última llegue a la meta, las otras tres han tenido que correr súper rápido antes. Es un trabajo de todo el equipo y todas deberían recibir los mismos aplausos."
+            },
+            {
+                "enunciado": "Si tú fueras Silvia y hubieras tropezado, ¿cómo te habrías sentido?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me habría dado un poco de susto por si tiraba el palo y perdíamos por mi culpa. Pero me sentiría orgullosa de haber aguantado el equilibrio para que mi amiga pudiera seguir corriendo y ganar."
+            }
+        ]
+    },
+    {
+        "titulo": "Bajo la Canasta del Respeto",
+        "tema": "deportes",
+        "texto": "El polideportivo del colegio estaba a rebosar. Se jugaba la final de baloncesto de la liga escolar entre los 'Halcones' y los 'Dragones'. Pablo, el base de los Halcones, era conocido por su increíble velocidad y su puntería desde la línea de tres puntos. Sin embargo, Pablo tenía un pequeño defecto: a veces se olvidaba de pasar el balón a sus compañeros cuando se sentía presionado. El partido estaba muy igualado, con los marcadores subiendo y bajando constantemente. En el último cuarto, el mejor jugador de los Dragones, un chico alto llamado Mario, sufrió una caída fortuita tras un salto. El árbitro no pitó falta porque fue un resbalón, pero Mario se quedó en el suelo doliéndose del tobillo. Pablo tenía el balón y el camino libre hacia la canasta para anotar dos puntos fáciles que les darían la ventaja definitiva. Pero, al ver a su rival en el suelo, Pablo se detuvo en seco. Los padres desde la grada gritaban que tirara, pero él prefirió botar el balón fuera de la pista para que pudieran atender a Mario. Sus compañeros se quedaron sorprendidos, pero pronto entendieron el gesto. El juego se reanudó tras comprobar que Mario estaba bien. Faltaban diez segundos. Esta vez, Pablo avanzó con el balón, pero en lugar de lanzar él mismo como solía hacer, vio a su compañero Diego desmarcado bajo el aro. Diego no solía anotar mucho y siempre estaba un poco a la sombra de Pablo. Con un pase preciso por la espalda, Pablo le entregó el balón. Diego, emocionado por la confianza, encestó la canasta de la victoria justo cuando sonó la bocina final. El pabellón estalló en gritos, pero lo más bonito ocurrió después. Los jugadores de ambos equipos se saludaron con respeto. Mario se acercó a Pablo para agradecerle que se hubiera detenido cuando se cayó, diciéndole que eso era ser un verdadero deportista. Pablo comprendió que ganar es importante, pero que la integridad y el compañerismo dejan una huella mucho más profunda que cualquier trofeo en una vitrina. Aquella tarde, Diego se sintió por primera vez parte esencial del equipo, y Pablo aprendió que un buen líder no es el que más puntos anota, sino el que hace mejores a los que le rodean. El entrenador les felicitó no solo por el título, sino por haber demostrado que los valores valen más que el marcador. El baloncesto, con sus botes y sus canastas, les había dado una lección de humanidad que recordarían siempre. Pablo ya no solo quería ser el máximo anotador, ahora quería ser el capitán que todos admiraban por su juego limpio. Al salir del pabellón, los dos equipos decidieron ir juntos a merendar, celebrando que el deporte une a las personas más allá de los colores de una camiseta. La rivalidad se quedó en la pista, y una nueva amistad nació bajo los tableros de madera.",
+        "glosario": [
+            {
+                "palabra": "Polideportivo",
+                "definición": "Lugar diseñado para practicar varios tipos de deportes."
+            },
+            {
+                "palabra": "Base",
+                "definición": "Posición en baloncesto. Es el jugador que dirige el juego y sube el balón."
+            },
+            {
+                "palabra": "Fortuita",
+                "definición": "Algo que sucede por casualidad, sin que nadie lo haya planeado."
+            },
+            {
+                "palabra": "Definitiva",
+                "definición": "Algo que decide el resultado final de una situación."
+            },
+            {
+                "palabra": "Integridad",
+                "definición": "Valor de hacer lo correcto incluso cuando nadie nos obliga o cuando perdemos algo por ello."
+            },
+            {
+                "palabra": "Desmarcado",
+                "definición": "Estar en una posición libre de defensa para poder recibir el balón."
+            },
+            {
+                "palabra": "Bocina",
+                "definición": "Aparato que emite un sonido fuerte para indicar que el tiempo de juego ha terminado."
+            },
+            {
+                "palabra": "Líder",
+                "definición": "Persona que guía a un grupo y que busca el bien de todos sus miembros."
+            },
+            {
+                "palabra": "Pabellón",
+                "definición": "Edificio cubierto donde se celebran competiciones deportivas."
+            },
+            {
+                "palabra": "Marcador",
+                "definición": "Tablero donde se anotan los puntos que lleva cada equipo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué posición jugaba Pablo en su equipo de baloncesto?",
+                "tipo": "test",
+                "opciones": [
+                    "Pívot",
+                    "Base",
+                    "Alero",
+                    "Entrenador"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hizo Pablo cuando vio que Mario se cayó al suelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Encestó una canasta rápida",
+                    "Se rió de él",
+                    "Echó el balón fuera para que le atendieran",
+                    "Se fue al banquillo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién anotó la canasta final de la victoria?",
+                "tipo": "test",
+                "opciones": [
+                    "Pablo",
+                    "Mario",
+                    "Diego",
+                    "El árbitro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Pablo decidió pasarle el balón a Diego en el último segundo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se le olvidó cómo tirar",
+                    "Porque confió en su compañero desmarcado",
+                    "Porque tenía miedo de fallar",
+                    "Porque Diego se lo pidió a gritos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Pablo sobre lo que significa ser un buen líder?",
+                "tipo": "test",
+                "opciones": [
+                    "Que debe meter todos los puntos él solo",
+                    "Que debe mandar a los demás siempre",
+                    "Que debe hacer mejores a sus compañeros",
+                    "Que no hace falta entrenar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo terminó la relación entre los dos equipos al final del día?",
+                "tipo": "test",
+                "opciones": [
+                    "Se enfadaron mucho",
+                    "Se fueron a merendar juntos",
+                    "No volvieron a hablarse",
+                    "Se pelearon en el vestuario"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre el carácter de Mario?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era un tramposo",
+                    "Que sabía reconocer el buen gesto de su rival",
+                    "Que no le gustaba jugar al baloncesto",
+                    "Que estaba enfadado por perder"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Pablo hubiera anotado cuando Mario estaba en el suelo, ¿qué habría pasado?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría sido ilegal",
+                    "Habría ganado el partido pero sin demostrar juego limpio",
+                    "Le habrían expulsado",
+                    "Mario se habría puesto a bailar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué habrías hecho tú si fueras Pablo: meter la canasta fácil o parar el juego?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo habría parado el juego como hizo Pablo. Aunque ganar mola mucho, me sentiría fatal si gano porque el otro se ha hecho daño. Es mejor ser buen compañero y jugar limpio aunque cueste más ganar."
+            },
+            {
+                "enunciado": "¿Por qué crees que es importante saludar al equipo rival al terminar un partido?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es importante porque al final todos estamos allí para divertirnos y hacer deporte. Saludar significa que respetas el esfuerzo que han hecho los otros y que la pelea solo era por el juego, no por ser enemigos."
+            }
+        ]
+    },
+    {
+        "titulo": "El Descenso de la Cumbre Olvidada",
+        "tema": "deportes",
+        "texto": "El aire en la cima de la montaña era tan frío que parecía pinchar los pulmones de Lucía. A sus doce años, estaba a punto de enfrentarse al mayor desafío de su vida: el Descenso del Águila, una pista de esquí alpino que solo los más experimentados se atrevían a cruzar. El esquí no es solo deslizarse sobre nieve; es una danza constante contra la gravedad y el miedo. Lucía ajustó sus fijaciones y comprobó que sus botas estaban bien ancladas a las tablas. Sus manos, protegidas por gruesos guantes, temblaban ligeramente, pero su mirada estaba fija en la pendiente. Su abuelo, un antiguo campeón de montaña, le había enseñado que la nieve tiene su propio lenguaje. «Escucha el crujido bajo tus pies», le decía siempre. Lucía respiró hondo y se impulsó con los bastones. Al principio, la velocidad era manejable, pero pronto la pendiente se volvió más pronunciada. El viento silbaba en sus oídos como una locomotora furiosa. El esquí alpino requiere una técnica impecable; cada giro debe ser calculado, desplazando el peso del cuerpo de un esquí a otro con precisión milimétrica. De repente, una placa de hielo oculto bajo una fina capa de nieve polvo hizo que su esquí izquierdo perdiera adherencia. Por un segundo, el pánico la invadió. Si se caía a esa velocidad, la carrera terminaría allí mismo. Sin embargo, recordó las tardes de entrenamiento en las pistas más suaves. En lugar de tensarse, relajó las rodillas para absorber el impacto y recuperó el equilibrio con un movimiento fluido de cadera. La adrenalina recorría su cuerpo, transformando el miedo en una energía chispeante. A mitad del recorrido, se encontró con el tramo de baches, conocido como el campo de moguls. Aquí, la resistencia física es clave. Sus cuádriceps empezaron a arder debido al esfuerzo constante de flexión y extensión. Cada montículo de nieve era un obstáculo que debía sortear con agilidad. Lucía mantenía el torso firme mientras sus piernas trabajaban como amortiguadores de un coche de carreras. Al divisar la línea de meta, el público parecía un mosaico de colores lejanos. Los gritos de ánimo apenas llegaban a ella, pero sentía el apoyo de su equipo en el alma. Con un último eslalon entre las banderas rojas y azules, cruzó el arco final derrapando y levantando una nube de nieve blanca. Al detenerse, el silencio de la montaña regresó, roto solo por su respiración agitada. No había ganado una medalla de oro olímpica, pero había vencido a su propio temor. Su abuelo se acercó y, sin decir nada, le puso una mano en el hombro. En sus ojos brillaba el orgullo de quien sabe que el verdadero deporte no consiste en derrotar a otros, sino en superarse a uno mismo cada día. Lucía sonrió, sabiendo que esa montaña ya no era una enemiga, sino su mejor maestra.",
+        "glosario": [
+            {
+                "palabra": "Fijaciones",
+                "definition": "Piezas que sujetan las botas del esquiador a las tablas de esquí de forma segura."
+            },
+            {
+                "palabra": "Gravedad",
+                "definition": "Fuerza natural que atrae los objetos hacia el suelo y nos permite deslizarnos montaña abajo."
+            },
+            {
+                "palabra": "Impecable",
+                "definition": "Algo que se hace sin ningún fallo o error, de forma perfecta."
+            },
+            {
+                "palabra": "Adherencia",
+                "definition": "Capacidad de un objeto para pegarse o mantenerse unido a una superficie sin resbalar."
+            },
+            {
+                "palabra": "Adrenalina",
+                "definition": "Sustancia que produce el cuerpo ante el peligro o la emoción y nos da energía extra."
+            },
+            {
+                "palabra": "Moguls",
+                "definition": "Montículos o bultos de nieve acumulada en las pistas que requieren mucha técnica para esquivar."
+            },
+            {
+                "palabra": "Cuádriceps",
+                "definition": "Músculos grandes situados en la parte delantera del muslo, esenciales para esquiar."
+            },
+            {
+                "palabra": "Eslalon",
+                "definition": "Carrera en zigzag sorteando obstáculos o palos llamados puertas."
+            },
+            {
+                "palabra": "Derrapar",
+                "definition": "Deslizar las tablas de lado sobre la nieve para frenar o cambiar de dirección bruscamente."
+            },
+            {
+                "palabra": "Resistencia",
+                "definition": "Capacidad de aguantar un esfuerzo físico durante mucho tiempo sin cansarse demasiado."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama la pista de esquí donde compite Lucía?",
+                "tipo": "test",
+                "opciones": [
+                    "La Cumbre Olvidada",
+                    "El Descenso del Águila",
+                    "La Pista de Cristal",
+                    "El Salto del Abuelo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué le enseñó su abuelo sobre la nieve?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es peligrosa y hay que evitarla",
+                    "Que tiene su propio lenguaje",
+                    "Que siempre debe ser de color azul",
+                    "Que no se puede esquiar si hace sol"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué parte del cuerpo le empezó a arder a Lucía debido al esfuerzo?",
+                "tipo": "test",
+                "opciones": [
+                    "Los brazos",
+                    "Los cuádriceps",
+                    "La espalda",
+                    "El cuello"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Cuando Lucía se encontró con la placa de hielo, ¿qué sentimiento experimentó primero?",
+                "tipo": "test",
+                "opciones": [
+                    "Alegría",
+                    "Pánico",
+                    "Aburrimiento",
+                    "Sueño"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Para qué sirven las piernas en el tramo de los 'moguls' según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Para frenar en seco",
+                    "Como amortiguadores",
+                    "Para sentarse en la nieve",
+                    "Para saltar por encima de las banderas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final de la carrera, ¿por qué dice el autor que el silencio regresó?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el público se fue a casa",
+                    "Porque Lucía dejó de moverse y de escuchar el viento",
+                    "Porque se le taponaron los oídos",
+                    "Porque empezó a nevar muy fuerte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la actitud de Lucía respecto a la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Le empezó a tener más miedo",
+                    "Decidió no volver nunca más",
+                    "Pasó de verla como una enemiga a verla como una maestra",
+                    "Quiso comprar la montaña para ella sola"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la técnica que Lucía usó para no caerse en el hielo?",
+                "tipo": "test",
+                "opciones": [
+                    "Cerrar los ojos fuerte",
+                    "Tensar todos los músculos",
+                    "Relajar las rodillas y mover la cadera",
+                    "Gritar para pedir ayuda"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que los consejos del abuelo ayudaron a Lucía en la vida real o solo en el esquí?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que le ayudaron para todo. Lo de escuchar a la montaña es como cuando tienes un problema y tienes que estar atento para saber qué hacer. Además, su abuelo le dio confianza, y eso sirve para el colegio o para cualquier cosa que te dé un poco de miedo."
+            },
+            {
+                "enunciado": "¿Qué significa para ti que 'el verdadero deporte consiste en superarse a uno mismo'?",
+                "tipo": "abierta",
+                "respuestaModelo": "Significa que no tienes que estar siempre obsesionado con ganar a los demás o tener el primer premio. Lo que importa es que hoy seas un poco mejor que ayer y que te sientas orgulloso de haberlo intentado aunque sea difícil, como hizo Lucía."
+            }
+        ]
+    },
+    {
+        "titulo": "El Saque de la Victoria",
+        "tema": "deportes",
+        "texto": "El silencio en la pista central de tenis era casi absoluto, solo roto por el rítmico bote de la pelota contra el suelo. Diego miraba fijamente la línea de fondo de la pista rival. Estaba en el último set del torneo de tenis escolar y el marcador estaba muy ajustado. El tenis es un deporte de precisión y resistencia mental, donde un solo error puede cambiar el rumbo de todo el encuentro. Diego sentía el sudor resbalando por su frente bajo la cinta del pelo. Su oponente, Javier, era conocido por su potente golpe de derecha, pero Diego había notado que flaqueaba cuando tenía que correr hacia la red. La estrategia es fundamental en el tenis; no basta con golpear fuerte, hay que saber dónde colocar la bola para incomodar al contrincante. El sol de la tarde alargaba las sombras sobre la tierra batida, dándole a la pista un color anaranjado intenso. Diego se preparó para sacar. Lanzó la pelota hacia arriba, buscando el punto de impacto ideal. Su brazo se extendió como un muelle y la raqueta golpeó la bola con un sonido seco y limpio. ¡Ace! El saque fue tan rápido que Javier ni siquiera pudo reaccionar. El público rompió en aplausos, pero Diego sabía que no podía distraerse. La concentración es como un hilo de cristal: muy valioso pero fácil de romper. En el siguiente punto, se produjo un intercambio larguísimo. Ambos jugadores corrían de un lado a otro, golpeando la pelota con efectos que la hacían curvarse en el aire. Diego utilizó un revés cortado para cambiar el ritmo, una técnica que hace que la pelota bote bajo y no se eleve, obligando a Javier a agacharse mucho. Javier llegó a duras penas y devolvió una bola alta y débil. Era la oportunidad perfecta. Diego subió a la red con decisión. Visualizó el espacio vacío y realizó una volea cruzada que sentenció el punto. El esfuerzo físico era agotador; sus pulmones demandaban más oxígeno y sus zapatillas estaban manchadas del polvo rojizo de la pista. Sin embargo, la pasión por el juego lo mantenía en pie. Quedaba el punto de partido. Diego volvió a botar la pelota: uno, dos, tres veces. Era su ritual para calmar las pulsaciones. Miró a su familia en la grada y vio a su hermana pequeña cruzando los dedos. Cerró los ojos un instante, sintió la textura del mango de la raqueta y sacó con toda su alma. La pelota rozó la cinta de la red, creando un momento de tensión insoportable, pero cayó en el campo contrario. Javier intentó llegar, pero la bola estaba fuera de su alcance. El partido había terminado. Los dos chicos se acercaron a la red y se dieron la mano con respeto. «Buen partido, Diego», dijo Javier con sinceridad. En ese apretón de manos residía la verdadera esencia del deporte: la deportividad. Ganar es satisfactorio, pero respetar al rival es lo que te convierte en un verdadero deportista.",
+        "glosario": [
+            {
+                "palabra": "Set",
+                "definition": "Cada una de las partes en las que se divide un partido de tenis."
+            },
+            {
+                "palabra": "Precisión",
+                "definition": "Capacidad de poner la pelota exactamente en el lugar que uno desea."
+            },
+            {
+                "palabra": "Tierra batida",
+                "definition": "Tipo de superficie de pista de tenis hecha de ladrillo triturado de color rojizo."
+            },
+            {
+                "palabra": "Ace",
+                "definition": "Un saque tan bueno que el rival no llega ni a tocar la pelota con su raqueta."
+            },
+            {
+                "palabra": "Efectos",
+                "definition": "Girar la pelota de una forma especial para que su trayectoria sea difícil de predecir."
+            },
+            {
+                "palabra": "Revés",
+                "definition": "Golpe que se da a la pelota cuando viene por el lado contrario a la mano que sujeta la raqueta."
+            },
+            {
+                "palabra": "Volea",
+                "definition": "Golpear la pelota en el aire antes de que llegue a botar en el suelo."
+            },
+            {
+                "palabra": "Ritual",
+                "definition": "Acciones que un deportista repite siempre igual para concentrarse o relajarse."
+            },
+            {
+                "palabra": "Deportividad",
+                "definition": "Actitud de respeto y amabilidad hacia el rival, ganes o pierdas."
+            },
+            {
+                "palabra": "Incomodar",
+                "definition": "Hacer que el otro jugador no esté a gusto o le cueste mucho devolver la pelota."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué material cubre la pista donde juega Diego?",
+                "tipo": "test",
+                "opciones": [
+                    "Hierba verde",
+                    "Cemento azul",
+                    "Tierra batida",
+                    "Madera"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llama el rival de Diego?",
+                "tipo": "test",
+                "opciones": [
+                    "Marcos",
+                    "Javier",
+                    "Luis",
+                    "Mateo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué gesto hicieron los jugadores al terminar el partido?",
+                "tipo": "test",
+                "opciones": [
+                    "Se fueron sin hablar",
+                    "Se dieron un abrazo",
+                    "Se dieron la mano con respeto",
+                    "Se pusieron a discutir"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Diego botaba la pelota tres veces antes de sacar?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se le olvidaba cómo sacar",
+                    "Para calmar sus pulsaciones y concentrarse",
+                    "Porque la pelota estaba sucia",
+                    "Porque el árbitro se lo obligaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué debilidad encontró Diego en el juego de su oponente?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no sabía sacar",
+                    "Que le costaba correr hacia la red",
+                    "Que siempre cerraba los ojos",
+                    "Que su raqueta era muy pesada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿A qué se refiere el autor cuando dice que la concentración es 'un hilo de cristal'?",
+                "tipo": "test",
+                "opciones": [
+                    "A que es transparente",
+                    "A que se puede romper muy fácilmente con cualquier distracción",
+                    "A que brilla mucho bajo el sol",
+                    "A que es muy cara de conseguir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué efecto tuvo el revés cortado de Diego en Javier?",
+                "tipo": "test",
+                "opciones": [
+                    "Hizo que Javier se cayera",
+                    "Obligó a Javier a agacharse mucho porque la bola botó bajo",
+                    "Hizo que la bola saliera fuera de la pista",
+                    "Hizo que Javier se riera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Según el texto, ¿qué es lo que te convierte en un verdadero deportista?",
+                "tipo": "test",
+                "opciones": [
+                    "Ganar todos los trofeos",
+                    "Tener la mejor raqueta",
+                    "Respetar al rival",
+                    "Correr más rápido que nadie"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que es importante saludar al rival al final, aunque hayas perdido?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque al final solo es un juego y el otro también se ha esforzado mucho. Si te enfadas y no saludas, pareces un mal perdedor. Lo mejor es ser educado porque así demuestras que te gusta el deporte por diversión y no solo por ganar."
+            },
+            {
+                "enunciado": "Si fueras el entrenador de Diego, ¿qué consejo le darías para su próximo partido?",
+                "tipo": "abierta",
+                "respuestaModelo": "Le diría que siga así de concentrado y que nunca deje de observar al otro jugador para ver sus fallos. También le diría que me ha gustado mucho que use la cabeza para pensar estrategias y no solo le pegue fuerte a la bola."
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Velódromo Azul",
+        "tema": "deportes",
+        "texto": "El aire dentro del velódromo estaba cargado de una tensión eléctrica que hacía que los vellos de los brazos de Pablo se erizaran. A sus once años, estaba a punto de participar en su primera carrera de persecución en pista. El ciclismo en pista no se parece en nada a pasear por el parque los domingos. Aquí, las bicicletas no tienen frenos ni piñón libre; si tus piernas no se mueven, la bicicleta tampoco. Pablo miraba la inclinación de las paredes de madera, que parecían muros verticales diseñados para desafiar las leyes de la física. Su entrenador, el señor Martínez, le ajustaba el casco aerodinámico mientras le daba los últimos consejos de estrategia. «La clave no es solo la fuerza bruta, Pablo», decía con voz ronca. «Es la cadencia y cómo gestionas tu energía en cada vuelta». Pablo asintió, aunque el estómago le daba vueltas como una lavadora. Su rival, un chico llamado Hugo que tenía piernas como troncos de roble, ya estaba listo en el lado opuesto de la pista. El objetivo era simple pero agotador: alcanzar al otro o marcar el mejor tiempo tras doce vueltas. Sonó el pistoletazo de salida. Pablo se impulsó con violencia, sintiendo cómo los neumáticos especiales se agarraban a la madera pulida. En las primeras vueltas, mantuvo una posición baja, escondiendo el pecho para ofrecer la menor resistencia posible al viento. El zumbido de las ruedas lenticulares era el único sonido que competía con los latidos de su corazón. A mitad de carrera, las piernas empezaron a quemarle. El ácido láctico era como un fuego invisible que recorría sus músculos. Miró de reojo hacia el otro lado del óvalo; Hugo le sacaba media vuelta de ventaja. El desánimo intentó colarse en su mente, pero recordó las horas de sacrificio, levantándose antes del amanecer para entrenar bajo la lluvia. «No te rindas ahora, el esfuerzo es el combustible del éxito», se dijo a sí mismo. Aumentó la frecuencia de pedaleo. En las curvas peraltadas, sentía la fuerza centrífuga empujándolo hacia afuera, pero él se mantenía firme en la línea negra, el camino más corto hacia la gloria. Faltaban dos vueltas. Sus pulmones buscaban aire desesperadamente. Con un esfuerzo sobrehumano, lanzó un sprint final. Sus ojos se nublaban por el sudor, pero sus piernas respondían con una lealtad asombrosa. Cruzó la línea de meta justo cuando la campana indicaba el final. No sabía si había ganado, pero al bajarse de la bicicleta y sentir el temblor de sus rodillas, supo que había dado todo lo que tenía dentro. El señor Martínez se acercó con una toalla y una sonrisa de oreja a oreja. El marcador electrónico confirmó que Pablo había superado su propia marca personal por cinco segundos. No importaba el puesto en el podio; aquella tarde, Pablo descubrió que su mayor competidor no era Hugo, sino sus propias ganas de abandonar cuando las cosas se ponían difíciles.",
+        "glosario": [
+            {
+                "palabra": "Velódromo",
+                "definition": "Pista artificial con curvas inclinadas destinada a carreras de bicicletas."
+            },
+            {
+                "palabra": "Piñón libre",
+                "definition": "Mecanismo que permite que la rueda trasera gire sin que los pedales se muevan."
+            },
+            {
+                "palabra": "Aerodinámico",
+                "definition": "Diseño que ayuda a reducir la resistencia del aire para ir más rápido."
+            },
+            {
+                "palabra": "Cadencia",
+                "definition": "Ritmo o velocidad a la que un ciclista hace girar los pedales."
+            },
+            {
+                "palabra": "Lenticulares",
+                "definition": "Ruedas de bicicleta que son totalmente planas y cerradas, sin radios, para ser más rápidas."
+            },
+            {
+                "palabra": "Ácido láctico",
+                "definition": "Sustancia que produce el cuerpo durante el ejercicio intenso y que causa fatiga muscular."
+            },
+            {
+                "palabra": "Peraltadas",
+                "definition": "Curvas que tienen una inclinación o rampa para que los vehículos no se salgan por la velocidad."
+            },
+            {
+                "palabra": "Fuerza centrífuga",
+                "definition": "Fuerza que tiende a alejar los objetos del centro cuando giran en curva."
+            },
+            {
+                "palabra": "Sacrificio",
+                "definition": "Esfuerzo constante que se hace para conseguir algo muy importante, renunciando a otras cosas."
+            },
+            {
+                "palabra": "Línea negra",
+                "definition": "Marca en el suelo del velódromo que indica el camino más corto para recorrer la pista."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el entrenador de Pablo?",
+                "tipo": "test",
+                "opciones": [
+                    "Hugo",
+                    "Señor Martínez",
+                    "Señor García",
+                    "Pablo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuántas vueltas tenía que dar Pablo a la pista?",
+                "tipo": "test",
+                "opciones": [
+                    "Cinco",
+                    "Diez",
+                    "Doce",
+                    "Veinte"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué características tienen las bicicletas de velódromo según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Tienen frenos muy potentes",
+                    "Tienen cestas para llevar agua",
+                    "No tienen frenos ni piñón libre",
+                    "Son de madera"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que Hugo tuviera 'piernas como troncos de roble'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que sus piernas eran de madera",
+                    "Que tenía las piernas muy fuertes y musculosas",
+                    "Que no podía mover las piernas",
+                    "Que era un chico muy alto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Pablo intentaba mantener una posición baja durante la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Para ver mejor el suelo",
+                    "Porque le dolía la espalda",
+                    "Para ofrecer menos resistencia al viento",
+                    "Porque tenía sueño"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "A mitad de la carrera, ¿qué problema interno tuvo que superar Pablo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se le pinchó una rueda",
+                    "El deseo de rendirse por el cansancio",
+                    "Que el entrenador lo regañó",
+                    "Que perdió el casco"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Pablo al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que Hugo era mucho mejor que él",
+                    "Que las bicicletas sin frenos son peligrosas",
+                    "Que su mayor rival es él mismo y su miedo",
+                    "Que ganar medallas es lo único importante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué efecto tiene la fuerza centrífuga en las curvas?",
+                "tipo": "test",
+                "opciones": [
+                    "Ayuda a pedalear más rápido",
+                    "Empuja al ciclista hacia la parte de fuera de la pista",
+                    "Hace que la bicicleta pese menos",
+                    "Enfría el aire del velódromo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que es bueno que Pablo se levante a entrenar bajo la lluvia antes de ir al colegio? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí es bueno porque demuestra que tiene mucha disciplina. Aunque dé un poco de pereza levantarse tan temprano y mojarse, eso te hace más fuerte mentalmente y luego cuando estás en la carrera de verdad te acuerdas de que te esforzaste mucho y no te rindes."
+            },
+            {
+                "enunciado": "¿Qué es para ti ser un buen deportista después de leer esta historia?",
+                "tipo": "abierta",
+                "respuestaModelo": "Para mí ser un buen deportista es intentar mejorar tus propias marcas, como hizo Pablo. No hace falta llegar el primero de todo el mundo, lo que mola es ver que antes hacías un tiempo y ahora eres más rápido porque has trabajado mucho. También es importante no rendirse aunque te duelan los músculos."
+            }
+        ]
+    },
+    {
+        "titulo": "El Corazón bajo el Agua",
+        "tema": "deportes",
+        "texto": "El agua de la piscina olímpica estaba tan quieta que parecía un espejo gigante de color turquesa. Marina ajustaba sus gafas de natación, asegurándose de que el vacío hiciera succión sobre sus ojos. En la natación, cada detalle cuenta: desde la posición de los dedos hasta la forma en que el cuerpo corta el agua. Marina iba a nadar los 200 metros estilo mariposa, probablemente la disciplina más exigente físicamente de todas. Requiere una coordinación perfecta entre el movimiento de brazos, que parecen alas golpeando el agua, y la patada de delfín que impulsa el cuerpo hacia adelante. La humedad del ambiente le recordaba a los veranos en el pueblo, pero aquí no había juegos, solo competición. Se subió al bloque de salida. Sus dedos de los pies se agarraron al borde rugoso. «¡A sus puestos!», gritó el juez. El sonido de la bocina fue la señal para que Marina se lanzara al vacío. El impacto contra el agua fue limpio, una entrada perfecta que le permitió deslizarse varios metros de forma subacuática. Al salir a la superficie, comenzó el ritmo hipnótico de la mariposa. Sus hombros salían del agua con fuerza, mientras sus pulmones aprovechaban ese segundo de libertad para inhalar todo el aire posible. La natación es un deporte de soledad; bajo el agua solo escuchas las burbujas y el eco de tus propios pensamientos. Al llegar a los 100 metros, Marina sintió que sus brazos pesaban como si fueran de plomo. El cansancio en este deporte no avisa, simplemente te abraza y trata de hundirte. Sus rivales estaban muy cerca; por el rabillo del ojo veía las salpicaduras de la calle de al lado. «Mantén la técnica», se repetía mentalmente. Si perdía la coordinación del movimiento ondulante, su velocidad caería en picado. En el último giro, empujó la pared con las piernas con toda su potencia. Quedaban cincuenta metros. El ácido láctico hacía que cada brazada fuera una tortura, pero Marina visualizó la meta. Recordó el valor de la perseverancia, esa fuerza interior que te empuja a seguir cuando el cuerpo dice basta. La grada era un borrón de colores y gritos sordos. Con un último impulso, estiró el brazo derecho y tocó la placa metálica de llegada. Al sacar la cabeza y quitarse las gafas, vio que había quedado segunda. Jadeando, miró a la ganadora y le estrechó la mano con una sonrisa sincera. No sentía tristeza por no ser la primera. Sentía la satisfacción de haber bajado su tiempo personal y de haber dominado la mariposa sin desfallecer. En la natación, aprendes que el agua no es un obstáculo, sino un medio para descubrir de qué estás hecho. Aquel día, Marina no solo se llevó una medalla de plata a casa; se llevó la certeza de que su voluntad era mucho más profunda que cualquier piscina.",
+        "glosario": [
+            {
+                "palabra": "Succión",
+                "definition": "Efecto de apretar algo quitando el aire para que se quede pegado, como las gafas de buceo."
+            },
+            {
+                "palabra": "Estilo Mariposa",
+                "definition": "Forma de nadar donde los dos brazos se mueven a la vez por fuera del agua y las piernas hacen fuerza juntas."
+            },
+            {
+                "palabra": "Coordinación",
+                "definition": "Capacidad de mover diferentes partes del cuerpo de forma ordenada para hacer un ejercicio bien."
+            },
+            {
+                "palabra": "Patada de delfín",
+                "definition": "Movimiento ondulado de las piernas juntas, parecido al que hacen los delfines al nadar."
+            },
+            {
+                "palabra": "Subacuática",
+                "definition": "Acción que ocurre o se realiza debajo de la superficie del agua."
+            },
+            {
+                "palabra": "Hipnótico",
+                "definition": "Algo que se repite de forma tan rítmica que parece que te deja embobado mirándolo."
+            },
+            {
+                "palabra": "Ondulante",
+                "definition": "Movimiento que hace formas de olas o curvas con el cuerpo."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definition": "Valor de seguir intentando algo difícil sin rendirse hasta conseguirlo."
+            },
+            {
+                "palabra": "Desfallecer",
+                "definition": "Sentirse tan cansado o débil que parece que vas a desmayarte o dejar de esforzarte."
+            },
+            {
+                "palabra": "Voluntad",
+                "definition": "La capacidad que tenemos las personas para decidir hacer algo y esforzarnos por ello."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué distancia tenía que nadar Marina?",
+                "tipo": "test",
+                "opciones": [
+                    "50 metros",
+                    "100 metros",
+                    "200 metros",
+                    "500 metros"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llama el estilo de natación que practica la protagonista?",
+                "tipo": "test",
+                "opciones": [
+                    "Crol",
+                    "Espalda",
+                    "Braza",
+                    "Mariposa"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿En qué puesto quedó Marina al final de la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Primero",
+                    "Segundo",
+                    "Tercero",
+                    "Último"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el autor dice que la natación es un 'deporte de soledad'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque nadie va a ver las carreras",
+                    "Porque bajo el agua no puedes hablar con nadie y solo oyes tus pensamientos",
+                    "Porque se entrena en piscinas vacías",
+                    "Porque Marina no tiene amigos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sucede si un nadador de mariposa pierde la coordinación?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el agua se vuelve turquesa",
+                    "Que su velocidad baja mucho",
+                    "Que se le rompen las gafas",
+                    "Que el juez lo descalifica inmediatamente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al llegar a los 100 metros, ¿qué sensación física describe Marina?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenía mucha hambre",
+                    "Que sus brazos pesaban como el plomo",
+                    "Que el agua estaba demasiado caliente",
+                    "Que quería salirse de la piscina"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué valor ayudó a Marina a terminar la carrera cuando le dolían los músculos?",
+                "tipo": "test",
+                "opciones": [
+                    "La suerte",
+                    "La perseverancia",
+                    "La rapidez",
+                    "La altura"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo reaccionó Marina al ver que había ganado otra chica?",
+                "tipo": "test",
+                "opciones": [
+                    "Se puso a llorar",
+                    "Salió de la piscina enfadada",
+                    "Le estrechó la mano con una sonrisa",
+                    "Pidió que repitieran la carrera"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Marina dice que 'el agua no es un obstáculo'. ¿Qué crees que quiere decir con eso aplicado a los problemas de clase?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que quiere decir que las cosas difíciles no están ahí para frenarte, sino para que aprendas a superarlas. Como cuando un examen parece imposible pero estudias y al final te sale bien, pues el agua es igual, parece que te frena pero en verdad te ayuda a ser mejor."
+            },
+            {
+                "enunciado": "¿Te parece importante bajar tu propio tiempo aunque no ganes la medalla de oro? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, porque lo más importante es competir contra ti mismo. Si siempre te comparas con los demás te puedes poner triste, pero si ves que tú antes nadabas más lento y ahora vas más rápido, eso significa que tu entrenamiento ha funcionado y que eres más fuerte que antes."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Tatami",
+        "tema": "deportes",
+        "texto": "El silencio en el dojo era tan profundo que Álex podía escuchar el roce de sus propios pies descalzos sobre la lona. A sus doce años, se enfrentaba al examen más importante de su vida deportiva: el cinturón negro de judo. Frente a él estaba su maestro, el sensei Tanaka, un hombre de mirada serena pero exigente que siempre repetía que el judo no es para derribar al otro, sino para caer y levantarse con dignidad. Álex sentía el sudor frío bajando por su espalda bajo el grueso judogi blanco. El examen no consistía solo en demostrar fuerza física, sino en dominar el arte de la técnica y el equilibrio mental. El judo es un deporte fascinante donde se aprovecha la fuerza del oponente para ganar ventaja, algo que requiere una concentración absoluta. Álex saludó con una inclinación respetuosa antes de comenzar el combate de prueba contra un compañero más alto. Los primeros movimientos fueron tensos. Su rival intentó un barrido rápido, pero Álex reaccionó a tiempo desplazando su centro de gravedad. Recordó que el judo enseña a ser como el bambú: flexible para no romperse ante la presión. Cada agarre en la solapa era una lucha de voluntades. De repente, su oponente cometió un pequeño error al adelantar demasiado el pie derecho. Álex visualizó la técnica perfecta, un movimiento fluido que había practicado mil veces durante las tardes de invierno. Con un giro de cadera preciso, ejecutó un lanzamiento que proyectó a su compañero de forma controlada sobre el tatami. No hubo ruidos de impacto brusco, solo el sonido seco de una caída bien amortiguada. Álex ayudó a su compañero a levantarse inmediatamente, siguiendo el código de respeto del dojo. El sensei Tanaka asintió levemente, una señal que para Álex valía más que mil aplausos. El examen continuó con ejercicios de suelo, donde la resistencia muscular se puso a prueba. A pesar del cansancio que entumecía sus brazos, Álex mantuvo la calma. Sabía que la impaciencia es el peor enemigo de un judoca. Al finalizar la sesión, todos se sentaron en posición de meditación para recuperar el aliento. El sensei se acercó con un cinturón negro cuidadosamente doblado entre las manos. Álex sintió un nudo en la garganta. Al recibirlo, comprendió que ese trozo de tela no representaba el final de un camino, sino el comienzo de una responsabilidad mayor. Había aprendido que el verdadero poder reside en el autocontrol y en saber que la fuerza sin inteligencia no sirve de nada. Al salir del dojo, bajo el cielo estrellado, Álex caminaba con la cabeza alta. No se sentía superior a nadie, sino simplemente más dueño de sí mismo. El deporte le había dado una brújula para la vida: el respeto por los demás y la confianza en su propio esfuerzo constante.",
+        "glosario": [
+            {
+                "palabra": "Dojo",
+                "definition": "Lugar dedicado a la práctica y estudio de las artes marciales."
+            },
+            {
+                "palabra": "Tatami",
+                "definition": "Superficie acolchada sobre la que se practica judo para evitar lesiones en las caídas."
+            },
+            {
+                "palabra": "Judogi",
+                "definition": "Traje especial compuesto por chaqueta, pantalón y cinturón usado por los judocas."
+            },
+            {
+                "palabra": "Sensei",
+                "definition": "Palabra japonesa que significa maestro o el que ha nacido antes."
+            },
+            {
+                "palabra": "Centro de gravedad",
+                "definition": "Punto imaginario donde se concentra el peso de un cuerpo y ayuda a mantener el equilibrio."
+            },
+            {
+                "palabra": "Oponente",
+                "definition": "Persona que juega o lucha contra otra en una competición o juego."
+            },
+            {
+                "palabra": "Amortiguada",
+                "definition": "Hacer que un golpe o un ruido sea menos fuerte o violento."
+            },
+            {
+                "palabra": "Judoca",
+                "definition": "Persona que practica el deporte del judo."
+            },
+            {
+                "palabra": "Autocontrol",
+                "definition": "Capacidad de controlar los propios impulsos, emociones o acciones."
+            },
+            {
+                "palabra": "Dignidad",
+                "definition": "Valor de comportarse con respeto y decoro, especialmente en la derrota o el esfuerzo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué cinturón está intentando conseguir Álex en su examen?",
+                "tipo": "test",
+                "opciones": [
+                    "Cinturón blanco",
+                    "Cinturón azul",
+                    "Cinturón negro",
+                    "Cinturón verde"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llama el maestro de Álex?",
+                "tipo": "test",
+                "opciones": [
+                    "Sensei Sato",
+                    "Sensei Tanaka",
+                    "Maestro Álex",
+                    "Señor Dojo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la palabra 'Dojo'?",
+                "tipo": "test",
+                "opciones": [
+                    "Tipo de comida japonesa",
+                    "Lugar de práctica de artes marciales",
+                    "Nombre de la ropa de judo",
+                    "La lona del suelo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿A qué se refiere el maestro con ser 'como el bambú'?",
+                "tipo": "test",
+                "opciones": [
+                    "A que deben comer muchas plantas",
+                    "A que deben ser verdes y altos",
+                    "A que deben ser flexibles para adaptarse a la fuerza del otro",
+                    "A que deben quedarse quietos como árboles"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué error cometió el oponente de Álex durante el combate?",
+                "tipo": "test",
+                "opciones": [
+                    "Se soltó el cinturón",
+                    "Se puso a hablar",
+                    "Adelantó demasiado el pie derecho",
+                    "Se salió del tatami"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Álex ayudó a su compañero a levantarse después de lanzarlo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el compañero se lo pidió gritando",
+                    "Porque era parte de las reglas del examen para ganar puntos",
+                    "Por el código de respeto y cortesía del judo",
+                    "Porque tenía miedo de que le regañaran"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué aprendió Álex sobre la fuerza al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la fuerza es lo más importante para ganar",
+                    "Que hay que ser más fuerte que todos los demás",
+                    "Que la fuerza sin inteligencia no sirve de nada",
+                    "Que no hace falta tener fuerza para hacer judo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Al final, ¿cómo se siente Álex al salir del dojo?",
+                "tipo": "test",
+                "opciones": [
+                    "Cansado y enfadado por el examen",
+                    "Superior a todos por tener el cinturón negro",
+                    "Dueño de sí mismo y con confianza",
+                    "Con ganas de dejar el deporte"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que el judo es un deporte violento? Explica tu opinión.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no es violento porque aunque se tiran al suelo, lo hacen con mucho respeto y con reglas. El maestro dice que es para aprender a levantarse con dignidad, así que me parece más un deporte para aprender a controlarse que para pelear de verdad."
+            },
+            {
+                "enunciado": "El texto dice que el cinturón no es el final, sino una responsabilidad. ¿Qué crees que significa eso?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que significa que ahora que Álex es cinturón negro, tiene que dar ejemplo a los niños más pequeños del dojo. No puede portarse mal o dejar de entrenar, ahora tiene que demostrar que se merece ese cinturón siendo mejor persona cada día."
+            }
+        ]
+    },
+    {
+        "titulo": "Remando contra la Corriente",
+        "tema": "deportes",
+        "texto": "El río Ebro bajaba con un caudal generoso aquella mañana de primavera, reflejando destellos plateados bajo la luz del sol. Sofía y su equipo de piragüismo estaban preparadas en el muelle, con sus embarcaciones K4 listas para entrar en el agua. El piragüismo es un deporte que exige una sincronización casi mágica; si una sola persona rema a un ritmo diferente, la piragua empieza a cabecear y pierde toda su inercia. Sofía, que ocupaba la posición de marca en la parte delantera, era la encargada de marcar el ritmo de las paladas. A sus once años, ya sabía que liderar no significa mandar, sino servir de guía para sus compañeras. El sonido del agua golpeando los cascos de fibra de carbono era como una melodía rítmica que las relajaba antes de la regata. Al oír la señal de salida, las cuatro chicas clavaron sus palas en el agua al unísono. La fuerza de sus dorsales y brazos impulsaba la piragua con una elegancia asombrosa. Sin embargo, a mitad del recorrido, se encontraron con una zona de corrientes adversas. El agua parecía querer empujarlas hacia la orilla derecha, lejos de las boyas que marcaban el camino. El esfuerzo se duplicó. Sofía sentía cómo el ácido láctico empezaba a entumecer sus hombros, pero no bajó la intensidad. «¡Ritmo, chicas, una, dos, una, dos!», gritaba para mantener el ánimo del grupo. La comunicación en un equipo de remo es vital, especialmente cuando el cansancio intenta nublar la mente. De repente, una racha de viento racheado les dio de costado, haciendo que la piragua se tambaleara peligrosamente. Por un momento, el pánico rozó a la chica que iba en la última posición, pero Sofía mantuvo la vista al frente, transmitiendo una calma contagiosa a través de la firmeza de sus movimientos. Remar contra la corriente es una metáfora perfecta de la vida: a veces las cosas se ponen difíciles, pero si mantienes el rumbo y confías en los que te rodean, acabas llegando a tu destino. Al acercarse a la última boya, vieron que el equipo rival les pisaba los talones. Sus palas entraban y salían del agua con una frecuencia frenética, levantando pequeñas nubes de espuma blanca. Sofía apretó los dientes y dio un último grito de aliento. Sus compañeras respondieron con un esfuerzo heroico, vaciándose por completo en cada palada final. Cruzaron la línea de meta apenas por media piragua de ventaja. Exhaustas, dejaron que la corriente las llevara suavemente mientras recuperaban el aliento, con los rostros iluminados por la alegría del éxito compartido. Al volver al club náutico, mientras limpiaban la embarcación con cuidado, Sofía comprendió que la medalla no era lo más importante. Lo que realmente contaba era que habían superado el miedo y el cansancio trabajando como un solo organismo. El río les había enseñado que la unión hace la fuerza y que, con constancia, no hay corriente lo suficientemente fuerte como para detener un sueño compartido.",
+        "glosario": [
+            {
+                "palabra": "Caudal",
+                "definition": "Cantidad de agua que lleva un río en un momento y lugar determinado."
+            },
+            {
+                "palabra": "Sincronización",
+                "definition": "Hacer que varias personas realicen un movimiento al mismo tiempo y con el mismo ritmo."
+            },
+            {
+                "palabra": "Inercia",
+                "definition": "Propiedad de los cuerpos de mantener su estado de movimiento si no hay una fuerza que los pare."
+            },
+            {
+                "palabra": "K4",
+                "definition": "Tipo de piragua de competición diseñada para ser tripulada por cuatro personas."
+            },
+            {
+                "palabra": "Palada",
+                "definition": "Cada uno de los movimientos que se hacen con el remo o pala para impulsar la embarcación."
+            },
+            {
+                "palabra": "Dorsales",
+                "definition": "Músculos anchos de la espalda que se usan mucho al remar."
+            },
+            {
+                "palabra": "Adversas",
+                "definition": "Algo que es contrario o desfavorable, como una corriente de agua que va en contra."
+            },
+            {
+                "palabra": "Viento racheado",
+                "definition": "Viento que viene con golpes fuertes y repentinos de aire."
+            },
+            {
+                "palabra": "Metáfora",
+                "definition": "Figura que consiste en usar el significado de una cosa para explicar otra diferente con la que tiene parecido."
+            },
+            {
+                "palabra": "Exhaustas",
+                "definition": "Estar totalmente agotadas o sin fuerzas después de un gran esfuerzo físico."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué río se desarrolla la historia de Sofía?",
+                "tipo": "test",
+                "opciones": [
+                    "Río Tajo",
+                    "Río Ebro",
+                    "Río Duero",
+                    "Río Guadalquivir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la función de Sofía dentro de la piragua?",
+                "tipo": "test",
+                "opciones": [
+                    "Llevar la comida",
+                    "Marcar el ritmo de las paladas",
+                    "Hacer fotos de la carrera",
+                    "Ir sentada sin hacer nada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué material se menciona que forma el casco de la piragua?",
+                "tipo": "test",
+                "opciones": [
+                    "Madera de pino",
+                    "Plástico reciclado",
+                    "Fibra de carbono",
+                    "Hierro pesado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué pasa si una de las chicas rema a un ritmo distinto al de las demás?",
+                "tipo": "test",
+                "opciones": [
+                    "La piragua va más rápido",
+                    "La piragua empieza a cabecear y pierde velocidad",
+                    "Ganan la carrera automáticamente",
+                    "No pasa nada importante"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué dificultad externa se encontraron a mitad del recorrido?",
+                "tipo": "test",
+                "opciones": [
+                    "Se les rompió una pala",
+                    "Había mucha gente nadando",
+                    "Zonas de corrientes adversas y viento",
+                    "Se hizo de noche de repente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Sofía dice que liderar no es mandar. ¿Cómo lidera ella al equipo?",
+                "tipo": "test",
+                "opciones": [
+                    "Gritando a sus compañeras porque van despacio",
+                    "Siendo una guía y manteniendo la calma para dar confianza",
+                    "Remando ella sola sin ayuda",
+                    "Llegando la última a los entrenamientos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por cuánto tiempo ganaron la carrera al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Por diez minutos",
+                    "Por media piragua de ventaja",
+                    "Llegaron empatadas",
+                    "Perdieron por muy poco"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué es lo que realmente importaba para Sofía al terminar la regata?",
+                "tipo": "test",
+                "opciones": [
+                    "Tener una medalla de oro brillante",
+                    "Haber trabajado como un solo equipo superando el cansancio",
+                    "Que el equipo rival se enfadara",
+                    "Salir en el periódico del colegio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que el piragüismo ayuda a hacer mejores amigos?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque tienes que confiar mucho en los otros. Si no os lleváis bien, es imposible remar a la vez y la piragua no se mueve. Al final, pasar por momentos difíciles en el río hace que estéis más unidos."
+            },
+            {
+                "enunciado": "La historia dice que remar contra la corriente es como la vida. ¿Qué ejemplo se te ocurre en el colegio donde haya que 'remar contra la corriente'?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pues cuando una asignatura se te da fatal y parece que no vas a aprobar, eso es como la corriente que te empuja. Tienes que esforzarte el doble y pedir ayuda a tus profes o amigos para seguir adelante y llegar a la meta."
+            }
+        ]
+    },
+    {
+        "titulo": "El Saque del Pantano",
+        "tema": "deportes",
+        "texto": "El sol de la tarde caía con fuerza sobre el campo de voleibol de arena, transformando el pequeño polideportivo municipal en un escenario de batalla épica. Martín, el capitán del equipo de los Halcones, sentía el calor quemando sus pies descalzos, pero su atención estaba puesta exclusivamente en la pelota. Estaban en el set decisivo de la final regional y el marcador gritaba un empate técnico que ponía los nervios a flor de piel. El voleibol es un deporte de reflejos eléctricos y, sobre todo, de una coordinación milimétrica entre compañeros. No se trata solo de saltar alto; se trata de saber dónde estará tu amigo antes de que él mismo lo decida. Martín miró a su izquierda y vio a Lucía lista para el apoyo. Ella era la colocadora, el cerebro del equipo que decidía quién lanzaría el remate final. El entrenador había pedido un tiempo muerto para calmar los ánimos, recordándoles que la victoria no reside en la potencia, sino en la inteligencia emocional del grupo. Cuando el árbitro hizo sonar el silbato, el silencio se apoderó de la grada. Era el turno de saque de Martín. Botó la pelota tres veces, buscando el ritmo de su respiración. Lanzó el balón al aire, un arco perfecto que parecía detenerse por un segundo frente al sol. Saltó con todas sus fuerzas, conectando la palma de su mano con el cuero sintético con un sonido seco que resonó en todo el recinto. El saque fue un misil directo hacia la línea de fondo contraria. Los rivales lograron salvar la bola con un toque desesperado, pero la dejaron franca para un contraataque. Lucía se deslizó por la arena, metiendo las manos bajo el balón con una suavidad asombrosa, elevándolo lo justo para que Martín pudiera rematar. En ese instante, Martín no pensó en la medalla ni en los aplausos. Pensó en las horas de entrenamiento bajo la lluvia y en cómo Lucía siempre le animaba cuando fallaba. Saltó más alto que nunca, suspendido en el aire como si el tiempo se hubiera congelado. Su brazo derecho bajó como un rayo, golpeando el balón con una precisión quirúrgica hacia el hueco que la defensa había dejado libre. El balón impactó contra la arena, levantando una nube de polvo dorado justo antes de que el defensor pudiera llegar. ¡Punto y partido! Sus compañeros corrieron hacia él, derribándolo en una montaña de alegría y sudor. Martín comprendió entonces que el deporte le había regalado algo más valioso que un trofeo: la certeza de que, cuando confías plenamente en los demás, los imposibles dejan de existir. Aquella tarde, mientras el equipo celebraba, Martín guardó un poco de arena en su bolsillo como recordatorio de que el éxito real es el que se construye hombro con hombro, compartiendo el esfuerzo y la ilusión.",
+        "glosario": [
+            {
+                "palabra": "Set",
+                "definition": "Cada una de las partes en que se divide un partido de voleibol o tenis."
+            },
+            {
+                "palabra": "Colocadora",
+                "definition": "Jugadora encargada de dar el segundo pase para que un compañero pueda rematar."
+            },
+            {
+                "palabra": "Reflejos",
+                "definition": "Capacidad de reaccionar muy rápido ante un estímulo, como el movimiento del balón."
+            },
+            {
+                "palabra": "Milimétrica",
+                "definition": "Algo que se hace con muchísima precisión, sin apenas margen de error."
+            },
+            {
+                "palabra": "Inteligencia emocional",
+                "definition": "Saber controlar los nervios y entender cómo se sienten los compañeros para jugar mejor."
+            },
+            {
+                "palabra": "Saque",
+                "definition": "Acción de poner el balón en juego desde detrás de la línea de fondo."
+            },
+            {
+                "palabra": "Remate",
+                "definition": "Golpe fuerte y hacia abajo que se hace para intentar que el balón toque el suelo rival."
+            },
+            {
+                "palabra": "Cuero sintético",
+                "definition": "Material artificial que imita la piel y con el que se fabrican muchos balones."
+            },
+            {
+                "palabra": "Franca",
+                "definition": "En el deporte, se refiere a una pelota que queda fácil de golpear para el contrario."
+            },
+            {
+                "palabra": "Quirúrgica",
+                "definition": "Forma de decir que algo es extremadamente exacto o preciso."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el equipo que capitanea Martín?",
+                "tipo": "test",
+                "opciones": [
+                    "Los Halcones",
+                    "Los Águilas",
+                    "Los Rayos",
+                    "Los Gigantes"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué posición ocupa Lucía en el equipo?",
+                "tipo": "test",
+                "opciones": [
+                    "Entrenadora",
+                    "Árbitro",
+                    "Colocadora",
+                    "Defensora de fondo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué objeto guardó Martín en su bolsillo al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Una medalla",
+                    "Un poco de arena",
+                    "El silbato",
+                    "Una foto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el autor dice que Lucía es el 'cerebro' del equipo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque es la que más estudia",
+                    "Porque ella decide quién hará el último ataque",
+                    "Porque lleva gafas",
+                    "Porque es la más alta"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el principal consejo del entrenador durante el tiempo muerto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que golpearan el balón con mucha fuerza",
+                    "Que la inteligencia emocional era más importante que la potencia",
+                    "Que se fijaran en el marcador constantemente",
+                    "Que cambiaran de zapatillas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "A juzgar por el texto, ¿qué siente Martín por Lucía?",
+                "tipo": "test",
+                "opciones": [
+                    "Envidia porque ella decide las jugadas",
+                    "Mucho respeto y confianza como compañeros de equipo",
+                    "Enfado porque ella fallaba mucho",
+                    "Miedo de que ella le quitara el puesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el marcador mostraba un 'empate técnico'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las máquinas se habían estropeado",
+                    "Que los dos equipos tenían los mismos puntos y estaba muy igualado",
+                    "Que el partido había terminado antes de tiempo",
+                    "Que nadie quería jugar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué motivó a Martín a saltar más alto en el último punto?",
+                "tipo": "test",
+                "opciones": [
+                    "El deseo de ser famoso",
+                    "El recuerdo del apoyo de Lucía y el entrenamiento duro",
+                    "Que el sol le molestaba en los ojos",
+                    "Que quería terminar rápido para irse a casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que es importante que Martín guardara arena en su bolsillo en lugar de presumir del trofeo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, me parece súper chulo porque eso significa que para él lo más importante fue el momento vivido con sus amigos y no solo ganar una copa de metal. La arena le recordará siempre el esfuerzo que hicieron todos juntos en el campo."
+            },
+            {
+                "enunciado": "El texto dice que el voleibol es saber donde estará tu amigo antes que él. ¿Cómo se consigue eso?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que eso se consigue entrenando muchísimas horas juntos y siendo muy buenos amigos. Si conoces bien a tus compañeros, ya sabes cómo se mueven y puedes ayudarlos mejor cuando la pelota viene difícil."
+            }
+        ]
+    },
+    {
+        "titulo": "El Maillot de la Perseverancia",
+        "tema": "deportes",
+        "texto": "Las ruedas de la bicicleta de Elena producían un zumbido constante sobre el asfalto de la carretera de montaña. A sus doce años, se enfrentaba a la etapa reina del campeonato de ciclismo en ruta juvenil. El puerto de montaña, con sus curvas cerradas llamadas horquillas, se alzaba ante ella como un gigante de piedra que no quería dejarla pasar. El ciclismo es una disciplina de resistencia extrema donde la mente suele rendirse mucho antes que las piernas. Elena sentía que sus pulmones eran demasiado pequeños para el aire que necesitaba, y el sudor le escocía en los ojos, nublando su visión por momentos. Su maillot estaba empapado, pero ella mantenía una cadencia rítmica, moviendo los pedales con una determinación de hierro. No iba sola; a pocos metros se encontraba su principal rival, un chico que pedaleaba con una fuerza impresionante. Sin embargo, el ciclismo de montaña no solo se gana con potencia, sino con aerodinámica y, sobre todo, con paciencia. Elena sabía que si gastaba todas sus fuerzas al principio, no llegaría a la cima. Su abuelo, que había sido mecánico de bicicletas, siempre le decía que la bici es una extensión del cuerpo y que hay que escuchar sus ruidos. De repente, sintió que la cadena saltaba ligeramente. Un escalofrío le recorrió la espalda. Si la bicicleta fallaba en plena subida, sus opciones desaparecerían. Con cuidado, cambió de marcha, buscando un piñón más grande que le permitiera subir con menos esfuerzo pero a la misma velocidad. La carretera se volvía cada vez más empinada. Las paredes de roca a los lados parecían cerrarse sobre ella. Pero Elena cerró los ojos un segundo y visualizó la línea de meta. Recordó por qué amaba este deporte: la libertad de sentir el viento, la belleza de los paisajes y la satisfacción de superar sus propios límites. A falta de quinientos metros, el terreno se suavizó un poco. Era el momento de atacar. Elena se puso de pie sobre los pedales, balanceando la bicicleta de lado a lado con un movimiento que los ciclistas llaman bailar sobre la bici. Sus piernas, que antes le gritaban que parara, ahora parecían llenas de una energía renovada. Rebasó a su rival con una velocidad asombrosa, aprovechando cada gramo de fuerza que le quedaba. Al cruzar la cumbre, donde estaba la meta, el estallido de aplausos la recibió como una marea cálida. Había ganado la etapa, pero lo que más le importaba era que no se había bajado de la bici cuando el dolor era más fuerte. Al bajarse, sus piernas temblaban como gelatina, pero su sonrisa era inmensa. Comprendió que el maillot que llevaba no era solo ropa deportiva, sino una armadura que representaba su voluntad. El ciclismo le había enseñado que las cuestas más empinadas de la vida se suben igual que las de la montaña: pedalada a pedalada, sin dejar de mirar nunca hacia adelante.",
+        "glosario": [
+            {
+                "palabra": "Maillot",
+                "definition": "Camiseta ajustada que usan los ciclistas, fabricada con tejidos especiales para el sudor."
+            },
+            {
+                "palabra": "Asfalto",
+                "definition": "Material de color negro que se usa para pavimentar las carreteras."
+            },
+            {
+                "palabra": "Etapa reina",
+                "definition": "La parte más difícil y emocionante de una competición de ciclismo, generalmente con mucha montaña."
+            },
+            {
+                "palabra": "Horquillas",
+                "definition": "Curvas muy cerradas en forma de 'U' que se encuentran en las carreteras de montaña."
+            },
+            {
+                "palabra": "Cadencia",
+                "definition": "Ritmo o velocidad a la que un ciclista hace girar los pedales."
+            },
+            {
+                "palabra": "Aerodinámica",
+                "definition": "Estudio de cómo el aire se mueve alrededor de los objetos para intentar ir más rápido ofreciendo menos resistencia."
+            },
+            {
+                "palabra": "Piñón",
+                "definition": "Rueda dentada de la bicicleta que, junto con la cadena, transmite el movimiento a la rueda trasera."
+            },
+            {
+                "palabra": "Bailar sobre la bici",
+                "definition": "Técnica de ponerse de pie en los pedales y balancear la bici para subir cuestas con fuerza."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definition": "Valor de seguir intentando algo difícil con constancia y sin rendirse."
+            },
+            {
+                "palabra": "Resistencia",
+                "definition": "Capacidad física para aguantar un esfuerzo durante mucho tiempo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué edad tiene Elena en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Diez años",
+                    "Doce años",
+                    "Catorce años",
+                    "Once años"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo llaman los ciclistas a las curvas muy cerradas de la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Cucharas",
+                    "Horquillas",
+                    "Cuchillos",
+                    "Tenedores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién le daba consejos a Elena sobre la mecánica de la bicicleta?",
+                "tipo": "test",
+                "opciones": [
+                    "Su padre",
+                    "Su abuelo",
+                    "Su entrenador",
+                    "Su hermano"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué parte del cuerpo de Elena le 'gritaba' que parara durante la subida?",
+                "tipo": "test",
+                "opciones": [
+                    "Los brazos",
+                    "La espalda",
+                    "Las piernas",
+                    "La cabeza"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Elena decidió no gastar todas sus fuerzas al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería llegar la última",
+                    "Porque sabía que necesitaba energía para llegar a la cima",
+                    "Porque le daba miedo ir rápido",
+                    "Porque su bicicleta estaba rota"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué técnica utilizó Elena para el ataque final cerca de la meta?",
+                "tipo": "test",
+                "opciones": [
+                    "Se sentó muy atrás",
+                    "Se puso de pie y empezó a 'bailar sobre la bici'",
+                    "Soltó el manillar",
+                    "Se bajó de la bicicleta para correr"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema técnico tuvo la bicicleta de Elena durante la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Se pinchó una rueda",
+                    "La cadena saltó ligeramente",
+                    "Se le rompió el asiento",
+                    "Se quedó sin frenos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final, ¿qué es lo que más le importaba a Elena de su carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el trofeo fuera de oro",
+                    "Que no se rindió a pesar del dolor",
+                    "Que su rival se enfadó mucho",
+                    "Que salió por la televisión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que el autor dice que la mente se rinde antes que las piernas?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que es porque cuando algo cansa mucho, nuestra cabeza empieza a decirnos que paremos porque nos duele, aunque nuestro cuerpo todavía pueda aguantar un poco más. Hay que ser muy fuerte de mente para seguir."
+            },
+            {
+                "enunciado": "Elena dice que la vida es como subir una montaña. ¿Qué cosas de tu día a día te parecen una 'cuesta empinada'?",
+                "tipo": "abierta",
+                "respuestaModelo": "Para mí una cuesta empinada es cuando tengo un examen de mates súper difícil o cuando tengo que ensayar con la flauta una canción que no me sale. Pero como Elena, si voy paso a paso y no me rindo, al final lo consigo."
+            }
+        ]
+    }
+]

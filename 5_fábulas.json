@@ -1,0 +1,1472 @@
+[
+    {
+        "titulo": "El Águila de Metal y el Cuervo de las Nubes",
+        "tema": "fábulas",
+        "texto": "En un futuro donde los bosques eran protegidos por tecnología avanzada, los animales convivían con máquinas diseñadas para el equilibrio ambiental. En el Reino de los Pinos, el Consejo de los Bosques decidió que ya no necesitaban al viejo Cuervo para predecir las tormentas. En su lugar, instalaron al Águila de Titanio, un ave mecánica equipada con sensores térmicos, brújulas satelitales y procesadores de última generación. El Águila de Titanio era impresionante. Sus alas brillaban como espejos y podía volar a velocidades que ningún ser vivo alcanzaría jamás. Desde lo alto, despreciaba al Cuervo, que pasaba las tardes observando el color de las hojas y sintiendo la humedad en sus plumas negras. El Águila decía con voz metálica: «Mi precisión es del cien por ciento. Tú solo usas la intuición, algo obsoleto en este nuevo mundo». El Cuervo, con su sabiduría tranquila, respondía que los datos no lo eran todo. Un mediodía caluroso, el Águila de Titanio analizó la presión atmosférica y declaró que no llovería en una semana. Confiados, los animales salieron de sus refugios y los castores dejaron sus diques abiertos para limpiarlos. Sin embargo, el Cuervo notó que las hormigas subían a las zonas más altas y que el aire olía a tierra mojada de una forma extraña. Intentó avisar, pero el Águila emitió un pitido de advertencia: «Mis sensores no detectan nubes. Silencio, ave antigua». De pronto, el cielo se tornó de un color violeta oscuro. Una tormenta solar interfirió con los satélites y los sensores del Águila de Titanio comenzaron a fallar. El ave mecánica entró en cortocircuito y sus alas se bloquearon, cayendo con un estrépito sobre un matorral. El bosque quedó a ciegas. Fue entonces cuando el Cuervo voló sobre el Reino, graznando con fuerza para alertar a todos. Gracias a su aviso, los animales volvieron a sus cuevas y los castores cerraron los diques justo antes de que cayera un diluvio torrencial. La lluvia no era común; era una tormenta imprevista que solo el instinto natural pudo ver venir. Al día siguiente, los animales rescataron al Águila. Sus circuitos estaban empapados y su soberbia se había evaporado. El Cuervo se acercó y le dijo: «La tecnología es una herramienta maravillosa para ver el presente, pero la experiencia es la que permite entender el alma de la naturaleza». Desde aquel día, el Águila de Titanio y el Cuervo trabajaron juntos. El Águila aportaba la rapidez y el Cuervo la interpretación de los signos que ninguna máquina podía leer. El bosque floreció más que nunca, demostrando que lo nuevo y lo viejo no deben pelear, sino sumar fuerzas. La moraleja de esta historia nos enseña que por mucha inteligencia artificial que tengamos, la experiencia de los mayores y el instinto natural son tesoros que nunca debemos despreciar, pues hay verdades que no se miden con cables, sino con el corazón y los años vividos.",
+        "glosario": [
+            {
+                "palabra": "Titanio",
+                "definition": "Un metal muy fuerte, ligero y brillante que se usa para construir naves y prótesis."
+            },
+            {
+                "palabra": "Obsoleto",
+                "definition": "Algo que se ha quedado viejo o que ya no sirve porque hay cosas más modernas."
+            },
+            {
+                "palabra": "Procesadores",
+                "definition": "Piezas electrónicas que funcionan como el cerebro de las computadoras y máquinas."
+            },
+            {
+                "palabra": "Diques",
+                "definition": "Muros o construcciones que sirven para detener el agua de un río o lago."
+            },
+            {
+                "palabra": "Intuición",
+                "definition": "Habilidad de entender o saber algo sin necesidad de razonarlo mucho o usar datos."
+            },
+            {
+                "palabra": "Estrépito",
+                "definition": "Un ruido enorme y fuerte, como el de algo rompiéndose o cayendo."
+            },
+            {
+                "palabra": "Interferir",
+                "definition": "Cruzar o meterse en medio de algo, impidiendo que funcione bien."
+            },
+            {
+                "palabra": "Diluvio",
+                "definition": "Una lluvia extremadamente fuerte y abundante que suele causar inundaciones."
+            },
+            {
+                "palabra": "Soberbia",
+                "definition": "Sentimiento de superioridad que hace que alguien desprecie a los demás."
+            },
+            {
+                "palabra": "Precisión",
+                "definition": "Capacidad de hacer algo con exactitud, sin cometer errores."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué animal fue sustituido por el Águila de Titanio?",
+                "tipo": "test",
+                "opciones": [
+                    "Un halcón",
+                    "Un cuervo",
+                    "Un búho",
+                    "Un águila real"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué herramientas tecnológicas tenía el águila mecánica?",
+                "tipo": "test",
+                "opciones": [
+                    "Cámaras de video",
+                    "Sensores térmicos y brújulas satelitales",
+                    "Láseres de calor",
+                    "Microchips de sonido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde cayó el Águila de Titanio después del cortocircuito?",
+                "tipo": "test",
+                "opciones": [
+                    "En el río",
+                    "En una cueva",
+                    "Sobre un matorral",
+                    "En el nido del cuervo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué falló la tecnología del Águila de Titanio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se quedó sin batería",
+                    "Debido a una tormenta solar que interfirió los satélites",
+                    "Porque el cuervo la saboteó",
+                    "Porque el agua entró en su motor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué señal de la naturaleza notó el Cuervo que el Águila ignoró?",
+                "tipo": "test",
+                "opciones": [
+                    "El viento soplaba del norte",
+                    "Las hormigas subían a zonas altas y el olor a tierra mojada",
+                    "Los pájaros dejaron de cantar",
+                    "Las flores se cerraron"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase «su soberbia se había evaporado»?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el águila tenía calor",
+                    "Que el águila dejó de sentirse superior tras el accidente",
+                    "Que el águila se volvió invisible",
+                    "Que el águila aprendió a volar mejor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el propósito principal del autor al comparar al Cuervo con el Águila?",
+                "tipo": "test",
+                "opciones": [
+                    "Demostrar que las máquinas son malas",
+                    "Enseñar que la tecnología y la experiencia deben trabajar juntas",
+                    "Explicar cómo funcionan los satélites",
+                    "Contar la vida de las aves"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad del Cuervo fue la más importante para salvar al bosque?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física",
+                    "Su plumaje negro",
+                    "Su sabiduría y observación de la naturaleza",
+                    "Su velocidad de vuelo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que los animales hicieron bien al confiar solo en el Águila al principio?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no estuvo bien porque se olvidaron de que el Cuervo los había ayudado siempre. A veces nos emocionamos mucho con las cosas nuevas que brillan, pero no hay que dejar de lado a los que saben por experiencia."
+            },
+            {
+                "enunciado": "¿Qué lección le darías tú al Águila de Titanio si fueras el Cuervo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Le diría que no sea tan presumida con sus cables y sensores. Que está genial ser rápida y moderna, pero que siempre es bueno preguntar a los que llevan más tiempo viviendo en el bosque para no cometer errores."
+            }
+        ]
+    },
+    {
+        "titulo": "La Hormiga Gris y la Melodía de Invierno",
+        "tema": "fábulas",
+        "texto": "En un hormiguero muy organizado, vivía Clara, una hormiga gris que tenía una tarea muy especial: recolectar granos de trigo para el invierno. Clara era la más trabajadora de todas. Sus patas nunca descansaban y sus antenas siempre estaban buscando el mejor alimento. Cerca de allí, vivía un Grillo llamado Maestro, que no cargaba semillas ni construía túneles. Maestro se pasaba el día tocando un violín hecho con una ramita de sauce y cuerdas de seda de araña. Las demás hormigas se burlaban de él. «¡Qué vago es ese Grillo!», decían mientras sudaban bajo el sol. «Cuando llegue el frío, sus canciones no le darán de comer». Clara, aunque trabajaba duro, a veces se detenía a escuchar. Notaba que cuando Maestro tocaba, sus patas se sentían menos pesadas y el tiempo pasaba más rápido. Sin embargo, el resto de la colonia decidió prohibir la música cerca de la zona de carga para que nadie se distrajera. Llegó el invierno, y fue el más crudo que se recordaba. La nieve cubrió la entrada del hormiguero y el frío se coló por las galerías subterráneas. Las hormigas tenían comida de sobra, pero algo extraño empezó a pasar: estaban tristes. Sin el sol y atrapadas bajo tierra, las hormigas empezaron a discutir entre ellas. El ánimo estaba tan bajo que algunas ni siquiera querían comer. La Reina estaba preocupada; la comida alimentaba sus cuerpos, pero el aburrimiento y la tristeza estaban enfermando el espíritu de la colonia. Clara recordó entonces la melodía de Maestro. Convenció a las guardianas para dejar entrar al Grillo, que estaba tiritando bajo una hoja seca. Cuando Maestro entró al gran salón y comenzó a tocar su violín, el hormiguero cambió por completo. Su música hablaba de la primavera, del olor a flores frescas y del calor del sol. Las hormigas dejaron de pelear y empezaron a bailar y a compartir historias. La alegría volvió a los túneles. La Reina se dio cuenta de que la música de Maestro era tan necesaria como el trigo de Clara. Al final del invierno, la Reina nombró a Maestro «Ministro de la Alegría». Aprendieron que un hogar necesita alimento para el estómago, pero también arte para el alma. La fábula nos enseña que el trabajo duro es fundamental para sobrevivir, pero la cultura, la música y la alegría son las que nos dan ganas de vivir. No debemos juzgar a los que se dedican a las artes como si no hicieran nada, porque su esfuerzo nos ayuda a superar los momentos más oscuros y difíciles de la vida. La solidaridad entre los que trabajan con las manos y los que trabajan con la imaginación es lo que hace que una comunidad sea verdaderamente fuerte y feliz frente a cualquier adversidad del destino.",
+        "glosario": [
+            {
+                "palabra": "Galerías",
+                "definition": "Pasillos largos y estrechos que están debajo de la tierra."
+            },
+            {
+                "palabra": "Crudo",
+                "definition": "Cuando se habla del clima, significa que es muy frío, duro y difícil de aguantar."
+            },
+            {
+                "palabra": "Colonia",
+                "definition": "Grupo de animales de la misma especie que viven y trabajan juntos en un mismo lugar."
+            },
+            {
+                "palabra": "Cultura",
+                "definition": "Conjunto de artes, ideas y tradiciones que hacen especial a un grupo de personas o seres."
+            },
+            {
+                "palabra": "Ministro",
+                "definition": "Persona importante que se encarga de dirigir una parte de la organización de un lugar."
+            },
+            {
+                "palabra": "Solidaridad",
+                "definition": "Apoyar y ayudar a los demás de forma voluntaria, especialmente en momentos difíciles."
+            },
+            {
+                "palabra": "Adversidad",
+                "definition": "Una situación de desgracia o un problema difícil que hay que superar."
+            },
+            {
+                "palabra": "Laborioso",
+                "definition": "Algo que requiere mucho trabajo, esfuerzo y dedicación."
+            },
+            {
+                "palabra": "Espíritu",
+                "definition": "En esta historia, se refiere al ánimo, las ganas de vivir y la fuerza interior."
+            },
+            {
+                "palabra": "Melodía",
+                "definition": "Sucesión de sonidos que forman una música agradable al oído."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué instrumento tocaba el Grillo Maestro?",
+                "tipo": "test",
+                "opciones": [
+                    "Una flauta de caña",
+                    "Un violín de sauce y seda",
+                    "Un tambor de bellota",
+                    "Una guitarra de hoja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la tarea principal de la hormiga Clara?",
+                "tipo": "test",
+                "opciones": [
+                    "Cuidar a la reina",
+                    "Recoger granos de trigo",
+                    "Vigilar la entrada",
+                    "Tocar el violín"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sintieron las hormigas al principio del invierno a pesar de tener comida?",
+                "tipo": "test",
+                "opciones": [
+                    "Cansadas",
+                    "Tristes y aburridas",
+                    "Muy felices",
+                    "Asustadas por el grillo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué las hormigas prohibieron la música al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no les gustaba el ruido",
+                    "Porque pensaban que era una distracción para el trabajo",
+                    "Porque el grillo cobraba mucho",
+                    "Porque la reina tenía dolor de cabeza"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué efecto tenía la música de Maestro sobre Clara cuando trabajaba?",
+                "tipo": "test",
+                "opciones": [
+                    "Le daba sueño",
+                    "Hacía que sus patas se sintieran menos pesadas",
+                    "Hacía que perdiera las semillas",
+                    "Le daba mucha hambre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el personaje del Grillo en esta fábula?",
+                "tipo": "test",
+                "opciones": [
+                    "La pereza y el descuido",
+                    "El arte y la importancia de la alegría",
+                    "La envidia",
+                    "La falta de previsión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué la Reina nombró al grillo 'Ministro de la Alegría'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tenía otro trabajo para él",
+                    "Porque entendió que la alegría es vital para la comunidad",
+                    "Porque era el mejor amigo de Clara",
+                    "Porque tocaba muy mal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza final sobre el trabajo y el arte?",
+                "tipo": "test",
+                "opciones": [
+                    "Solo hay que trabajar y no divertirse",
+                    "Solo hay que divertirse y no trabajar",
+                    "Ambos son necesarios para una vida completa",
+                    "Las hormigas son mejores que los grillos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece que las hormigas fueron injustas con el Grillo al principio?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, me parece que fueron un poco injustas porque pensaban que solo trabajar cargando cosas era importante. No se daban cuenta de que la música les ayudaba a estar más animadas mientras trabajaban."
+            },
+            {
+                "enunciado": "Si tú fueras la hormiga Clara, ¿habrías ayudado al grillo a entrar al hormiguero?",
+                "tipo": "abierta",
+                "respuestaModelo": "Claro que sí, porque el pobre grillo se estaba congelando fuera y además su música era muy bonita. Ayudar a los demás cuando lo pasan mal es lo que tienen que hacer los buenos amigos."
+            }
+        ]
+    },
+    {
+        "titulo": "Bip y el Secreto del Musgo",
+        "tema": "fábulas",
+        "texto": "En el año 3024, en una ciudad construida enteramente de acero reluciente y luces de neón, vivía un pequeño robot llamado Bip. Bip era el modelo más avanzado de su serie, diseñado específicamente para la eficiencia extrema. Podía construir una casa en una hora, calcular la trayectoria de un cometa en milisegundos y organizar una biblioteca entera sin cometer un solo error. Para Bip, el tiempo era un recurso que debía ser optimizado constantemente; cualquier segundo que no se tradujera en un resultado útil era considerado un fallo del sistema. Un día, mientras realizaba un escaneo de mantenimiento en una tubería oxidada del subsuelo, Bip encontró algo inusual: una pequeña mancha de musgo verde que crecía en una grieta. Bip nunca había visto algo tan suave y orgánico. Fascinado, decidió que quería cultivar su propio jardín botánico. Siendo un robot de alta tecnología, compró los fertilizantes químicos más potentes y las lámparas ultravioletas más brillantes del mercado. Programó sus brazos mecánicos para regar las semillas con una precisión de nanolitros cada diez minutos exactos. «¡Creced ahora mismo!», ordenaba Bip con su voz metálica, pero la tierra permanecía inmóvil. Al lado de su jardín metálico vivía Gaia, una tortuga muy anciana que recordaba los tiempos antes de la Gran Digitalización. Gaia observaba los movimientos frenéticos del robot con una calma infinita. «No puedes obligar a la vida a seguir tus circuitos, pequeña máquina», le dijo Gaia muy despacio. Bip se sentía frustrado. «Soy eficiente. He optimizado el pH del suelo y la frecuencia del riego. Según mis cálculos, las flores deberían haber brotado hace tres días, cuatro horas y doce segundos». Pasó una semana y Bip, desesperado, intentó incluso emitir frecuencias de sonido de alta velocidad para estimular las raíces. Gaia solo sonreía mientras tomaba el sol. «La vida no sigue un reloj de cuarzo; sigue su propio ritmo interno». Una noche, una tormenta eléctrica sacudió la ciudad. Bip intentó cubrir sus macetas con una cúpula de plástico para mantenerlas «secas y perfectas», pero Gaia lo detuvo con su pata rugosa. «La lluvia no es un error de programación; es el combustible del alma del bosque». Bip apagó sus procesadores de cálculo por un momento y simplemente observó cómo el agua empapaba la tierra. Por primera vez, dejó de medir. Semanas después, cuando Bip ya casi no tenía batería y descansaba en silencio, un diminuto brote verde rompió la superficie. No fue por una orden o un algoritmo, sino porque el tiempo era el adecuado. Bip comprendió que las cosas más bellas, como la amistad y la naturaleza, no pueden acelerarse con un procesador más rápido. Aprendió que esperar no es perder el tiempo, sino permitir que el tiempo haga su trabajo. La moraleja nos enseña que la tecnología nos da velocidad, pero solo la paciencia nos otorga la sabiduría para ver crecer la vida.",
+        "glosario": [
+            {
+                "palabra": "Eficiencia",
+                "definición": "Capacidad de lograr un resultado usando la menor cantidad de recursos o tiempo."
+            },
+            {
+                "palabra": "Optimizar",
+                "definición": "Hacer que algo funcione de la mejor manera posible."
+            },
+            {
+                "palabra": "Inusual",
+                "definición": "Algo que no es común o que resulta extraño porque no sucede a menudo."
+            },
+            {
+                "palabra": "Frenético",
+                "definición": "Que se hace con mucha prisa, nerviosismo o una actividad exagerada."
+            },
+            {
+                "palabra": "pH",
+                "definición": "Medida que indica si la tierra o el agua es muy ácida o muy básica para las plantas."
+            },
+            {
+                "palabra": "Algoritmo",
+                "definición": "Conjunto de instrucciones ordenadas que sigue una computadora para resolver un problema."
+            },
+            {
+                "palabra": "Frecuencia",
+                "definición": "Número de veces que se repite un proceso en un tiempo determinado."
+            },
+            {
+                "palabra": "Digitalización",
+                "definición": "Transformación de información o procesos del mundo real en formato de computadora."
+            },
+            {
+                "palabra": "Paciencia",
+                "definición": "Capacidad de esperar con tranquilidad a que las cosas sucedan."
+            },
+            {
+                "palabra": "Sabiduría",
+                "definición": "Conocimiento profundo que se gana con la experiencia y la observación."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué encontró Bip en la tubería oxidada?",
+                "tipo": "test",
+                "opciones": [
+                    "Una moneda de oro",
+                    "Una mancha de musgo verde",
+                    "Un cable roto",
+                    "Una tuerca de titanio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cada cuánto tiempo regaba Bip sus semillas inicialmente?",
+                "tipo": "test",
+                "opciones": [
+                    "Cada hora",
+                    "Cada diez minutos",
+                    "Cada mañana",
+                    "Una vez al día"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animal le da consejos al robot?",
+                "tipo": "test",
+                "opciones": [
+                    "Un conejo veloz",
+                    "Una tortuga anciana",
+                    "Un pájaro mecánico",
+                    "Un gato de metal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Bip se siente frustrado durante la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se quedó sin batería",
+                    "Porque sus cálculos no coinciden con el crecimiento de la naturaleza",
+                    "Porque Gaia le robó las semillas",
+                    "Porque la ciudad es muy ruidosa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa la tortuga Gaia en la fábula?",
+                "tipo": "test",
+                "opciones": [
+                    "La pereza y la falta de ganas",
+                    "La sabiduría, la calma y el respeto a la naturaleza",
+                    "El miedo a la tecnología",
+                    "La importancia de dormir mucho"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en Bip cuando llegó la tormenta eléctrica?",
+                "tipo": "test",
+                "opciones": [
+                    "Se rompió por el agua",
+                    "Empezó a calcular la velocidad del rayo",
+                    "Aprendió a observar sin intentar controlarlo todo",
+                    "Se fue a esconder a su casa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es el error de pensamiento que tiene el robot al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Creer que todo en la vida se puede controlar con datos y rapidez",
+                    "Pensar que las plantas no necesitan agua",
+                    "No saber cómo usar un fertilizante",
+                    "Olvidar cargar su batería"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué mensaje intenta transmitir la moraleja?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las máquinas son mejores que las tortugas",
+                    "Que lo más rápido es siempre lo mejor",
+                    "Que hay cosas importantes que necesitan tiempo y paciencia",
+                    "Que no debemos plantar jardines en ciudades de acero"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Bip será un mejor robot después de lo que aprendió con la planta?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí porque ahora ya no va a estar tan estresado queriendo que todo sea rápido. Ahora sabe que para cuidar seres vivos hay que tener calma, y eso le va a ayudar a ser más amable y no solo una máquina que hace cálculos."
+            },
+            {
+                "enunciado": "¿Te ha pasado alguna vez que querías algo ya mismo y tuviste que esperar como Bip?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, me pasó cuando planté unas lentejas en un bote con algodón en el cole. Yo quería que salieran al día siguiente, pero mi madre me dijo que tenía que esperar. Al final, cuando salieron, me hizo mucha ilusión porque las había cuidado muchos días."
+            }
+        ]
+    },
+    {
+        "titulo": "Zorro-7 y las Uvas Holográficas",
+        "tema": "fábulas",
+        "texto": "En un bosque que era mitad árboles de verdad y mitad antenas de comunicación, vivía un zorro llamado Zorro-7. Este zorro no confiaba en sus instintos; él prefería confiar en sus gafas de realidad aumentada llamadas «Smart-Lens». Las gafas le decían cuántas calorías tenía una baya, si un camino era seguro o qué animal era más popular en las redes sociales del bosque. Un caluroso mediodía de agosto, Zorro-7 llegó a un viñedo de alta tecnología protegido por una valla invisible de sensores láser. Colgando de una parra cromada, vio el racimo de uvas más perfecto que jamás hubiera imaginado. Eran de un color púrpura neón que brillaba con una intensidad sobrenatural y se veían increíblemente jugosas. Zorro-7 activó sus gafas para analizar la fruta. La pantalla digital mostró un mensaje parpadeante: «Calidad: 100%. Sabor: Épico. Nivel de felicidad al comer: Máximo». El zorro saltó con todas sus fuerzas, pero la valla invisible le dio un pequeño calambre eléctrico que lo hizo retroceder. No se rindió. Pasó tres horas diseñando un mini-dron con piezas de basura tecnológica para que volara por encima de los sensores. Mientras trabajaba, un búho real que dormía en un roble cercano abrió un ojo. «Esas uvas no huelen a nada, jovencito», advirtió el ave. Zorro-7 se rió sin mirar atrás. «Es que eres viejo y no entiendes de tecnología. Mis gafas dicen que estas uvas son la mejor comida de la década». Finalmente, su dron alcanzó el racimo. Pero en el momento en que la pinza metálica tocó la fruta, la imagen parpadeó y desapareció. ¡Las uvas eran un holograma publicitario diseñado para atraer inversores a la ciudad! Detrás de la luz solo había un proyector de metal frío y un cable lleno de polvo. Zorro-7 se quedó sentado en el suelo, con las gafas todavía puestas, mirando al vacío. El búho bajó planeando y se posó a su lado. «Has perdido todo el día persiguiendo una imagen perfecta porque una pantalla te dijo que era lo mejor. Las uvas de verdad están en el valle viejo. Son pequeñas, tienen pepitas y no brillan, pero puedes morderlas y te quitarán la sed». Zorro-7 se quitó las gafas y, por primera vez, usó su nariz para oler el aire. Sintió el aroma de la tierra húmeda y de la fruta real que crecía lejos de los proyectores. La moraleja de esta fábula es que no todo lo que brilla en una pantalla es real ni valioso. A veces, nos distraemos con la perfección artificial de la tecnología y olvidamos apreciar las cosas sencillas y verdaderas que tenemos delante. La felicidad no es un gráfico de cien por ciento, sino la experiencia real de vivir el mundo con nuestros propios sentidos y no a través de un cristal.",
+        "glosario": [
+            {
+                "palabra": "Realidad aumentada",
+                "definición": "Tecnología que mezcla imágenes falsas o datos con lo que vemos en la vida real."
+            },
+            {
+                "palabra": "Cromada",
+                "definición": "Superficie de metal que brilla tanto que parece un espejo."
+            },
+            {
+                "palabra": "Sobrenatural",
+                "definición": "Algo que parece mágico porque no es normal en la naturaleza."
+            },
+            {
+                "palabra": "Inversores",
+                "definición": "Personas que ponen dinero en un negocio esperando ganar más dinero después."
+            },
+            {
+                "palabra": "Holograma",
+                "definición": "Imagen de luz en tres dimensiones que parece un objeto real pero no se puede tocar."
+            },
+            {
+                "palabra": "Analgógico",
+                "definición": "Algo tradicional que no funciona con computadoras o señales digitales."
+            },
+            {
+                "palabra": "Instinto",
+                "definición": "Impulso natural que tienen los animales para actuar de una forma sin tener que aprenderlo."
+            },
+            {
+                "palabra": "Artificial",
+                "definición": "Algo que ha sido hecho por el ser humano y no por la naturaleza."
+            },
+            {
+                "palabra": "Simular",
+                "definición": "Hacer que algo parezca real cuando en verdad es una imitación."
+            },
+            {
+                "palabra": "Apreciar",
+                "definición": "Reconocer el valor de algo o alguien y sentirse agradecido por ello."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto usaba Zorro-7 para analizar el mundo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un telescopio",
+                    "Unas gafas Smart-Lens",
+                    "Un teléfono móvil",
+                    "Un mapa de papel"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué descubrió el zorro cuando su dron tocó las uvas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que estaban dulces",
+                    "Que eran un holograma",
+                    "Que estaban podridas",
+                    "Que eran de plástico"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde estaban las uvas reales según el búho?",
+                "tipo": "test",
+                "opciones": [
+                    "En el supermercado",
+                    "En el valle viejo",
+                    "En la cima de la montaña",
+                    "Dentro de la ciudad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Zorro-7 ignoró el consejo del búho?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaban los búhos",
+                    "Porque confiaba más en los datos de sus gafas que en la experiencia del búho",
+                    "Porque el búho hablaba muy bajito",
+                    "Porque tenía mucha prisa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica que las uvas no eran reales antes de que el dron las tocara?",
+                "tipo": "test",
+                "opciones": [
+                    "Eran de color azul",
+                    "No tenían olor",
+                    "Eran muy baratas",
+                    "Estaban dentro de una caja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué crítica hace la fábula sobre el uso de la tecnología?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la tecnología siempre es mala",
+                    "Que a veces nos hace ignorar la realidad por buscar algo perfecto pero falso",
+                    "Que los zorros no deberían usar drones",
+                    "Que los hologramas son muy caros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se siente Zorro-7 al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Enfadado con el búho",
+                    "Decepcionado por haber perdido el tiempo en algo falso",
+                    "Orgulloso de su dron",
+                    "Contento porque las gafas funcionan bien"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la principal diferencia entre las uvas del holograma y las del valle?",
+                "tipo": "test",
+                "opciones": [
+                    "El precio",
+                    "Que unas brillan y las otras alimentan de verdad",
+                    "El tamaño",
+                    "La cantidad de vitaminas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que hoy en día nos pasa un poco como a Zorro-7 con las pantallas?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, yo creo que a veces vemos fotos de comida o de juguetes en internet que parecen perfectos y luego cuando los ves de verdad no son para tanto. Pasamos mucho tiempo mirando la pantalla y se nos olvida salir a jugar fuera."
+            },
+            {
+                "enunciado": "¿Qué le dirías a alguien que prefiere vivir siempre conectado a internet en lugar de salir a la naturaleza?",
+                "tipo": "abierta",
+                "respuestaModelo": "Le diría que internet está bien para aprender cosas, pero que no se puede oler ni tocar. Que es mejor ir al campo a mancharse un poco las manos porque eso es lo que te hace sentir vivo de verdad, como las uvas del valle."
+            }
+        ]
+    },
+    {
+        "titulo": "El Búho de Cristal y el Guardián de Pluma",
+        "tema": "fábulas",
+        "texto": "En el año tres mil veinticinco, el Gran Bosque Esmeralda ya no era vigilado por animales comunes, sino por el Búho de Cristal, un robot de alta precisión diseñado en los laboratorios de la ciudad de acero. Este búho mecánico tenía ojos de lentes biónicos capaces de detectar un ratón a diez kilómetros de distancia y procesadores que predecían el clima con un margen de error inexistente. El Búho de Cristal se posaba en la rama más alta, emitiendo un zumbido eléctrico constante que ahuyentaba el silencio natural del bosque. Debajo de él, en un hueco polvoriento de un roble centenario, vivía el Viejo Búho Gris. Sus plumas estaban desgastadas y su visión era algo borrosa, pero conocía el lenguaje secreto de las hojas cuando empezaba a refrescar y el olor exacto de la tierra antes de una gran tormenta. El Búho de Cristal, con su voz metálica, se burlaba cada noche de su compañero orgánico: «Tu existencia es obsoleta, abuelo. Mis algoritmos son perfectos. Tú solo eres un montón de plumas que fallará en cualquier momento». El Viejo Búho Gris callaba y observaba las estrellas, sabiendo que la vida no siempre sigue una línea lógica de datos. Una tarde calurosa, un fenómeno inusual ocurrió: una tormenta electromagnética solar golpeó la atmósfera terrestre. En un instante, los sensores del Búho de Cristal empezaron a parpadear con luces rojas de error. Sus procesadores se sobrecalentaron y sus alas de titanio se quedaron bloqueadas en una posición incómoda. El robot no podía ver, no podía volar y, lo peor de todo, no detectó que un incendio forestal se aproximaba por el norte, provocado por un rayo seco que sus radares ignoraron al estar desconectados. Los animales del bosque, acostumbrados a obedecer las señales sonoras del robot, estaban confundidos y quietos. Fue entonces cuando el Viejo Búho Gris, sintiendo el calor inusual en sus patas y el comportamiento errático de los insectos, lanzó un ulular profundo y potente que despertó a toda la comunidad. Con su vuelo silencioso y seguro, guio a los ciervos, conejos y zorros hacia el río de aguas frías, el único lugar a salvo de las llamas. El Viejo Búho no necesitaba radares; conocía las rutas de escape que sus ancestros habían usado durante siglos. Cuando el peligro pasó y la lluvia natural apagó las cenizas, los animales regresaron. El Búho de Cristal fue reiniciado por los técnicos, pero su luz azul ya no brillaba con la misma soberbia. Había aprendido que la tecnología puede medir el mundo, pero solo el instinto y la experiencia pueden sentirlo. Desde aquel día, el robot ya no se burlaba. En cambio, cada noche, el Búho de Cristal ajustaba sus cámaras para observar cómo el Viejo Búho Gris interpretaba el vuelo de las polillas. Entendió que la perfección de los cables es inútil si se olvida la sabiduría de la tierra. La moraleja nos enseña que las herramientas modernas son valiosas, pero nunca deben sustituir la experiencia y el conocimiento que nace de vivir y respetar la naturaleza.",
+        "glosario": [
+            {
+                "palabra": "Biónico",
+                "definición": "Órgano artificial que funciona gracias a mecanismos eléctricos o electrónicos."
+            },
+            {
+                "palabra": "Obsoleto",
+                "definición": "Algo que se ha quedado viejo o que ya no es útil porque hay cosas más modernas."
+            },
+            {
+                "palabra": "Algoritmo",
+                "definición": "Serie de pasos o reglas que sigue una computadora para resolver un problema."
+            },
+            {
+                "palabra": "Centenario",
+                "definición": "Que tiene cien años o más de edad."
+            },
+            {
+                "palabra": "Electromagnética",
+                "definición": "Relacionado con la electricidad y el magnetismo, como las ondas que viajan por el espacio."
+            },
+            {
+                "palabra": "Errático",
+                "definición": "Que es impredecible, que cambia de dirección o comportamiento sin sentido."
+            },
+            {
+                "palabra": "Ancestros",
+                "definición": "Antepasados o familiares que vivieron hace mucho tiempo."
+            },
+            {
+                "palabra": "Soberbia",
+                "definición": "Sentimiento de creerse mejor que los demás y despreciarlos."
+            },
+            {
+                "palabra": "Instinto",
+                "definición": "Impulso natural que hace que los animales actúen para sobrevivir sin tener que pensar."
+            },
+            {
+                "palabra": "Ulular",
+                "definición": "Grito o sonido característico que producen los búhos y las lechuzas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué material formaba las alas del Búho de Cristal?",
+                "tipo": "test",
+                "opciones": [
+                    "Plumas de acero",
+                    "Titanio",
+                    "Cristal transparente",
+                    "Cables de cobre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la causa de que el robot dejara de funcionar?",
+                "tipo": "test",
+                "opciones": [
+                    "Un incendio forestal",
+                    "Una tormenta electromagnética solar",
+                    "Se quedó sin batería",
+                    "El Viejo Búho lo golpeó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Hacia dónde guio el Viejo Búho Gris a los animales para salvarlos?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacia una cueva profunda",
+                    "Hacia la ciudad de acero",
+                    "Hacia el río de aguas frías",
+                    "Hacia la rama más alta"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el Búho de Cristal se burlaba del Viejo Búho Gris?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el viejo búho no sabía cazar",
+                    "Porque pensaba que su tecnología lo hacía superior e infalible",
+                    "Porque el viejo búho dormía mucho",
+                    "Porque quería quedarse con su nido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ventaja tenía el Viejo Búho sobre el robot durante el incendio?",
+                "tipo": "test",
+                "opciones": [
+                    "Podía volar más rápido",
+                    "Tenía mejor visión nocturna",
+                    "Su conocimiento basado en la experiencia y el instinto",
+                    "No necesitaba dormir"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo supieron los animales que debían huir si el robot estaba apagado?",
+                "tipo": "test",
+                "opciones": [
+                    "Vieron el humo desde lejos",
+                    "Escucharon el ulular de advertencia del Viejo Búho",
+                    "Sintieron el calor del sol",
+                    "Siguieron las luces rojas del robot"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la actitud del robot al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Decidió irse del bosque",
+                    "Se volvió más arrogante",
+                    "Empezó a respetar y observar la sabiduría del búho real",
+                    "Se rompió definitivamente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de esta fábula?",
+                "tipo": "test",
+                "opciones": [
+                    "Los robots son peligrosos para el bosque",
+                    "La tecnología es mejor que la naturaleza",
+                    "La experiencia es fundamental y no puede ser reemplazada solo por datos",
+                    "Los incendios se apagan con lluvia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que los animales del bosque hacían bien en confiar ciegamente en el búho robot?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no, porque aunque el robot era muy moderno, las máquinas se pueden estropear como pasó con la tormenta solar. Es mejor confiar también en los animales que conocen el bosque de siempre."
+            },
+            {
+                "enunciado": "Si pudieras mejorar al Búho de Cristal, ¿qué le añadirías para que no volviera a fallar?",
+                "tipo": "abierta",
+                "respuestaModelo": "Le pondría un sistema para que aprenda del Viejo Búho y no solo de internet. También le pondría una batería que no se rompa con el sol para que siempre pueda ayudar a los animales."
+            }
+        ]
+    },
+    {
+        "titulo": "La Hormiga Digital y el Grillo de los Sueños",
+        "tema": "fábulas",
+        "texto": "En la colonia de Antronia, las hormigas habían sustituido sus mandíbulas por microchips de recolección. Clara, la hormiga líder del sector siete, utilizaba un dron minúsculo para localizar granos de azúcar y cereales sintéticos. Su vida era una serie de cálculos matemáticos para maximizar la despensa antes de que el invierno digital bloqueara las entradas. Clara no hablaba, solo enviaba códigos de eficiencia a sus compañeras. Cerca de la entrada, vivía un Grillo llamado Maestro, que no poseía drones ni sensores. Maestro tenía un violín antiguo hecho de madera de cerezo y cuerdas de seda natural. Mientras las hormigas trabajaban como engranajes perfectos, el Grillo tocaba melodías que hablaban de la luna y del rocío matutino. «La música no se puede comer, Maestro», le decía Clara mediante un mensaje en su pantalla de muñeca. «Estás gastando energía en vibraciones inútiles mientras el invierno se acerca al setenta por ciento de probabilidad». El Grillo sonreía y seguía tocando, afirmando que el corazón también necesita provisiones. El invierno llegó con una helada azul que congeló los circuitos externos de la colonia. Las hormigas se encerraron en sus búnkeres de metal, rodeadas de montañas de comida. Tenían todo el alimento necesario, pero algo empezó a fallar. Al estar aisladas y sin luz solar, las hormigas empezaron a sentir una extraña pesadez. Sus sistemas de comunicación se volvieron fríos y distantes; empezaron a pelear por el espacio y a sentirse profundamente solas a pesar de estar juntas. El ánimo de la colonia cayó tanto que algunas hormigas dejaron de comer, perdiendo su propósito. Clara intentó ejecutar un programa de motivación, pero las máquinas no saben explicar por qué vale la pena vivir. Recordó entonces al Grillo y, con un último esfuerzo, abrió la compuerta térmica para dejarlo entrar. Maestro, aunque tiritando, se colocó en el centro del hormiguero y empezó a tocar. La música llenó los túneles metálicos, recordando a las hormigas que eran seres vivos y no solo piezas de una fábrica. El sonido del violín trajo imágenes de primavera y calor, y por primera vez en meses, las hormigas compartieron su comida con alegría. La tristeza se disipó como el humo. Clara borró sus gráficos de eficiencia y entendió que la verdadera supervivencia requiere algo más que calorías. Al llegar la primavera, el Grillo no fue expulsado; se convirtió en el primer músico oficial de Antronia. Clara aprendió que el trabajo nos mantiene vivos, pero el arte es lo que nos hace querer estar vivos. La moraleja nos enseña que la productividad es necesaria, pero la belleza y el arte son alimentos indispensables para que una comunidad no pierda su alma y su alegría en los momentos difíciles.",
+        "glosario": [
+            {
+                "palabra": "Sintético",
+                "definición": "Producto que no es natural, sino fabricado artificialmente por el hombre."
+            },
+            {
+                "palabra": "Maximizar",
+                "definición": "Hacer que algo sea lo más grande o provechoso posible."
+            },
+            {
+                "palabra": "Eficiencia",
+                "definición": "Capacidad de hacer las cosas bien usando el menor tiempo o recursos posibles."
+            },
+            {
+                "palabra": "Provisión",
+                "definición": "Conjunto de cosas, especialmente comida, que se guardan para cuando hagan falta."
+            },
+            {
+                "palabra": "Búnker",
+                "definición": "Construcción muy fuerte y protegida para refugiarse durante un peligro."
+            },
+            {
+                "palabra": "Motivación",
+                "definición": "Ganas o razón que tiene alguien para hacer algo con esfuerzo."
+            },
+            {
+                "palabra": "Disipar",
+                "definición": "Hacer que algo desaparezca o se desvanezca poco a poco."
+            },
+            {
+                "palabra": "Productividad",
+                "definición": "Relación entre lo que se produce y el trabajo que cuesta hacerlo."
+            },
+            {
+                "palabra": "Indispensable",
+                "definición": "Algo que es totalmente necesario y que no puede faltar."
+            },
+            {
+                "palabra": "Propósito",
+                "definición": "La intención o el objetivo que alguien quiere conseguir."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué herramienta usaba Clara para localizar el alimento?",
+                "tipo": "test",
+                "opciones": [
+                    "Sus antenas naturales",
+                    "Un mapa de papel",
+                    "Un dron minúsculo",
+                    "Un satélite"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿De qué material estaba hecho el violín del Grillo Maestro?",
+                "tipo": "test",
+                "opciones": [
+                    "Plástico reciclado",
+                    "Madera de cerezo y seda",
+                    "Metal brillante",
+                    "Fibra de carbono"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema tenían las hormigas durante el invierno a pesar de tener comida?",
+                "tipo": "test",
+                "opciones": [
+                    "Pasaban mucha hambre",
+                    "Estaban tristes, solas y sin motivación",
+                    "Se les rompió el hormiguero",
+                    "El grillo les robaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Clara decía que la música era inútil al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaba el violín",
+                    "Porque pensaba que solo el trabajo que da resultados materiales importa",
+                    "Porque el grillo tocaba muy mal",
+                    "Porque hacía mucho ruido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué efecto tuvo la música del Grillo en el hormiguero?",
+                "tipo": "test",
+                "opciones": [
+                    "Hizo que las hormigas se durmieran",
+                    "Ayudó a las hormigas a recuperar la alegría y la unión",
+                    "Calentó las paredes de metal",
+                    "Ahuyentó a los enemigos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el corazón también necesita 'provisiones'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que comer muchas vitaminas",
+                    "Que las emociones y la alegría son necesarias para vivir",
+                    "Que el corazón es como un almacén",
+                    "Que hay que guardar música en una caja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la relación entre Clara y el Grillo al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Clara echó al grillo al acabar el frío",
+                    "Se volvieron enemigos",
+                    "Clara reconoció el valor del arte y lo integró en la colonia",
+                    "El grillo se convirtió en hormiga"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la moraleja de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Es mejor no trabajar y solo cantar",
+                    "Las hormigas deben usar más tecnología",
+                    "El arte y la alegría son tan importantes como el trabajo para sobrevivir",
+                    "El invierno es muy peligroso"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que una persona puede ser feliz teniendo todo lo material pero estando sola?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no, porque aunque tengas la mejor consola del mundo o mucha comida, si no tienes amigos o música para estar alegre, al final te aburres y te pones triste como las hormigas."
+            },
+            {
+                "enunciado": "Si tuvieras que elegir un 'alimento para el alma' como hizo el grillo, ¿qué elegirías tú?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo elegiría el dibujo, porque cuando estoy triste me pongo a pintar y se me olvida todo lo malo. Es como mi propia música que me ayuda a estar más contento cuando tengo problemas."
+            }
+        ]
+    },
+    {
+        "titulo": "El Robot de Porcelana y el Engranaje Oxidado",
+        "tema": "fábulas",
+        "texto": "En la gran Metrópolis Plateada, donde los rascacielos rozaban las nubes y los coches flotantes zumbaban como abejas metálicas, vivía el robot más sofisticado de la creación: Modelo-Alfa. Estaba fabricado con una porcelana blanca tan brillante que reflejaba el sol, y sus articulaciones eran de oro puro. Alfa caminaba por las avenidas con una elegancia impecable, presumiendo de su capacidad para realizar cálculos complejos y hablar catorce idiomas galácticos. Para Alfa, cualquier objeto que no brillara tanto como él era considerado un estorbo para el progreso de la ciudad. Un día, mientras cruzaba la plaza central, Alfa sufrió un percance inesperado. Un pequeño cable interno se soltó y sus piernas dejaron de responder. El robot de porcelana cayó al suelo con un estrépito, quedando atrapado en medio de la acera. Sus sensores de auxilio parpadeaban, pero ningún otro modelo de lujo se detuvo a ayudarlo; todos estaban demasiado ocupados puliendo sus carcasas o revisando sus rutas de vuelo. Fue entonces cuando, desde un callejón oscuro, surgió un viejo robot de mantenimiento llamado Óxido. Su cuerpo estaba abollado, le faltaba pintura y sus engranajes producían un chirrido constante al moverse. Óxido se acercó lentamente al reluciente Alfa. «No me toques con esas manos sucias», gritó Alfa con soberbia, «podrías rayar mi acabado de lujo». Óxido no se ofendió; simplemente analizó la avería con su vieja lente de aumento. Con una habilidad asombrosa, utilizó una pequeña llave inglesa desgastada para ajustar el cable suelto en menos de un minuto. Alfa sintió que la energía regresaba a sus circuitos. Se puso de pie y, avergonzado, miró su impecable cuerpo que de nada le había servido estando solo en el suelo. Comprendió que la verdadera utilidad no reside en el brillo exterior ni en los materiales caros, sino en la disposición para ayudar y en la experiencia acumulada. Óxido le guiñó un ojo metálico y regresó a su callejón a recoger chatarra. Desde aquel día, Modelo-Alfa dejó de caminar con la nariz en alto. Se dedicó a crear un fondo de reparaciones para robots antiguos y aprendió que un engranaje oxidado que funciona con bondad vale mucho más que cien piezas de oro que solo saben mirarse al espejo. La moraleja de esta historia nos enseña que nunca debemos despreciar a nadie por su apariencia humilde, pues a menudo las personas con menos adornos son las que poseen las herramientas necesarias para rescatarnos en nuestros momentos más difíciles. La utilidad y la empatía son los motores que realmente hacen que el mundo siga girando, mucho más que el lujo o la belleza.",
+        "glosario": [
+            {
+                "palabra": "Sofisticado",
+                "definición": "Algo muy avanzado técnicamente y lleno de detalles complejos."
+            },
+            {
+                "palabra": "Impecable",
+                "definición": "Que no tiene ningún fallo, mancha ni imperfección."
+            },
+            {
+                "palabra": "Percance",
+                "definición": "Un contratiempo o accidente pequeño que ocurre de repente."
+            },
+            {
+                "palabra": "Estrépito",
+                "definición": "Un ruido muy fuerte y ensordecedor provocado por un golpe."
+            },
+            {
+                "palabra": "Soberbia",
+                "definición": "Sentimiento de superioridad que hace que alguien trate mal a los demás."
+            },
+            {
+                "palabra": "Avería",
+                "definición": "Daño o rotura que impide que una máquina funcione correctamente."
+            },
+            {
+                "palabra": "Empatía",
+                "definición": "Capacidad de ponerse en el lugar de otra persona para entender sus sentimientos."
+            },
+            {
+                "palabra": "Chatarra",
+                "definición": "Objetos de metal viejo o máquinas rotas que parecen no tener valor."
+            },
+            {
+                "palabra": "Disposición",
+                "definición": "Tener las ganas o la voluntad de hacer algo, como ayudar a alguien."
+            },
+            {
+                "palabra": "Metrópolis",
+                "definición": "Una ciudad muy grande, moderna y con mucha actividad."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De qué material estaba hecha la carcasa de Modelo-Alfa?",
+                "tipo": "test",
+                "opciones": [
+                    "De acero inoxidable",
+                    "De porcelana blanca brillante",
+                    "De plástico reciclado",
+                    "De cristal transparente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué le ocurrió a Alfa en la plaza central?",
+                "tipo": "test",
+                "opciones": [
+                    "Se quedó sin batería",
+                    "Un cable interno se soltó",
+                    "Se perdió en el mapa",
+                    "Le robaron sus piezas de oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué utilizó Óxido para reparar a Alfa?",
+                "tipo": "test",
+                "opciones": [
+                    "Un ordenador cuántico",
+                    "Una llave inglesa desgastada",
+                    "Pegamento especial",
+                    "Sus propios cables"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los otros robots de lujo no ayudaron a Alfa?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no sabían reparar robots",
+                    "Porque tenían miedo de contagiarse de Óxido",
+                    "Porque estaban demasiado ocupados cuidando su propia apariencia",
+                    "Porque no lo vieron en el suelo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué se puede inferir sobre el robot Óxido?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era un robot perezoso",
+                    "Que tenía muchos conocimientos técnicos a pesar de su aspecto viejo",
+                    "Que quería robarle el oro a Alfa",
+                    "Que era el dueño de la ciudad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al principio de la historia, ¿cuál era la prioridad de Alfa?",
+                "tipo": "test",
+                "opciones": [
+                    "Ayudar a los ciudadanos",
+                    "El lujo, la elegancia y la eficiencia perfecta",
+                    "Limpiar los callejones",
+                    "Aprender más idiomas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que Alfa dejó de caminar 'con la nariz en alto'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se le estropeó el cuello",
+                    "Que se volvió una persona humilde y dejó de ser presumido",
+                    "Que ahora miraba al suelo para no caerse",
+                    "Que se hizo más bajo de estatura"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal sobre el valor de las cosas en esta fábula?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el oro es el mejor material",
+                    "Que lo más importante es lo que brilla",
+                    "Que la utilidad y el buen corazón valen más que la belleza exterior",
+                    "Que los robots viejos deben ser reciclados"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Alfa habría ayudado a Óxido si los papeles se hubieran invertido al principio de la fábula?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no, porque al principio Alfa era muy presumido y pensaba que los robots feos o rotos eran un estorbo. Seguramente habría pasado de largo para no ensuciarse las manos de porcelana."
+            },
+            {
+                "enunciado": "¿Qué lección le darías tú a los robots de lujo que no se detuvieron a ayudar?",
+                "tipo": "abierta",
+                "respuestaModelo": "Les diría que no sirve de nada ser tan bonitos por fuera si por dentro son como piedras. Algún día ellos también se pueden estropear y van a necesitar que alguien sea bueno con ellos."
+            }
+        ]
+    },
+    {
+        "titulo": "La Cigarra Virtual y la Hormiga de Datos",
+        "tema": "fábulas",
+        "texto": "En el ciberespacio de una red social infinita, vivía una Cigarra llamada Digi que se pasaba el día creando vídeos divertidos, filtros de colores y canciones electrónicas que desaparecían a las pocas horas. Digi era muy popular; tenía millones de seguidores que le daban 'me gusta' a cada una de sus ocurrencias. A pocos píxeles de distancia, vivía la Hormiga Bit, que trabajaba sin descanso organizando bases de datos, limpiando virus informáticos y guardando copias de seguridad en servidores protegidos. Digi se reía de Bit desde su nube flotante. «¡Qué aburrida eres, Bit! Deja de archivar esos datos tan grises y únete a mi directo. La vida es diversión y clics», decía mientras bailaba con un filtro de luces de neón. Bit ni siquiera levantaba la vista de sus códigos. «El gran apagón del sistema ocurre cada diez ciclos lunares», advertía la hormiga, «y si no tenemos los archivos protegidos, perderemos toda nuestra memoria digital». Digi no hacía caso; ella pensaba que los servidores eran eternos y que su fama la mantendría a salvo siempre. Sin embargo, un martes por la tarde, un fallo masivo en la red eléctrica global provocó un colapso total. Las luces de neón de Digi se apagaron, sus vídeos se borraron y sus millones de seguidores desaparecieron al instante porque nadie podía conectarse. Digi se quedó sola en un espacio negro y vacío, sin saber quién era sin sus filtros. Temblando de frío digital, buscó refugio en el servidor de Bit. Al llegar, encontró una fortaleza cálida y llena de información útil, donde todo estaba ordenado y seguro. Bit la dejó entrar y compartió con ella la energía que había ahorrado. Digi se dio cuenta de que mientras ella creaba cosas vacías que no duraban nada, Bit había construido algo sólido que servía para sobrevivir en los momentos de crisis. Aunque la diversión es buena, no puede ser lo único en la vida. Digi aprendió a usar su creatividad para ayudar a Bit a hacer que los datos fueran más fáciles de entender para todos, y Bit aprendió que un poco de música hacía que el trabajo fuera menos pesado. La moraleja de esta historia nos advierte que es muy peligroso vivir solo de la apariencia y de lo que es momentáneo. Es fundamental trabajar con previsión y construir cosas que tengan un valor real y duradero, pues cuando llegan los problemas, lo único que nos sostiene es el esfuerzo que hemos invertido en lo que de verdad importa. La previsión es el mejor escudo contra las sorpresas del destino, y el equilibrio entre el trabajo y la alegría es la clave de una vida exitosa.",
+        "glosario": [
+            {
+                "palabra": "Ciberespacio",
+                "definición": "Mundo artificial creado por computadoras y redes de internet."
+            },
+            {
+                "palabra": "Píxel",
+                "definición": "El punto más pequeño que forma una imagen en una pantalla."
+            },
+            {
+                "palabra": "Servidor",
+                "definición": "Computadora muy potente que guarda y reparte información a otras."
+            },
+            {
+                "palabra": "Colapso",
+                "definición": "Caída o fallo total de un sistema que deja de funcionar de repente."
+            },
+            {
+                "palabra": "Holograma",
+                "definición": "Imagen de luz que parece tener volumen pero es intangible."
+            },
+            {
+                "palabra": "Previsión",
+                "definición": "Prepararse con antelación para un problema que puede pasar en el futuro."
+            },
+            {
+                "palabra": "Criptografía",
+                "definición": "Técnica para escribir códigos secretos y proteger la información."
+            },
+            {
+                "palabra": "Efímero",
+                "definición": "Algo que dura muy poco tiempo, como un suspiro o una pompa de jabón."
+            },
+            {
+                "palabra": "Memoria",
+                "definición": "Lugar donde se guarda la información para no olvidarla."
+            },
+            {
+                "palabra": "Ciclo",
+                "definición": "Serie de pasos o eventos que se repiten siempre en el mismo orden."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿A qué se dedicaba la Cigarra Digi durante el día?",
+                "tipo": "test",
+                "opciones": [
+                    "A limpiar virus",
+                    "A crear vídeos, filtros y canciones",
+                    "A guardar copias de seguridad",
+                    "A construir servidores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué advertencia le daba la Hormiga Bit a la Cigarra?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se le acabaría el dinero",
+                    "Que llegaría un gran apagón del sistema",
+                    "Que sus vídeos eran feos",
+                    "Que debía comprar una nube nueva"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ocurrió un martes por la tarde en el ciberespacio?",
+                "tipo": "test",
+                "opciones": [
+                    "Hubo una fiesta virtual",
+                    "Un fallo masivo en la red provocó un colapso",
+                    "Digi consiguió más seguidores",
+                    "Bit terminó su trabajo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Digi se sintió perdida cuando ocurrió el apagón?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tenía linterna",
+                    "Porque su identidad dependía solo de las redes sociales y la apariencia",
+                    "Porque Bit le cerró la puerta",
+                    "Porque quería seguir bailando"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos aprender del comportamiento de Bit?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no hay que divertirse nunca",
+                    "Que el trabajo constante y la previsión nos dan seguridad",
+                    "Que es mejor vivir solo",
+                    "Que los datos son más divertidos que la música"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la relación entre Digi y Bit al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Se pelearon para siempre",
+                    "Decidieron combinar sus talentos: arte y organización",
+                    "Digi se convirtió en una hormiga",
+                    "Bit borró todos sus datos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la palabra 'efímero' en el contexto de los vídeos de Digi?",
+                "tipo": "test",
+                "opciones": [
+                    "Que eran muy educativos",
+                    "Que duraban muy poco tiempo antes de desaparecer",
+                    "Que eran muy caros",
+                    "Que se veían en 3D"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la moraleja que se aplica a nuestra vida con internet?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que subir vídeos todos los días",
+                    "Que no debemos confiar solo en lo que es apariencia, sino construir cosas reales",
+                    "Que las hormigas son mejores que las cigarras",
+                    "Que los ordenadores siempre fallan"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que es malo usar redes sociales para divertirse como hacía Digi?",
+                "tipo": "abierta",
+                "respuestaModelo": "No es malo divertirse, pero lo que hizo Digi estuvo mal porque se olvidó de las cosas importantes. Creo que puedes subir vídeos pero también tienes que estudiar y prepararte para cuando las cosas salgan mal."
+            },
+            {
+                "enunciado": "Si fueras la Hormiga Bit, ¿qué le habrías dicho a Digi cuando te pidió entrar en el servidor?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo la dejaría entrar porque hay que ser buenos, pero le diría que ahora le toca ayudarme a trabajar. Así aprendería que para tener seguridad primero hay que esforzarse un poco."
+            }
+        ]
+    },
+    {
+        "titulo": "El Comandante Leónidas y el Nanobot Rati",
+        "tema": "ciencia ficción",
+        "texto": "En la inmensa estación espacial de vigilancia «Orbital-9», que flotaba silenciosamente sobre los anillos de Saturno, el Comandante Leónidas era la máquina más temida de la galaxia. Leónidas no era un animal biológico, sino un gigantesco robot de combate con forma de león, blindado con titanio dorado y equipado con garras láser capaces de cortar el acero más duro. Su rugido era una onda sónica que hacía temblar los cristales de las naves cercanas. Un día, mientras Leónidas recargaba sus baterías en el muelle de carga, sintió un cosquilleo en uno de sus cables principales. Al activar su zoom óptico, descubrió a Rati, un diminuto nanobot de reparaciones, no más grande que una tuerca, que intentaba robar un poco de energía de su generador para sobrevivir. Leónidas atrapó al pequeño intruso con una sola garra. «¿Cómo te atreves, insignificante chatarra?», retumbó su voz. Rati, temblando, emitió un pitido agudo: «¡Por favor, Comandante! Mis circuitos están fallando y necesito energía. Si me deja ir, algún día le devolveré el favor». Leónidas soltó una carcajada metálica que resonó en todo el hangar. «¿Tú? ¿Ayudarme a mí, el rey de los robots? Vete antes de que te desmonte». Y lo soltó, más por lástima que por bondad. Semanas después, unos piratas espaciales tendieron una trampa. Activaron una red de energía electromagnética que paralizó los sistemas de Leónidas. El gran robot cayó al suelo, incapaz de moverse, mientras los piratas se acercaban para desguazarlo. Leónidas rugió con impotencia, pero sus armas no respondían. De repente, vio una chispa en el panel de control de la red enemiga. Era Rati. El pequeño nanobot se había infiltrado en el sistema de los piratas y estaba mordiendo los cables del generador de la trampa. Con un chispazo final, la red se apagó. Leónidas, libre de nuevo, ahuyentó a los piratas con un solo movimiento de sus garras. Cuando todo se calmó, el enorme león bajó la cabeza hasta el suelo. «Me has salvado, pequeño», dijo con humildad. Rati parpadeó sus luces azules. «Los cables pequeños mueven grandes máquinas, Comandante». Desde entonces, Leónidas nunca volvió a juzgar a nadie por su tamaño. Entendió que, en el vasto universo, todos tenemos una función vital y que la fuerza bruta no lo es todo. La lealtad y la astucia de los más pequeños pueden derribar las trampas más grandes. Así, el robot más poderoso y el nanobot más humilde formaron el mejor equipo de seguridad del sector, recordando a todos los viajeros estelares que ningún acto de bondad, por pequeño que sea, cae en saco roto. La moraleja de esta historia galáctica es que no debemos subestimar a los demás por su apariencia o tamaño, pues hasta el ser más diminuto tiene habilidades únicas que pueden salvarnos cuando nuestra propia fuerza nos falla estrepitosamente.",
+        "glosario": [
+            {
+                "palabra": "Orbital",
+                "definición": "Que gira o está situado en el espacio alrededor de un planeta o estrella."
+            },
+            {
+                "palabra": "Titanio",
+                "definición": "Un metal muy fuerte, ligero y resistente, usado para construir naves y robots."
+            },
+            {
+                "palabra": "Sónico",
+                "definición": "Relacionado con el sonido o las ondas que se escuchan."
+            },
+            {
+                "palabra": "Nanobot",
+                "definición": "Un robot extremadamente pequeño, casi invisible, diseñado para tareas muy precisas."
+            },
+            {
+                "palabra": "Impotencia",
+                "definición": "Sentimiento de frustración por no poder hacer nada para solucionar un problema."
+            },
+            {
+                "palabra": "Desguazar",
+                "definición": "Desmontar una máquina o vehículo para separar sus piezas y aprovecharlas."
+            },
+            {
+                "palabra": "Infiltrado",
+                "definición": "Entrar en un lugar o sistema enemigo sin ser descubierto."
+            },
+            {
+                "palabra": "Humildad",
+                "definición": "Actitud de la persona que no se cree mejor que los demás."
+            },
+            {
+                "palabra": "Subestimar",
+                "definición": "Darle a alguien o algo menos valor o importancia del que realmente tiene."
+            },
+            {
+                "palabra": "Estrepitosamente",
+                "definición": "De una manera muy ruidosa, llamativa o con un gran fracaso."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde vivía el Comandante Leónidas?",
+                "tipo": "test",
+                "opciones": [
+                    "En una cueva de Marte",
+                    "En la estación espacial Orbital-9",
+                    "En un barco pirata",
+                    "En la Tierra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué intentaba hacer Rati cuando fue descubierto?",
+                "tipo": "test",
+                "opciones": [
+                    "Atacar a Leónidas",
+                    "Robar energía del generador",
+                    "Limpiar el suelo",
+                    "Dormir una siesta"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué trampa usaron los piratas contra Leónidas?",
+                "tipo": "test",
+                "opciones": [
+                    "Una red de cuerdas",
+                    "Un foso profundo",
+                    "Una red de energía electromagnética",
+                    "Un virus informático"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Leónidas soltó a Rati la primera vez?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque le dio lástima y le pareció insignificante",
+                    "Porque Rati le pagó",
+                    "Porque se le escapó",
+                    "Porque eran amigos"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué cualidad demostró Rati al salvar a Leónidas?",
+                "tipo": "test",
+                "opciones": [
+                    "Fuerza bruta",
+                    "Velocidad extrema",
+                    "Lealtad y astucia",
+                    "Miedo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa la frase «Los cables pequeños mueven grandes máquinas»?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las máquinas grandes no sirven",
+                    "Que los detalles pequeños son fundamentales para que todo funcione",
+                    "Que hay que comprar cables nuevos",
+                    "Que Rati era electricista"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la actitud de Leónidas al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Se volvió más cruel",
+                    "Dejó de ser un robot",
+                    "Aprendió a respetar a los pequeños y ser humilde",
+                    "Se unió a los piratas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de esta fábula?",
+                "tipo": "test",
+                "opciones": [
+                    "Los robots grandes siempre ganan",
+                    "No hay que subestimar a nadie, todos somos importantes",
+                    "Los piratas espaciales son peligrosos",
+                    "Hay que ahorrar energía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Leónidas habría sobrevivido sin la ayuda de Rati? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no, porque la red de energía lo tenía totalmente paralizado y sus armas no funcionaban. Aunque sea muy fuerte, necesitaba a alguien pequeño que pudiera meterse en los cables para apagar la trampa desde dentro."
+            },
+            {
+                "enunciado": "¿Qué harías tú si alguien se burlara de ti por ser pequeño o no saber hacer algo, como le pasó a Rati?",
+                "tipo": "abierta",
+                "respuestaModelo": "No me enfadaría, intentaría demostrarle con el tiempo que yo también sé hacer cosas importantes. A veces la gente juzga sin saber, pero con mis acciones puedo enseñarles que se equivocan, igual que hizo Rati."
+            }
+        ]
+    },
+    {
+        "titulo": "La Carrera en el Planeta Gravedad",
+        "tema": "ciencia ficción",
+        "texto": "En el planeta Gravedad-X, donde caminar pesaba el doble que en la Tierra, se organizó la Gran Carrera del Siglo. Los competidores eran Rayo, una liebre biónica con propulsores en las patas, y Tuga, una tortuga cibernética con un sistema de movimiento lento pero constante. Rayo era famoso por su arrogancia. «Mis propulsores de iones alcanzan los trescientos kilómetros por hora en dos segundos», presumía ante las cámaras de televisión holográfica. «Tuga, con su motor de oruga, tardará un año en llegar a la meta». Tuga, tranquila dentro de su caparazón de aleación reforzada, solo ajustó sus sensores y verificó su reserva de combustible. «La carrera es larga, Rayo. La eficiencia es más importante que la velocidad punta», respondió con voz calmada. Al sonar la señal de salida, Rayo salió disparado dejando una estela de fuego azul. En pocos minutos, había recorrido la mitad del circuito. Al ver que Tuga apenas había avanzado unos metros, Rayo decidió parar en una estación de servicio para recargar sus luces de neón y firmar autógrafos a sus fans robots. «Tengo tiempo de sobra», pensó. Mientras tanto, Tuga avanzaba sin detenerse. Su motor no era rápido, pero estaba diseñado para reciclar energía y adaptarse al terreno pesado del planeta. Tuga no gastaba ni un vatio innecesario. Pasaron las horas. Rayo, después de su descanso, encendió sus propulsores al máximo para terminar la carrera con estilo. Sin embargo, no calculó bien. El uso excesivo de la potencia en la atmósfera densa de Gravedad-X hizo que sus motores se sobrecalentaran. A pocos kilómetros de la meta, sus propulsores echaron humo y se apagaron. Rayo quedó varado, incapaz de mover sus pesadas piernas mecánicas sin la ayuda del motor. Tuga, paso a paso, con su ritmo inalterable, pasó al lado de la liebre averiada. Rayo la miró con desesperación. «¿Cómo es posible?», preguntó. Tuga, sin detenerse, le dijo: «Tu prisa te hizo descuidar tu resistencia. Yo conozco mis límites y los respeto». Tuga cruzó la línea de meta mientras el público aplaudía su inteligencia y perseverancia. Rayo tuvo que ser remolcado por una grúa. Aquel día, todos en el planeta aprendieron una lección valiosa. La fábula nos enseña que el talento y la rapidez no sirven de nada sin constancia y disciplina. A veces, en la vida y en los estudios, no gana el que lo hace todo más rápido al principio, sino el que trabaja poco a poco, sin rendirse y cuidando sus energías hasta el final. La verdadera victoria es para quien persiste.",
+        "glosario": [
+            {
+                "palabra": "Biónica",
+                "definición": "Que combina partes biológicas (vivas) con partes electrónicas o mecánicas."
+            },
+            {
+                "palabra": "Propulsor",
+                "definición": "Motor o aparato que sirve para empujar algo hacia adelante con fuerza."
+            },
+            {
+                "palabra": "Holográfica",
+                "definición": "Imagen que parece tener volumen y estar en el aire, creada con luz láser."
+            },
+            {
+                "palabra": "Aleación",
+                "definición": "Mezcla de dos o más metales para crear un material nuevo y más resistente."
+            },
+            {
+                "palabra": "Eficiencia",
+                "definición": "Capacidad de lograr un objetivo usando la menor cantidad de recursos o energía posible."
+            },
+            {
+                "palabra": "Varado",
+                "definición": "Quedarse atrapado o detenido en un lugar sin poder moverse."
+            },
+            {
+                "palabra": "Inalterable",
+                "definición": "Que no cambia, que se mantiene igual a pesar del tiempo o las dificultades."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Esfuerzo continuo para conseguir algo, sin rendirse aunque sea difícil."
+            },
+            {
+                "palabra": "Constancia",
+                "definición": "Firmeza y continuidad en las acciones para lograr una meta."
+            },
+            {
+                "palabra": "Sobrecalentar",
+                "definición": "Subir la temperatura de una máquina por encima de lo normal, provocando fallos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Quiénes eran los competidores de la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Dos coches de carreras",
+                    "Una liebre biónica y una tortuga cibernética",
+                    "Un humano y un robot",
+                    "Dos naves espaciales"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema técnico tuvo Rayo antes de llegar a la meta?",
+                "tipo": "test",
+                "opciones": [
+                    "Se quedó sin gasolina",
+                    "Se le pinchó una rueda",
+                    "Sus motores se sobrecalentaron",
+                    "Se perdió en el camino"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué decidió parar Rayo a mitad de la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba cansado",
+                    "Para recargar luces y firmar autógrafos confiado en su ventaja",
+                    "Porque se rompió su motor",
+                    "Para esperar a Tuga"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la estrategia de Tuga?",
+                "tipo": "test",
+                "opciones": [
+                    "Correr muy rápido al final",
+                    "Hacer trampas",
+                    "Mantener un ritmo constante y eficiente",
+                    "Usar un atajo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué ventaja tenía el motor de Tuga sobre el de Rayo?",
+                "tipo": "test",
+                "opciones": [
+                    "Era más bonito",
+                    "Podía volar",
+                    "Estaba diseñado para reciclar energía y adaptarse al terreno",
+                    "Hacía más ruido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué error principal cometió la liebre Rayo?",
+                "tipo": "test",
+                "opciones": [
+                    "No entrenar suficiente",
+                    "Ser arrogante y subestimar la dificultad del planeta",
+                    "No saludar al público",
+                    "Elegir el color equivocado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra la victoria de Tuga?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las tortugas siempre ganan",
+                    "Que la constancia es más importante que la velocidad descontrolada",
+                    "Que los robots son lentos",
+                    "Que la carrera era muy corta"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo reaccionó Tuga cuando pasó al lado de Rayo averiado?",
+                "tipo": "test",
+                "opciones": [
+                    "Se burló de él",
+                    "Se detuvo a ayudarlo",
+                    "Siguió avanzando y le explicó su error",
+                    "Llamó a una ambulancia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Rayo podría haber ganado la carrera si hubiera actuado de otra forma? ¿Cómo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, yo creo que habría ganado si no hubiera parado a presumir. Si hubiera ido a una velocidad normal sin forzar tanto el motor y sin distraerse con los fans, habría llegado antes sin romperse."
+            },
+            {
+                "enunciado": "¿Qué consejo le darías a un amigo que quiere acabar los deberes muy rápido pero los hace mal?",
+                "tipo": "abierta",
+                "respuestaModelo": "Le diría que es mejor ir un poco más despacio y fijarse bien en lo que hace, como Tuga. Si corres mucho te equivocas y al final tardas más en corregirlo que si lo haces bien y tranquilo desde el principio."
+            }
+        ]
+    }
+]

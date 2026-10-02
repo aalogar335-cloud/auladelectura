@@ -1,0 +1,1325 @@
+[
+    {
+        "titulo": "El Aprendiz de Escriba en el Antiguo Egipto",
+        "tema": "historia",
+        "texto": "El sol de la mañana comenzaba a calentar las aguas del río Nilo cuando Nakht se despertó. A sus once años, no era un niño común que jugaba todo el día entre las palmeras de papiro; era un aprendiz en la Casa de la Vida. Su sueño era convertirse en un escriba real, una posición de gran prestigio en el antiguo Egipto. Mientras caminaba hacia el templo, Nakht llevaba colgada al hombro su paleta de madera, que contenía pastillas de tinta roja y negra, y sus valiosos pinceles hechos de juncos afilados. Al llegar, su maestro, el sabio Amenhotep, ya le estaba esperando sentado sobre una estera de paja. La escritura jeroglífica no era fácil de dominar; requería una paciencia infinita y una mano muy firme. Cada símbolo, ya fuera un pájaro, un ojo o un cetro, debía trazarse con una precisión milimétrica, pues un pequeño error podía cambiar totalmente el significado de un decreto del faraón. Durante horas, Nakht practicó sobre trozos de vasijas rotas, llamados ostraca, ya que el papiro era un material demasiado costoso para los borradores de un principiante. Amenhotep le explicaba que los escribas eran la memoria del imperio, encargados de registrar las cosechas de grano, los impuestos para el tesoro y las hazañas de los dioses en las paredes de las tumbas. De repente, un mensajero entró corriendo en la sala. El faraón necesitaba un registro urgente de las inundaciones del Nilo para planificar la siembra en las tierras negras. El maestro miró a Nakht y, para su sorpresa, le entregó un rollo de papiro nuevo y auténtico. Era su primera tarea oficial. Con el corazón latiendo con fuerza, el niño mojó su pincel en el tintero. Sabía que su trabajo ayudaría a evitar el hambre en su pueblo si los cálculos eran correctos. Nakht trabajó con una concentración total, ignorando el ruido de los carros de guerra que pasaban por la calle. Al terminar, Amenhotep revisó los trazos y asintió con orgullo. El niño no solo había escrito los números con claridad, sino que había demostrado que entendía la importancia de su servicio. Al caer la tarde, mientras regresaba a su modesta casa de adobe, Nakht miró las pirámides que se alzaban en el horizonte. Comprendió que, aunque las piedras eran inmensas, las palabras que él escribía eran las que realmente harían que la historia de su pueblo durara para siempre. Esa noche, Nakht durmió feliz, sabiendo que ya no era solo un aprendiz que imitaba dibujos, sino alguien que ayudaba a sostener el orden del mundo egipcio. Su paleta ya no era solo una herramienta de madera, sino el símbolo de una responsabilidad que llevaría con honor toda su vida, registrando el paso del tiempo bajo el cielo del desierto.",
+        "glosario": [
+            {
+                "palabra": "Escriba",
+                "definición": "Persona que en la antigüedad tenía el oficio de copiar o escribir a mano documentos y registros."
+            },
+            {
+                "palabra": "Papiro",
+                "definición": "Planta que crece a orillas del Nilo de la que se obtenía un material parecido al papel para escribir."
+            },
+            {
+                "palabra": "Jeroglífico",
+                "definición": "Sistema de escritura basado en dibujos y símbolos que representaban palabras o sonidos."
+            },
+            {
+                "palabra": "Faraón",
+                "definición": "Título que recibían los reyes y gobernantes del antiguo Egipto."
+            },
+            {
+                "palabra": "Ostraca",
+                "definición": "Trozos de cerámica o piedra que los aprendices usaban como cuadernos baratos para practicar."
+            },
+            {
+                "palabra": "Adobe",
+                "definición": "Ladrillo hecho de barro y paja secado al sol, usado para construir casas."
+            },
+            {
+                "palabra": "Cetro",
+                "definición": "Vara de mando que llevaban los gobernantes como símbolo de su poder."
+            },
+            {
+                "palabra": "Casa de la Vida",
+                "definición": "Lugar parecido a una escuela o biblioteca donde se estudiaba y se guardaban los libros sagrados."
+            },
+            {
+                "palabra": "Decreto",
+                "definición": "Decisión u orden dictada por una autoridad, en este caso el faraón, que todos debían cumplir."
+            },
+            {
+                "palabra": "Precisión",
+                "definición": "Capacidad de hacer algo con exactitud, cuidando hasta el detalle más pequeño."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué herramientas llevaba Nakht para su trabajo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una espada y un escudo",
+                    "Una paleta de madera y pinceles de junco",
+                    "Martillo y cincel",
+                    "Redes de pesca"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Sobre qué material practicaba Nakht sus primeros dibujos?",
+                "tipo": "test",
+                "opciones": [
+                    "Papiro real",
+                    "Paredes del templo",
+                    "Ostraca (vasijas rotas)",
+                    "Hojas de palmera"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era la tarea urgente que pidió el mensajero del faraón?",
+                "tipo": "test",
+                "opciones": [
+                    "Dibujar una pirámide",
+                    "Registrar las inundaciones del Nilo",
+                    "Contar los soldados",
+                    "Escribir un poema de amor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué era importante que un escriba no cometiera errores?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el papel era muy caro",
+                    "Porque un error cambiaba el significado de las órdenes del faraón",
+                    "Porque los dioses se enfadaban si la letra era fea",
+                    "Porque el maestro le quitaba la comida"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre la personalidad de Nakht?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era un niño perezoso",
+                    "Que era muy responsable y dedicado a su estudio",
+                    "Que solo quería ser rico",
+                    "Que no le gustaba vivir en Egipto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el maestro le entregó papiro auténtico para la tarea del mensajero?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque ya no tenían ostraca",
+                    "Porque era una tarea oficial e importante del faraón",
+                    "Porque el papiro se iba a estropear",
+                    "Porque Nakht cumplía años"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significaba que los escribas eran la 'memoria del imperio'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenían cerebros mágicos",
+                    "Que guardaban la información importante para que no se olvidara",
+                    "Que vivían muchos años",
+                    "Que recordaban los nombres de todos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final del día, ¿qué aprendió Nakht sobre su oficio?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era más fácil que construir pirámides",
+                    "Que sus palabras eran las que hacían durar la historia",
+                    "Que el sol cansaba mucho",
+                    "Que prefería ser agricultor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que era justo que Nakht tuviera que practicar en trozos de cerámica en lugar de papiro?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí porque el papiro era muy difícil de hacer y costaba mucho dinero, así que era mejor que los niños practicaran en cosas viejas para no gastar lo bueno hasta que supieran escribir bien."
+            },
+            {
+                "enunciado": "Si pudieras ser un escriba hoy en día, ¿qué cosas importantes de nuestra época registrarías?",
+                "tipo": "abierta",
+                "respuestaModelo": "Escribiría sobre los inventos nuevos como internet y las consolas, y también sobre cómo cuidamos el planeta, para que los niños del futuro sepan cómo vivíamos nosotros y qué cosas nos gustaban."
+            }
+        ]
+    },
+    {
+        "titulo": "El Despertar del Renacimiento en Florencia",
+        "tema": "historia",
+        "texto": "El aire de Florencia en el año 1504 olía a aceite de lino, madera recién cortada y piedra picada. Lucía, la hija de un mercader de telas, caminaba con paso rápido por las estrechas calles empedradas hacia la plaza de la Señoría. Aquel día no era un día normal; toda la ciudad estaba revolucionada porque se iba a mostrar al público una obra que cambiaría la historia del arte para siempre. Lucía se detuvo frente al taller de un joven artista llamado Miguel Ángel, donde los martillazos rítmicos contra el mármol habían cesado después de meses de trabajo secreto. En esa época, llamada el Renacimiento, Florencia era el centro de un estallido de creatividad sin precedentes. Los artistas no solo pintaban, sino que estudiaban anatomía, arquitectura y astronomía para que sus obras fueran perfectas y reflejaran la belleza de la naturaleza humana. Lucía recordaba haber visto a Leonardo da Vinci dibujando máquinas voladoras en sus cuadernos, y se preguntaba si algún día los hombres realmente volarían como pájaros. Al llegar a la plaza, vio una figura colosal cubierta con lonas. Los ciudadanos, desde nobles hasta panaderos, esperaban con expectación contenida. Cuando finalmente retiraron las telas, apareció el David, una escultura de mármol blanco tan detallada que parecía que las venas de sus manos latían de verdad. Lucía se quedó sin aliento. Comprendió que el arte no era solo decoración, sino una forma de demostrar de lo que era capaz el ingenio humano cuando se esforzaba. Su padre siempre le decía que vivían en una 'edad de oro' donde el conocimiento de los antiguos griegos y romanos estaba volviendo a la vida, pero con nuevas ideas que miraban hacia el futuro. Lucía regresó a su casa inspirada y sacó un pequeño carboncillo que guardaba escondido. Aunque en esa época las niñas no solían ir a los talleres de arte, ella decidió que empezaría a dibujar todo lo que veía: el movimiento de las telas de su padre, las sombras de las torres y las expresiones de la gente. Sabía que el Renacimiento no solo pertenecía a los grandes maestros, sino a cualquiera que tuviera la curiosidad de observar el mundo con ojos nuevos. Mientras la campana de la catedral de Santa María del Fiore sonaba, Lucía trazó su primera línea en un trozo de papel. Florencia seguía bulliciosa afuera, llena de genios y mercaderes, pero dentro de su habitación, una niña estaba descubriendo que ella también podía ser parte de ese gran cambio histórico. El Renacimiento era, sobre todo, la idea de que los seres humanos podían superarse a sí mismos, y Lucía estaba lista para intentarlo, paso a paso, dibujo a dibujo, en una ciudad que nunca dejaba de soñar.",
+        "glosario": [
+            {
+                "palabra": "Renacimiento",
+                "definición": "Época histórica donde renació el interés por el arte, la ciencia y el conocimiento antiguo."
+            },
+            {
+                "palabra": "Mercader",
+                "definición": "Persona que se dedica a comprar y vender productos, como telas o especias."
+            },
+            {
+                "palabra": "Anatomía",
+                "definición": "Estudio de la estructura y las partes del cuerpo humano."
+            },
+            {
+                "palabra": "Mármol",
+                "definición": "Roca muy dura y brillante que se usa para hacer esculturas y edificios importantes."
+            },
+            {
+                "palabra": "Colosal",
+                "definición": "Algo que tiene un tamaño gigantesco o es extraordinariamente grande."
+            },
+            {
+                "palabra": "Ingenio",
+                "definición": "Capacidad de una persona para inventar cosas o resolver problemas de forma creativa."
+            },
+            {
+                "palabra": "Carboncillo",
+                "definición": "Palillo de madera quemada que se usa para dibujar sombras y trazos negros."
+            },
+            {
+                "palabra": "Noble",
+                "definición": "Persona que pertenece a una clase social alta con privilegios por su familia."
+            },
+            {
+                "palabra": "Expectación",
+                "definición": "Sentimiento de espera emocionante o curiosidad por algo que va a suceder."
+            },
+            {
+                "palabra": "Arquitectura",
+                "definición": "Arte y técnica de diseñar y construir edificios."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué ciudad y año se desarrolla la historia de Lucía?",
+                "tipo": "test",
+                "opciones": [
+                    "Roma, 1400",
+                    "Florencia, 1504",
+                    "Madrid, 1600",
+                    "París, 1500"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué escultura famosa se presenta al público en la plaza?",
+                "tipo": "test",
+                "opciones": [
+                    "La Piedad",
+                    "El Moisés",
+                    "El David",
+                    "La Gioconda"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué estudiaban los artistas del Renacimiento además de pintar?",
+                "tipo": "test",
+                "opciones": [
+                    "Solo a cocinar",
+                    "Anatomía, arquitectura y astronomía",
+                    "Cómo fabricar espadas",
+                    "A pescar en el río Arno"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Lucía se quedó 'sin aliento' al ver la escultura?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era muy fea",
+                    "Porque el mármol era muy brillante",
+                    "Porque los detalles eran tan reales que parecía tener vida",
+                    "Porque había corrido mucho"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre el papel de las niñas en esa época?",
+                "tipo": "test",
+                "opciones": [
+                    "Que todas eran artistas famosas",
+                    "Que normalmente no se les permitía estudiar arte en talleres",
+                    "Que mandaban en la ciudad",
+                    "Que no les gustaba el arte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'el conocimiento de los antiguos griegos y romanos estaba volviendo a la vida'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los griegos habían resucitado",
+                    "Que los artistas estudiaban las ideas de hace muchos siglos para mejorar",
+                    "Que hablaban en latín todo el día",
+                    "Que las estatuas viejas se movían"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Lucía saca su carboncillo a escondidas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era robado",
+                    "Porque quiere practicar dibujo inspirada por lo que vio",
+                    "Porque no quiere que su padre se lo quite",
+                    "Porque tiene miedo de Miguel Ángel"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La historia sugiere que el Renacimiento fue una época de...",
+                "tipo": "test",
+                "opciones": [
+                    "Guerras y tristeza",
+                    "Grandes cambios y confianza en el ser humano",
+                    "Pereza y descanso",
+                    "Construcción de barcos de guerra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que a la gente le importaba tanto ver una estatua nueva en aquella época?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que era porque antes no había fotos ni internet, así que ver algo tan grande y tan bien hecho era como ver una película increíble para ellos. Además, se sentían orgullosos de que en su ciudad vivieran genios."
+            },
+            {
+                "enunciado": "Lucía decide dibujar aunque no fuera 'normal' para una niña de su tiempo. ¿Qué te enseña eso?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me enseña que si te gusta mucho algo, tienes que intentarlo aunque los demás digan que no puedes. Ella fue valiente por empezar su propio camino y no dejar que las reglas de antes le quitaran las ganas de aprender."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Galeón de las Brumas",
+        "tema": "historia",
+        "texto": "Bajo las aguas del Caribe, donde el sol apenas logra enviar sus dedos de luz, descansaba el Galeón de las Brumas. Era el año 1715, y una tormenta feroz había enviado a esta joya de la corona española al fondo del océano. Siglos después, un joven llamado Leo, apasionado por la historia submarina, se preparaba para explorar sus restos. Leo no era un buscador de tesoros común; su interés residía en las cartas y diarios que el barco transportaba, documentos que narraban la vida cotidiana de los navegantes de aquella época. Ajustó su máscara de buceo y se sumergió en el azul infinito. A medida que descendía, el silencio era absoluto, roto solo por el rítmico sonido de su respiración. Pronto, la silueta del galeón apareció ante sus ojos. Estaba cubierto de corales y anémonas, como si la naturaleza hubiera decidido reclamar el barco para su propio reino. Con mucho cuidado, Leo se deslizó por una abertura en la cubierta de madera carcomida. Sabía que cada movimiento debía ser preciso para no levantar el sedimento que nublaría su visión. En lo que parecía ser el camarote del capitán, divisó un pequeño cofre de metal, mucho más resistente que el resto de los muebles. Con delicadeza, lo extrajo de la arena. Al subir a la superficie y regresar a su barco de investigación, Leo sintió un nudo en el estómago. La historia estaba a punto de hablarle. Una vez que el equipo de conservación abrió el cofre en el laboratorio, no aparecieron monedas de oro, sino un fajo de papeles envueltos en tela encerada que los había protegido del agua salada. Eran diarios de los marineros. Leo comenzó a leer las palabras escritas con tinta descolorida. Hablaban del miedo a las tormentas, pero también de la esperanza de volver a ver a sus familias en Sevilla. Narraban cómo compartían las raciones de comida y cómo cantaban canciones bajo las estrellas para mantener el ánimo alto. No eran héroes de leyenda, eran personas normales con sueños y temores muy reales. Leo comprendió que la historia no se construye solo con grandes batallas y reyes poderosos, sino con los pequeños actos de valentía de gente común. Decidió que su misión sería compartir estos relatos con el mundo, para que los nombres de aquellos marineros no se perdieran en el olvido. Gracias a su descubrimiento, el museo local pudo organizar una exposición que no mostraba joyas, sino la humanidad de quienes cruzaron los mares hace siglos. Leo miró el océano y sonrió. Sabía que bajo las olas todavía quedaban miles de voces esperando ser escuchadas, y él estaba dispuesto a seguir sumergiéndose para rescatar la memoria del tiempo. La verdadera riqueza, concluyó, no es la que brilla, sino la que nos ayuda a entender quiénes somos y de dónde venimos a través de los ojos de nuestros antepasados.",
+        "glosario": [
+            {
+                "palabra": "Galeón",
+                "definición": "Barco grande de vela que se usaba antiguamente para el comercio y la guerra."
+            },
+            {
+                "palabra": "Sedimento",
+                "definición": "Capa de arena, tierra o barro que se acumula en el fondo del mar."
+            },
+            {
+                "palabra": "Carcomida",
+                "definición": "Madera que está estropeada o llena de agujeros por el paso del tiempo."
+            },
+            {
+                "palabra": "Conservación",
+                "definición": "Técnica para cuidar objetos antiguos y evitar que se destruyan."
+            },
+            {
+                "palabra": "Diplomático",
+                "definición": "Relacionado con los acuerdos y la paz entre diferentes países."
+            },
+            {
+                "palabra": "Fajo",
+                "definición": "Conjunto de papeles o cosas atadas o puestas unas encima de otras."
+            },
+            {
+                "palabra": "Anémona",
+                "definición": "Animal marino de colores que parece una planta y vive pegado a las rocas."
+            },
+            {
+                "palabra": "Camarote",
+                "definición": "Habitación pequeña de un barco donde duermen los marineros o el capitán."
+            },
+            {
+                "palabra": "Cotidiana",
+                "definición": "Algo que ocurre todos los días, la vida normal de las personas."
+            },
+            {
+                "palabra": "Antepasado",
+                "definición": "Persona de nuestra familia o comunidad que vivió hace muchísimos años."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año se hundió el Galeón de las Brumas?",
+                "tipo": "test",
+                "opciones": [
+                    "1715",
+                    "1815",
+                    "1915",
+                    "1615"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué buscaba realmente Leo en el fondo del mar?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de oro",
+                    "Joyas de la corona",
+                    "Documentos y diarios antiguos",
+                    "Armas de piratas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde encontró Leo el cofre de metal?",
+                "tipo": "test",
+                "opciones": [
+                    "En la cocina",
+                    "En el camarote del capitán",
+                    "En la bodega de carga",
+                    "Fuera del barco"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los papeles no se destruyeron con el agua del mar?",
+                "tipo": "test",
+                "opciones": [
+                    "Eran de plástico",
+                    "Estaban envueltos en tela encerada",
+                    "El cofre era mágico",
+                    "Tuvieron mucha suerte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede deducir que Leo es un explorador...",
+                "tipo": "test",
+                "opciones": [
+                    "Ambicioso",
+                    "Respetuoso con el pasado",
+                    "Miedoso",
+                    "Descuidado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Leo al leer los diarios de los marineros?",
+                "tipo": "test",
+                "opciones": [
+                    "Que eran piratas malvados",
+                    "Que eran personas normales con sentimientos",
+                    "Que no sabían escribir",
+                    "Que el barco era muy aburrido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué importancia tiene el sedimento según la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Es el tesoro más valioso",
+                    "Puede nublar la visión si se mueve",
+                    "Sirve para limpiar el barco",
+                    "Es la comida de los peces"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la 'verdadera riqueza' según la conclusión de Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "El oro que brilla",
+                    "Entender nuestra historia y humanidad",
+                    "Tener un barco moderno",
+                    "Ser famoso en el museo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que es importante estudiar la vida de la gente común del pasado o solo la de los reyes?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que es más guay estudiar a la gente normal porque nos ayuda a saber cómo vivían de verdad, qué comían o si tenían miedo. Los reyes son importantes, pero la gente común es la que hace que el mundo funcione."
+            },
+            {
+                "enunciado": "Si pudieras escribir un mensaje para que alguien lo encontrara dentro de cien años, ¿qué pondrías?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pues escribiría que espero que en el futuro hayan arreglado el planeta y que sigan cuidando a los animales. También contaría que nos gustaba mucho jugar y estar con los amigos, para que vean que no somos tan distintos."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Papiro de Saqqara",
+        "tema": "historia",
+        "texto": "En el caluroso verano de 1922, un joven llamado Tarek trabajaba como aguador en las excavaciones del Valle de los Reyes. Aunque su tarea principal era saciar la sed de los arqueólogos británicos, sus ojos siempre estaban atentos a la arena dorada. Su abuelo le había contado historias sobre un escriba real que escondió un papiro sagrado antes de que las arenas del desierto cubrieran su hogar. Un martes, mientras descansaba bajo la sombra de una roca caliza, Tarek vio un brillo inusual cerca de una columna enterrada. Con manos temblorosas, apartó los granos de arena y descubrió un pequeño cilindro de arcilla sellado con cera. Sabía que no debía abrirlo solo, pero la curiosidad era una llama encendida en su pecho. Al llevarlo ante el profesor Howard, el jefe de la expedición, el ambiente se llenó de una expectación contenida. Con herramientas delicadas, los expertos rompieron el sello y desenrollaron un papiro que había estado en silencio durante milenios. No contenía mapas de tesoros de oro, sino algo mucho más valioso para entender el pasado: el registro de las canciones que los campesinos cantaban durante la cosecha del Nilo. Tarek escuchaba fascinado cómo el profesor traducía las palabras antiguas que hablaban de la importancia de la lluvia y de la gratitud hacia la tierra. Aquel descubrimiento cambió la visión de la excavación. Ya no solo buscaban tumbas de faraones poderosos, sino que querían conocer cómo era la vida de la gente común, la que realmente construyó las pirámides con su esfuerzo diario. Tarek comprendió que la historia no solo se escribe con grandes batallas, sino con los sentimientos de las personas que vivieron hace mucho tiempo. El papiro narraba cómo los niños jugaban en las orillas del río y cómo las familias se reunían al anochecer. Gracias a su hallazgo, Tarek fue nombrado asistente oficial de la excavación, permitiéndole estudiar los jeroglíficos que tanto le fascinaban. Su abuelo tenía razón: los tesoros más grandes no siempre brillan como el oro, a veces son rollos de papel viejo que nos permiten escuchar las voces de nuestros antepasados. Cada vez que el sol se ocultaba tras las dunas, Tarek sentía que el escriba real le sonreía desde el pasado. La arqueología le había enseñado que proteger el patrimonio es una forma de mantener vivo el recuerdo de la humanidad. El joven aguador ya no era un simple trabajador; ahora era un guardián de la memoria de Egipto. Con el tiempo, Tarek escribió su propio diario, esperando que algún día, otro joven encontrara sus palabras y comprendiera que todos formamos parte de una misma cadena que une el pasado con el futuro. El papiro de Saqqara no solo reveló canciones olvidadas, sino que despertó en un niño el deseo de preservar la sabiduría de una civilización eterna que nunca dejará de sorprendernos bajo el cielo azul del desierto egipcio.",
+        "glosario": [
+            {
+                "palabra": "Arqueólogo",
+                "definición": "Científico que estudia las civilizaciones antiguas a través de sus restos materiales."
+            },
+            {
+                "palabra": "Papiro",
+                "definición": "Material para escribir hecho de una planta que crece a orillas del río Nilo."
+            },
+            {
+                "palabra": "Jeroglíficos",
+                "definición": "Sistema de escritura de los antiguos egipcios que usa dibujos y símbolos."
+            },
+            {
+                "palabra": "Patrimonio",
+                "definición": "Conjunto de bienes y tesoros históricos que heredamos del pasado y debemos cuidar."
+            },
+            {
+                "palabra": "Calaiza",
+                "definición": "Tipo de roca blanca y dura muy común en las zonas de monumentos egipcios."
+            },
+            {
+                "palabra": "Escriba",
+                "definición": "Persona que en la antigüedad tenía el oficio de copiar o escribir documentos oficiales."
+            },
+            {
+                "palabra": "Excavación",
+                "definición": "Lugar donde se quita tierra con cuidado para buscar restos arqueológicos."
+            },
+            {
+                "palabra": "Milenios",
+                "definición": "Periodos de tiempo que duran mil años cada uno."
+            },
+            {
+                "palabra": "Civilización",
+                "definición": "Sociedad compleja que ha desarrollado cultura, ciencia y organización propias."
+            },
+            {
+                "palabra": "Gratitud",
+                "definición": "Valor de dar las gracias y valorar lo que la naturaleza o las personas nos dan."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año se desarrolla la historia de Tarek?",
+                "tipo": "test",
+                "opciones": [
+                    "1822",
+                    "1922",
+                    "2022",
+                    "1722"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué encontró Tarek enterrado en la arena?",
+                "tipo": "test",
+                "opciones": [
+                    "Una máscara de oro",
+                    "Un cilindro de arcilla",
+                    "Una espada antigua",
+                    "Una moneda de plata"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué contenía realmente el papiro de Saqqara?",
+                "tipo": "test",
+                "opciones": [
+                    "Mapas de tesoros",
+                    "Canciones de campesinos",
+                    "Órdenes del faraón",
+                    "Nombres de reyes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el descubrimiento cambió la visión de la excavación?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se hicieron más ricos",
+                    "Porque empezaron a buscar sobre la vida de la gente común",
+                    "Porque el papiro era falso",
+                    "Porque tuvieron que mudarse de lugar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Podemos inferir que Tarek era una persona...",
+                "tipo": "test",
+                "opciones": [
+                    "Distraída y perezosa",
+                    "Observadora y curiosa",
+                    "Que odiaba el desierto",
+                    "Que solo quería dinero"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué lección le dio su abuelo a Tarek?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el oro es lo más importante",
+                    "Que los tesoros reales son los que nos cuentan el pasado",
+                    "Que no se debe excavar nunca",
+                    "Que los jeroglíficos son aburridos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad demuestra Tarek al llevarle el cilindro al profesor Howard?",
+                "tipo": "test",
+                "opciones": [
+                    "Honestidad y profesionalidad",
+                    "Miedo a ser castigado",
+                    "Desprecio por el objeto",
+                    "Egoísmo"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué significa que Tarek era un 'guardián de la memoria'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenía una memoria excelente",
+                    "Que protegía la historia y el legado de sus antepasados",
+                    "Que trabajaba de guardia por la noche",
+                    "Que no contaba secretos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que fue importante encontrar canciones en lugar de oro? Explica por qué.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí es muy importante porque el oro solo sirve para tener dinero, pero las canciones te cuentan cómo se sentían las personas. Es como conocer a los egipcios de verdad, no solo a sus estatuas."
+            },
+            {
+                "enunciado": "Si fueras Tarek, ¿qué habrías sentido al ver el papiro por primera vez?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me habría sentido superemocionado y un poco nervioso, porque es como tocar algo que lleva dormido miles de años. Me daría mucha curiosidad saber qué pone y si mi familia también cantaba esas mismas canciones."
+            }
+        ]
+    },
+    {
+        "titulo": "La Brújula de los Nuevos Mundos",
+        "tema": "historia",
+        "texto": "El puerto de Palos era un hervidero de marineros y carretas cargadas de víveres en el otoño de 1492. Entre la multitud, un niño de diez años llamado Diego ayudaba a estibar los barriles de agua dulce en la Santa María. Diego no viajaría en la expedición, pero su padre, el maestre de la nave, le había encargado una misión vital: cuidar de la brújula principal hasta el momento de la partida. Para Diego, aquel objeto de metal y cristal era un artefacto mágico que siempre señalaba el norte, guiando a los hombres a través del mar tenebroso. En esa época, muchos creían que el océano terminaba en un abismo lleno de monstruos marinos, pero los capitanes hablaban de nuevas rutas comerciales y de la redondez de la Tierra. Diego pasaba las tardes escuchando las discusiones sobre mapas y estrellas. Aprendió que la navegación no era solo cuestión de fuerza, sino de ciencia y matemáticas. Un día, un marinero veterano se le acercó y le dijo que aquel viaje no solo buscaba especias, sino que buscaba respuestas a preguntas que la humanidad se había hecho durante siglos. Diego pulía la brújula con un paño de seda, consciente de que de ese pequeño instrumento dependía la vida de cien hombres. Al observar el horizonte, imaginaba tierras lejanas con árboles desconocidos y animales fantásticos. La historia se estaba escribiendo frente a sus ojos, y él era el custodio de la herramienta que permitiría trazar los nuevos mapas del mundo. Cuando llegó el día de la partida, el aire olía a salitre y a despedida. Su padre le dio un fuerte abrazo y le pidió que estudiara mucho, pues el mundo pronto sería más grande de lo que nadie imaginaba. Diego se quedó en el muelle viendo cómo las velas blancas desaparecían en la línea donde el cielo se junta con el mar. Aunque se sentía triste por la partida de su padre, su corazón latía con el orgullo de haber participado en el inicio de una nueva era. Comprendió que el conocimiento era la verdadera brújula que guiaba el progreso humano. Años después, cuando Diego creció, se convirtió en cartógrafo, dibujando las costas de los territorios que su padre había ayudado a encontrar. En su mesa de trabajo siempre conservó una brújula similar a la de aquel viaje legendario. Sabía que la historia es un viaje constante hacia lo desconocido y que cada generación debe atreverse a navegar más allá de lo que conoce. La brújula de su infancia no solo había marcado el norte geográfico, sino que había marcado el rumbo de su propia vida dedicada a la ciencia y al descubrimiento. El puerto de Palos ya no era el final del mundo, sino la puerta de entrada a una historia compartida por personas de diferentes continentes que aprenderían a conocerse y a comerciar, cambiando para siempre el destino de la humanidad entera.",
+        "glosario": [
+            {
+                "palabra": "Estibar",
+                "definición": "Colocar de forma ordenada la carga en un barco para que ocupe poco espacio y no se mueva."
+            },
+            {
+                "palabra": "Víveres",
+                "definición": "Comida y provisiones necesarias para un viaje largo o para vivir."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento de navegación que usa una aguja imantada para señalar el norte."
+            },
+            {
+                "palabra": "Cartógrafo",
+                "definición": "Persona que se dedica a dibujar y crear mapas de la tierra o el mar."
+            },
+            {
+                "palabra": "Salitre",
+                "definición": "Sustancia salada que se encuentra en el aire cerca del mar y que deja una capa blanca."
+            },
+            {
+                "palabra": "Maestre",
+                "definición": "Oficial encargado de los aspectos técnicos y de la carga en un barco antiguo."
+            },
+            {
+                "palabra": "Navegación",
+                "definición": "Técnica de dirigir un barco por el agua de un lugar a otro de forma segura."
+            },
+            {
+                "palabra": "Expedición",
+                "definición": "Viaje que realiza un grupo de personas con un fin de exploración o descubrimiento."
+            },
+            {
+                "palabra": "Custodio",
+                "definición": "Persona que tiene la misión de guardar o proteger algo valioso con mucho cuidado."
+            },
+            {
+                "palabra": "Geográfico",
+                "definición": "Relacionado con la situación o las características de los lugares en la Tierra."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el niño protagonista de esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Pedro",
+                    "Diego",
+                    "Juan",
+                    "Luis"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto valioso tenía que proteger Diego?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mapa de oro",
+                    "La brújula principal",
+                    "Un cofre de monedas",
+                    "Una espada de hierro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué año se sitúa el inicio de esta aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "1592",
+                    "1492",
+                    "1392",
+                    "1692"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué mucha gente tenía miedo de navegar por el océano en esa época?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el agua estaba muy fría",
+                    "Porque creían que había abismos y monstruos",
+                    "Porque no tenían barcos",
+                    "Porque no les gustaba el pescado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Podemos inferir que el padre de Diego quería que su hijo fuera...",
+                "tipo": "test",
+                "opciones": [
+                    "Un guerrero famoso",
+                    "Una persona educada y con estudios",
+                    "Un pirata",
+                    "Un pescador sencillo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué descubrió Diego sobre la navegación?",
+                "tipo": "test",
+                "opciones": [
+                    "Que solo los fuertes podían navegar",
+                    "Que se basaba en la ciencia y las matemáticas",
+                    "Que era cuestión de suerte",
+                    "Que los barcos se movían solos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué se convirtió Diego cuando se hizo mayor?",
+                "tipo": "test",
+                "opciones": [
+                    "En cocinero de barcos",
+                    "En cartógrafo",
+                    "En buscador de oro",
+                    "En capitán de guerra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza la brújula al final de la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Un juguete viejo",
+                    "El rumbo de su vida y el valor del conocimiento",
+                    "Que Diego se había perdido",
+                    "Un regalo que no servía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que fue difícil para Diego despedirse de su padre? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí fue muy difícil porque en esa época no había móviles para hablar y los viajes daban mucho miedo. Pero también se sentía orgulloso porque su padre iba a hacer algo muy importante para la historia."
+            },
+            {
+                "enunciado": "¿Qué te gustaría descubrir a ti si fueras un explorador como los de la historia?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me gustaría descubrir una isla que no esté en los mapas donde vivan animales que pensamos que no existen. Me gustaría hacer el mapa de ese sitio para que todo el mundo sepa que existe algo nuevo y mágico."
+            }
+        ]
+    },
+    {
+        "titulo": "Kallias y el Mensaje de Maratón",
+        "tema": "Historia - Antigua Grecia",
+        "texto": "En el año 490 antes de Cristo, el aire en las llanuras de Maratón estaba cargado de tensión y polvo. Kallias, un joven aprendiz de soldado en Atenas, observaba desde una colina cómo los barcos persas se alineaban en la costa como una hilera de hormigas metálicas. Los persas eran un imperio inmenso que quería conquistar las ciudades griegas, y Atenas era su principal objetivo. Kallias sentía que el corazón le golpeaba el pecho como un martillo. A diferencia de los guerreros experimentados, su misión no era luchar en la primera línea, sino observar y aprender la importancia de la estrategia. La falange griega, una formación donde los soldados se cubrían unos a otros con sus grandes escudos redondos, avanzó con paso firme. El choque fue brutal. Kallias vio cómo la disciplina de sus compatriotas lograba frenar la marea de soldados enemigos. A pesar de ser muchos menos, los griegos luchaban por su libertad y su democracia, un sistema nuevo donde los ciudadanos decidían el futuro de su ciudad. Tras horas de combate intenso, ocurrió lo inesperado: el ejército persa comenzó a retroceder hacia sus barcos. ¡Habían ganado! Sin embargo, la alegría duró poco. El general Milcíades sabía que los persas supervivientes intentarían navegar rápidamente hacia Atenas para atacarla mientras estaba desprotegida. Necesitaban enviar a alguien para avisar a la ciudad y que no se rindieran antes de tiempo. Fue entonces cuando Filípides, el corredor más veloz, se preparó para la hazaña. Kallias lo vio partir como una flecha. Mientras tanto, el resto del ejército, incluido el joven aprendiz, inició una marcha forzada de regreso. Kallias comprendió que la victoria en el campo de batalla no servía de nada si no se protegía el hogar. Al llegar a Atenas, agotado pero orgulloso, vio que el mensaje de Filípides había llegado a tiempo. Los ciudadanos, inspirados por la noticia, cerraron las puertas y se prepararon para resistir. Los barcos persas, al ver que la ciudad estaba alerta, decidieron dar media vuelta y regresar a Asia. Kallias miró hacia el Partenón, el gran templo que se alzaba sobre la ciudad, y sintió que aquel día no solo habían salvado sus vidas, sino una forma de pensar que duraría miles de años. Aprendió que la valentía no solo está en el brazo que sostiene la lanza, sino en la mente que planea y en las piernas que corren para salvar a los demás. Esa noche, bajo el cielo estrellado de Grecia, Kallias decidió que dedicaría su vida a proteger la libertad de su pueblo. Sabía que la historia recordaría Maratón no solo como una batalla, sino como el momento en que un pequeño grupo de personas libres se enfrentó a un gigante y venció gracias a la unión y al coraje. El legado de los antiguos griegos, sus mitos y sus inventos, vivirían siempre gracias a días como aquel.",
+        "glosario": [
+            {
+                "palabra": "Falange",
+                "definición": "Formación militar donde los soldados caminaban muy juntos protegidos por sus escudos."
+            },
+            {
+                "palabra": "Democracia",
+                "definición": "Sistema de gobierno donde los ciudadanos eligen y participan en las decisiones."
+            },
+            {
+                "palabra": "Estrategia",
+                "definición": "Plan detallado para lograr un objetivo, especialmente en una batalla o juego."
+            },
+            {
+                "palabra": "Partenón",
+                "definición": "Famoso templo griego dedicado a la diosa Atenea en la ciudad de Atenas."
+            },
+            {
+                "palabra": "Persas",
+                "definición": "Pueblo de la antigüedad que formó un gran imperio en lo que hoy es Irán."
+            },
+            {
+                "palabra": "Compatriota",
+                "definición": "Persona que ha nacido en el mismo país o nación que otra."
+            },
+            {
+                "palabra": "Hazaña",
+                "definición": "Acción heroica, valerosa o muy difícil de realizar."
+            },
+            {
+                "palabra": "Marcha forzada",
+                "definición": "Caminata muy rápida y sin descanso que hacen los soldados para llegar pronto."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Cosas, ideas o valores que una generación deja a las que vienen después."
+            },
+            {
+                "palabra": "Mito",
+                "definición": "Historia imaginaria que explica el origen del mundo o hazañas de dioses y héroes."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año ocurrió la batalla de Maratón?",
+                "tipo": "test",
+                "opciones": [
+                    "490 a.C.",
+                    "1492 d.C.",
+                    "100 a.C.",
+                    "490 d.C."
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cuál era la principal arma defensiva de la falange griega?",
+                "tipo": "test",
+                "opciones": [
+                    "Arcos largos",
+                    "Escudos redondos",
+                    "Redes de pesca",
+                    "Cascos de oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿A qué diosa estaba dedicado el Partenón?",
+                "tipo": "test",
+                "opciones": [
+                    "Afrodita",
+                    "Atenea",
+                    "Hera",
+                    "Artemisa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué era tan importante que Filípides llegara rápido a Atenas?",
+                "tipo": "test",
+                "opciones": [
+                    "Para ganar una medalla de oro",
+                    "Para avisar que habían ganado y que la ciudad no se rindiera",
+                    "Para comprar comida para el ejército",
+                    "Para pedir permiso al faraón"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué diferencia principal había entre el ejército griego y el persa según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Los griegos tenían barcos y los persas no",
+                    "Los persas eran muchísimos más, pero los griegos eran disciplinados",
+                    "Los griegos usaban hormigas metálicas",
+                    "Los persas luchaban por la democracia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede inferir que Kallias aprendió que la guerra...",
+                "tipo": "test",
+                "opciones": [
+                    "Solo sirve para conseguir tesoros",
+                    "Es cuestión de suerte",
+                    "Requiere tanto inteligencia y aviso previo como fuerza",
+                    "Es mejor hacerla solo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Si los persas hubieran llegado a Atenas antes que la noticia de la victoria...",
+                "tipo": "test",
+                "opciones": [
+                    "Los atenienses habrían celebrado una fiesta",
+                    "Atenas podría haberse rendido por miedo",
+                    "Filípides habría descansado más",
+                    "El Partenón se habría movido de sitio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué idea fundamental de los griegos menciona el texto que aún existe hoy?",
+                "tipo": "test",
+                "opciones": [
+                    "La falange militar",
+                    "La democracia",
+                    "Las marchas forzadas",
+                    "El uso de lanzas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué te parece más difícil: luchar en la batalla o correr 40 kilómetros para avisar a los demás?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que correr es superdifícil porque vas solo y tienes que ir muy rápido aunque estés cansadísimo, pero luchar da más miedo. Lo de Filípides es muy valiente porque si él no llegaba, la batalla no servía para nada."
+            },
+            {
+                "enunciado": "¿Crees que Kallias fue útil para su ciudad aunque no estuviera en la primera línea de lucha?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, porque él observó todo y ayudó a que el ejército volviera rápido. Además, ser aprendiz es importante porque así aprendes a proteger a los demás cuando seas mayor y entiendes por qué luchan."
+            }
+        ]
+    },
+    {
+        "titulo": "Thomas y el Monstruo de Vapor",
+        "tema": "Historia - Revolución Industrial",
+        "texto": "Londres, 1840. El cielo ya no era del color azul que Thomas recordaba de los cuentos de su abuela. Ahora, grandes chimeneas de ladrillo escupían un humo negro y denso que lo cubría todo como una sábana de hollín. Thomas, un niño de once años, caminaba hacia la fábrica de tejidos donde trabajaba desde que salía el sol hasta que aparecían las estrellas. El sonido de la ciudad había cambiado: ya no se oían tantos pájaros, sino el rítmico traqueteo de las máquinas de vapor y el silbato de las locomotoras. Estaban en plena Revolución Industrial, una época donde los inventos avanzaban más rápido que las personas. Dentro de la fábrica, el calor era insoportable y el ruido de los telares mecánicos impedía hablar. Thomas era un 'piecer', su trabajo consistía en meterse debajo de las máquinas en movimiento para recoger los trozos de algodón y arreglar los hilos rotos. Era peligroso, pero sus manos pequeñas eran perfectas para aquel hueco estrecho. Mientras trabajaba, Thomas soñaba con las locomotoras de vapor que veía en la estación. Le fascinaba cómo el agua hirviendo podía mover toneladas de hierro y arrastrar vagones llenos de carbón. El carbón era el alimento de aquella nueva era; sin él, las máquinas se detenían y las ciudades se quedaban a oscuras. Un día, un señor con sombrero de copa y un cuaderno de notas visitó la fábrica. Era un inspector que buscaba mejorar las condiciones de los niños. Thomas lo miró con curiosidad. El inspector explicó que pronto se aprobarían leyes para que los niños trabajaran menos horas y pudieran ir a la escuela. Aquello parecía un milagro. Thomas imaginó un mundo donde pudiera aprender a leer sobre esos motores de vapor en lugar de solo limpiarlos. La Revolución Industrial trajo cosas increíbles, como el telégrafo, que permitía enviar mensajes a través de cables en segundos, o los barcos de hierro que cruzaban el océano sin depender del viento. Pero para niños como Thomas, también trajo una vida muy dura. Al salir de la fábrica esa tarde, Thomas vio un tren pasando por un puente elevado. La fuerza del vapor hacía temblar el suelo. Comprendió que el mundo se estaba haciendo más pequeño y que las máquinas ayudarían a los humanos a hacer cosas que antes eran imposibles. Aunque sus manos estaban manchadas de grasa y sus pies cansados, Thomas sintió una chispa de esperanza. Sabía que el futuro sería diferente y que, gracias a esas nuevas leyes, quizás él sería el último de su familia en trabajar bajo las máquinas. La historia de la humanidad estaba dando un salto gigante hacia el progreso, transformando los campos en fábricas y los caballos en motores. Thomas llegó a su pequeña casa de ladrillo y, antes de dormir, dibujó con un trozo de carbón una locomotora en la pared. Aquel 'monstruo de vapor' no le daba miedo; para él, era el motor de un mundo nuevo que estaba naciendo.",
+        "glosario": [
+            {
+                "palabra": "Hollín",
+                "definición": "Polvo negro y espeso que sale con el humo del fuego o de las chimeneas."
+            },
+            {
+                "palabra": "Traqueteo",
+                "definición": "Ruido repetitivo que hace una máquina o un vehículo al moverse."
+            },
+            {
+                "palabra": "Revolución Industrial",
+                "definición": "Época de grandes cambios donde se inventaron máquinas para fabricar cosas muy rápido."
+            },
+            {
+                "palabra": "Telar mecánico",
+                "definición": "Máquina grande que sirve para tejer hilos y convertirlos en tela de forma automática."
+            },
+            {
+                "palabra": "Locomotora",
+                "definición": "Máquina de un tren que usa vapor o motor para arrastrar los vagones."
+            },
+            {
+                "palabra": "Carbón",
+                "definición": "Mineral de color negro que se quema para producir calor y energía para las máquinas."
+            },
+            {
+                "palabra": "Inspector",
+                "definición": "Persona encargada de vigilar que las reglas y leyes se cumplan correctamente."
+            },
+            {
+                "palabra": "Telégrafo",
+                "definición": "Invento antiguo para enviar mensajes rápidos a través de señales eléctricas por un cable."
+            },
+            {
+                "palabra": "Progreso",
+                "definición": "Mejora o avance de la sociedad gracias a los nuevos inventos y conocimientos."
+            },
+            {
+                "palabra": "Piecer",
+                "definición": "Nombre que daban a los niños que arreglaban los hilos en las fábricas textiles."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué ciudad y año vive Thomas?",
+                "tipo": "test",
+                "opciones": [
+                    "París, 1780",
+                    "Londres, 1840",
+                    "Nueva York, 1900",
+                    "Madrid, 1840"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la tarea de un 'piecer' en la fábrica?",
+                "tipo": "test",
+                "opciones": [
+                    "Conducir el tren",
+                    "Arreglar hilos debajo de las máquinas",
+                    "Fabricar carbón",
+                    "Vender telas en el mercado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué fuente de energía alimentaba la mayoría de las máquinas de esa época?",
+                "tipo": "test",
+                "opciones": [
+                    "Electricidad",
+                    "Energía solar",
+                    "Vapor de agua y carbón",
+                    "Viento"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el cielo de Londres era de color oscuro según la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque siempre estaba lloviendo",
+                    "Por el humo negro de las chimeneas de las fábricas",
+                    "Porque era de noche",
+                    "Por el polvo del desierto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede inferir que el trabajo de Thomas era peligroso porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Tenía que trabajar con animales salvajes",
+                    "Se metía debajo de máquinas que estaban moviéndose",
+                    "Había muchos fantasmas en la fábrica",
+                    "El inspector le daba miedo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambio positivo esperaba Thomas después de la visita del inspector?",
+                "tipo": "test",
+                "opciones": [
+                    "Que le regalaran una locomotora",
+                    "Que aprobaran leyes para trabajar menos e ir al colegio",
+                    "Que la fábrica cerrara para siempre",
+                    "Que le dieran más trozos de carbón"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál de estos inventos NO se menciona en el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "El telégrafo",
+                    "La locomotora",
+                    "El teléfono móvil",
+                    "Los barcos de hierro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "La Revolución Industrial hizo que el mundo fuera 'más pequeño' porque...",
+                "tipo": "test",
+                "opciones": [
+                    "La gente encogía",
+                    "Los trenes y barcos permitían viajar mucho más rápido",
+                    "Había menos sitio para vivir",
+                    "Los mapas eran más pequeños"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece justo que los niños de esa época trabajaran tanto? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "No, me parece fatal porque los niños tienen que estar jugando y aprendiendo en el cole. Trabajar tantas horas es muy cansado y peligroso, y Thomas casi no veía el sol por estar en la fábrica."
+            },
+            {
+                "enunciado": "Si pudieras viajar a esa época y llevarle un invento actual a Thomas, ¿qué llevarías?",
+                "tipo": "abierta",
+                "respuestaModelo": "Le llevaría una linterna de pilas para que no estuviera a oscuras debajo de las máquinas, o una tablet con libros para que pudiera aprender cosas mientras descansa un poco."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto de la Muralla de Adriano",
+        "tema": "historia",
+        "texto": "El viento soplaba con fuerza sobre las colinas del norte de Britania en el año 130 después de Cristo. Marco, un joven auxiliar de apenas doce años, ayudaba a su padre en la construcción de una de las torres de vigilancia de la gran muralla ordenada por el emperador Adriano. A diferencia de las lujosas villas de Roma, aquí el aire olía a tierra mojada, cuero viejo y humo de hogueras. La muralla no era solo un muro de piedra; era una frontera viva que separaba el orden del Imperio Romano del misterioso mundo de las tribus caledonias. Marco pasaba sus mañanas transportando agua y herramientas para los ingenieros. Observaba con asombro cómo los legionarios encajaban los pesados bloques de piedra con una precisión milimétrica. Sabía que cada piedra colocada era un paso más hacia la paz en la región. Un día, mientras exploraba cerca de un pequeño arroyo fuera de los límites de la construcción, encontró un broche de bronce con un diseño que no era romano. Tenía grabados espirales y animales entrelazados que parecían moverse bajo la luz del sol. En lugar de esconderlo, se lo mostró a un centurión veterano. El hombre, con cicatrices que narraban mil batallas, le explicó que aquel objeto pertenecía a los pictos, los pueblos que vivían más allá de la muralla. Marco empezó a entender que la historia no se trataba solo de conquistar, sino de conocer a quienes estaban al otro lado. Aquel muro era un símbolo de fuerza, pero también era un punto de encuentro donde se intercambiaban pieles por aceite de oliva y lana por especias. Con el tiempo, Marco aprendió que la muralla no solo servía para vigilar a los enemigos, sino para organizar el comercio y proteger a las comunidades que florecían a su sombra. Cuando la torre finalmente se terminó, Marco subió a lo más alto. Desde allí, vio cómo el camino romano se extendía hacia el sur, conectando este puesto lejano con el corazón del mundo conocido. Comprendió que él era una pequeña pieza en un engranaje gigantesco que unía a personas de diferentes culturas. La muralla de Adriano sería recordada durante siglos, no solo por su tamaño, sino por la disciplina y el ingenio de quienes la levantaron. Marco decidió que quería ser ingeniero para construir puentes en lugar de solo muros, convencido de que el conocimiento era la mejor forma de unir a los pueblos. Al caer la noche, mientras las antorchas se encendían a lo largo de los kilómetros de piedra, el joven auxiliar miraba las estrellas, sabiendo que su trabajo formaría parte de un legado eterno. El Imperio era inmenso, pero él había aprendido que su verdadero valor residía en la capacidad de construir cosas que resistieran el paso de los años y el olvido de los hombres bajo el cielo gris del norte.",
+        "glosario": [
+            {
+                "palabra": "Legionario",
+                "definición": "Soldado profesional que formaba parte de las legiones romanas."
+            },
+            {
+                "palabra": "Centurión",
+                "definición": "Oficial del ejército romano que estaba al mando de una centuria (unos 80 hombres)."
+            },
+            {
+                "palabra": "Pictos",
+                "definición": "Antiguos habitantes del norte de Escocia conocidos por sus tatuajes y diseños en metal."
+            },
+            {
+                "palabra": "Britania",
+                "definición": "Nombre que daban los romanos a la isla de Gran Bretaña."
+            },
+            {
+                "palabra": "Auxiliar",
+                "definición": "Persona que ayuda en tareas secundarias o soldado de apoyo que no era ciudadano romano."
+            },
+            {
+                "palabra": "Frontera",
+                "definición": "Línea real o imaginaria que separa un territorio de otro."
+            },
+            {
+                "palabra": "Bronce",
+                "definición": "Metal resistente hecho de una mezcla de cobre y estaño, muy usado en joyería y armas."
+            },
+            {
+                "palabra": "Ingenio",
+                "definición": "Capacidad para inventar o crear cosas útiles con inteligencia."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Algo que se hereda del pasado, como monumentos, leyes o cultura."
+            },
+            {
+                "palabra": "Ingeniero",
+                "definición": "Persona que diseña y construye estructuras, máquinas o caminos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año se sitúa la historia de Marco?",
+                "tipo": "test",
+                "opciones": [
+                    "130 a.C.",
+                    "130 d.C.",
+                    "1130 d.C.",
+                    "30 d.C."
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto encontró Marco cerca del arroyo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una espada de hierro",
+                    "Un broche de bronce picto",
+                    "Una moneda de oro romana",
+                    "Un mapa de la muralla"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ordenó construir el emperador Adriano?",
+                "tipo": "test",
+                "opciones": [
+                    "Un palacio en Britania",
+                    "Una muralla defensiva",
+                    "Un puente sobre el mar",
+                    "Una pirámide de piedra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede inferir que la vida en la frontera era...",
+                "tipo": "test",
+                "opciones": [
+                    "Fácil y llena de lujos",
+                    "Dura y muy diferente a la vida en Roma",
+                    "Aburrida porque no pasaba nada",
+                    "Solo para soldados solitarios"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué función tenía la muralla además de la defensa militar?",
+                "tipo": "test",
+                "opciones": [
+                    "Servía como pista de carreras",
+                    "Era un lugar de intercambio comercial",
+                    "Se usaba para almacenar agua",
+                    "Era el palacio del emperador"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Marco decidió que quería ser ingeniero?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaba el frío",
+                    "Porque quería construir puentes para unir a los pueblos",
+                    "Porque pagaban mucho dinero",
+                    "Porque quería ser más importante que el centurión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La frase 'una frontera viva' se refiere a que la muralla...",
+                "tipo": "test",
+                "opciones": [
+                    "Tenía plantas creciendo en ella",
+                    "Estaba llena de gente interactuando y comerciando",
+                    "Se movía por las noches",
+                    "Estaba hecha de animales"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el broche encontrado para Marco?",
+                "tipo": "test",
+                "opciones": [
+                    "Un tesoro para hacerse rico",
+                    "La existencia de otras culturas valiosas fuera del Imperio",
+                    "Una basura que alguien tiró",
+                    "Un arma peligrosa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Marco hizo bien en entregar el broche al centurión en lugar de quedárselo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que hizo muy bien porque gracias a eso aprendió quiénes eran los pictos. Si se lo quedaba, solo sería un trozo de metal, pero al enseñarlo descubrió que había gente con historias interesantes fuera de la muralla."
+            },
+            {
+                "enunciado": "Si pudieras construir algo para ayudar al mundo hoy, ¿qué sería: un muro o un puente? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo elegiría un puente porque sirve para que la gente se encuentre y se ayude. Los muros separan a las personas y a veces hacen que se lleven peor, pero con un puente podemos compartir cosas y aprender de otros países."
+            }
+        ]
+    },
+    {
+        "titulo": "La Sonrisa de la Mona Lisa en el Taller de Leonardo",
+        "tema": "historia",
+        "texto": "Florencia era una ciudad que nunca dormía en el año 1503. Giacomo, un joven de trece años, tenía la suerte de ser el aprendiz de limpieza en el taller del maestro Leonardo da Vinci. Su trabajo no era pintar cuadros, sino barrer el serrín, moler pigmentos de colores y asegurarse de que los pinceles estuvieran siempre limpios. Sin embargo, su verdadera pasión era observar al maestro mientras trabajaba en su último encargo: el retrato de una mujer llamada Lisa Gherardini. Leonardo no pintaba como los demás; pasaba horas estudiando cómo la luz caía sobre la piel o cómo los músculos de la cara se movían al sonreír. Giacomo se fijaba en que el taller estaba lleno de objetos extraños: esqueletos de caballos, modelos de alas gigantes de madera y cuadernos llenos de dibujos de remolinos de agua. El Renacimiento era una época donde el arte y la ciencia se daban la mano. Un día, Giacomo tuvo que preparar el color azul más puro, utilizando piedras preciosas de lapislázuli. Mientras molía la piedra en un mortero, escuchó a Leonardo decir que 'la pintura es poesía muda'. El joven aprendiz empezó a ver el mundo de otra manera; ya no veía solo una mesa, sino las sombras que proyectaba y la veta de la madera. Leonardo tenía una paciencia infinita. A veces pintaba solo una pequeña sombra en el cuello de la dama y luego se pasaba el resto del día observándola desde lejos. Giacomo comprendió que la perfección no se lograba con velocidad, sino con observación y amor por el detalle. El retrato, que más tarde se conocería como la Mona Lisa, parecía tener vida propia. Los ojos de la mujer parecían seguir a Giacomo por toda la habitación mientras barría. El ambiente en Florencia era eléctrico; grandes genios como Miguel Ángel también caminaban por sus calles, y la curiosidad era el motor de todo. Gracias a su estancia en el taller, Giacomo aprendió que el conocimiento era el regalo más grande de su tiempo. Aunque él nunca llegaría a ser un gran pintor, se convirtió en un experto en la fabricación de pigmentos, ayudando a otros artistas a que sus obras duraran para siempre. Entendió que el Renacimiento no se trataba solo de individuos brillantes, sino de todo un equipo de personas que trabajaban juntas para descubrir los secretos de la naturaleza. Al final de su vida, Giacomo recordaría siempre aquel taller lleno de polvo y luz, donde un genio le enseñó a mirar más allá de lo evidente. La sonrisa de la dama del cuadro seguía siendo un misterio, pero el aprendizaje de Giacomo era una certeza: la curiosidad es la llave que abre todas las puertas de la historia. Cada pincelada de Leonardo era un paso hacia adelante en la comprensión del ser humano, y el humilde aprendiz se sentía orgulloso de haber molido los colores que dieron vida a la obra más famosa del mundo bajo el sol de la Toscana.",
+        "glosario": [
+            {
+                "palabra": "Renacimiento",
+                "definición": "Época de gran cambio cultural y artístico en Europa donde se volvió a estudiar la antigüedad."
+            },
+            {
+                "palabra": "Pigmento",
+                "definición": "Polvo de color que se mezcla con líquidos para fabricar pintura."
+            },
+            {
+                "palabra": "Serrín",
+                "definición": "Polvo que sale de la madera cuando se corta o lija."
+            },
+            {
+                "palabra": "Lapislázuli",
+                "definición": "Piedra preciosa de color azul intenso usada para hacer pinturas muy caras."
+            },
+            {
+                "palabra": "Encargo",
+                "definición": "Pedido de una obra o trabajo que alguien hace a un profesional."
+            },
+            {
+                "palabra": "Veta",
+                "definición": "Dibujo o línea que aparece en la madera de forma natural."
+            },
+            {
+                "palabra": "Mortero",
+                "definición": "Recipiente de piedra o metal usado para machacar y moler sustancias."
+            },
+            {
+                "palabra": "Poesía muda",
+                "definición": "Forma metafórica de decir que la pintura transmite sentimientos sin usar palabras."
+            },
+            {
+                "palabra": "Sfumato",
+                "definición": "Técnica de pintura inventada por Leonardo para que los bordes de las figuras sean suaves."
+            },
+            {
+                "palabra": "Detalle",
+                "definición": "Cada una de las partes pequeñas que forman algo y que a veces pasan desapercibidas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué ciudad y año se desarrolla la historia de Giacomo?",
+                "tipo": "test",
+                "opciones": [
+                    "Roma, 1503",
+                    "Florencia, 1503",
+                    "Venecia, 1603",
+                    "Madrid, 1503"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué material precioso usaba Giacomo para hacer el color azul?",
+                "tipo": "test",
+                "opciones": [
+                    "Zafiro",
+                    "Lapislázuli",
+                    "Diamante",
+                    "Oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la principal tarea de Giacomo en el taller?",
+                "tipo": "test",
+                "opciones": [
+                    "Pintar los rostros",
+                    "Limpiar, barrer y moler pigmentos",
+                    "Vender los cuadros",
+                    "Cuidar los caballos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre el estilo de trabajo de Leonardo da Vinci?",
+                "tipo": "test",
+                "opciones": [
+                    "Pintaba muy rápido para terminar pronto",
+                    "Era muy desordenado y no estudiaba",
+                    "Era extremadamente observador y perfeccionista",
+                    "Solo le interesaba el dinero"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que el Renacimiento unía 'el arte y la ciencia'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los artistas hacían experimentos explosivos",
+                    "Que usaban el conocimiento de la naturaleza para crear arte real",
+                    "Que los científicos pintaban mal",
+                    "Que no se podía ser artista y científico a la vez"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "A Giacomo los ojos de la Mona Lisa le parecían especiales porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Eran de color rojo",
+                    "Parecían seguirlo por la habitación",
+                    "Estaban cerrados",
+                    "Eran muy grandes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué se convirtió Giacomo cuando creció?",
+                "tipo": "test",
+                "opciones": [
+                    "En un guerrero",
+                    "En un experto fabricante de pigmentos",
+                    "En un rey",
+                    "En un panadero"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué motor impulsaba todo en la Florencia de aquella época?",
+                "tipo": "test",
+                "opciones": [
+                    "El miedo",
+                    "La curiosidad",
+                    "La electricidad",
+                    "El vapor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que el trabajo de Giacomo era importante aunque no pintara el cuadro? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí era importante porque si Giacomo no limpiaba bien los pinceles o no molía bien los colores, Leonardo no podría haber pintado tan bien. En un equipo todos ayudan a que el resultado final sea perfecto."
+            },
+            {
+                "enunciado": "Si pudieras ser aprendiz de un genio de la historia, ¿a quién elegirías y qué le preguntarías?",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí me gustaría ser aprendiz de Leonardo también, pero para que me enseñara a hacer las alas de madera. Le preguntaría si de verdad creía que los humanos podríamos volar algún día como los pájaros."
+            }
+        ]
+    }
+]

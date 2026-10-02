@@ -1,0 +1,956 @@
+[
+    {
+        "titulo": "El Ciclo de Beli la Bellota",
+        "tema": "naturaleza",
+        "texto": "En el corazón de un bosque antiguo, donde los rayos del sol juegan al escondite entre las hojas, vivía un viejo roble llamado Robustiano. Robustiano había visto pasar más de cien inviernos, pero este otoño era especial. Una pequeña bellota, a la que llamaremos Beli, se aferraba con fuerza a su rama más alta. Beli tenía miedo de caer, pues el suelo se veía lejano y oscuro. Sin embargo, Robustiano le susurraba con el viento: «No temas, pequeña, el suelo no es el final, sino el comienzo de tu gran aventura». Un día de octubre, una ráfaga de aire traviesa desprendió a Beli. Mientras caía, una ardilla llamada Saltarina la atrapó antes de tocar tierra. Saltarina no buscaba comida, sino que era la jardinera secreta del bosque. Llevó a Beli hasta un claro soleado y la enterró bajo una manta de humus y hojas secas. Allí, en la oscuridad, Beli empezó a cambiar. El invierno llegó con su frío silencio, cubriendo todo de blanco, pero Beli estaba protegida. Cuando la primavera despertó el bosque con el canto de los mirlos, algo mágico ocurrió. Una pequeña raíz asomó del costado de Beli, hundiéndose en la tierra para buscar agua y nutrientes. Poco después, un tallo verde y tierno rompió la superficie, buscando la luz del sol para realizar su primera fotosíntesis. Con el paso de los años, aquella pequeña bellota se transformó en un árbol fuerte que daba refugio a pájaros y sombra a los caminantes. Beli comprendió entonces que formaba parte de un equilibrio perfecto llamado ecosistema. Cada hoja que caía alimentaba el suelo, y cada flor que brotaba atraía a los insectos que polinizaban el bosque. Beli ya no era una semilla asustada, sino una pieza vital de la biodiversidad. Aprendió que en la naturaleza nada se pierde y que la paciencia es la raíz de la vida más profunda. Así, el ciclo continuaba, asegurando que el bosque siguiera siendo el pulmón verde que todos necesitaban para respirar.",
+        "glosario": [
+            {
+                "palabra": "Nutrientes",
+                "definición": "Sustancias que los seres vivos necesitan para crecer y estar sanos."
+            },
+            {
+                "palabra": "Fotosíntesis",
+                "definición": "Proceso por el cual las plantas fabrican su propio alimento usando la luz del sol."
+            },
+            {
+                "palabra": "Humus",
+                "definición": "Tierra muy fértil formada por la descomposición de hojas y materiales orgánicos."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Conjunto de seres vivos y el medio físico donde viven y se relacionan."
+            },
+            {
+                "palabra": "Germinar",
+                "definición": "Cuando una semilla empieza a crecer y se convierte en una nueva planta."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "Variedad de diferentes especies de animales y plantas en un lugar."
+            },
+            {
+                "palabra": "Mirlos",
+                "definición": "Pájaros de color negro que tienen un canto muy melodioso."
+            },
+            {
+                "palabra": "Polinizar",
+                "definición": "Llevar el polen de una flor a otra para que nazcan nuevas semillas y frutos."
+            },
+            {
+                "palabra": "Pulmón verde",
+                "definición": "Nombre que se da a los bosques porque producen el oxígeno que respiramos."
+            },
+            {
+                "palabra": "Sotobosque",
+                "definición": "Conjunto de hierbas y arbustos que crecen bajo los árboles más altos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el viejo roble de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Robustiano",
+                    "Saltarina",
+                    "Beli",
+                    "Bosqueantiguo"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué animal entierra a la bellota en el claro soleado?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mirlo",
+                    "Un conejo",
+                    "Una ardilla",
+                    "Un zorro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué buscaba la raíz de Beli al hundirse en la tierra?",
+                "tipo": "test",
+                "opciones": [
+                    "Hojas secas",
+                    "Luz del sol",
+                    "Agua y nutrientes",
+                    "Pájaros"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Robustiano dice que el suelo es el comienzo de una aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque en el suelo se puede jugar",
+                    "Porque allí es donde la semilla nace como un nuevo árbol",
+                    "Porque el suelo es muy divertido",
+                    "Porque en el suelo viven los humanos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la función de la ardilla Saltarina en el equilibrio del bosque?",
+                "tipo": "test",
+                "opciones": [
+                    "Comerse todas las bellotas",
+                    "Asustar a los pájaros",
+                    "Ayudar a que crezcan nuevos árboles al enterrar semillas",
+                    "Construir nidos en las ramas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre la manta de humus y hojas secas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que ensucia el bosque",
+                    "Que sirve de abrigo y alimento para la semilla",
+                    "Que es peligrosa para las raíces",
+                    "Que impide que pase el agua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Beli no hubiera tenido paciencia, ¿qué habría ocurrido?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría crecido más rápido",
+                    "Se habría convertido en animal",
+                    "No habría sobrevivido al invierno para brotar en primavera",
+                    "Habría buscado otro bosque"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que 'en la naturaleza nada se pierde'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que nadie se pierde en el bosque",
+                    "Que los restos de plantas alimentan el suelo para dar nueva vida",
+                    "Que los árboles siempre están en el mismo sitio",
+                    "Que las ardillas siempre encuentran sus semillas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es importante la fotosíntesis en esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que el árbol tenga hojas rojas",
+                    "Para que el árbol pueda crecer fuerte usando la energía solar",
+                    "Para que los pájaros puedan dormir",
+                    "Para que el invierno no llegue"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación existe entre Beli y los caminantes?",
+                "tipo": "test",
+                "opciones": [
+                    "Beli les pide comida",
+                    "Beli les ofrece sombra y un lugar de descanso",
+                    "Los caminantes la ayudan a crecer",
+                    "Beli tiene miedo de ellos"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Brisa y la Danza de las Flores",
+        "tema": "naturaleza",
+        "texto": "Brisa era una abeja obrera que vivía en una colmena situada al borde de un prado lleno de margaritas y lavanda. Aquella mañana era su primer vuelo fuera de casa, y sus alas zumbaban de emoción y nerviosismo. La reina le había dado una misión clara: recolectar néctar y polen para alimentar a las larvas y producir la miel que les daría energía durante el invierno. Al salir, Brisa se sintió pequeña ante la inmensidad del cielo azul, pero pronto recordó las lecciones de sus hermanas mayores. Se dirigió hacia una flor de color violeta intenso. Al aterrizar, sus patas se llenaron de un polvo amarillo muy fino: el polen. Sin saberlo, al saltar de flor en flor, Brisa estaba ayudando a las plantas a reproducirse, un proceso vital llamado polinización. Mientras trabajaba, Brisa observó a otros habitantes del prado. Vio mariposas de colores, hormigas esforzadas y un viejo sapo que descansaba bajo una piedra húmeda. Comprendió que el prado era un hogar compartido donde cada ser vivo cumplía una función importante. Sin embargo, no todo era fácil. Brisa tuvo que esquivar las redes de una araña y evitar los pesticidas químicos que algunos humanos habían rociado en un jardín cercano. Esos productos la hacían sentir mareada y confundida. Afortunadamente, encontró un rincón de flores silvestres que crecían de forma natural y saludable. Al atardecer, con sus sacos de polen repletos, Brisa regresó a la colmena siguiendo el rastro del sol. Sus hermanas la recibieron con una danza especial que indicaba dónde estaban las mejores flores. Esa noche, mientras descansaba, Brisa se dio cuenta de que su trabajo, aunque pareciera pequeño, era fundamental para la biodiversidad del planeta. Si las abejas desaparecieran, muchas frutas y flores también lo harían. La naturaleza le había enseñado que el trabajo en equipo y el respeto por el medio ambiente son las claves para un mundo sustentable y lleno de vida.",
+        "glosario": [
+            {
+                "palabra": "Néctar",
+                "definición": "Líquido dulce que producen las flores y que atrae a los insectos."
+            },
+            {
+                "palabra": "Polen",
+                "definición": "Polvillo amarillo de las flores que sirve para que nazcan nuevas plantas."
+            },
+            {
+                "palabra": "Colmena",
+                "definición": "Lugar donde viven las abejas y guardan su miel."
+            },
+            {
+                "palabra": "Larvas",
+                "definición": "Bebés de los insectos que todavía no han completado su crecimiento."
+            },
+            {
+                "palabra": "Polinización",
+                "definición": "Transporte de polen entre flores para que estas produzcan semillas."
+            },
+            {
+                "palabra": "Pesticidas",
+                "definición": "Productos químicos usados para matar insectos, pero que pueden dañar a las abejas."
+            },
+            {
+                "palabra": "Sustentable",
+                "definición": "Algo que puede mantenerse sano y durar mucho tiempo sin dañar el planeta."
+            },
+            {
+                "palabra": "Obrera",
+                "definición": "Abeja encargada de trabajar fuera de la colmena buscando alimento."
+            },
+            {
+                "palabra": "Silvestres",
+                "definición": "Plantas que crecen solas en el campo sin que nadie las haya plantado."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "La gran variedad de seres vivos que habitan en la Tierra."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué misión le dio la reina a Brisa?",
+                "tipo": "test",
+                "opciones": [
+                    "Vigilar la colmena",
+                    "Recolectar néctar y polen",
+                    "Aprender a bailar",
+                    "Buscar un nuevo prado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué color era la primera flor en la que aterrizó Brisa?",
+                "tipo": "test",
+                "opciones": [
+                    "Amarillo",
+                    "Blanco",
+                    "Violeta intenso",
+                    "Verde"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Para qué usan las abejas la danza especial?",
+                "tipo": "test",
+                "opciones": [
+                    "Para celebrar un cumpleaños",
+                    "Para avisar de un peligro",
+                    "Para indicar dónde están las mejores flores",
+                    "Para hacer ejercicio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué es tan importante la polinización para el mundo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque hace que las abejas se vean más bonitas",
+                    "Porque permite que las plantas tengan semillas y crezcan frutas",
+                    "Porque limpia el aire del prado",
+                    "Porque ayuda a las arañas a tejer"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña el hecho de que Brisa se maree con los pesticidas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las abejas son débiles",
+                    "Que los productos químicos dañan a los animales beneficiosos",
+                    "Que Brisa tenía mucha hambre",
+                    "Que las flores huelen mal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si las abejas no trabajaran en equipo, ¿qué pasaría?",
+                "tipo": "test",
+                "opciones": [
+                    "La colmena tendría más espacio",
+                    "No habría suficiente comida para las larvas ni para el invierno",
+                    "Las flores crecerían solas igualmente",
+                    "La reina tendría que salir a trabajar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Brisa se sentía pequeña al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no había desayunado",
+                    "Porque era su primera vez fuera y el mundo es muy grande",
+                    "Porque era más pequeña que una hormiga",
+                    "Porque no sabía volar bien"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación hay entre el sapo, las mariposas y Brisa?",
+                "tipo": "test",
+                "opciones": [
+                    "Son enemigos naturales",
+                    "Todos forman parte del mismo hogar compartido o ecosistema",
+                    "No tienen ninguna relación",
+                    "Brisa les da miel a todos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el trabajo de Brisa es 'fundamental'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es un trabajo muy divertido",
+                    "Que es necesario para que la vida continúe en la Tierra",
+                    "Que es un trabajo muy cansado",
+                    "Que es un trabajo que solo hacen las reinas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo encuentra Brisa el camino de vuelta a casa?",
+                "tipo": "test",
+                "opciones": [
+                    "Preguntando al sapo",
+                    "Siguiendo el rastro del sol",
+                    "Usando un mapa digital",
+                    "Siguiendo el olor de la miel"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián de las Raíces",
+        "tema": "naturaleza",
+        "texto": "Había una vez un viejo castaño llamado Robustiano que vivía en la cima de una colina. Robustiano no era un árbol cualquiera; era el abuelo del bosque. Sus ramas tocaban las nubes y sus raíces se hundían profundamente en la tierra oscura. Sin embargo, Robustiano tenía un secreto que pocos conocían: no estaba solo en las profundidades del suelo. Bajo sus pies, existía una red invisible de hilos blancos y brillantes llamados micelios. Estos hilos pertenecían a los hongos, y juntos formaban una alianza increíble. Un verano, la lluvia decidió no visitar el valle durante meses. El sol quemaba con fuerza y las hojas de los árboles más jóvenes empezaron a marchitarse. El pequeño retoño de encina, que crecía a la sombra de Robustiano, estaba muy débil. Robustiano, sintiendo la sed de su vecino, utilizó la red de micelios para enviarle agua y nutrientes que él guardaba en sus raíces más profundas. Gracias a esta red de cooperación, el pequeño retoño sobrevivió a la sequía. Pero el bosque enfrentaba un nuevo peligro. Unos excursionistas descuidados dejaron basura, plásticos y restos de comida que atrajeron a especies invasoras que no pertenecían allí, alterando el frágil equilibrio natural de todo el ecosistema. Robustiano, a través de complejas señales químicas enviadas por el aire y por sus raíces, avisó a los demás árboles amigos para que endurecieran sus gruesas cortezas y protegieran sus dulces frutos. Los pájaros carpinteros, al notar las señales de alerta, intensificaron su constante vigilancia eliminando los pequeños insectos dañinos que intentaban atacar los troncos debilitados por el intenso calor. Finalmente, las nubes grises regresaron y una lluvia generosa y fresca refrescó todo el ambiente seco. El bosque entero celebró la vida con un estallido de brillantes colores verdes, ocres y marrones. Los niños del pueblo cercano, guiados por sus maestros, vinieron a aprender sobre la importancia de cuidar cada rincón sagrado de la naturaleza salvaje. Robustiano, moviendo sus hojas suavemente con la brisa del atardecer, comprendió que su papel como protector era vital para la supervivencia de todos. El bosque no era simplemente un grupo de árboles aislados, sino una gran familia conectada donde todos, desde el hongo más diminuto hasta el ciervo más veloz, se ayudaban mutuamente. La biodiversidad era su mayor tesoro escondido, y el respeto sincero de los seres humanos era, en realidad, su única esperanza para seguir creciendo con fuerza durante muchos siglos más en aquel hermoso rincón del mundo que todos llamaban hogar.",
+        "glosario": [
+            {
+                "palabra": "Micelios",
+                "definición": "Conjunto de hilos de los hongos que crecen bajo tierra para absorber alimento."
+            },
+            {
+                "palabra": "Alianza",
+                "definición": "Acuerdo o unión entre dos partes para ayudarse y alcanzar un objetivo común."
+            },
+            {
+                "palabra": "Nutrientes",
+                "definición": "Sustancias químicas que los seres vivos necesitan para crecer y mantenerse sanos."
+            },
+            {
+                "palabra": "Sequía",
+                "definición": "Largo periodo de tiempo sin lluvia que causa falta de agua en la naturaleza."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Comunidad de seres vivos que interactúan entre ellos y con el lugar donde viven."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "Variedad de diferentes especies de animales y plantas que viven en un lugar."
+            },
+            {
+                "palabra": "Señales químicas",
+                "definición": "Sustancias que liberan los seres vivos para enviar mensajes o avisos a otros."
+            },
+            {
+                "palabra": "Corteza",
+                "definición": "Capa exterior y dura que protege el tronco y las ramas de los árboles."
+            },
+            {
+                "palabra": "Vigilancia",
+                "definición": "Acción de observar atentamente para evitar que ocurra algún daño o peligro."
+            },
+            {
+                "palabra": "Vital",
+                "definición": "Algo que es totalmente necesario para que la vida continúe funcionando bien."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el árbol protagonista de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Robustiano",
+                    "Encina",
+                    "Castañito",
+                    "Carpintero"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué son los micelios mencionados en el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Hilos de seda",
+                    "Ramas del castaño",
+                    "Hilos blancos de hongos",
+                    "Hojas de la encina"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué animal intensificó su vigilancia para eliminar insectos?",
+                "tipo": "test",
+                "opciones": [
+                    "La ardilla",
+                    "El pájaro carpintero",
+                    "El ciervo veloz",
+                    "El hongo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el autor llama a Robustiano el 'abuelo del bosque'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tiene nietos",
+                    "Por su gran tamaño y antigüedad",
+                    "Porque cuenta historias",
+                    "Porque usa gafas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Robustiano no hubiera usado la red de micelios, ¿qué le habría pasado al retoño?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría crecido más",
+                    "Se habría marchitado por la sed",
+                    "Se habría convertido en hongo",
+                    "Habría buscado otro bosque"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué indica que los árboles tienen un sistema de comunicación?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hablan con los niños",
+                    "El envío de señales químicas",
+                    "El ruido de las hojas",
+                    "Que se mueven de sitio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la consecuencia directa de la basura dejada por los humanos?",
+                "tipo": "test",
+                "opciones": [
+                    "Llegó más lluvia",
+                    "Aparecieron especies invasoras",
+                    "Los árboles crecieron",
+                    "El sol brilló menos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza la red de micelios en esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Una trampa",
+                    "La competencia",
+                    "La cooperación natural",
+                    "Un camino para hormigas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué es importante que los humanos respeten el bosque según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que haya más leña",
+                    "Para que los niños jueguen",
+                    "Porque somos su única esperanza de sobrevivir",
+                    "Para que no haya sombras"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que el bosque es una 'gran familia'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que todos tienen el mismo apellido",
+                    "Que todos los seres se ayudan entre sí",
+                    "Que viven en la misma casa",
+                    "Que son parientes de sangre"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Odisea de Turquesa",
+        "tema": "naturaleza",
+        "texto": "Turquesa era una tortuga boba que acababa de nacer en una playa de arena dorada. Con apenas unos minutos de vida, sintió el impulso instintivo de correr hacia el océano, guiada por el reflejo de la luna en las olas espumosas. Su viaje era el comienzo de una gran migración que la llevaría a recorrer miles de kilómetros por el mar. A lo largo de los años, Turquesa creció alimentándose de medusas y pequeños crustáceos, convirtiéndose en una experta navegante de las corrientes marinas. El océano era un lugar lleno de maravillas, pero también de grandes desafíos para la fauna marina. Un día, Turquesa se encontró con una enorme isla flotante. Al principio pensó que era un banquete de medusas deliciosas, pero pronto se dio cuenta de que eran bolsas de plástico. La contaminación es uno de los mayores problemas que enfrentan los animales marinos. Afortunadamente, un grupo de científicos que trabajaba en un barco de investigación la vio a tiempo y limpió el área, salvando a Turquesa de un grave peligro. Después de viajar por el Atlántico durante dos décadas, Turquesa sintió que era el momento de regresar al lugar donde nació. Utilizando el campo magnético de la Tierra como una brújula interna, cruzó tormentas y esquivó redes de pesca ilegales. Su determinación era asombrosa. Al llegar a su playa natal, esperó a que cayera la noche para salir del agua. Con mucho esfuerzo, cavó un hoyo profundo en la arena y depositó sus huevos, asegurando así la supervivencia de su especie. El ciclo de la vida continuaba gracias a la perseverancia de criaturas como Turquesa. La conservación de las playas y la limpieza de los mares son tareas fundamentales para que estas historias de valor sigan ocurriendo. Los seres humanos debemos ser los guardianes del océano, protegiendo las rutas migratorias y evitando que la basura llegue a las aguas. Turquesa regresó al mar, desapareciendo bajo las olas, mientras en la arena, bajo el calor del sol, el futuro de las tortugas comenzaba a latir con esperanza y mucha fuerza en cada pequeño huevo enterrado con amor.",
+        "glosario": [
+            {
+                "palabra": "Instintivo",
+                "definición": "Algo que se hace de forma natural sin haberlo aprendido antes."
+            },
+            {
+                "palabra": "Migración",
+                "definición": "Viaje largo que hacen algunos animales para alimentarse o reproducirse."
+            },
+            {
+                "palabra": "Crustáceos",
+                "definición": "Animales con caparazón que viven en el agua, como los cangrejos."
+            },
+            {
+                "palabra": "Corrientes marinas",
+                "definición": "Movimientos de agua en el océano que funcionan como ríos internos."
+            },
+            {
+                "palabra": "Contaminación",
+                "definición": "Presencia de basura o sustancias dañinas en el medio ambiente."
+            },
+            {
+                "palabra": "Campo magnético",
+                "definición": "Fuerza invisible de la Tierra que algunos animales usan para orientarse."
+            },
+            {
+                "palabra": "Natal",
+                "definición": "Lugar relacionado con el nacimiento de una persona o un animal."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Cualidad de seguir intentando algo difícil sin rendirse nunca."
+            },
+            {
+                "palabra": "Conservación",
+                "definición": "Acción de proteger y cuidar la naturaleza para que no se destruya."
+            },
+            {
+                "palabra": "Rutas migratorias",
+                "definición": "Caminos fijos que recorren los animales cada año durante sus viajes."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se guía Turquesa al nacer para llegar al agua?",
+                "tipo": "test",
+                "opciones": [
+                    "Por el olor",
+                    "Por el reflejo de la luna",
+                    "Por el sonido de voces",
+                    "Por el campo magnético"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pensó Turquesa que eran las bolsas de plástico?",
+                "tipo": "test",
+                "opciones": [
+                    "Piedras",
+                    "Medusas",
+                    "Hojas de mar",
+                    "Otras tortugas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué usa la tortuga para navegar como si fuera una brújula?",
+                "tipo": "test",
+                "opciones": [
+                    "Las estrellas",
+                    "El campo magnético",
+                    "El mapa del barco",
+                    "La arena"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es importante que la tortuga deposite sus huevos en la playa?",
+                "tipo": "test",
+                "opciones": [
+                    "Para deshacerse de ellos",
+                    "Para que se los coman",
+                    "Para asegurar la supervivencia de la especie",
+                    "Porque no caben en el mar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué problema ambiental destaca el encuentro con la 'isla flotante'?",
+                "tipo": "test",
+                "opciones": [
+                    "El exceso de lluvia",
+                    "La contaminación por plásticos",
+                    "El frío del mar",
+                    "Las olas grandes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad humana se necesita para salvar a Turquesa?",
+                "tipo": "test",
+                "opciones": [
+                    "La curiosidad",
+                    "La velocidad",
+                    "La responsabilidad y cuidado científico",
+                    "La fuerza física"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que Turquesa espera a la noche para poner sus huevos?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tiene sueño",
+                    "Para evitar depredadores y el calor del sol",
+                    "Porque la luna la empuja",
+                    "Para que nadie la vea"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra el hecho de que Turquesa vuelva a su playa después de 20 años?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tiene mala memoria",
+                    "Su asombrosa capacidad de orientación",
+                    "Que el océano es aburrido",
+                    "Que se perdió"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la función de los seres humanos respecto al océano?",
+                "tipo": "test",
+                "opciones": [
+                    "Ser turistas",
+                    "Ser guardianes y proteger la vida marina",
+                    "Pescar todo lo posible",
+                    "Construir barcos grandes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si las playas estuvieran llenas de luces y basura, ¿qué pasaría con las tortugas?",
+                "tipo": "test",
+                "opciones": [
+                    "Correrían más rápido",
+                    "Se confundirían y no llegarían al mar",
+                    "Harían mejores nidos",
+                    "Aprenderían a vivir en tierra"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Roblón y la Red Secreta bajo el Suelo",
+        "tema": "naturaleza",
+        "texto": "En el corazón de un bosque muy antiguo, donde los rayos del sol juegan al escondite entre las hojas, vivía un roble llamado Roblón. Roblón era enorme, con un tronco tan ancho que tres niños cogidos de la mano no podrían rodearlo. Pero Roblón no era solo un árbol; era el líder de una red secreta. Bajo la tierra, sus raíces estaban conectadas a millones de hilos blancos y finos llamados micelios. Estos hilos pertenecían a los hongos del bosque. Juntos, formaban una especie de internet natural que permitía a los árboles enviarse mensajes y comida. Un caluroso verano, la lluvia decidió no aparecer por mucho tiempo. El suelo estaba seco y agrietado. Cerca de Roblón, un pequeño retoño de encina estaba muy débil porque sus raíces cortas no alcanzaban el agua profunda. Roblón, sintiendo la sed de su joven vecino a través de la red de hilos, decidió compartir su propia agua y azúcar. Gracias a este acto de generosidad, la pequeña encina sobrevivió a la sequía. Poco después, un grupo de escarabajos hambrientos empezó a atacar las ramas de un sauce cercano. El sauce, asustado, liberó señales químicas por el aire y por la red subterránea para avisar a todos. Al recibir el mensaje, Roblón y los demás árboles prepararon un veneno natural en sus hojas para que los insectos no pudieran comerlas. El peligro pasó pronto porque los árboles trabajaron como un solo equipo unido. Esta historia nos enseña que la naturaleza no es una competencia, sino una gran red de ayuda mutua. Cada ser vivo, desde el hongo más diminuto hasta el roble más majestuoso, tiene un papel fundamental en el equilibrio del planeta. Al proteger esta biodiversidad, nos protegemos a nosotros mismos. El bosque sigue allí, susurrando secretos a través de sus raíces, recordándonos que la cooperación es el secreto de la vida. Si cuidamos cada rincón verde, el futuro será brillante y lleno de vida para todos los niños del mundo que aman la paz.",
+        "glosario": [
+            {
+                "palabra": "Micelios",
+                "definición": "Hilos muy finos de los hongos que crecen bajo tierra y conectan las raíces."
+            },
+            {
+                "palabra": "Retoño",
+                "definición": "Planta joven que acaba de nacer o brote nuevo de un árbol."
+            },
+            {
+                "palabra": "Nutrientes",
+                "definición": "Sustancias que las plantas y animales necesitan para crecer y estar sanos."
+            },
+            {
+                "palabra": "Sequía",
+                "definición": "Largo periodo de tiempo en el que no llueve y el suelo se seca."
+            },
+            {
+                "palabra": "Generosidad",
+                "definición": "Valor de compartir lo que tenemos con los demás sin esperar nada a cambio."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "Variedad de diferentes seres vivos que habitan en un lugar."
+            },
+            {
+                "palabra": "Cooperación",
+                "definición": "Trabajar juntos para lograr una meta común o ayudarse mutuamente."
+            },
+            {
+                "palabra": "Equilibrio",
+                "definición": "Estado donde todas las partes de la naturaleza funcionan correctamente sin destruirse."
+            },
+            {
+                "palabra": "Simbiosis",
+                "definición": "Relación de ayuda entre dos seres vivos de la que ambos salen beneficiados."
+            },
+            {
+                "palabra": "Señales químicas",
+                "definición": "Mensajes invisibles que las plantas envían para comunicarse mediante olores o sustancias."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el roble protagonista de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Pinillo",
+                    "Roblón",
+                    "Encinito",
+                    "Sauce"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué son los micelios según la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Hojas secas",
+                    "Hilos de hongos bajo tierra",
+                    "Ramas de los árboles",
+                    "Pájaros del bosque"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animal atacó al sauce cercano?",
+                "tipo": "test",
+                "opciones": [
+                    "Pájaros carpinteros",
+                    "Escarabajos hambrientos",
+                    "Ardillas traviesas",
+                    "Mariposas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es importante la red subterránea para el retoño de encina?",
+                "tipo": "test",
+                "opciones": [
+                    "Para jugar con las raíces",
+                    "Para recibir agua y azúcar de Roblón",
+                    "Para esconderse del sol",
+                    "Para hablar con los pájaros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sucede cuando un árbol envía una 'señal química'?",
+                "tipo": "test",
+                "opciones": [
+                    "Se queda dormido",
+                    "Avisa a los otros árboles de un peligro",
+                    "Atrae a más insectos",
+                    "Hace que llueva"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué habría ocurrido con la encina si Roblón no hubiera compartido su agua?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría crecido más rápido",
+                    "Se habría secado debido a sus raíces cortas",
+                    "Habría buscado otro bosque",
+                    "Se habría convertido en roble"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los árboles prepararon 'veneno' en sus hojas?",
+                "tipo": "test",
+                "opciones": [
+                    "Para matar al sauce",
+                    "Para protegerse de los escarabajos",
+                    "Para alimentar a los hongos",
+                    "Para brillar en la oscuridad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el bosque funciona como 'un solo equipo'? ",
+                "tipo": "test",
+                "opciones": [
+                    "Que los árboles compiten entre ellos",
+                    "Que todos los seres se ayudan para sobrevivir",
+                    "Que solo manda el roble",
+                    "Que no necesitan agua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la lección principal sobre la competencia en la naturaleza según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que solo los más fuertes sobreviven",
+                    "Que la ayuda mutua es más importante que competir",
+                    "Que es mejor vivir solo",
+                    "Que los insectos siempre ganan"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si desaparecieran los hongos del suelo, ¿qué le pasaría a la comunicación del bosque?",
+                "tipo": "test",
+                "opciones": [
+                    "Los árboles hablarían más fuerte",
+                    "La red de mensajes se rompería y los árboles estarían aislados",
+                    "Los pájaros llevarían los mensajes",
+                    "No pasaría nada importante"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Largo Viaje de Monarca",
+        "tema": "naturaleza",
+        "texto": "Había una vez una pequeña mariposa llamada Monarca que nació en un campo lleno de flores en Canadá. Su vida comenzó como un huevo diminuto en una hoja de algodoncillo. Pronto se convirtió en una oruga rayada que comía sin parar para prepararse para su gran transformación. Un día, tejió un capullo de seda y se encerró en él. Semanas después, salió convertida en una belleza de alas naranjas y negras. Pero Monarca no tenía tiempo que perder; el aire se volvía frío y debía iniciar un viaje asombroso de miles de kilómetros hacia el sur, buscando el calor de los bosques de México. Acompañada por millones de hermanas, cruzó montañas altas, ríos anchos y ciudades ruidosas. A veces, el viento soplaba tan fuerte que parecía que no podría seguir, pero Monarca recordaba el mapa invisible grabado en sus sentidos. Durante su migración, enfrentó peligros como la lluvia helada y la falta de flores para alimentarse. Algunos humanos habían plantado jardines especiales con néctar para ayudarlas, lo cual era vital para su supervivencia. Tras meses de esfuerzo, Monarca divisó las montañas de Michoacán. Los árboles allí estaban cubiertos de mariposas, pareciendo flores vivas de color naranja. En ese refugio cálido, Monarca descansó y se preparó para la siguiente etapa de su ciclo. Esta migración es uno de los milagros más grandes de la naturaleza, demostrando que incluso un ser tan frágil puede realizar hazañas heroicas. La vida de la mariposa depende de que cuidemos los ecosistemas en todo el continente. Sin el algodoncillo y los bosques protegidos, esta danza anual desaparecería para siempre. Monarca nos enseña la importancia de la perseverancia y el respeto por los seres más pequeños. Al verlas volar, recordamos que somos los guardianes de su hogar. Cada vez que plantamos una flor, ayudamos a que este viaje mágico continúe año tras año bajo el sol radiante de la esperanza y la libertad infinita.",
+        "glosario": [
+            {
+                "palabra": "Migración",
+                "definición": "Viaje largo que hacen algunos animales cada año para buscar comida o mejor clima."
+            },
+            {
+                "palabra": "Algodoncillo",
+                "definición": "Planta única de la que se alimentan las orugas de mariposa monarca."
+            },
+            {
+                "palabra": "Néctar",
+                "definición": "Líquido dulce que producen las flores y sirve de alimento a las mariposas."
+            },
+            {
+                "palabra": "Refugio",
+                "definición": "Lugar seguro donde un ser vivo se protege del clima o de los peligros."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Lugar donde viven plantas y animales interactuando entre sí y con el clima."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Valor de seguir intentando algo difícil hasta conseguirlo sin rendirse."
+            },
+            {
+                "palabra": "Metamorfosis",
+                "definición": "Cambio asombroso de forma que sufren algunos insectos desde que nacen."
+            },
+            {
+                "palabra": "Guardianes",
+                "definición": "Personas que tienen la misión de cuidar y proteger algo valioso."
+            },
+            {
+                "palabra": "Senda",
+                "definición": "Camino pequeño o ruta que se sigue durante un viaje."
+            },
+            {
+                "palabra": "Instinto",
+                "definición": "Saber natural que tienen los animales para sobrevivir sin que nadie les enseñe."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué país comienza la historia de Monarca?",
+                "tipo": "test",
+                "opciones": [
+                    "España",
+                    "Canadá",
+                    "Argentina",
+                    "Francia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llama la planta donde nace y se alimenta la oruga?",
+                "tipo": "test",
+                "opciones": [
+                    "Rosa",
+                    "Algodoncillo",
+                    "Margarita",
+                    "Pasto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿A qué país viajan las mariposas para pasar el invierno?",
+                "tipo": "test",
+                "opciones": [
+                    "Estados Unidos",
+                    "Brasil",
+                    "México",
+                    "Chile"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Monarca decide viajar hacia el sur?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quiere conocer nuevos amigos",
+                    "Porque el aire se volvía frío y necesitaba calor",
+                    "Porque se perdió en el bosque",
+                    "Porque buscaba una ciudad ruidosa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué dificultad enfrentó Monarca durante su migración?",
+                "tipo": "test",
+                "opciones": [
+                    "El exceso de comida",
+                    "El viento fuerte y la lluvia helada",
+                    "Demasiado calor en Canadá",
+                    "Aburrimiento"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo ayudan los jardines con néctar a las mariposas?",
+                "tipo": "test",
+                "opciones": [
+                    "Les dan un sitio para dormir en camas",
+                    "Les proporcionan alimento vital para tener energía",
+                    "Les enseñan el camino a México",
+                    "Las esconden de los humanos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pasaría si desapareciera el algodoncillo de los campos?",
+                "tipo": "test",
+                "opciones": [
+                    "Las orugas no tendrían qué comer y morirían",
+                    "Las mariposas comerían chocolate",
+                    "Nacerían más orugas en los pinos",
+                    "No pasaría nada porque las mariposas no comen"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué significa que Monarca tiene un 'mapa invisible'? ",
+                "tipo": "test",
+                "opciones": [
+                    "Que lleva un GPS en la pata",
+                    "Que tiene un instinto natural para saber por dónde ir",
+                    "Que usa un mapa de papel",
+                    "Que los pájaros le indican el camino"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se dice que Monarca realiza una 'hazaña heroica'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque es muy grande",
+                    "Porque recorre miles de kilómetros siendo un ser pequeño y frágil",
+                    "Porque sabe pelear con otros insectos",
+                    "Porque vive muchos años"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es nuestra responsabilidad según el final del texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Atrapar a las mariposas para verlas mejor",
+                    "Cuidar los ecosistemas y ser guardianes de su hogar",
+                    "No hacer nada porque la naturaleza se cuida sola",
+                    "Viajar con ellas a México"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    }
+]

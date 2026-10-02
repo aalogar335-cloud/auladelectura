@@ -1,0 +1,242 @@
+[
+  {
+    "titulo": "Robi, el roble protector",
+    "tema": "naturaleza",
+    "texto": "En lo profundo del bosque verde, vivía un viejo roble llamado Robi. Robi era el árbol más alto y fuerte del lugar. Sus ramas daban sombra a los animales y sus raíces buscaban agua bajo la tierra. Un día, llegó una pequeña ardilla llamada Saltarina. Ella buscaba un hogar seguro para el invierno. Robi le ofreció un hueco cómodo en su tronco. Saltarina estaba muy agradecida y decidió cuidar del gran árbol. Ella limpiaba las hojas secas y avisaba a Robi cuando venía una fuerte tormenta. Con el tiempo, otros animales se unieron. Los pájaros construyeron nidos y las hormigas trabajaron cerca de las raíces profundas. El bosque era un ecosistema perfecto donde todos se ayudaban. La lluvia caía suavemente, alimentando la tierra. Los rayos del sol daban energía vital a las plantas para crecer. El ciclo de la naturaleza seguía su curso natural cada día. Los niños que visitaban el bosque aprendían a respetar cada planta y cada pequeño insecto. Sabían que sin los árboles, el aire no sería tan puro. Robi se sentía feliz de ver cómo su rincón del mundo prosperaba. La naturaleza es un gran tesoro que debemos proteger entre todos, siempre con amor y mucho cuidado.",
+    "glosario": [
+      { "palabra": "Ecosistema", "definición": "Es un lugar donde viven plantas y animales que se relacionan entre sí." },
+      { "palabra": "Roble", "definición": "Un tipo de árbol muy fuerte que puede vivir muchísimos años." },
+      { "palabra": "Raíces", "definición": "Parte de la planta que crece bajo tierra para sujetarla y buscar alimento." },
+      { "palabra": "Puro", "definición": "Algo que está limpio y no tiene cosas malas o suciedad." },
+      { "palabra": "Prosperar", "definición": "Cuando algo crece, mejora y se mantiene sano y fuerte." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama el roble protagonista?", "tipo": "test", "opciones": ["Saltarina", "Robi", "Bosque", "Tronco"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué animal buscaba hogar para el invierno?", "tipo": "test", "opciones": ["Un pájaro", "Una hormiga", "Una ardilla", "Un niño"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué hacían los pájaros en el roble?", "tipo": "test", "opciones": ["Limpiaban hojas", "Buscaban agua", "Avisaban tormentas", "Construían nidos"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué da energía a las plantas según el texto?", "tipo": "test", "opciones": ["Los rayos del sol", "Los nidos", "Las hormigas", "Los insectos"], "correctaIdx": 0 },
+      { "enunciado": "¿Dónde buscaban agua las raíces de Robi?", "tipo": "test", "opciones": ["En las nubes", "Bajo la tierra", "En el tronco", "En las hojas"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Robi es importante para el aire?", "tipo": "test", "opciones": ["Porque es muy alto", "Porque lo mantiene puro", "Porque da sombra", "Porque tiene muchas ramas"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué aprendían los niños en el bosque?", "tipo": "test", "opciones": ["A correr rápido", "A respetar la naturaleza", "A buscar ardillas", "A limpiar hormigueros"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué labor hacía Saltarina por el árbol?", "tipo": "test", "opciones": ["Daba sombra", "Buscaba agua", "Limpiaba hojas y avisaba tormentas", "Construía nidos"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué significa que el bosque es un ecosistema perfecto?", "tipo": "test", "opciones": ["Que no hay animales", "Que todos se ayudan entre sí", "Que siempre hace sol", "Que es muy grande"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo debemos proteger la naturaleza según el autor?", "tipo": "test", "opciones": ["Con miedo", "Con amor y cuidado", "Solo en invierno", "Desde lejos"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Mar, la tortuga viajera",
+    "tema": "naturaleza",
+    "texto": "Mar era una tortuga marina que amaba recorrer las corrientes cálidas del océano. Un día, mientras nadaba cerca de un arrecife de coral, encontró una red de pesca abandonada. Estaba muy asustada y cansada por el esfuerzo de intentar liberarse. Por suerte, sus amigos los peces de colores avisaron a unos buceadores que limpiaban la zona cada semana. Los humanos, con mucho cuidado, cortaron los hilos de plástico que la atrapaban. Mar volvió a ser libre y nado feliz hacia las ciudades submarinas que forman los arrecifes. Allí, el agua era cristalina y pura, llena de vida. Mar comprendió que el equilibrio del mar depende de que los humanos no tiren basura. El océano es un lugar hermoso pero frágil que todos compartimos. Ahora, Mar sigue su viaje anual, recordando siempre a quienes la ayudaron a seguir nadando en paz por el azul infinito.",
+    "glosario": [
+      { "palabra": "Arrecife", "definición": "Formación bajo el mar, hecha de coral, donde viven miles de animales." },
+      { "palabra": "Buceador", "definición": "Persona que nada bajo el agua usando equipo especial para respirar." },
+      { "palabra": "Frágil", "definición": "Algo que se puede dañar o romper con mucha facilidad." },
+      { "palabra": "Cristalina", "definición": "Agua que está tan limpia que se puede ver a través de ella perfectamente." },
+      { "palabra": "Corriente", "definición": "Movimiento continuo del agua del mar en una dirección determinada." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué lugar nadaba Mar al principio?", "tipo": "test", "opciones": ["En un río", "Cerca de un arrecife", "En una piscina", "En un lago"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto atrapó a la tortuga?", "tipo": "test", "opciones": ["Una roca", "Una red de pesca", "Una bolsa", "Un ancla"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué material estaba hecha la red?", "tipo": "test", "opciones": ["Algodón", "Lana", "Plástico", "Hierro"], "correctaIdx": 2 },
+      { "enunciado": "¿Con qué frecuencia limpiaban la zona los buceadores?", "tipo": "test", "opciones": ["Cada mes", "Cada día", "Cada año", "Cada semana"], "correctaIdx": 3 },
+      { "enunciado": "¿Cómo estaba el agua después de la limpieza?", "tipo": "test", "opciones": ["Sucia", "Cristalina y pura", "Llena de plástico", "Azul oscuro"], "correctaIdx": 1 },
+      { "enunciado": "¿Quiénes ayudaron a liberar a la tortuga?", "tipo": "test", "opciones": ["Los humanos", "Los corales", "Los amigos peces", "Nadie"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué la tortuga estaba cansada al principio?", "tipo": "test", "opciones": ["Por nadar mucho", "Por el esfuerzo al estar atrapada", "Por tener hambre", "Porque era vieja"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué representan los arrecifes según el cuento?", "tipo": "test", "opciones": ["Montañas", "Basureros", "Ciudades submarinas", "Cadenas"], "correctaIdx": 2 },
+      { "enunciado": "¿De quién depende el equilibrio del mar según el texto?", "tipo": "test", "opciones": ["De los peces", "De los delfines", "De que los humanos no tiren basura", "De las olas"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué significa que el océano es frágil?", "tipo": "test", "opciones": ["Que es muy grande", "Que se daña fácilmente", "Que es muy fuerte", "Que tiene muchos colores"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Bizi y el secreto del jardín",
+    "tema": "naturaleza",
+    "texto": "En un jardín lleno de margaritas vivía Bizi, una abeja muy trabajadora. Cada mañana, cuando el sol salía, Bizi estiraba sus alas brillantes y comenzaba su importante labor. Su misión era visitar las flores para recoger el néctar dulce. Mientras volaba de pétalo en pétalo, unos polvos amarillos llamados polen se pegaban a sus patitas peludas. Sin darse cuenta, Bizi llevaba ese polen a otras flores, ayudándolas a producir semillas y nuevos frutos. Este proceso se llama polinización y es vital para la vida en nuestro planeta Tierra. Un día, Bizi notó que las flores estaban tristes porque no había llovido. La tierra estaba seca y el color verde desaparecía. Preocupada, avisó a sus hermanas para buscar agua en el arroyo cercano. Gracias a su esfuerzo, el jardín recuperó su alegría y las flores volvieron a abrirse con fuerza. Los niños que jugaban cerca observaban a Bizi con respeto. Sabían que, aunque las abejas son pequeñas, su trabajo es gigantesco para la naturaleza. Bizi se sentía orgullosa de su colmena y de cuidar el medio ambiente. Al final del día, regresaba a casa bajo la luz anaranjada del atardecer, lista para descansar y empezar mañana de nuevo.",
+    "glosario": [
+      { "palabra": "Néctar", "definición": "Jugo dulce que producen las flores para atraer a los insectos." },
+      { "palabra": "Polen", "definición": "Polvillo fino y amarillo que las flores necesitan para formar semillas." },
+      { "palabra": "Polinización", "definición": "Transporte de polen de una flor a otra para crear vida." },
+      { "palabra": "Vital", "definición": "Algo que es totalmente necesario e importante para poder vivir." },
+      { "palabra": "Colmena", "definición": "La casa donde viven las abejas y guardan su rica miel." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama la abeja protagonista de la historia?", "tipo": "test", "opciones": ["Margarita", "Bizi", "Peluda", "Abejorra"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué se pegaba a las patas de la abeja mientras volaba?", "tipo": "test", "opciones": ["Agua", "Miel", "Polen", "Tierra"], "correctaIdx": 2 },
+      { "enunciado": "¿Dónde fueron a buscar agua las abejas?", "tipo": "test", "opciones": ["A un pozo", "A una manguera", "A una nube", "A un arroyo"], "correctaIdx": 3 },
+      { "enunciado": "¿A qué hora del día empieza Bizi su labor?", "tipo": "test", "opciones": ["Al mediodía", "Por la noche", "Cuando el sol sale", "Al atardecer"], "correctaIdx": 2 },
+      { "enunciado": "¿De qué color es el polen según el texto?", "tipo": "test", "opciones": ["Verde", "Amarillo", "Azul", "Anaranjado"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué estaban tristes las flores en el jardín?", "tipo": "test", "opciones": ["Porque Bizi se fue", "Porque no tenían agua", "Porque hacía frío", "Porque los niños las pisaron"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué ocurriría si Bizi no llevara polen entre las flores?", "tipo": "test", "opciones": ["Las plantas no darían frutos", "Bizi se cansaría", "El sol no saldría", "Las flores serían más grandes"], "correctaIdx": 0 },
+      { "enunciado": "¿Qué sentimiento tienen los niños hacia Bizi?", "tipo": "test", "opciones": ["Miedo", "Indiferencia", "Respeto", "Enfado"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué significa que el trabajo de la abeja es gigantesco?", "tipo": "test", "opciones": ["Que Bizi es muy grande", "Que su labor es muy importante para el mundo", "Que vive en una colmena enorme", "Que vuela muy alto"], "correctaIdx": 1 },
+      { "enunciado": "¿Hacia dónde regresa Bizi al atardecer?", "tipo": "test", "opciones": ["Al arroyo", "A una flor nueva", "A su colmena", "Al colegio"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "Verde, el pequeño brote",
+    "tema": "naturaleza",
+    "texto": "En medio de un gran campo de trigo, nació Verde, un pequeño brote de encina. Al principio, Verde tenía mucho miedo de los vientos fuertes que soplaban en invierno. Sin embargo, sus raíces se agarraban con fuerza a la tierra húmeda para no caerse. Con cada lluvia de primavera, Verde crecía un poquito más hacia el cielo azul. Sabía que algún día se convertiría en un árbol majestuoso que daría sombra a los caminantes. Los pájaros empezaron a visitarlo y le contaban historias de otros bosques lejanos. Verde aprendió que todas las estaciones son necesarias para su crecimiento. El invierno le enseñaba a ser fuerte y el verano a disfrutar del sol. Ahora, Verde ya tiene varias hojas verdes y brillantes que limpian el aire que respiramos. Cuidar de cada pequeño brote es sembrar esperanza para el futuro de nuestro planeta. Alguna vez, Verde será el hogar de muchas familias de animales en este campo tan especial.",
+    "glosario": [
+      { "palabra": "Brote", "definición": "Planta pequeña que acaba de nacer de una semilla o de la tierra." },
+      { "palabra": "Encina", "definición": "Árbol muy fuerte de tronco grueso que da bellotas como fruto." },
+      { "palabra": "Majestuoso", "definición": "Algo que es muy grande, hermoso y causa mucha admiración." },
+      { "palabra": "Húmeda", "definición": "Tierra que tiene suficiente agua para que las plantas puedan beber." },
+      { "palabra": "Esperanza", "definición": "Sentimiento de confiar en que algo bueno va a suceder en el futuro." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué tipo de árbol es el brote Verde?", "tipo": "test", "opciones": ["Pino", "Encina", "Roble", "Trigo"], "correctaIdx": 1 },
+      { "enunciado": "¿Hacia dónde crecía Verde cada primavera?", "tipo": "test", "opciones": ["Hacia el suelo", "Hacia el río", "Hacia el cielo azul", "Hacia una cueva"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Verde tenía miedo al principio de la historia?", "tipo": "test", "opciones": ["Por la oscuridad", "Por los vientos fuertes", "Por la lluvia", "Por los pájaros"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué parte de su cuerpo ayudó a Verde a no caerse?", "tipo": "test", "opciones": ["Sus hojas", "Su tallo", "Sus raíces", "Sus ramas"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué es importante que Verde crezca hasta ser un árbol?", "tipo": "test", "opciones": ["Para ser más alto que el conejo", "Para limpiar el aire y dar refugio", "Para tapar el sol", "Para que no llueva"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué aprendió Verde sobre las estaciones del año?", "tipo": "test", "opciones": ["Que el invierno es malo", "Que todas son necesarias", "Que solo la primavera importa", "Que el verano es muy largo"], "correctaIdx": 1 },
+      { "enunciado": "¿Quiénes le contaban historias a Verde?", "tipo": "test", "opciones": ["Los conejos", "Los árboles viejos", "Los pájaros", "Los niños"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué función cumplen las hojas de Verde según el texto?", "tipo": "test", "opciones": ["Hacer ruido", "Limpiar el aire", "Dar calor", "Atrapar pájaros"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué significa 'sembrar esperanza' en este cuento?", "tipo": "test", "opciones": ["Plantar comida", "Ayudar a que el futuro sea mejor cuidando la vida", "Cavar hoyos", "Esperar a que llueva"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo será Verde en el futuro según el texto?", "tipo": "test", "opciones": ["Un arbusto pequeño", "Un árbol majestuoso y hogar de animales", "Una flor de trigo", "Una nube"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El viaje de Gota Clarita",
+    "tema": "naturaleza",
+    "texto": "Gota Clarita vivía en el inmenso océano azul rodeada de muchas amigas. Un día de verano, el sol calentó el agua con tanta fuerza que Gota Clarita empezó a sentirse muy ligera. De repente, se convirtió en vapor y subió volando hacia el cielo. Este viaje hacia arriba se llama evaporación. En las alturas, el aire era más frío. Gota Clarita se juntó con otras gotas para formar una nube blanca y esponjosa. Cuando la nube se puso pesada y gris, Clarita cayó en forma de lluvia sobre una montaña alta. Se deslizó por las rocas, formando un pequeño arroyo que cantaba entre las piedras. El agua refrescaba a los ciervos y regaba los pinos verdes del bosque. Clarita se sentía feliz porque sabía que su viaje era vital para la vida. Finalmente, el arroyo llegó a un río ancho que la llevó de vuelta al océano. Allí descansó, sabiendo que pronto el sol la llamaría de nuevo para repetir su aventura. El ciclo del agua nunca se detiene y es un regalo precioso de la naturaleza que todos debemos cuidar. Sin el agua, las flores no abrirían y los animales tendrían sed. Protege siempre nuestros ríos con mucho amor.",
+    "glosario": [
+      { "palabra": "Evaporación", "definición": "Proceso por el cual el agua se calienta y sube al cielo como vapor invisible." },
+      { "palabra": "Arroyo", "definición": "Un río pequeño que lleva poca agua y suele nacer en las montañas." },
+      { "palabra": "Vital", "definición": "Algo que es totalmente necesario para poder vivir y mantenerse sano." },
+      { "palabra": "Ciclo", "definición": "Una serie de pasos que se repiten una y otra vez en el mismo orden." },
+      { "palabra": "Naturaleza", "definición": "Todo lo que forma el mundo físico y no ha sido creado por el hombre." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde vivía Gota Clarita al principio de la historia?", "tipo": "test", "opciones": ["En un vaso", "En el inmenso océano azul", "En una piscina", "En una nube"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llama el proceso de subir al cielo como vapor?", "tipo": "test", "opciones": ["Congelación", "Inundación", "Evaporación", "Navegación"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué forma tenía la nube antes de que lloviera?", "tipo": "test", "opciones": ["Verde y pequeña", "Pesada y gris", "Roja y brillante", "No había nubes"], "correctaIdx": 1 },
+      { "enunciado": "¿Sobre qué lugar cayó Clarita en forma de lluvia?", "tipo": "test", "opciones": ["Sobre una montaña alta", "Sobre una ciudad", "Sobre un barco", "Sobre el desierto"], "correctaIdx": 0 },
+      { "enunciado": "¿A qué animales refrescaba el arroyo en el bosque?", "tipo": "test", "opciones": ["A los leones", "A los ciervos", "A los elefantes", "A los gatos"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Clarita empezó a sentirse ligera?", "tipo": "test", "opciones": ["Porque tenía hambre", "Porque el sol calentó el agua", "Porque sopló el viento", "Porque quería volar"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué significa que el ciclo del agua nunca se detiene?", "tipo": "test", "opciones": ["Que el agua se acaba pronto", "Que el agua siempre hace el mismo viaje", "Que Clarita está cansada", "Que solo ocurre en verano"], "correctaIdx": 1 },
+      { "enunciado": "Si no hubiera lluvia en las montañas, ¿qué pasaría con el arroyo?", "tipo": "test", "opciones": ["Sería más grande", "Se quedaría sin agua y se secaría", "Tendría peces de colores", "Se convertiría en mar"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Clarita regresó al océano al final?", "tipo": "test", "opciones": ["Porque se perdió", "Porque el río la llevó de vuelta", "Porque tenía frío", "Porque el sol la empujó"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo podemos cuidar este ciclo según el texto?", "tipo": "test", "opciones": ["Tirando basura", "Protegiendo los ríos con amor", "Calentando el agua", "Haciendo nubes artificiales"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Sombra, la pequeña semilla",
+    "tema": "naturaleza",
+    "texto": "Sombra era una pequeña semilla de diente de león que soñaba con ver el mundo más allá de su pradera. Un día, una ráfaga de viento suave la levantó y empezó su gran aventura aérea. Voló por encima de valles y lagos, sintiéndose tan ligera como una pluma. Finalmente, aterrizó en un rincón de tierra húmeda y oscura. Allí, Sombra necesitó paciencia y la ayuda de la lluvia para empezar a crecer. Sus raíces se hundieron profundamente mientras sus primeras hojas buscaban la luz del sol. Pronto, se convirtió en una planta fuerte y verde que purificaba el aire. Sombra comprendió que, aunque las plantas no pueden caminar, son los pulmones del mundo porque nos dan oxígeno limpio. Las abejas la visitaban cada día para recoger polen y ella se sentía muy feliz de ayudar. Cuidar cada semilla es vital para mantener el equilibrio de la vida en la Tierra. Ahora, Sombra espera a que el viento sople de nuevo para que sus propias semillas puedan viajar lejos hoy.",
+    "glosario": [
+      { "palabra": "Semilla", "definición": "Parte de la planta que, al caer en la tierra, puede hacer que nazca una planta nueva." },
+      { "palabra": "Pradera", "definición": "Campo grande y llano lleno de hierba verde y flores silvestres." },
+      { "palabra": "Oxígeno", "definición": "Gas invisible que hay en el aire y que todos necesitamos para poder respirar." },
+      { "palabra": "Equilibrio", "definición": "Estado en el que todos los seres vivos conviven de forma sana y correcta." },
+      { "palabra": "Ráfaga", "definición": "Golpe de viento fuerte y repentino que dura poco tiempo." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué tipo de planta es Sombra?", "tipo": "test", "opciones": ["Una rosa", "Un diente de león", "Un pino", "Una margarita"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo logró viajar Sombra fuera de su pradera?", "tipo": "test", "opciones": ["Un pájaro la llevó", "Con una ráfaga de viento", "Un niño la plantó", "Nadando en el río"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué necesitaba Sombra para empezar a crecer bajo tierra?", "tipo": "test", "opciones": ["Sombra y frío", "Tierra húmeda y lluvia", "Piedras y arena", "Estar en una maceta"], "correctaIdx": 1 },
+      { "enunciado": "Según el texto, ¿por qué las plantas son los pulmones del mundo?", "tipo": "test", "opciones": ["Porque tienen muchas ramas", "Porque nos dan oxígeno limpio", "Porque son de color verde", "Porque viven muchos años"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué animal visitaba a Sombra para recoger polen?", "tipo": "test", "opciones": ["Las vacas", "Las mariposas", "Las abejas", "Los pájaros"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué sintió Sombra al volar por primera vez?", "tipo": "test", "opciones": ["Miedo", "Pesadez", "Ligereza como una pluma", "Ganas de llorar"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué es importante cuidar cada semilla?", "tipo": "test", "opciones": ["Para que no se pierdan", "Para mantener el equilibrio de la vida", "Porque brillan", "Porque son juguetes"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué parte de Sombra se hundió profundamente en la tierra?", "tipo": "test", "opciones": ["Sus flores", "Sus hojas", "Sus raíces", "Sus semillas"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo purifican las plantas el aire según el cuento?", "tipo": "test", "opciones": ["Haciendo viento", "Dando oxígeno", "Atrapando insectos", "Bebiendo agua"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué espera Sombra al final de la historia?", "tipo": "test", "opciones": ["Que deje de llover", "Que el viento sople para que sus semillas viajen", "Dormir para siempre", "Que los niños la arranquen"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Rayo y el equilibrio del bosque",
+    "tema": "naturaleza",
+    "texto": "En el corazón de las montañas vive un pequeño zorro llamado Rayo. Su pelaje es de un color naranja brillante que destaca entre los verdes pinos. Rayo sabe que la naturaleza es un equilibrio perfecto donde cada ser vivo cumple una misión importante. Por las mañanas, el sol calienta el suelo y las flores se abren para invitar a las abejas a recolectar el dulce néctar. Rayo observa cómo las hormigas trabajan en equipo cargando hojas pesadas hacia su hormiguero. Un día, una tormenta fuerte golpeó el bosque. El agua caía con fuerza y el viento soplaba entre las ramas. Rayo buscó refugio en una cueva seca. Al salir, vio que el bosque estaba más limpio y fresco. Las plantas habían bebido suficiente agua para crecer fuertes durante la semana. Aprendió que la lluvia, aunque a veces asusta, es esencial para que la vida continúe su curso. Los árboles actúan como pulmones, limpiando el aire que todos respiramos. Rayo se prometió cuidar siempre su hogar, evitando dejar basura y respetando a cada insecto. Al final del día, el atardecer pintó el cielo de colores hermosos, recordándole la belleza del mundo natural que nos rodea siempre. ¡Qué gran día para vivir!",
+    "glosario": [
+      { "palabra": "Equilibrio", "definición": "Estado en el que todos los elementos de la naturaleza viven en armonía." },
+      { "palabra": "Néctar", "definición": "Jugo dulce que las abejas recogen de las flores para fabricar miel." },
+      { "palabra": "Refugio", "definición": "Lugar seguro donde los animales se protegen del clima o peligros." },
+      { "palabra": "Esencial", "definición": "Algo que es totalmente necesario para que la vida pueda existir." },
+      { "palabra": "Pulmones", "definición": "Órganos que respiran; aquí se refiere a cómo los árboles limpian el aire." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué color es el pelaje de Rayo?", "tipo": "test", "opciones": ["Rojo oscuro", "Naranja brillante", "Verde pino", "Gris montaña"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde buscó refugio el zorro durante la tormenta?", "tipo": "test", "opciones": ["Bajo un árbol", "En su hormiguero", "En una cueva seca", "Detrás de una flor"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué recolectan las abejas según la lectura?", "tipo": "test", "opciones": ["Hojas pesadas", "Agua de lluvia", "Dulce néctar", "Polvo naranja"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué animal transportaba hojas pesadas en equipo?", "tipo": "test", "opciones": ["Las abejas", "Las hormigas", "Los zorros", "Los pinos"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué prometió Rayo al final del día?", "tipo": "test", "opciones": ["Cazar insectos", "Cuidar su hogar", "Vivir en la cueva", "Pintar el cielo"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Rayo dice que los árboles son como pulmones?", "tipo": "test", "opciones": ["Porque tienen ramas largas", "Porque limpian el aire", "Porque beben mucha agua", "Porque dan mucha sombra"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sintió el bosque después de la tormenta?", "tipo": "test", "opciones": ["Sucio y triste", "Limpio y fresco", "Seco y caluroso", "Igual que antes"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué cualidad de las hormigas destaca el texto?", "tipo": "test", "opciones": ["Su velocidad", "Su trabajo en equipo", "Su color", "Su tamaño"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hace el sol por las mañanas en el bosque?", "tipo": "test", "opciones": ["Limpia el aire", "Calienta el suelo y abre las flores", "Carga hojas", "Hace viento"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se siente Rayo sobre vivir en la naturaleza?", "tipo": "test", "opciones": ["Tiene miedo", "Está aburrido", "Está feliz y agradecido", "Quiere irse a otro lugar"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "Luna y el arrecife de coral",
+    "tema": "naturaleza",
+    "texto": "Bajo las olas del océano azul vive Luna, una pequeña pez payaso que habita en una anémona colorida. Su hogar es el arrecife de coral, una ciudad submarina llena de biodiversidad. Luna sabe que los corales no son rocas, sino animales vivos que necesitan aguas limpias para sobrevivir. Por la noche, el arrecife brilla bajo la luz de la luna, creando un espectáculo mágico. Sin embargo, Luna está preocupada porque el agua se está calentando demasiado por el cambio climático. Ella ayuda a limpiar su anémona para que los corales puedan respirar mejor. Todos los peces del arrecife trabajan juntos para mantener el ecosistema sano. Luna nos enseña que el océano es el corazón del planeta y nos da gran parte del oxígeno que respiramos. Debemos proteger los mares evitando el plástico y la contaminación. Cada pequeña acción cuenta para salvar los tesoros ocultos bajo el mar. Luna sueña con que los niños cuiden las playas para que su hogar siga siendo un paraíso brillante y lleno de vida por siempre.",
+    "glosario": [
+      { "palabra": "Biodiversidad", "definición": "Variedad de diferentes especies de plantas y animales que viven en un lugar." },
+      { "palabra": "Anémona", "definición": "Animal marino con tentáculos donde algunos peces encuentran refugio y comida." },
+      { "palabra": "Calentamiento", "definición": "Aumento de la temperatura del agua o del aire que puede dañar la naturaleza." },
+      { "palabra": "Contaminación", "definición": "Presencia de basura o sustancias malas que ensucian el medio ambiente." },
+      { "palabra": "Ecosistema", "definición": "Conjunto de seres vivos y el lugar donde habitan, relacionándose entre ellos." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué tipo de pez es Luna?", "tipo": "test", "opciones": ["Tiburón", "Pez payaso", "Delfín", "Ballena"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde vive Luna exactamente?", "tipo": "test", "opciones": ["En una cueva", "En una anémona", "En un barco hundido", "En la playa"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué son realmente los corales?", "tipo": "test", "opciones": ["Plantas verdes", "Rocas de colores", "Animales vivos", "Arena fina"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Luna está preocupada?", "tipo": "test", "opciones": ["Por el ruido", "Por el calentamiento del agua", "Porque no tiene comida", "Por los otros peces"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué acción debemos evitar para proteger el mar?", "tipo": "test", "opciones": ["Nadar", "Usar plástico y contaminar", "Mirar los peces", "Caminar por la playa"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuándo brilla mágicamente el arrecife?", "tipo": "test", "opciones": ["Al mediodía", "Por la tarde", "Por la noche bajo la luna", "Solo en invierno"], "correctaIdx": 2 },
+      { "enunciado": "¿Quiénes trabajan juntos para mantener el arrecife sano?", "tipo": "test", "opciones": ["Los buceadores", "Todos los peces", "Las ballenas", "Los niños"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué parte del planeta representa el océano según el texto?", "tipo": "test", "opciones": ["Los pulmones", "El corazón", "El cerebro", "La piel"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué le da el arrecife al planeta según Luna?", "tipo": "test", "opciones": ["Sal", "Oxígeno", "Arena", "Plástico"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué desea Luna que hagan los niños?", "tipo": "test", "opciones": ["Que aprendan a nadar", "Que cuiden las playas y el mar", "Que pesquen mucho", "Que busquen tesoros"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El ciclo del agua de Clarita",
+    "tema": "naturaleza",
+    "texto": "Gota Clarita vivía en el inmenso océano azul rodeada de muchas amigas. Un día de verano, el sol calentó el agua con tanta fuerza que Gota Clarita empezó a sentirse muy ligera. De repente, se convirtió en vapor y subió volando hacia el cielo. Este viaje hacia arriba se llama evaporación. En las alturas, el aire era más frío. Gota Clarita se juntó con otras gotas para formar una nube blanca y esponjosa. Cuando la nube se puso pesada y gris, Clarita cayó en forma de lluvia sobre una montaña alta. Se deslizó por las rocas, formando un pequeño arroyo que cantaba entre las piedras. El agua refrescaba a los ciervos y regaba los pinos verdes del bosque. Clarita se sentía feliz porque sabía que su viaje era vital para la vida. Finalmente, el arroyo llegó a un río ancho que la llevó de vuelta al océano. Allí descansó, sabiendo que pronto el sol la llamaría de nuevo para repetir su aventura. El ciclo del agua nunca se detiene y es un regalo precioso de la naturaleza que todos debemos cuidar. Sin el agua, las flores no abrirían y los animales tendrían sed. Protege siempre nuestros ríos con mucho amor.",
+    "glosario": [
+      { "palabra": "Evaporación", "definición": "Proceso por el cual el agua se calienta y sube al cielo como vapor invisible." },
+      { "palabra": "Arroyo", "definición": "Un río pequeño que suele nacer en las montañas y tiene poca profundidad." },
+      { "palabra": "Vital", "definición": "Algo que es totalmente necesario e importante para poder vivir y estar sano." },
+      { "palabra": "Ciclo", "definición": "Serie de pasos que se repiten una y otra vez en el mismo orden." },
+      { "palabra": "Naturaleza", "definición": "Todo lo que forma el mundo físico y que no ha sido creado por el hombre." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde vivía Gota Clarita al comenzar el relato?", "tipo": "test", "opciones": ["En un río ancho", "En el inmenso océano", "En una nube gris", "En una montaña alta"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llama el viaje del agua hacia el cielo?", "tipo": "test", "opciones": ["Inundación", "Evaporación", "Navegación", "Respiración"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué color tenía la nube cuando se puso pesada?", "tipo": "test", "opciones": ["Blanca", "Azul", "Gris", "Naranja"], "correctaIdx": 2 },
+      { "enunciado": "¿A qué animales refrescaba el agua del arroyo?", "tipo": "test", "opciones": ["A los leones", "A los elefantes", "A los ciervos", "A los tigres"], "correctaIdx": 2 },
+      { "enunciado": "¿Hacia dónde llevó el río ancho a Gota Clarita?", "tipo": "test", "opciones": ["A la montaña", "De vuelta al océano", "Hacia el sol", "Al hormiguero"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Clarita subió al cielo según el texto?", "tipo": "test", "opciones": ["Porque quería volar", "Porque el sol la calentó mucho", "Porque tenía frío", "Porque la empujó un pez"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué sentiría Clarita si el ciclo del agua se detuviera?", "tipo": "test", "opciones": ["Alegría", "Tristeza por la vida", "Hambre", "Miedo al sol"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué forma el conjunto de gotas en el cielo frío?", "tipo": "test", "opciones": ["Un rayo", "Una nube", "Un río", "Un árbol"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo describe el texto al ciclo del agua?", "tipo": "test", "opciones": ["Como algo peligroso", "Como un regalo precioso", "Como una pérdida de tiempo", "Como algo aburrido"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué pasaría con las flores sin el viaje de Clarita?", "tipo": "test", "opciones": ["Cerrarían", "No abrirían", "Serían más rojas", "Crecerían solas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Roble, el guardián del aire",
+    "tema": "naturaleza",
+    "texto": "En lo alto de la colina, un viejo árbol llamado Roble extendía sus ramas hacia el sol. Durante el día, Roble realizaba una tarea mágica llamada fotosíntesis. Usaba la luz solar para convertir el aire malo en oxígeno puro para todos. Bajo su gran copa, las plantas pequeñas crecían protegidas del calor intenso. Las ardillas subían por su tronco rugoso buscando agua y refugio en sus huecos. Roble sabía que sus raíces eran como manos que sujetaban la tierra para que no se escapara con la lluvia. Él era un verdadero guardián del medio ambiente, siempre trabajando en silencio. Los niños que subían a la colina aprendían que cuidar los bosques es cuidarnos a nosotros mismos. Sin los árboles, el aire no sería tan fresco ni tan limpio para respirar hoy. Roble se sentía feliz de ver cómo la vida florecía a su alrededor gracias a su esfuerzo diario. Sembrar esperanza es plantar un árbol y cuidarlo con mucho amor durante toda la vida.",
+    "glosario": [
+      { "palabra": "Fotosíntesis", "definición": "Proceso por el cual las plantas usan la luz del sol para fabricar su alimento y darnos oxígeno." },
+      { "palabra": "Oxígeno", "definición": "Gas invisible que hay en el aire y que los seres vivos necesitamos para respirar." },
+      { "palabra": "Rugoso", "definición": "Que tiene arrugas o partes desiguales y no es suave al tacto." },
+      { "palabra": "Guardián", "definición": "Persona o cosa que vigila y cuida algo con mucha atención y esmero." },
+      { "palabra": "Ambiente", "definición": "Todo lo que nos rodea, incluyendo el aire, el agua, el suelo y los seres vivos." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde se encontraba el árbol Roble?", "tipo": "test", "opciones": ["En la playa", "En un río", "En lo alto de la colina", "En el desierto"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se llama la tarea mágica que hace Roble?", "tipo": "test", "opciones": ["Respiración", "Fotosíntesis", "Evaporación", "Navegación"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué convierte el aire malo en oxígeno puro?", "tipo": "test", "opciones": ["La lluvia", "La luz solar y el árbol", "Las ardillas", "La tierra"], "correctaIdx": 1 },
+      { "enunciado": "¿Para qué sirven las raíces de Roble según el texto?", "tipo": "test", "opciones": ["Para caminar", "Para sujetar la tierra", "Para dar sombra", "Para fabricar nidos"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué se dice que los árboles son guardianes?", "tipo": "test", "opciones": ["Porque tienen espinas", "Porque limpian el ambiente", "Porque son muy viejos", "Porque hablan con los animales"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué ocurriría si no existiera la fotosíntesis?", "tipo": "test", "opciones": ["Habría más sol", "Las plantas no tendrían alimento", "Los pájaros volarían más", "El agua sería más dulce"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué protege la sombra de Roble a las plantas pequeñas?", "tipo": "test", "opciones": ["De la lluvia", "Del calor intenso", "De las ardillas", "Del viento"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué cuidar los bosques es cuidarnos a nosotros?", "tipo": "test", "opciones": ["Porque nos dan madera", "Porque fabrican el aire que respiramos", "Porque son bonitos", "Porque tienen raíces"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué significa 'sembrar esperanza' en esta historia?", "tipo": "test", "opciones": ["Plantar un árbol", "Buscar comida", "Subir a la colina", "Hacer fotosíntesis"], "correctaIdx": 0 },
+      { "enunciado": "¿Cómo es el tronco de Roble?", "tipo": "test", "opciones": ["Suave", "Rugoso", "Azul", "Pequeño"], "correctaIdx": 1 }
+    ]
+  }
+]

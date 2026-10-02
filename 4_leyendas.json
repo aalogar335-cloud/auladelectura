@@ -1,0 +1,1592 @@
+[
+    {
+        "titulo": "El Mensajero de los Pensamientos",
+        "tema": "leyendas",
+        "texto": "Hace mucho tiempo, cuando los dioses mayas terminaron de crear todas las cosas de la Tierra, se dieron cuenta de que les faltaba algo muy importante. Habían creado los árboles, las montañas, los mares y los animales grandes y pequeños. Sin embargo, no tenían a nadie encargado de llevar los deseos y los pensamientos de un lugar a otro. Como ya no tenían barro ni maíz para hacer otro animal, decidieron usar su imaginación para crear algo especial. Tomaron una piedra de jade muy pequeña y, con mucha paciencia, comenzaron a tallar una flecha minúscula. Cuando terminaron, uno de los dioses sopló sobre la joya y, de repente, la pequeña flecha de piedra cobró vida propia. Ya no era un objeto inanimado, sino un ser vivo que brillaba bajo el sol. Así nació el colibrí, un pájaro tan ligero y veloz que casi no se puede ver cuando vuela entre las flores. Sus plumas no eran normales; tenían la propiedad de cambiar de color según la luz, pareciendo gotas de lluvia iridiscentes. Los dioses quedaron maravillados y le dieron una misión sagrada: ser el mensajero de los pensamientos más puros. El colibrí vuela de flor en flor recogiendo los buenos deseos de las personas para entregarlos a quienes los necesitan. Sin embargo, los hombres, al ver su belleza, intentaron atraparlo para adornarse con sus plumas. Los dioses se enojaron y advirtieron que aquel que se atreviera a encerrar a un colibrí en una jaula sería castigado, pues la libertad es su esencia. Por eso, nadie ha visto nunca a un colibrí cautivo; ellos mueren si pierden su derecho a volar por el mundo. Desde entonces, se dice que si ves un colibrí cerca de ti, es porque alguien te está enviando un pensamiento lleno de amor y alegría. Esta leyenda nos enseña que las cosas más pequeñas de la naturaleza pueden tener la misión más grande y que la libertad de los seres vivos es un tesoro que todos debemos proteger con respeto y gran admiración por su belleza frágil, única, brillante, eterna, libre, pura, mágica, veloz, tierna, noble y soberana.",
+        "glosario": [
+            {
+                "palabra": "Jade",
+                "definición": "Piedra preciosa de color verde muy valorada por las culturas antiguas."
+            },
+            {
+                "palabra": "Tallar",
+                "definición": "Dar forma a un objeto usando herramientas para quitar partes sobrantes."
+            },
+            {
+                "palabra": "Iridiscente",
+                "definición": "Que muestra colores diferentes cuando la luz le da desde distintos ángulos."
+            },
+            {
+                "palabra": "Inanimado",
+                "definición": "Que no tiene vida, como una piedra o un juguete."
+            },
+            {
+                "palabra": "Sagrada",
+                "definición": "Algo que merece un respeto especial por estar conectado con lo divino."
+            },
+            {
+                "palabra": "Esencia",
+                "definición": "Lo más importante de un ser, aquello que lo hace ser lo que es."
+            },
+            {
+                "palabra": "Cautivo",
+                "definición": "Que está encerrado o prisionero, sin libertad para moverse."
+            },
+            {
+                "palabra": "Deidad",
+                "definición": "Ser supremo o dios al que se le rinde culto."
+            },
+            {
+                "palabra": "Frágil",
+                "definición": "Que se puede romper o dañar con mucha facilidad."
+            },
+            {
+                "palabra": "Soberana",
+                "definición": "Que tiene el poder o la autoridad más alta sobre sí mismo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué material usaron los dioses para crear al colibrí?",
+                "tipo": "test",
+                "opciones": [
+                    "Barro cocido",
+                    "Granos de maíz",
+                    "Una piedra de jade",
+                    "Plumas de águila"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la misión sagrada que los dioses le dieron al colibrí?",
+                "tipo": "test",
+                "opciones": [
+                    "Cazar insectos",
+                    "Llevar pensamientos y deseos",
+                    "Cuidar los árboles",
+                    "Beber el néctar de todas las flores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ocurre si un humano encierra a un colibrí en una jaula?",
+                "tipo": "test",
+                "opciones": [
+                    "El colibrí canta mejor",
+                    "El humano recibe un premio",
+                    "El colibrí muere",
+                    "El colibrí cambia a color rojo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué los dioses no usaron barro o maíz para crear al colibrí?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque querían que fuera verde",
+                    "Porque ya no les quedaba material",
+                    "Porque el jade era más ligero",
+                    "Porque el barro se rompía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el hecho de que las plumas cambien de color?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el pájaro está enfermo",
+                    "Su origen mágico y su conexión con la luz",
+                    "Que tiene muchas plumas diferentes",
+                    "Que es un pájaro muy grande"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si ves un colibrí hoy en día, ¿qué significa según la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Que va a llover",
+                    "Que alguien piensa en ti con cariño",
+                    "Que tienes que atraparlo",
+                    "Que los dioses están enojados"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los dioses se enojaron con los hombres?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque los hombres no trabajaban",
+                    "Porque intentaron quitarle la libertad al colibrí",
+                    "Porque rompieron el jade",
+                    "Porque no hacían ofrendas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad del colibrí es la más importante para cumplir su misión?",
+                "tipo": "test",
+                "opciones": [
+                    "Su color verde",
+                    "Su tamaño pequeño",
+                    "Su ligereza y velocidad",
+                    "Su forma de flecha"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué valor humano se resalta al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "La obediencia",
+                    "El respeto a la libertad de los seres vivos",
+                    "La fuerza física",
+                    "La riqueza"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la intención principal de esta leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Explicar científicamente al pájaro",
+                    "Enseñar a tallar piedras",
+                    "Explicar el origen del colibrí y dar una lección moral",
+                    "Contar la historia de los mayas"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián de las Nieves Eternas",
+        "tema": "leyendas",
+        "texto": "En la parte más alta de la Cordillera de los Sueños, donde el cielo se une con la tierra, vive un anciano de barbas blancas como la nieve llamado el Guardián de los Hielos. Cuenta la leyenda que hace cientos de años, un pequeño pueblo situado en el valle comenzó a sufrir una sequía terrible. Los ríos se secaron, las plantas se marchitaron y los animales buscaban agua sin descanso. Los habitantes, desesperados, enviaron a una niña valiente llamada Amaya a buscar al Guardián para pedirle ayuda. Amaya caminó durante tres días y tres noches, subiendo por senderos peligrosos y soportando el frío intenso del invierno. Al llegar a la cumbre, encontró una cueva de cristal donde el anciano meditaba en silencio. Al ver a la niña, el Guardián se sorprendió por su valor. Amaya no pidió oro ni riquezas, sino que pidió agua para que su pueblo pudiera sobrevivir y prosperar. El anciano la escuchó con atención y le hizo una advertencia muy clara: 'Te daré el agua que pides, pero los hombres deben prometer que cuidarán la montaña y no ensuciarán sus fuentes sagradas'. Amaya aceptó el trato en nombre de todos. Entonces, el Guardián golpeó el suelo con su bastón de madera de pino y un enorme glaciar comenzó a derretirse suavemente, formando un río de agua cristalina que bajó por la montaña hasta el valle. Al regresar, Amaya explicó la promesa a sus vecinos. El pueblo recuperó su vida y el verde regresó a los campos. Sin embargo, la leyenda dice que si el hombre olvida su promesa y maltrata la naturaleza, el Guardián volverá a congelar los ríos para siempre. Por eso, en esa región, los niños aprenden desde pequeños a respetar cada gota de agua como si fuera un diamante. Esta historia nos recuerda que la generosidad de la Tierra no es un regalo eterno, sino un tesoro que debemos cuidar con responsabilidad, paciencia, amor, gratitud, esfuerzo, unión, cuidado, lealtad, firmeza, alegría, devoción, respeto, justicia, bondad, humildad, valentía, honor, sabiduría, asombro, paz, inteligencia, destreza, voluntad, orden, conciencia, fe, virtud, calma, empeño, esmero, cariño y sinceridad.",
+        "glosario": [
+            {
+                "palabra": "Cordillera",
+                "definición": "Serie de montañas que están unidas y alineadas entre sí."
+            },
+            {
+                "palabra": "Sequía",
+                "definición": "Largo periodo de tiempo sin lluvia que causa falta de agua."
+            },
+            {
+                "palabra": "Cumbre",
+                "definición": "La parte más alta de una montaña o terreno elevado."
+            },
+            {
+                "palabra": "Glaciar",
+                "definición": "Enorme masa de hielo acumulada en las zonas altas de las montañas."
+            },
+            {
+                "palabra": "Prosperar",
+                "definición": "Mejorar una situación, crecer o tener éxito en algo."
+            },
+            {
+                "palabra": "Advertencia",
+                "definición": "Aviso que se da para que alguien tenga cuidado o sepa algo importante."
+            },
+            {
+                "palabra": "Cristalina",
+                "definición": "Agua que es tan clara y pura que se puede ver a través de ella."
+            },
+            {
+                "palabra": "Generosidad",
+                "definición": "Valor de dar o compartir con los demás sin esperar nada a cambio."
+            },
+            {
+                "palabra": "Responsabilidad",
+                "definición": "Cumplir con las obligaciones y cuidar las cosas que nos corresponden."
+            },
+            {
+                "palabra": "Meditaba",
+                "definición": "Pensar profundamente y en silencio para relajar la mente o reflexionar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba la niña que fue a buscar al Guardián?",
+                "tipo": "test",
+                "opciones": [
+                    "Amaya",
+                    "Elena",
+                    "Sofía",
+                    "Lucía"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué instrumento usó el Guardián para derretir el glaciar?",
+                "tipo": "test",
+                "opciones": [
+                    "Una espada de plata",
+                    "Un bastón de madera de pino",
+                    "Un libro de hechizos",
+                    "Una flauta mágica"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pidió Amaya al anciano para su pueblo?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de oro",
+                    "Comida para un año",
+                    "Agua para sobrevivir",
+                    "Ropa de invierno"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el Guardián se sorprendió al ver a Amaya?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque ella era muy alta",
+                    "Por el valor que demostró al subir la montaña sola",
+                    "Porque llevaba un regalo",
+                    "Porque ella sabía su nombre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la condición principal para que el agua siguiera corriendo?",
+                "tipo": "test",
+                "opciones": [
+                    "Construir una estatua",
+                    "Pagar con oro cada mes",
+                    "Cuidar la montaña y no ensuciar el agua",
+                    "Subir a visitarlo cada día"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué simboliza el anciano de barbas blancas en la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Un simple viajero",
+                    "El espíritu protector de la naturaleza y el clima",
+                    "Un habitante del pueblo",
+                    "Un científico"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podría pasar si los habitantes ensucian los ríos hoy en día?",
+                "tipo": "test",
+                "opciones": [
+                    "El agua se volvería dulce",
+                    "El Guardián congelaría el agua de nuevo",
+                    "Llovería más fuerte",
+                    "Nada, es solo un cuento"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió el valle después de la visita de Amaya?",
+                "tipo": "test",
+                "opciones": [
+                    "Se llenó de nieve",
+                    "Recuperó su vida y el color verde",
+                    "Se volvió un desierto",
+                    "Se convirtió en una ciudad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es importante para los niños de la región respetar cada gota de agua?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque es cara",
+                    "Porque conocen la promesa hecha al Guardián",
+                    "Porque no saben nadar",
+                    "Porque el agua está fría"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña esta leyenda sobre nuestra relación con el planeta?",
+                "tipo": "test",
+                "opciones": [
+                    "Que podemos usar los recursos como queramos",
+                    "Que la naturaleza nos da recursos que debemos cuidar por contrato moral",
+                    "Que no debemos subir a las montañas",
+                    "Que el invierno es mejor que el verano"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Gigante de los Siete Colores",
+        "tema": "leyendas",
+        "texto": "Hace muchos siglos, en un valle rodeado por montañas púrpuras, vivía un gigante llamado Galdor. A diferencia de otros gigantes, Galdor era extremadamente tímido y poseía una piel blanca como la cal. Su mayor deseo era parecerse a las flores y aves que habitaban su hogar. Cada mañana, Galdor observaba con envidia el plumaje del colibrí y los pétalos de las rosas. Un día, una anciana sabia se le acercó y le susurró un secreto: el Arcoíris buscaba un guardián para sus colores. Galdor, emocionado, subió a la cumbre más alta durante una tormenta de verano. Cuando el sol finalmente atravesó las nubes, el Arcoíris descendió. El gigante estiró sus enormes brazos y, con una delicadeza asombrosa, tocó la franja roja. Al instante, su mano derecha se tiñó de carmesí. Luego, tocó el azul, y su torso brilló como el océano profundo. Así, uno a uno, fue atrapando los siete colores hasta que su piel fue un lienzo vibrante. Sin embargo, el Arcoíris, ahora pálido, comenzó a desaparecer del cielo. Galdor comprendió que su belleza era egoísta si el mundo perdía su luz. Con tristeza pero gran generosidad, Galdor sopló sobre su propia piel. Los colores volaron de regreso al firmamento, más brillantes que nunca. Como recompensa por su sacrificio, los dioses permitieron que el gigante conservara un pequeño brillo multicolor en sus ojos. Desde entonces, se dice que cuando vemos un arcoíris doble, es porque Galdor está saludando desde las alturas. Esta leyenda nos enseña que la verdadera belleza no es la que guardamos para nosotros, sino la que compartimos para que todos puedan disfrutarla. Los habitantes del valle nunca olvidaron la lección de Galdor y, desde aquel día, cuidan los colores de la naturaleza con especial esmero. Galdor ya no es tímido; ahora es el protector silencioso de la alegría visual de nuestro mundo, recordándonos que el desprendimiento es la forma más pura de amor hacia la vida y hacia los demás seres que nos rodean. Gracias a él, el mundo brilla con luz propia hoy y siempre bajo el manto de la esperanza más radiante y hermosa.",
+        "glosario": [
+            {
+                "palabra": "Tímido",
+                "definición": "Persona a la que le da vergüenza hablar con los demás o ser el centro de atención."
+            },
+            {
+                "palabra": "Cal",
+                "definición": "Sustancia blanca y muy clara que se usa para pintar paredes."
+            },
+            {
+                "palabra": "Envidia",
+                "definición": "Sentimiento de tristeza o enojo por desear algo que otra persona tiene."
+            },
+            {
+                "palabra": "Cumbre",
+                "definición": "La parte más alta de una montaña."
+            },
+            {
+                "palabra": "Tormenta",
+                "definición": "Fenómeno del cielo con lluvia fuerte, viento y a veces rayos."
+            },
+            {
+                "palabra": "Carmesí",
+                "definición": "Un color rojo muy intenso y brillante."
+            },
+            {
+                "palabra": "Lienzo",
+                "definición": "Tela preparada para pintar sobre ella una obra de arte."
+            },
+            {
+                "palabra": "Vibrante",
+                "definición": "Algo que tiene mucha energía, fuerza o colores muy llamativos."
+            },
+            {
+                "palabra": "Sacrificio",
+                "definición": "Esfuerzo grande o renuncia a algo que queremos para ayudar a otros."
+            },
+            {
+                "palabra": "Desprendimiento",
+                "definición": "Valor de no ser egoísta y estar dispuesto a dar lo que uno tiene."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el gigante de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Galdor",
+                    "Arcoíris",
+                    "Carmesí",
+                    "Púrpura"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿De qué color era la piel de Galdor al principio del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Azul océano",
+                    "Multicolor",
+                    "Blanca como la cal",
+                    "Verde como las hojas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué regalo le dieron los dioses a Galdor por su buena acción?",
+                "tipo": "test",
+                "opciones": [
+                    "Una montaña de oro",
+                    "Poder volar",
+                    "Un brillo multicolor en sus ojos",
+                    "Un jardín de rosas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Galdor quería tocar los colores del Arcoíris?",
+                "tipo": "test",
+                "opciones": [
+                    "Para destruirlos",
+                    "Para dejar de ser blanco y parecerse a la naturaleza",
+                    "Para esconderse de la anciana",
+                    "Para asustar a los pájaros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ocurrió con el cielo cuando Galdor atrapó todos los colores?",
+                "tipo": "test",
+                "opciones": [
+                    "Se puso a llover",
+                    "El Arcoíris se volvió pálido y empezó a desaparecer",
+                    "Salieron muchas estrellas",
+                    "Se hizo de noche de repente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la razón principal por la que Galdor decidió devolver los colores?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque le picaba la piel",
+                    "Porque los dioses se lo ordenaron",
+                    "Porque entendió que su deseo hacía que el mundo perdiera su luz",
+                    "Porque ya no le gustaban"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según la leyenda, ¿qué significa ver un arcoíris doble?",
+                "tipo": "test",
+                "opciones": [
+                    "Que va a caer granizo",
+                    "Que Galdor está saludando desde las alturas",
+                    "Que el gigante está llorando",
+                    "Que la anciana ha vuelto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad describe mejor a Galdor al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Egoísmo",
+                    "Generosidad",
+                    "Miedo",
+                    "Pereza"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña esta leyenda sobre la belleza?",
+                "tipo": "test",
+                "opciones": [
+                    "Que solo los gigantes pueden ser bellos",
+                    "Que es mejor ser blanco",
+                    "Que la verdadera belleza se comparte con los demás",
+                    "Que el arcoíris es peligroso"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que la anciana le contó el secreto a Galdor?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería engañarlo",
+                    "Porque sabía que él tenía un buen corazón y aprendería la lección",
+                    "Porque no le gustaban los gigantes",
+                    "Porque quería que el Arcoíris desapareciera"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Princesa de las Aguas",
+        "tema": "leyendas",
+        "texto": "En el corazón de la selva tropical, existía un lago que brillaba con una luz dorada cada vez que la luna estaba llena. Los ancianos contaban la leyenda de una princesa llamada Yara, quien tenía la voz más dulce de todo el reino. Yara amaba la naturaleza y pasaba horas conversando con los jaguares y las mariposas. Un año, una gran sombra cubrió la selva, apagando el color de las flores y silenciando el canto de las aves. El espíritu del bosque le reveló a Yara que la alegría de la selva estaba atrapada en el fondo del lago por un hechizo de tristeza. Para romperlo, alguien debía entregar lo más valioso que poseyera. Muchos guerreros ofrecieron sus lanzas de oro y joyas preciosas, pero el lago permanecía oscuro y gélido. Yara, comprendiendo que el oro no cura el alma, se acercó a la orilla. Miró su reflejo y decidió entregar su don más preciado: su voz. Al cantar su última melodía, las notas se transformaron en burbujas de luz que se hundieron en las profundidades. El lago comenzó a hervir de energía y, de repente, una explosión de colores devolvió la vida a cada rincón del bosque. Los jaguares volvieron a rugir y las flores se abrieron con más fuerza. Yara quedó en silencio para siempre, pero su sacrificio no fue en vano. Se dice que ahora ella se comunica a través del susurro de las hojas y el murmullo de los arroyos. Cada vez que escuchamos el viento silbar entre los árboles, es Yara contándonos historias de esperanza. La selva la nombró su eterna protectora, y su silencio se convirtió en el lenguaje de la paz. Esta leyenda nos recuerda que los sacrificios hechos por amor tienen un eco eterno que trasciende las palabras. Los niños de la selva aprenden a escuchar el silencio, sabiendo que en él reside la fuerza de una princesa que prefirió salvar su hogar antes que conservar su propia voz, enseñándonos el valor de la entrega incondicional y la importancia de cuidar todo aquello que nos rodea con una sonrisa pura y sincera.",
+        "glosario": [
+            {
+                "palabra": "Tropical",
+                "definición": "Lugar con clima muy caluroso y muchas plantas y lluvia."
+            },
+            {
+                "palabra": "Leyenda",
+                "definición": "Historia antigua que se cuenta de padres a hijos y mezcla realidad con fantasía."
+            },
+            {
+                "palabra": "Gélido",
+                "definición": "Algo que está sumamente frío, como el hielo."
+            },
+            {
+                "palabra": "Alma",
+                "definición": "La parte interior de las personas donde residen los sentimientos."
+            },
+            {
+                "palabra": "Don",
+                "definición": "Habilidad o cualidad especial que tiene una persona de nacimiento."
+            },
+            {
+                "palabra": "Preciado",
+                "definición": "Algo que tiene mucho valor o es muy querido."
+            },
+            {
+                "palabra": "Melodía",
+                "definición": "Sucesión de sonidos que forman una canción agradable."
+            },
+            {
+                "palabra": "Trasciende",
+                "definición": "Algo que va más allá de lo normal o que dura mucho tiempo."
+            },
+            {
+                "palabra": "Incondicional",
+                "definición": "Un tipo de amor o entrega que no pone condiciones ni límites."
+            },
+            {
+                "palabra": "Murmullo",
+                "definición": "Sonido suave y continuado que hace el agua o el viento."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba la princesa protagonista?",
+                "tipo": "test",
+                "opciones": [
+                    "Luna",
+                    "Yara",
+                    "Selva",
+                    "Rosa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cubrió la selva silenciando el canto de las aves?",
+                "tipo": "test",
+                "opciones": [
+                    "Una gran tormenta",
+                    "Una lluvia de oro",
+                    "Una gran sombra",
+                    "Un manto de nieve"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué entregó Yara para romper el hechizo?",
+                "tipo": "test",
+                "opciones": [
+                    "Sus joyas",
+                    "Su lanza",
+                    "Su voz",
+                    "Sus jaguares"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué las lanzas de oro de los guerreros no funcionaron?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque pesaban mucho",
+                    "Porque el oro no podía curar un hechizo de tristeza del alma",
+                    "Porque el lago estaba congelado",
+                    "Porque los guerreros no sabían nadar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simbolizan las burbujas de luz en el fondo del lago?",
+                "tipo": "test",
+                "opciones": [
+                    "Peces brillantes",
+                    "La música y la alegría de Yara rompiendo la tristeza",
+                    "Tesoros perdidos",
+                    "Aire para respirar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Según el texto, ¿cómo podemos escuchar a Yara hoy en día?",
+                "tipo": "test",
+                "opciones": [
+                    "En la televisión",
+                    "A través del susurro de las hojas y el murmullo de los arroyos",
+                    "Gritando muy fuerte",
+                    "Leyendo libros de historia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la lección principal de esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no hay que hablar con jaguares",
+                    "Que el silencio es malo",
+                    "Que los sacrificios hechos por amor duran para siempre",
+                    "Que el oro es lo más importante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Yara decidió sacrificar su don más preciado?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba cansada de cantar",
+                    "Por su amor incondicional hacia su hogar y la naturaleza",
+                    "Porque quería ser famosa",
+                    "Porque el espíritu se lo ordenó a la fuerza"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ocurrió en la selva inmediatamente después del sacrificio de Yara?",
+                "tipo": "test",
+                "opciones": [
+                    "Se incendió todo",
+                    "La vida y los colores regresaron a cada rincón",
+                    "Se hizo de noche para siempre",
+                    "Yara recuperó su voz"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el silencio de Yara se convirtió en el 'lenguaje de la paz'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que nadie volvió a hablar en la selva",
+                    "Que su gesto trajo tranquilidad y armonía al bosque",
+                    "Que el bosque se volvió un desierto",
+                    "Que los animales se asustaron"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Conejo en la Luna",
+        "tema": "leyendas",
+        "texto": "Hace muchos siglos, el gran dios Quetzalcóatl decidió bajar a la Tierra para conocer de cerca las maravillas del mundo que él mismo ayudó a crear. Para no asustar a nadie, tomó la forma de un hombre sencillo y comenzó su largo viaje. Caminó por valles fértiles, cruzó ríos caudalosos y subió montañas que tocaban las nubes. Sin embargo, al final del primer día, el dios se sentía agotado y con mucha hambre. El sol se ocultaba tras el horizonte y las primeras estrellas comenzaban a parpadear en el cielo oscuro. Quetzalcóatl se sentó a la orilla del camino para descansar un momento. Cerca de allí, un pequeño conejo gris estaba cenando zacate muy tranquilamente. El dios, con voz cansada, le preguntó qué estaba haciendo. El conejo respondió que comía un poco de hierba para fortalecerse antes de dormir. Quetzalcóatl admitió que él también tenía hambre, pero que no sabía qué comer siendo un extraño en esas tierras. Entonces, el pequeño animal, demostrando una bondad infinita y una gran valentía, se acercó al viajero. El conejo sabía que no tenía nada más que ofrecer excepto su propia vida. —Señor —dijo el pequeño animal con humildad—, si tienes tanta hambre, cómeme a mí. Soy pequeño, pero serviré para que puedas seguir tu camino y cumplir tus tareas divinas. El dios se conmovió profundamente ante tal gesto de sacrificio puro. Con mucho cuidado, tomó al conejo entre sus manos y lo elevó hacia lo más alto del firmamento. Lo subió tanto que la figura del conejo quedó estampada para siempre contra la cara blanca de la luna. Quetzalcóatl le dijo: —Tal vez seas un animal pequeño, pero a partir de hoy, todos los hombres de la Tierra recordarán tu nobleza. Al bajarlo suavemente, el conejo vio su silueta brillando en el cielo. Desde entonces, cuando hay luna llena, podemos ver claramente la imagen del conejo que nos recuerda que la generosidad es la luz que ilumina la oscuridad más profunda del alma humana. Hoy celebramos ese valioso regalo eterno que brilla sobre nuestras cabezas cada noche clara bajo el inmenso manto estelar.",
+        "glosario": [
+            {
+                "palabra": "Caudalosos",
+                "definición": "Ríos que llevan mucha agua y con mucha fuerza."
+            },
+            {
+                "palabra": "Zacate",
+                "definición": "Hierba o pasto que sirve de alimento para algunos animales."
+            },
+            {
+                "palabra": "Humildad",
+                "definición": "Valor de conocer las propias limitaciones y actuar sin orgullo."
+            },
+            {
+                "palabra": "Conmovió",
+                "definición": "Provocar una emoción fuerte o un sentimiento de ternura."
+            },
+            {
+                "palabra": "Firmamento",
+                "definición": "El cielo donde se ven los planetas y las estrellas."
+            },
+            {
+                "palabra": "Estampada",
+                "definición": "Algo que queda marcado o impreso de forma fija en una superficie."
+            },
+            {
+                "palabra": "Nobleza",
+                "definición": "Cualidad de una persona o animal que actúa con bondad y buenos sentimientos."
+            },
+            {
+                "palabra": "Sacrificio",
+                "definición": "Esfuerzo extraordinario que se hace por amor o para ayudar a otros."
+            },
+            {
+                "palabra": "Generosidad",
+                "definición": "Hábito de dar o compartir con los demás sin esperar nada a cambio."
+            },
+            {
+                "palabra": "Inmenso",
+                "definición": "Algo tan grande que no se puede medir o que parece no tener fin."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué forma tomó el dios Quetzalcóatl para bajar a la Tierra?",
+                "tipo": "test",
+                "opciones": [
+                    "Un guerrero",
+                    "Un hombre sencillo",
+                    "Un águila real",
+                    "Una nube"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué estaba comiendo el conejo cuando el dios lo encontró?",
+                "tipo": "test",
+                "opciones": [
+                    "Zanahorias",
+                    "Zacate",
+                    "Frutas silvestres",
+                    "Maíz"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde quedó marcada la figura del conejo según la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "En las nubes",
+                    "En las estrellas",
+                    "En la cara de la luna",
+                    "En una montaña"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Quetzalcóatl decidió disfrazarse de hombre?",
+                "tipo": "test",
+                "opciones": [
+                    "Para ocultarse de otros dioses",
+                    "Para no asustar a los seres de la Tierra",
+                    "Porque había perdido sus poderes",
+                    "Para sentir el frío"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra el conejo al ofrecerse como alimento?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no le gustaba el zacate",
+                    "Que era muy miedoso",
+                    "Un amor y generosidad hacia los demás por encima de su vida",
+                    "Que quería vivir en la luna"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se sintió el dios tras la propuesta del conejo?",
+                "tipo": "test",
+                "opciones": [
+                    "Enojado por la falta de respeto",
+                    "Profundamente conmovido por su nobleza",
+                    "Confundido por su tamaño",
+                    "Indiferente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el dios elevó al conejo hasta la luna?",
+                "tipo": "test",
+                "opciones": [
+                    "Para castigarlo",
+                    "Para que todos los humanos recordaran su gran gesto para siempre",
+                    "Para que pudiera comer mejor",
+                    "Porque el conejo se lo pidió"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el conejo viera su silueta al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se había convertido en un fantasma",
+                    "Que su sacrificio fue reconocido y ahora es eterno",
+                    "Que tenía mucha luz propia",
+                    "Que estaba soñando"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Hay que viajar de noche",
+                    "La importancia de la dieta de los conejos",
+                    "Que la bondad y el sacrificio desinteresado son valores admirables",
+                    "Que los dioses siempre tienen hambre"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué esta historia es una leyenda y no un texto científico?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque explica la luna usando mitos y magia en lugar de datos astronómicos",
+                    "Porque es muy corta",
+                    "Porque habla de animales",
+                    "Porque no tiene fotos reales"
+                ],
+                "correctaIdx": 0
+            }
+        ]
+    },
+    {
+        "titulo": "La Gran Ceiba Sagrada",
+        "tema": "leyendas",
+        "texto": "En el amanecer de los tiempos, los dioses antiguos decidieron plantar un árbol que sirviera como puente entre los diferentes mundos. Así nació la Gran Ceiba, un árbol majestuoso cuyas raíces penetraban en el inframundo, su tronco habitaba el mundo de los hombres y sus ramas se extendían hasta tocar el reino celestial. Al principio, la selva era un lugar silencioso porque los seres vivos no comprendían la importancia de la unión. Un joven colibrí, intrigado por la altura del gigante verde, decidió volar hacia la cima para descubrir qué había más allá de las hojas. El viaje fue arduo, pues el viento soplaba con fuerza y las tormentas intentaban desviar su rumbo. Tras mucho esfuerzo, el ave llegó a la rama más alta y allí encontró una flor de color carmesí que guardaba el rocío de la sabiduría. Al beber de ella, el colibrí entendió que la Ceiba no era solo madera y savia, sino el pilar que sostenía el equilibrio del universo entero. Bajó rápidamente para contarle a los demás animales que debían proteger el árbol, pues si sus raíces se debilitaban, el mundo subterráneo se hundiría; y si sus ramas se secaban, el cielo se desplomaría sobre sus cabezas. Los jaguares prometieron cuidar el tronco, las serpientes vigilarían las raíces y las aves limpiarían las hojas. La leyenda cuenta que, gracias a esa promesa de unidad, la selva se volvió eterna y próspera. Los mayas aprendieron a respetar la Ceiba como un ser sagrado que nos enseña que todos estamos conectados por hilos invisibles de vida. Cada vez que alguien siembra una semilla, el espíritu del bosque y los guardianes antiguos celebran la continuidad de la existencia. Por eso, incluso hoy, los sabios nos piden mirar hacia arriba y agradecer la sombra protectora que nos regala este abuelo de madera, recordándonos que la fuerza de una comunidad reside en su capacidad para cuidar sus raíces mientras se atreve a soñar con alcanzar las estrellas más brillantes y lejanas. Este árbol es el corazón de nuestra cultura ancestral que florece con orgullo y paz para el bienestar general.",
+        "glosario": [
+            {
+                "palabra": "Inframundo",
+                "definición": "En las leyendas antiguas, el mundo que se encuentra debajo de la tierra."
+            },
+            {
+                "palabra": "Majestuoso",
+                "definición": "Algo que tiene mucha elegancia, grandeza y belleza."
+            },
+            {
+                "palabra": "Celestial",
+                "definición": "Perteneciente o relativo al cielo o a los dioses."
+            },
+            {
+                "palabra": "Arduo",
+                "definición": "Un trabajo o camino que es muy difícil y requiere mucho esfuerzo."
+            },
+            {
+                "palabra": "Carmesí",
+                "definición": "Color rojo intenso, parecido al de la sangre o algunas flores."
+            },
+            {
+                "palabra": "Savia",
+                "definición": "Líquido que circula por el interior de las plantas para alimentarlas."
+            },
+            {
+                "palabra": "Equilibrio",
+                "definición": "Estado en el que todas las partes se mantienen estables y sin caerse."
+            },
+            {
+                "palabra": "Ancestral",
+                "definición": "Algo que viene de los antepasados o de tiempos muy antiguos."
+            },
+            {
+                "palabra": "Desplomaría",
+                "definición": "Caer con fuerza desde una altura considerable."
+            },
+            {
+                "palabra": "Próspera",
+                "definición": "Situación en la que algo crece con salud, riqueza y éxito."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué partes del universo conecta la Gran Ceiba?",
+                "tipo": "test",
+                "opciones": [
+                    "Dos montañas",
+                    "El inframundo, el mundo humano y el cielo",
+                    "La selva con el mar",
+                    "La noche y el día"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién decidió volar a la cima del árbol para investigar?",
+                "tipo": "test",
+                "opciones": [
+                    "Un jaguar",
+                    "Un joven colibrí",
+                    "Una serpiente",
+                    "Un dios antiguo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animal prometió vigilar las raíces de la Ceiba?",
+                "tipo": "test",
+                "opciones": [
+                    "Las aves",
+                    "Los jaguares",
+                    "Las serpientes",
+                    "Los colibríes"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el colibrí decidió volar tan alto?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía hambre",
+                    "Por curiosidad sobre lo que había más allá de las hojas",
+                    "Para escapar de un cazador",
+                    "Porque buscaba su nido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué descubrió el colibrí al beber de la flor carmesí?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el néctar era dulce",
+                    "Que la Ceiba era el pilar que sostenía el equilibrio del universo",
+                    "Que podía volar más rápido",
+                    "Que el árbol estaba enfermo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza que los animales se repartieran las tareas de cuidado?",
+                "tipo": "test",
+                "opciones": [
+                    "Que estaban aburridos",
+                    "La importancia de la unión y el trabajo en equipo para sobrevivir",
+                    "Que tenían miedo de los dioses",
+                    "Que no se llevaban bien entre ellos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa la Ceiba para la cultura maya según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Solo una fuente de madera",
+                    "Un ser sagrado que representa la conexión de toda la vida",
+                    "Un obstáculo para ver el sol",
+                    "Un lugar para esconderse"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ocurriría si las ramas de la Ceiba se secaran?",
+                "tipo": "test",
+                "opciones": [
+                    "Llovería más",
+                    "El cielo se desplomaría",
+                    "Los animales se irían",
+                    "Nacerían nuevas flores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿A qué se refiere el autor al llamar al árbol 'abuelo de madera'?",
+                "tipo": "test",
+                "opciones": [
+                    "A que tiene barbas",
+                    "A su antigüedad y a la sabiduría que representa para el bosque",
+                    "A que está muy débil",
+                    "A que es pariente del colibrí"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje final sobre la fuerza de una comunidad?",
+                "tipo": "test",
+                "opciones": [
+                    "Depende de cuánto dinero tengan",
+                    "Reside en cuidar lo importante (las raíces) mientras se tienen grandes sueños",
+                    "Solo importa si son muchos",
+                    "Es mejor trabajar solo"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Leyenda de los Colores del Colibrí",
+        "tema": "leyendas",
+        "texto": "Cuenta una antigua leyenda que en el principio del mundo, todas las aves tenían plumas grises. No existía el rojo de las rosas ni el azul del cielo en sus alas. En ese tiempo vivía un pequeño pájaro llamado Kili, que soñaba con ver el mundo lleno de alegría visual. Kili decidió viajar hasta el palacio del Sol para pedirle un poco de su luz. El camino fue muy difícil y peligroso. Kili tuvo que cruzar desiertos inmensos donde el calor era sofocante y tormentas que amenazaban con derribarlo. Sin embargo, su determinación era más fuerte que su miedo. Al llegar frente al astro rey, el Sol quedó impresionado por la valentía de una criatura tan pequeña. Como premio, le permitió bañarse en un arcoíris mágico que nacía de una cascada solar. Cuando Kili sumergió sus alas en el color rojo, sintió el calor del fuego; al tocar el verde, sintió la frescura del bosque. Al regresar a la selva, los demás animales no podían creer lo que veían. Kili ya no era gris, sino que brillaba con todos los tonos imaginables. Para que todos pudieran compartir esa belleza, Kili voló sobre las flores y, con cada aleteo, les regalaba un poco de su color. Las mariposas también se acercaron y el pájaro, con gran generosidad, compartió sus tintes con ellas. Desde aquel día, el colibrí es el guardián de los colores de la naturaleza. Se dice que si ves a un colibrí cerca de una flor, está comprobando que el color siga siendo brillante y puro. Esta leyenda nos enseña que el esfuerzo personal y la valentía pueden transformar no solo nuestra vida, sino también la de todos los que nos rodean. La belleza más grande no es la que se guarda, sino la que se reparte con los demás para crear un mundo mejor y más feliz para todos los seres vivos del planeta Tierra, siempre bajo la mirada atenta del sol, quien observa complacido cómo su pequeño mensajero llena de vida cada rincón del campo, recordándonos que incluso el ser más pequeño puede lograr grandes hazañas mágicas.",
+        "glosario": [
+            {
+                "palabra": "Sofocante",
+                "definición": "Un calor muy fuerte que hace difícil respirar."
+            },
+            {
+                "palabra": "Astro",
+                "definición": "Cuerpo celeste que brilla en el cielo, como el Sol."
+            },
+            {
+                "palabra": "Determinación",
+                "definición": "Valor y firmeza para lograr un objetivo sin rendirse."
+            },
+            {
+                "palabra": "Sumergió",
+                "definición": "Introducir algo por completo dentro de un líquido."
+            },
+            {
+                "palabra": "Generosidad",
+                "definición": "Valor de compartir lo que tenemos con los demás."
+            },
+            {
+                "palabra": "Guardián",
+                "definición": "Persona o ser encargado de cuidar y proteger algo."
+            },
+            {
+                "palabra": "Aleteo",
+                "definición": "Movimiento rápido de las alas de un pájaro o insecto."
+            },
+            {
+                "palabra": "Imaginables",
+                "definición": "Cosas que podemos pensar o crear en nuestra mente."
+            },
+            {
+                "palabra": "Transformar",
+                "definición": "Cambiar la forma o el aspecto de algo."
+            },
+            {
+                "palabra": "Hazañas",
+                "definición": "Acciones heroicas o muy difíciles que alguien logra hacer."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué color tenían las aves al principio de los tiempos?",
+                "tipo": "test",
+                "opciones": [
+                    "Verdes",
+                    "Multicolores",
+                    "Grises",
+                    "Blancas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿A dónde viajó Kili para buscar luz?",
+                "tipo": "test",
+                "opciones": [
+                    "Al fondo del mar",
+                    "Al palacio del Sol",
+                    "A la Luna",
+                    "Al centro de la Tierra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde se bañó Kili para obtener sus colores?",
+                "tipo": "test",
+                "opciones": [
+                    "En un río",
+                    "En una cascada de agua",
+                    "En un arcoíris mágico",
+                    "En una nube"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el Sol decidió premiar a Kili?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era el pájaro más grande",
+                    "Por su valentía y esfuerzo a pesar de ser pequeño",
+                    "Porque le llevó un regalo",
+                    "Porque cantaba muy bien"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el color rojo en las alas del colibrí según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "El color de las flores",
+                    "El calor del fuego",
+                    "La sangre",
+                    "El atardecer"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué valor demuestra Kili al compartir sus colores con las flores y mariposas?",
+                "tipo": "test",
+                "opciones": [
+                    "Orgullo",
+                    "Valentía",
+                    "Generosidad",
+                    "Curiosidad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la misión actual del colibrí según la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Buscar comida",
+                    "Vigilar que los colores de la naturaleza sigan brillantes",
+                    "Dormir en las flores",
+                    "Viajar de nuevo al sol"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pasaría en el mundo si Kili no hubiera hecho el viaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría más flores",
+                    "Todo seguiría siendo gris y sin alegría visual",
+                    "Los pájaros serían más grandes",
+                    "No existiría el Sol"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los pájaros deben volar alto",
+                    "Que la verdadera belleza es la que se comparte",
+                    "Que el sol es peligroso",
+                    "Que las flores necesitan agua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña el viaje de Kili sobre nuestras metas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no debemos intentarlo si es peligroso",
+                    "Que el tamaño no importa si tienes determinación",
+                    "Que los desiertos son calurosos",
+                    "Que es mejor viajar solo"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Eco en la Montaña",
+        "tema": "leyendas",
+        "texto": "En lo más alto de los Pirineos, existe una montaña que parece hablar con voz propia. Los pastores de la zona cuentan que hace siglos vivía allí un gigante muy solitario llamado Urko. A pesar de su gran tamaño, Urko tenía un corazón tierno y amaba escuchar las risas de los niños que jugaban en el valle. Sin embargo, los humanos le temían por su apariencia y nadie se atrevía a subir a visitarlo. Un invierno especialmente crudo, una niña llamada Lucía se perdió mientras buscaba leña para su hogar. El frío era intenso y la nieve cubría todos los senderos conocidos. Urko, desde su cima, vio a la pequeña y sintió una gran compasión. No quería asustarla, así que decidió ayudarla de una forma ingeniosa. Cada vez que Lucía gritaba pidiendo auxilio, Urko repetía sus palabras con una fuerza asombrosa, dirigiendo el sonido hacia el pueblo para que los rescatistas supieran dónde buscar. ‘¡Ayuda!’, gritaba la niña, y la montaña respondía con un trueno: ‘¡Ayuda!’. Gracias a este fenómeno, los aldeanos encontraron a Lucía sana y salva antes de que cayera la noche. Cuando le preguntaron cómo se había mantenido con esperanza, ella explicó que la montaña parecía estar cuidándola y respondiendo a su voz. Los habitantes comprendieron entonces que el gigante no era un monstruo, sino un protector invisible. En agradecimiento, subieron comida y mantas a la entrada de su cueva. Aunque Urko nunca se dejó ver, decidió quedarse para siempre en las rocas para ayudar a cualquier viajero perdido. Hoy en día, cuando gritamos en la montaña y escuchamos el eco, es en realidad el gigante Urko que nos devuelve el saludo para recordarnos que nunca estamos solos en el camino. La leyenda del eco nos invita a mirar más allá de las apariencias y a reconocer la bondad que puede esconderse en los lugares más inesperados de nuestra hermosa y vasta naturaleza, celebrando la amistad entre gigantes y humanos, enseñándonos que la voz de un amigo sincero siempre encontrará el modo de cruzar las cumbres más altas para brindarnos consuelo y guía en los momentos difíciles.",
+        "glosario": [
+            {
+                "palabra": "Crudo",
+                "definición": "En este contexto, un clima muy frío, duro y difícil de soportar."
+            },
+            {
+                "palabra": "Compasión",
+                "definición": "Sentimiento de pena por el sufrimiento de otros y deseo de ayudarlos."
+            },
+            {
+                "palabra": "Ingeniosa",
+                "definición": "Persona que tiene ideas inteligentes y creativas para resolver problemas."
+            },
+            {
+                "palabra": "Auxilio",
+                "definición": "Ayuda que se pide o se presta ante un peligro o necesidad urgente."
+            },
+            {
+                "palabra": "Rescatistas",
+                "definición": "Personas entrenadas para salvar a otras en situaciones de peligro."
+            },
+            {
+                "palabra": "Fenómeno",
+                "definición": "Hecho o suceso extraordinario que se puede observar en la naturaleza."
+            },
+            {
+                "palabra": "Aldeanos",
+                "definición": "Personas que viven en una pequeña aldea o pueblo."
+            },
+            {
+                "palabra": "Invisible",
+                "definición": "Que no se puede ver a simple vista."
+            },
+            {
+                "palabra": "Apariencias",
+                "definición": "El aspecto exterior de una persona, que a veces engaña sobre cómo es por dentro."
+            },
+            {
+                "palabra": "Vasta",
+                "definición": "Algo que es muy extenso, grande o amplio."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el gigante de la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Pirineo",
+                    "Urko",
+                    "Trueno",
+                    "Viento"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se perdió Lucía en la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Buscaba un tesoro",
+                    "Buscaba leña",
+                    "Quería ver al gigante",
+                    "Se escapó de casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué fenómeno natural explica esta leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "La nieve",
+                    "El eco",
+                    "La lluvia",
+                    "El viento"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el gigante no se acercó directamente a Lucía?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no podía caminar",
+                    "Porque no quería asustarla con su gran tamaño",
+                    "Porque estaba muy cansado",
+                    "Porque no hablaba su idioma"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo ayudó el gigante a los rescatistas?",
+                "tipo": "test",
+                "opciones": [
+                    "Bajó a la niña al pueblo",
+                    "Repitió los gritos de Lucía para guiarlos",
+                    "Encendió una hoguera",
+                    "Hizo un camino en la nieve"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendieron los aldeanos al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no deben subir a la montaña",
+                    "Que las apariencias engañan y el gigante era bueno",
+                    "Que el eco es peligroso",
+                    "Que deben recoger más leña"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Urko era solitario al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaba la gente",
+                    "Porque los humanos le temían y no lo visitaban",
+                    "Porque prefería dormir",
+                    "Porque no había otros gigantes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sentimiento motivó a Urko a ayudar a Lucía?",
+                "tipo": "test",
+                "opciones": [
+                    "Aburrimiento",
+                    "Compasión y ternura",
+                    "Curiosidad",
+                    "Enojo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si gritas en la montaña y no hay eco, ¿qué diría la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el gigante está dormido o no quiere saludar",
+                    "Que la montaña ha desaparecido",
+                    "Que no hay rocas",
+                    "Que el gigante se ha mudado de país"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué valor humano se destaca en el agradecimiento de los aldeanos?",
+                "tipo": "test",
+                "opciones": [
+                    "La valentía",
+                    "La gratitud",
+                    "La paciencia",
+                    "La honestidad"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Leyenda de la Flor del Ceibo",
+        "tema": "leyendas",
+        "texto": "Hace muchos años, en las orillas del caudaloso río Paraná, vivía una joven llamada Anahí. Ella pertenecía a una tribu guaraní que amaba la tierra y respetaba profundamente la naturaleza. Anahí no era conocida por su belleza física, pero su voz era tan dulce que cuando cantaba, los pájaros se callaban para escucharla con atención. Un día, llegaron extraños guerreros de piel pálida que querían conquistar sus tierras ancestrales. Los valientes habitantes de la pequeña aldea lucharon con muchísima valentía para defender su amado hogar. Durante una batalla nocturna muy confusa, Anahí fue capturada mientras intentaba proteger a los ancianos más vulnerables. Los invasores, temerosos de su espíritu indomable y de su influencia sobre el pueblo, decidieron darle un castigo ejemplar en medio de la selva espesa. La ataron a un árbol viejo y encendieron una enorme hoguera a sus pies. Sin embargo, algo totalmente asombroso ocurrió esa noche mágica. En lugar de consumirse por el fuego abrasador, Anahí comenzó a cantar una melodía suave que parecía calmar el viento fuerte. Las llamas, en vez de herirla cruelmente, empezaron a rodearla con una ternura inexplicable, transformándose poco a poco en pétalos brillantes y sedosos. Cuando el sol salió radiante al día siguiente, los crueles captores regresaron al lugar y quedaron paralizados por el asombro más absoluto. Anahí ya no estaba allí físicamente. En su lugar, el árbol viejo se había convertido en un ejemplar majestuoso de hojas verdes relucientes y hermosas flores de un rojo intenso, aterciopeladas como el mismo fuego. Aquella era la flor del ceibo. Desde ese momento, el ceibo fue declarado la flor nacional oficial, representando la valentía y el amor por la patria de una joven que prefirió convertirse en naturaleza antes que rendirse. Los habitantes del río Paraná cuentan que, en las tardes silenciosas, todavía se puede escuchar un eco lejano que recuerda la dulce voz de Anahí. Esta leyenda nos enseña que el coraje no siempre reside en la fuerza física, sino en la capacidad de mantenerse firme en nuestras creencias personales. La transformación de Anahí en flor es un símbolo eterno de resistencia.",
+        "glosario": [
+            {
+                "palabra": "Caudaloso",
+                "definición": "Un río que lleva mucha agua."
+            },
+            {
+                "palabra": "Ancestral",
+                "definición": "Algo que viene de los antepasados o tiempos muy antiguos."
+            },
+            {
+                "palabra": "Indomable",
+                "definición": "Que no se puede domar, vencer o controlar fácilmente."
+            },
+            {
+                "palabra": "Ejemplar",
+                "definición": "Algo que sirve como lección o modelo para los demás."
+            },
+            {
+                "palabra": "Hoguera",
+                "definición": "Fuego grande hecho al aire libre con mucha leña."
+            },
+            {
+                "palabra": "Abrasador",
+                "definición": "Que quema mucho o produce un calor muy intenso."
+            },
+            {
+                "palabra": "Majestuoso",
+                "definición": "Que tiene mucha elegancia, grandeza o belleza."
+            },
+            {
+                "palabra": "Aterciopelada",
+                "definición": "Suave al tacto, como la tela llamada terciopelo."
+            },
+            {
+                "palabra": "Patria",
+                "definición": "Tierra o nación a la que alguien pertenece por nacimiento o lazos."
+            },
+            {
+                "palabra": "Resistencia",
+                "definición": "Capacidad para mantenerse firme frente a dificultades o ataques."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba la joven protagonista de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Paraná",
+                    "Guaraní",
+                    "Anahí",
+                    "Ceibo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué intentaba proteger Anahí cuando fue capturada?",
+                "tipo": "test",
+                "opciones": [
+                    "A los animales",
+                    "A los ancianos",
+                    "El río",
+                    "Las flores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué se convirtió el árbol viejo al amanecer?",
+                "tipo": "test",
+                "opciones": [
+                    "En cenizas",
+                    "En una estatua",
+                    "En un ceibo con flores rojas",
+                    "En una hoguera"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que los guerreros invasores tenían miedo de Anahí?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía armas secretas",
+                    "Porque su espíritu y voz inspiraban a su pueblo",
+                    "Porque era una gigante",
+                    "Porque podía volar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sentimiento muestra Anahí hacia su tierra?",
+                "tipo": "test",
+                "opciones": [
+                    "Indiferencia",
+                    "Enojo",
+                    "Amor profundo y valentía",
+                    "Curiosidad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿qué representa la flor del ceibo hoy en día?",
+                "tipo": "test",
+                "opciones": [
+                    "El fin del verano",
+                    "El miedo al fuego",
+                    "La valentía y el amor por la patria",
+                    "La llegada de los guerreros"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué las llamas no quemaron a Anahí según la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque empezó a llover",
+                    "Porque la naturaleza la protegió transformándola",
+                    "Porque el fuego estaba frío",
+                    "Porque los guerreros la soltaron"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad especial tenía la voz de Anahí?",
+                "tipo": "test",
+                "opciones": [
+                    "Era muy ruidosa",
+                    "Era tan dulce que calmaba a los pájaros",
+                    "Era mágica y daba oro",
+                    "Era capaz de asustar a los enemigos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de esta leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no hay que ir al río",
+                    "Que la resistencia y el coraje nacen de nuestras creencias",
+                    "Que los árboles viejos son peligrosos",
+                    "Que los pájaros no deben cantar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se describe la batalla nocturna como 'confusa'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque todos estaban durmiendo",
+                    "Porque en la oscuridad es difícil ver y organizar la defensa",
+                    "Porque era una fiesta",
+                    "Porque nadie quería pelear"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Leyenda del Conejo en la Luna",
+        "tema": "leyendas",
+        "texto": "Hace miles de años, el gran dios Quetzalcóatl decidió viajar por el mundo transformado en un hombre común y corriente. Quería observar personalmente cómo vivían los seres que habitaban la vasta Tierra y entender mejor sus alegrías y tristezas cotidianas. Caminó incansablemente durante todo el día por valles profundos, selvas húmedas y montañas altísimas que tocaban las nubes. Al llegar la noche oscura, se sintió agotado y con mucha hambre debido al largo trayecto. Se sentó a la orilla del camino polvoriento mientras las primeras estrellas comenzaban a brillar en el cielo oscuro. Cerca de él, un pequeño conejo gris estaba cenando zacate fresco muy tranquilamente. El dios le preguntó con voz cansada qué estaba haciendo y el conejo respondió que comía un poco de hierba para recuperar fuerzas tras la jornada. Quetzalcóatl admitió que él también tenía hambre, pero que no sabía qué comer en esas tierras tan extrañas para él. Entonces, el pequeño animalito, demostrando una generosidad infinita y un corazón puro, se acercó al viajero y le dijo con humildad: —Señor, no tengo nada más que ofrecerte ahora, pero si tienes tanta hambre, puedes comerme a mí sin dudarlo. Así podrás seguir tu camino divino. El dios se conmovió profundamente ante el sacrificio voluntario del pequeño ser. Lo tomó entre sus manos con mucha delicadeza y lo elevó hacia lo más alto del firmamento estrellado. Lo subió tanto que la figura del conejo quedó estampada para siempre en la cara brillante de la luna llena. Luego, lo bajó suavemente a la tierra y le dijo con ternura: —Tal vez seas pequeño, pero a partir de hoy, todos los hombres del mundo recordarán tu nobleza al mirar hacia el cielo nocturno. Por eso, cuando hay luna llena, podemos ver claramente la silueta de un conejo que nos recuerda que la bondad es la luz más brillante que existe. Esta leyenda nos enseña que los actos de generosidad desinteresada nunca pasan desapercibidos y que incluso el ser más diminuto puede dejar una huella eterna en el vasto universo que nos rodea siempre con su misterio y su gran belleza.",
+        "glosario": [
+            {
+                "palabra": "Vasta",
+                "definición": "Que es muy grande o extensa."
+            },
+            {
+                "palabra": "Cotidiano",
+                "definición": "Algo que ocurre todos los días."
+            },
+            {
+                "palabra": "Zacate",
+                "definición": "Hierba o pasto que sirve de alimento para los animales."
+            },
+            {
+                "palabra": "Jornada",
+                "definición": "Tiempo que se dedica al trabajo o a viajar durante un día."
+            },
+            {
+                "palabra": "Generosidad",
+                "definición": "Valor de compartir lo que uno tiene con los demás."
+            },
+            {
+                "palabra": "Humildad",
+                "definición": "Actuar sin orgullo, reconociendo que todos somos importantes."
+            },
+            {
+                "palabra": "Conmovió",
+                "definición": "Sentir una emoción fuerte ante algo tierno o valiente."
+            },
+            {
+                "palabra": "Firmamento",
+                "definición": "El cielo donde se ven los planetas y las estrellas."
+            },
+            {
+                "palabra": "Estampada",
+                "definición": "Quedar marcado o impreso de forma fija en una superficie."
+            },
+            {
+                "palabra": "Nobleza",
+                "definición": "Cualidad de una persona o animal que actúa con buenos sentimientos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué forma tomó el dios Quetzalcóatl para viajar?",
+                "tipo": "test",
+                "opciones": [
+                    "Un águila",
+                    "Un hombre común",
+                    "Un conejo",
+                    "Una nube"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué estaba comiendo el conejo cuando el dios lo encontró?",
+                "tipo": "test",
+                "opciones": [
+                    "Zanahorias",
+                    "Frutas",
+                    "Zacate fresco",
+                    "Maíz"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué lugar quedó marcada la figura del conejo?",
+                "tipo": "test",
+                "opciones": [
+                    "En el sol",
+                    "En una montaña",
+                    "En la luna llena",
+                    "En las nubes"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el dios decidió viajar transformado en humano?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque había perdido sus poderes",
+                    "Para observar de cerca la vida de los seres de la Tierra",
+                    "Porque tenía miedo",
+                    "Para buscar un tesoro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad del conejo es la más importante en esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Su rapidez",
+                    "Su color gris",
+                    "Su generosidad desinteresada",
+                    "Su gran tamaño"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se sintió el dios al escuchar la oferta del conejo?",
+                "tipo": "test",
+                "opciones": [
+                    "Enojado",
+                    "Indiferente",
+                    "Conmovido profundamente",
+                    "Asustado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el dios elevó al conejo hasta el firmamento?",
+                "tipo": "test",
+                "opciones": [
+                    "Para castigarlo",
+                    "Para que todos recordaran su nobleza para siempre",
+                    "Porque quería volar",
+                    "Para que comiera estrellas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que un acto no pase 'desapercibido'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que nadie lo ve",
+                    "Que es un secreto",
+                    "Que es notado y valorado por otros",
+                    "Que es algo malo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la lección sobre el tamaño de los seres en esta leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los grandes siempre ganan",
+                    "Que ser pequeño significa ser débil",
+                    "Que incluso el ser más diminuto puede hacer algo grandioso",
+                    "Que los conejos son mejores que los dioses"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué representa la silueta del conejo en la luna?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mapa del cielo",
+                    "Un recordatorio de que la bondad es la luz más brillante",
+                    "Una mancha de suciedad",
+                    "El final del mundo"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    }
+]

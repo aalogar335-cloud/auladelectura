@@ -1,0 +1,1472 @@
+[
+    {
+        "titulo": "El Secreto de la Mansión Valdemar",
+        "tema": "misterio",
+        "texto": "El pueblo de Piedrafría siempre fue un lugar tranquilo, hasta que la vieja mansión de los señores Valdemar, situada al final de la calle Olmo, abrió sus puertas después de treinta largos años. Lucas, un chico curioso de sexto curso, siempre había sentido una mezcla de miedo y fascinación por esa casa de ventanas tapiadas y jardín asilvestrado. Una tarde de lluvia intensa, mientras ayudaba a su tía Carmen a organizar cajas en el desván de la casa vecina, Lucas encontró un pequeño hueco en la pared de madera que conectaba directamente con la mansión. Al asomarse con cuidado, vio una habitación polvorienta y, sobre una mesa de roble macizo, un cofre de plata que brillaba con una luz extraña. Sin pensarlo dos veces, Lucas se deslizó por la abertura. El aire olía a papel viejo y a misterio antiguo. Al acercarse al cofre, notó que no tenía cerradura convencional, sino un panel con letras grabadas en piedra volcánica. Era un criptograma complejo. Recordó las clases de historia sobre códigos antiguos y empezó a mover las piezas con destreza. De repente, un clic seco resonó en el silencio absoluto de la habitación. El cofre se abrió lentamente, revelando no oro ni joyas, sino un fajo de cartas atadas con una cinta azul y un mapa dibujado con tinta china. Las cartas estaban escritas por un joven soldado durante la guerra, dirigidas a una mujer llamada Elvira. Lucas leyó la primera y comprendió que el soldado nunca regresó, pero que había escondido algo valioso bajo el roble centenario del jardín para asegurar el futuro de su amada. Justo cuando guardaba el mapa en su bolsillo, escuchó unos pasos pesados subiendo las escaleras de la mansión. El corazón le latía con fuerza, casi podía oírlo. Era el sobrino huraño que ahora habitaba la casa, un hombre que buscaba desesperadamente la herencia perdida para sus propios fines. Lucas se escondió tras una cortina de terciopelo raída y polvorienta. El hombre entró, miró el cofre abierto y lanzó un grito de rabia pura. Lucas aprovechó el desconcierto total para escabullirse por el hueco de la pared. Esa noche no pudo dormir ni un minuto. Tenía en su poder el secreto del linaje Valdemar y la llave para salvar el pueblo. Al día siguiente, fue al jardín y, bajo las raíces del gran roble, cavó un pequeño agujero. Encontró una caja de metal con los títulos de propiedad originales de las tierras, que el sobrino quería vender ilegalmente para construir una fábrica contaminante. Lucas entregó los documentos al ayuntamiento de forma totalmente anónima. La mansión se convirtió en un museo y el jardín en un parque público precioso. Nadie supo nunca quién fue el héroe que descifró el enigma, pero Lucas, cada vez que pasaba por el roble, sonreía sabiendo que el vestigio del pasado ahora servía para el bienestar de todos sus vecinos de Piedrafría.",
+        "glosario": [
+            {
+                "palabra": "Desván",
+                "definición": "Parte más alta de una casa, justo debajo del tejado, que se usa para guardar cosas viejas."
+            },
+            {
+                "palabra": "Tapiada",
+                "definición": "Una ventana o puerta que ha sido cerrada con muros o tablas para que no se pase."
+            },
+            {
+                "palabra": "Criptograma",
+                "definición": "Un mensaje escrito con un código secreto que solo se puede leer si sabes la clave."
+            },
+            {
+                "palabra": "Huraño",
+                "definición": "Persona que no le gusta estar con los demás y prefiere estar sola o escondida."
+            },
+            {
+                "palabra": "Linaje",
+                "definición": "La historia de una familia a través de sus antepasados, como los abuelos y bisabuelos."
+            },
+            {
+                "palabra": "Vestigio",
+                "definición": "Un resto o huella que queda de algo que ocurrió hace mucho tiempo."
+            },
+            {
+                "palabra": "Anónimo",
+                "definición": "Cuando alguien hace algo pero no dice su nombre para que nadie sepa quién ha sido."
+            },
+            {
+                "palabra": "Herencia",
+                "definición": "Bienes o dinero que una persona deja a sus familiares cuando fallece."
+            },
+            {
+                "palabra": "Desconcierto",
+                "definición": "Estado de confusión o sorpresa cuando ocurre algo que no esperabas."
+            },
+            {
+                "palabra": "Asilvestrado",
+                "definición": "Un jardín o planta que ha crecido sin control, como si estuviera en medio del campo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el chico protagonista y en qué curso estaba?",
+                "tipo": "test",
+                "opciones": [
+                    "Marcos de quinto curso",
+                    "Lucas de sexto curso",
+                    "Lucas de cuarto curso",
+                    "Juan de sexto curso"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto encontró Lucas sobre la mesa de roble?",
+                "tipo": "test",
+                "opciones": [
+                    "Un libro de hechizos",
+                    "Un mapa del tesoro",
+                    "Un cofre de plata",
+                    "Una llave de oro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué contenía el fajo de cartas encontrado en el cofre?",
+                "tipo": "test",
+                "opciones": [
+                    "Instrucciones para un robo",
+                    "Cartas de un soldado para Elvira",
+                    "Recetas de cocina antiguas",
+                    "Listas de impuestos del pueblo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que el sobrino de los Valdemar estaba tan enfadado al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaba el polvo",
+                    "Porque quería encontrar la herencia para vender las tierras",
+                    "Porque Lucas le había robado el cofre",
+                    "Porque la mansión se estaba cayendo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo consiguió Lucas abrir el cofre de plata?",
+                "tipo": "test",
+                "opciones": [
+                    "Usando una llave que encontró en el desván",
+                    "Rompiéndolo con una piedra",
+                    "Descifrando un criptograma grabado",
+                    "Diciendo unas palabras mágicas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué intención real tenía el sobrino para el pueblo de Piedrafría?",
+                "tipo": "test",
+                "opciones": [
+                    "Construir un museo de historia",
+                    "Plantar más árboles en el jardín",
+                    "Vender las tierras para una fábrica contaminante",
+                    "Abrir una escuela nueva"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué detalle del texto indica que Lucas es una persona generosa?",
+                "tipo": "test",
+                "opciones": [
+                    "Que sabe descifrar códigos antiguos",
+                    "Que entregó los documentos al ayuntamiento de forma anónima",
+                    "Que ayudaba a su tía a limpiar",
+                    "Que le gusta explorar mansiones viejas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la mansión después de que Lucas entregara los papeles?",
+                "tipo": "test",
+                "opciones": [
+                    "Se derrumbó por vieja",
+                    "La compró el sobrino huraño",
+                    "Se convirtió en un museo para el pueblo",
+                    "Se quedó cerrada otros treinta años"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Lucas hizo bien al entrar en la mansión sin permiso? Justifica tu respuesta.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que aunque no se debe entrar en casas ajenas, Lucas lo hizo porque tenía mucha curiosidad y al final estuvo bien porque salvó al pueblo de la fábrica contaminante. Si no llega a entrar, el sobrino malo se habría salido con la suya."
+            },
+            {
+                "enunciado": "Si encontraras un secreto que pudiera ayudar a todo tu barrio, ¿lo dirías o lo mantendrías en secreto? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo lo diría rápido, como hizo Lucas, pero quizás también de forma anónima para que no me pregunten mucho. Lo más importante es ayudar a los vecinos y que el barrio esté mejor, no que todos sepan que fui yo."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Faro Apagado",
+        "tema": "misterio",
+        "texto": "Las vacaciones de verano en Cala Mansa siempre habían sido un poco aburridas hasta que el faro se apagó de repente. Era una noche de agosto, sin luna, y el mar parecía un inmenso espejo de tinta negra. Alba y su primo Javi estaban sentados en el porche de la cabaña cuando notaron que el haz de luz giratorio, que siempre los arrullaba al dormir, había desaparecido por completo. El viejo farero, Don Mateo, era un hombre metódico y responsable que jamás olvidaba encender la lámpara, ni siquiera en las noches más tranquilas. Preocupados por la seguridad de los barcos, los niños decidieron investigar a la mañana siguiente. Subieron por el sendero del acantilado, sintiendo el salitre pegajoso en la cara y el viento soplando con fuerza. Al llegar, la pesada puerta del faro estaba entornada, algo muy inusual en Don Mateo. Dentro, todo parecía estar en orden, pero sobre la mesa de la bitácora había una taza de té a medio terminar, todavía tibia al tacto. Eso significaba que el farero se había marchado con muchísimas prisas. Javi encontró un rastro de arena fina y blanca que llevaba hacia la bodega subterránea. Bajaron con sigilo, usando la linterna del móvil para no ser descubiertos. Allí, entre redes viejas y cajas de madera, descubrieron una trampilla oculta que daba a una cueva natural comunicada directamente con el mar. La bruma entraba por la abertura, creando formas fantasmales en el aire frío. En el suelo de la cueva, vieron un papel arrugado con una anotación nerviosa: 'Siguen buscando el galeón hundido. No puedo permitir que lo saqueen'. De pronto, escucharon el rugido de un motor de lancha acercándose. Se escondieron rápido tras unas rocas húmedas. Dos hombres con trajes de buceo modernos entraron en la cueva cargando equipos tecnológicos muy caros. Hablaban de un tesoro arqueológico que querían robar antes de que las autoridades lo protegieran oficialmente. Alba comprendió que Don Mateo los había descubierto y que probablemente lo tenían retenido en la lancha. Con mucha intuición y valentía, Alba usó el espejo de señales del faro que estaba guardado en la bodega. Reflejó la luz del sol hacia el pueblo haciendo tres señales cortas, tres largas y tres cortas: el código de socorro SOS que había aprendido en el colegio. Los hombres, asustados por el reflejo cegador, intentaron huir hacia el mar, pero la patrulla marítima, alertada por la señal de los niños, ya bloqueaba la salida de la cala. Don Mateo fue rescatado sano y salvo; lo habían atado en la proa de la lancha para que no avisara a nadie. El desconcierto de los ladrones fue total al ver que dos niños habían frustrado su plan maestro. Don Mateo les agradeció el gesto regalándoles un viejo catalejo de latón. El misterio del faro se convirtió en la leyenda favorita del pueblo aquel verano inolvidable.",
+        "glosario": [
+            {
+                "palabra": "Bitácora",
+                "definición": "Libro donde los marinos o fareros apuntan todo lo que pasa durante el día."
+            },
+            {
+                "palabra": "Entornada",
+                "definición": "Una puerta que no está ni abierta del todo ni cerrada por completo."
+            },
+            {
+                "palabra": "Salitre",
+                "definición": "La sal que deja el mar en las rocas, en la piel o en los objetos cercanos a la costa."
+            },
+            {
+                "palabra": "Sigilo",
+                "definición": "Hacer algo con mucho silencio y cuidado para que nadie se dé cuenta de que estás ahí."
+            },
+            {
+                "palabra": "Bruma",
+                "definición": "Una niebla poco espesa que se forma sobre el mar o cerca de la costa."
+            },
+            {
+                "palabra": "Galeón",
+                "definición": "Un barco antiguo muy grande que se usaba hace siglos para transportar mercancías y tesoros."
+            },
+            {
+                "palabra": "Arqueológico",
+                "definición": "Algo muy antiguo que nos ayuda a entender cómo vivían las personas en el pasado."
+            },
+            {
+                "palabra": "Saquear",
+                "definición": "Entrar en un sitio para robar todo lo que hay de valor de forma violenta o ilegal."
+            },
+            {
+                "palabra": "Cala",
+                "definición": "Una parte pequeña del mar que entra en la tierra, parecida a una playa pero más recogida."
+            },
+            {
+                "palabra": "Catalejo",
+                "definición": "Un instrumento parecido a un telescopio pequeño que sirve para ver cosas de lejos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué señal extraña notaron Alba y Javi desde el porche de su cabaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Un ruido de motores",
+                    "Que el faro se había apagado",
+                    "Que Don Mateo estaba gritando",
+                    "Una luz roja en el mar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto sobre la mesa indicaba que Don Mateo se fue con prisas?",
+                "tipo": "test",
+                "opciones": [
+                    "Un libro abierto",
+                    "Una linterna encendida",
+                    "Una taza de té todavía tibia",
+                    "Su gorra de farero"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿A dónde llevaba el rastro de arena blanca que encontró Javi?",
+                "tipo": "test",
+                "opciones": [
+                    "A la playa",
+                    "A la cocina del faro",
+                    "A la bodega subterránea",
+                    "Al piso de arriba"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué estaban allí los hombres con trajes de buceo?",
+                "tipo": "test",
+                "opciones": [
+                    "Para salvar a Don Mateo",
+                    "Para estudiar los peces de la cala",
+                    "Para saquear un galeón hundido",
+                    "Para arreglar la lámpara del faro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué código utilizó Alba para pedir ayuda al pueblo?",
+                "tipo": "test",
+                "opciones": [
+                    "Código Morse de números",
+                    "Señales de humo",
+                    "El código SOS con un espejo",
+                    "Gritos muy fuertes"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde tenían retenido los ladrones a Don Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "En el fondo de la cueva",
+                    "Atado en la proa de la lancha",
+                    "En el cuarto de herramientas",
+                    "En la torre del faro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quiénes aparecieron para detener a los hombres tras la señal de Alba?",
+                "tipo": "test",
+                "opciones": [
+                    "Los padres de los niños",
+                    "La patrulla marítima",
+                    "Los pescadores del pueblo",
+                    "Unos robots de seguridad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué regalo recibieron los niños por su valentía?",
+                "tipo": "test",
+                "opciones": [
+                    "Una medalla de oro",
+                    "Un barco de madera",
+                    "Un viejo catalejo de latón",
+                    "Una brújula moderna"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que fue una buena idea que los niños bajaran a la bodega solos? ¿Qué habrías hecho tú?",
+                "tipo": "abierta",
+                "respuestaModelo": "Fue un poco peligroso porque los ladrones podían haberles hecho algo, pero si no bajan, nadie habría salvado a Don Mateo. Yo creo que habría intentado llamar a la policía antes de entrar, por si acaso."
+            },
+            {
+                "enunciado": "Don Mateo protegía el galeón porque era historia, no por el oro. ¿Por qué es importante cuidar los barcos antiguos?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque son como libros pero debajo del mar. Nos enseñan cómo viajaba la gente hace muchos años y si los ladrones se lo llevan todo, perdemos esa historia para siempre. El oro no importa tanto como aprender."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma de la Partitura de Oro",
+        "tema": "misterio",
+        "texto": "El pueblo de Valledorado siempre fue famoso por su centenario teatro de ópera, un edificio de piedra gris con gárgolas que parecían vigilar a los transeúntes. Sin embargo, la calma se rompió la mañana del gran concurso nacional de piano. La pieza central del evento, la legendaria Partitura de Oro escrita por un antiguo maestro, había desaparecido de su vitrina de cristal blindado. No había señales de cristales rotos ni cerraduras forzadas. Sofía y Pablo, dos amigos apasionados por la investigación, se encontraban en el vestíbulo cuando el director del teatro, el señor Montes, anunció el desastre con voz temblorosa. Los niños notaron algo extraño de inmediato. En el suelo, cerca del pedestal vacío, había un rastro casi invisible de polvo blanco y un olor penetrante a menta fresca. Sofía recordó que el único lugar del teatro donde se usaba tiza blanca era en el taller de escenografía. Con sigilo, los amigos se dirigieron hacia el sótano, donde las sombras se alargaban entre decorados de bosques de cartón y castillos de madera. Al llegar, encontraron al conserje, el señor Bruno, limpiando frenéticamente sus botas negras. Pablo observó que el hombre intentaba ocultar una pequeña llave de bronce tras su espalda. '¿Busca algo, señor Bruno?', preguntó Pablo con astucia. El hombre se puso pálido y balbuceó una excusa sobre una gotera inexistente. Mientras tanto, Sofía se fijó en un gran baúl que servía como trono para la obra de teatro escolar. Del borde del baúl sobresalía un trozo de papel amarillento con el sello real del maestro. Los niños comprendieron que Bruno no quería robar la partitura para venderla, sino para evitar que el concurso se celebrara, pues su nieta, la mejor pianista del pueblo, se había lesionado la mano y no podía participar. Él quería que el concurso se aplazara hasta que ella estuviera recuperada. Sofía habló con amabilidad al conserje, explicándole que el engaño solo traería problemas a su nieta. Bruno, con los ojos empañados por las lágrimas, confesó su error y entregó el valioso documento. Los niños decidieron no llamar a la policía si él mismo confesaba la verdad al director y aceptaba un castigo comunitario. El señor Montes, aunque molesto, valoró la honestidad final del conserje y la brillantez de los pequeños detectives. La Partitura de Oro regresó a su vitrina justo a tiempo para que las primeras notas del concierto resonaran bajo la majestuosa cúpula. Sofía y Pablo se sentaron en la primera fila, no para tocar el piano, sino para disfrutar de la música de un misterio resuelto con justicia y corazón. Desde aquel día, en Valledorado se dice que no hay secreto que pueda ocultarse a los ojos de quienes saben mirar más allá de lo evidente, especialmente si llevan una lupa de curiosidad y una mochila llena de valentía.",
+        "glosario": [
+            {
+                "palabra": "Blindado",
+                "definition": "Protegido con un material muy duro para que no se pueda romper o atravesar."
+            },
+            {
+                "palabra": "Vestíbulo",
+                "definition": "Sala amplia a la entrada de un edificio grande como un teatro o un hotel."
+            },
+            {
+                "palabra": "Escenografía",
+                "definition": "Conjunto de decorados, luces y objetos que se usan en una obra de teatro."
+            },
+            {
+                "palabra": "Sigilo",
+                "definition": "Hacer algo con mucho silencio y cuidado para que nadie se dé cuenta."
+            },
+            {
+                "palabra": "Gotera",
+                "definition": "Filtración de agua que cae gota a gota a través del techo."
+            },
+            {
+                "palabra": "Centenario",
+                "definition": "Algo que tiene cien años o más de antigüedad."
+            },
+            {
+                "palabra": "Gárgola",
+                "definition": "Figura de piedra con formas fantásticas que sirve para adornar y desaguar tejados."
+            },
+            {
+                "palabra": "Cúpula",
+                "definition": "Techo en forma de media esfera que cubre un edificio o una habitación circular."
+            },
+            {
+                "palabra": "Inexistente",
+                "definition": "Que no existe, que es inventado o falso."
+            },
+            {
+                "palabra": "Astucia",
+                "definition": "Habilidad para engañar o para evitar ser engañado y lograr un objetivo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto desapareció del teatro de Valledorado?",
+                "tipo": "test",
+                "opciones": [
+                    "Un piano de cola",
+                    "La Partitura de Oro",
+                    "Una estatua de bronce",
+                    "El trono de madera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pistas encontraron Sofía y Pablo cerca del pedestal?",
+                "tipo": "test",
+                "opciones": [
+                    "Huellas de barro y olor a flores",
+                    "Polvo blanco y olor a menta",
+                    "Un trozo de tela roja y perfume",
+                    "Una llave de plata y tiza"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién era el responsable de la desaparición de la partitura?",
+                "tipo": "test",
+                "opciones": [
+                    "El director Montes",
+                    "La nieta lesionada",
+                    "El conserje Bruno",
+                    "Un pianista envidioso"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el culpable decidió esconder el documento?",
+                "tipo": "test",
+                "opciones": [
+                    "Para hacerse rico vendiéndolo",
+                    "Para que su nieta tuviera tiempo de recuperarse",
+                    "Porque odiaba la música clásica",
+                    "Porque quería ser el nuevo director"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "A juzgar por el comportamiento del señor Bruno al final, ¿cómo se sentía?",
+                "tipo": "test",
+                "opciones": [
+                    "Orgulloso de su plan",
+                    "Enfadado con los niños",
+                    "Arrepentido y avergonzado",
+                    "Indiferente ante lo ocurrido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué técnica de investigación utilizaron principalmente los niños?",
+                "tipo": "test",
+                "opciones": [
+                    "Fuerza bruta",
+                    "Interrogatorio policial",
+                    "Observación de detalles y deducción",
+                    "Uso de cámaras de seguridad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué decisión tomaron los niños respecto al castigo del conserje?",
+                "tipo": "test",
+                "opciones": [
+                    "Llamar a la policía de inmediato",
+                    "Que confesara y aceptara un castigo comunitario",
+                    "No decir nada a nadie nunca",
+                    "Expulsarlo del pueblo para siempre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué se puede inferir sobre la personalidad de Sofía y Pablo?",
+                "tipo": "test",
+                "opciones": [
+                    "Son niños miedosos",
+                    "Son observadores y buscan la justicia",
+                    "No les interesa el arte",
+                    "Prefieren jugar a investigar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece que el motivo del señor Bruno justifica lo que hizo? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no está bien lo que hizo porque aunque quería mucho a su nieta, robar algo tan importante para todo el pueblo es mentir. Debería haber buscado otra forma de ayudarla sin fastidiar a los demás."
+            },
+            {
+                "enunciado": "Si fueras Sofía o Pablo, ¿habrías llamado a la policía o habrías hecho lo mismo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo habría hecho lo mismo porque el señor Bruno no era malo, solo estaba desesperado. Si confiesa y ayuda al pueblo, es mejor que mandarlo a la cárcel, porque todos cometemos errores a veces."
+            }
+        ]
+    },
+    {
+        "titulo": "El Susurro de la Biblioteca Encantada",
+        "tema": "misterio",
+        "texto": "La biblioteca de San Lorenzo era un laberinto de estanterías que llegaban hasta el techo, donde el aire olía a vainilla y papel antiguo. Todo el mundo decía que, al caer la noche, los libros se movían solos. Diego, un niño de quinto curso que prefería el silencio de las letras al ruido del patio, decidió quedarse escondido tras un pesado sillón de terciopelo cuando la bibliotecaria, la señora Elvira, cerró la puerta con llave. Diego quería descubrir quién dejaba notas misteriosas en el interior de los libros de aventuras. A las doce en punto, una luz tenue de color azulado comenzó a brillar en la sección de geografía. Un sonido suave, como el roce de seda, recorrió los pasillos. Diego se asomó con el corazón latiendo a mil por hora. No vio fantasmas, sino un pequeño mecanismo de relojería que se desplazaba por raíles invisibles en el techo. El aparato tenía un brazo articulado que colocaba con delicadeza tarjetas perforadas dentro de los libros. Siguiendo el rastro del robot, Diego llegó a una habitación secreta oculta tras un mapa de las constelaciones. Allí estaba Leo, un joven inventor que vivía en el ático de la biblioteca. Leo le explicó que las notas eran pistas para un juego del tesoro que su abuelo, el antiguo bibliotecario, había diseñado antes de morir. El tesoro no era oro, sino un libro único que contenía las historias perdidas del pueblo. 'Mi abuelo quería que los niños volvieran a leer con emoción', confesó Leo. Sin embargo, había un problema: una de las piezas del mecanismo se había atascado y el robot estaba dejando las pistas en los libros equivocados, creando una gran confusión. Diego, que era muy hábil con las manos, se ofreció a ayudar. Juntos, pasaron la noche ajustando los engranajes y reprogramando las tarjetas. Al amanecer, el juego estaba listo. Las notas ahora guiaban correctamente hacia el 'Códice de San Lorenzo'. Diego y Leo prometieron guardar el secreto, permitiendo que la leyenda de la biblioteca encantada continuara viva, pero ahora con un propósito educativo. Al día siguiente, el colegio entero estaba revolucionado buscando las pistas. La señora Elvira sonreía con complicidad mientras veía a los niños recorrer los pasillos con entusiasmo renovado. Diego sintió que había participado en algo mágico. Comprendió que el verdadero misterio no siempre es algo aterrador, sino a veces es una chispa de ingenio diseñada para despertar la curiosidad. El libro perdido fue encontrado por una niña de primer curso, y esa tarde, bajo el gran roble del jardín, todos escucharon las historias que nadie conocía. El secreto del mecanismo de Leo seguía a salvo, y Diego aprendió que la tecnología y la imaginación pueden ser las mejores aliadas para mantener viva la cultura. Desde entonces, cada vez que un libro susurra al abrirse, Diego sabe que hay un engranaje de amistad moviéndose en el corazón de San Lorenzo.",
+        "glosario": [
+            {
+                "palabra": "Articulado",
+                "definition": "Que tiene piezas que se pueden mover o doblar como las articulaciones del cuerpo."
+            },
+            {
+                "palabra": "Códice",
+                "definition": "Libro muy antiguo escrito a mano, antes de que se inventara la imprenta."
+            },
+            {
+                "palabra": "Mecanismo",
+                "definition": "Conjunto de piezas que trabajan juntas para hacer funcionar una máquina."
+            },
+            {
+                "palabra": "Perforada",
+                "definition": "Algo que tiene agujeros hechos con intención, como las tarjetas de datos antiguas."
+            },
+            {
+                "palabra": "Complicidad",
+                "definition": "Colaboración o entendimiento entre personas que comparten un secreto."
+            },
+            {
+                "palabra": "Engranaje",
+                "definition": "Ruedas con dientes que encajan entre sí para transmitir movimiento."
+            },
+            {
+                "palabra": "Tenue",
+                "definition": "Luz o sonido que es muy suave, fino o poco intenso."
+            },
+            {
+                "palabra": "Atico",
+                "definition": "Último piso de un edificio, justo debajo del tejado."
+            },
+            {
+                "palabra": "Geografía",
+                "definition": "Ciencia que estudia la superficie de la Tierra y los lugares donde vivimos."
+            },
+            {
+                "palabra": "Constelación",
+                "definition": "Grupo de estrellas que forman un dibujo imaginario en el cielo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde se escondió Diego para pasar la noche en la biblioteca?",
+                "tipo": "test",
+                "opciones": [
+                    "Debajo de una mesa",
+                    "Tras un pesado sillón de terciopelo",
+                    "Dentro de un baúl",
+                    "En el cuarto de limpieza"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué era en realidad lo que movía los libros y dejaba notas?",
+                "tipo": "test",
+                "opciones": [
+                    "Un fantasma llamado Lorenzo",
+                    "Un mecanismo de relojería con un brazo articulado",
+                    "La señora Elvira a escondidas",
+                    "Un grupo de ratones amaestrados"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién vivía en el ático y controlaba el invento?",
+                "tipo": "test",
+                "opciones": [
+                    "El abuelo de Diego",
+                    "La señora Elvira",
+                    "Un joven inventor llamado Leo",
+                    "El director del colegio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era el objetivo final del juego diseñado por el abuelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Encontrar una bolsa de monedas de oro",
+                    "Asustar a los niños para que no entraran",
+                    "Encontrar el 'Códice de San Lorenzo'",
+                    "Reparar el techo de la biblioteca"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el mecanismo estaba causando confusión al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tenía baterías",
+                    "Porque una pieza se atascó y ponía las pistas mal",
+                    "Porque las notas estaban en inglés",
+                    "Porque Diego lo rompió al tocarlo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo reaccionó Diego al descubrir el secreto de Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "Salió corriendo muerto de miedo",
+                    "Se ofreció a ayudar a reparar el mecanismo",
+                    "Fue a contárselo a todo el colegio",
+                    "Llamó a la policía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final del relato, ¿quién encontró el libro perdido?",
+                "tipo": "test",
+                "opciones": [
+                    "Diego",
+                    "Leo",
+                    "Una niña de primer curso",
+                    "La bibliotecaria"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué simbolizan las 'historias perdidas' en el cuento?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la biblioteca era aburrida",
+                    "El valor de la cultura y la memoria del pueblo",
+                    "Que el abuelo estaba loco",
+                    "Que el papel ya no sirve para nada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Leo hacía bien en mantener el mecanismo en secreto? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí porque así los niños pensaban que era algo mágico y les daban más ganas de ir a la biblioteca. A veces un poco de misterio hace que las cosas normales sean mucho más divertidas."
+            },
+            {
+                "enunciado": "Si pudieras inventar algo para que tus amigos lean más, ¿qué inventarías?",
+                "tipo": "abierta",
+                "respuestaModelo": "Inventaría unas gafas que cuando lees te hicieran ver las imágenes en 3D fuera del libro, como si estuvieras dentro de la película. ¡Seguro que así no pararíamos de leer nunca!"
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Reloj de la Mansión Ecos",
+        "tema": "misterio",
+        "texto": "La mansión de los ecos siempre guardaba un silencio sepulcral, excepto los martes de luna llena. Marcos era un chico de doce años que no creía en fantasmas, pero sí creía firmemente en la lógica. Su abuelo, un antiguo relojero muy respetado, le había dejado un mapa borroso y una llave de latón con forma de búho. Aquella tarde de otoño, Marcos decidió explorar el desván. El aire olía a polvo y a tiempo estancado. Entre cajas de fotos amarillentas, encontró un reloj de pie que no marcaba las horas, sino los días del año. Al insertar la llave, el reloj se deslizó hacia un lado, revelando una pequeña estancia oculta. Dentro, una mesa de madera maciza sostenía un diario encuadernado en cuero. Marcos leyó las primeras líneas: El tesoro no brilla, pero cuenta historias. De pronto, escuchó un crujido detrás de él. Una sombra se proyectó contra la pared. Era el gato de la vecina, pero junto a él, había un sobre lacrado con el sello de la familia. Al abrirlo, Marcos descubrió que su abuelo no era solo un relojero, sino el guardián de la historia secreta del pueblo. El sobre contenía las escrituras originales de la biblioteca municipal, que el malvado alcalde quería derruir para construir un centro comercial de lujo. Marcos comprendió que el mapa no buscaba oro, sino justicia para los ciudadanos. Con el corazón latiendo muy rápido, bajó las escaleras. Sabía que debía llevar esos documentos al ayuntamiento antes de la medianoche. El camino estaba oscuro y la niebla cubría los adoquines. Sintió que alguien lo seguía desde las sombras. Se escondió tras una estatua de la plaza y vio pasar un coche negro a baja velocidad. Era el secretario del alcalde buscando algo. Con astucia, Marcos utilizó el callejón de los gatos, un paso estrecho que solo los niños conocían. Llegó al archivo justo a tiempo. Al entregar los papeles, la secretaria se quedó boquiabierta. El edificio histórico estaba finalmente salvado. Marcos regresó a casa y miró el viejo reloj con respeto. Ahora entendía que el misterio no es algo que da miedo, sino una oportunidad para hacer lo correcto. Esa noche, por primera vez en años, el reloj dio las doce campanadas con un sonido claro y vibrante. Su abuelo estaría muy orgulloso de su perspicacia y valentía. Marcos ya no era solo un niño curioso; ahora era el nuevo guardián oficial de los secretos de Piedra del Sol. El diario en su mesilla prometía nuevas aventuras emocionantes, porque un buen detective nunca deja de buscar la verdad, incluso cuando el sol se oculta y las sombras parecen hablar. El silencio de la mansión ya no era inquietante, sino acogedor, como una manta que protege un gran secreto compartido entre un abuelo y su nieto. Marcos sonrió al ver la luna llena.",
+        "glosario": [
+            {
+                "palabra": "Sepulcral",
+                "definición": "Un silencio muy profundo y serio, como el que hay en los cementerios."
+            },
+            {
+                "palabra": "Lógica",
+                "definición": "Forma de pensar que usa la razón para entender cómo funcionan las cosas."
+            },
+            {
+                "palabra": "Desván",
+                "definición": "Parte más alta de una casa, cerca del tejado, donde se guardan cosas viejas."
+            },
+            {
+                "palabra": "Lacrado",
+                "definición": "Cerrado con una pasta roja especial para que nadie pueda abrir un sobre sin permiso."
+            },
+            {
+                "palabra": "Derruir",
+                "definición": "Tirar abajo una construcción o edificio de forma completa."
+            },
+            {
+                "palabra": "Adoquines",
+                "definición": "Piedras labradas en forma de ladrillo que se usan para pavimentar las calles antiguas."
+            },
+            {
+                "palabra": "Astucia",
+                "definición": "Habilidad para conseguir algo de forma inteligente o para evitar un engaño."
+            },
+            {
+                "palabra": "Perspicacia",
+                "definición": "Capacidad de darse cuenta de detalles que otros no ven fácilmente."
+            },
+            {
+                "palabra": "Inquietante",
+                "definición": "Algo que te pone nervioso o te hace sentir que algo malo puede pasar."
+            },
+            {
+                "palabra": "Vibrante",
+                "definición": "Un sonido o sensación que tiene mucha fuerza y parece que hace temblar el aire."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué edad tiene Marcos?",
+                "tipo": "test",
+                "opciones": [
+                    "Diez años",
+                    "Once años",
+                    "Doce años",
+                    "Trece años"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué forma tiene la llave que dejó el abuelo?",
+                "tipo": "test",
+                "opciones": [
+                    "De gato",
+                    "De búho",
+                    "De león",
+                    "De reloj"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué quería construir el alcalde en lugar de la biblioteca?",
+                "tipo": "test",
+                "opciones": [
+                    "Un parque",
+                    "Un colegio",
+                    "Un centro comercial de lujo",
+                    "Un aparcamiento"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el reloj no marcaba las horas normales sino los días?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba estropeado",
+                    "Porque era una pieza mágica",
+                    "Porque servía como mecanismo secreto para abrir la pared",
+                    "Porque el abuelo no sabía arreglarlo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué indica el rastro del olor a polvo y tiempo estancado en el desván?",
+                "tipo": "test",
+                "opciones": [
+                    "Que alguien acababa de limpiar",
+                    "Que la habitación no se había abierto en mucho tiempo",
+                    "Que el gato había estado allí",
+                    "Que el abuelo seguía viviendo allí"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo demuestra Marcos su astucia durante la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Llamando a la policía",
+                    "Escondiéndose en el reloj",
+                    "Usando el callejón de los gatos para no ser visto",
+                    "Rompiendo el sobre lacrado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que el abuelo era el 'guardián de la historia'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era profesor de historia",
+                    "Que protegía documentos importantes del pasado del pueblo",
+                    "Que escribía cuentos de hadas",
+                    "Que vigilaba el museo municipal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el reloj sonó al final del cuento?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque Marcos lo arregló con la llave",
+                    "Porque simboliza que el misterio se resolvió y la justicia triunfó",
+                    "Porque era martes de luna llena",
+                    "Porque se acabó la pila"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Marcos hizo bien al entrar solo en la estancia oculta?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí hizo bien porque era una herencia de su abuelo y él era el único que tenía la llave. Aunque daba un poco de miedo, si no entra no habría encontrado los papeles para salvar la biblioteca."
+            },
+            {
+                "enunciado": "¿Por qué crees que el alcalde quería destruir la biblioteca?",
+                "tipo": "abierta",
+                "respuestaModelo": "Seguro que solo pensaba en el dinero y en que el centro comercial le daría más beneficios. A veces los adultos se olvidan de que los libros y la historia son más importantes que comprar cosas nuevas."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma de la Pluma Azul en Isla Bruma",
+        "tema": "misterio",
+        "texto": "El faro de Isla Bruma nunca se apagaba, hasta el viernes pasado. Clara, una niña que conocía cada roca de la costa, supo que algo iba muy mal. Don Tomás, el anciano farero, siempre decía que la luz era el alma protectora de la isla. Con su linterna en la mochila, Clara subió por el sendero empinado. Al llegar a la puerta, vio que la cerradura estaba forzada con una palanca. El interior estaba frío y olía a mar profundo. En el suelo de la sala de control, encontró una pluma de color azul metálico, algo que nunca había visto en las aves de la zona. Subió los escalones de caracol haciendo el menor ruido posible. Arriba, en la linterna del faro, no estaba Don Tomás. En su lugar, había un extraño aparato electrónico emitiendo pitidos rítmicos constantes. Clara recordó las noticias sobre ladrones de piezas arqueológicas submarinas. Si el faro estaba apagado, los barcos de vigilancia no verían las lanchas ilegales cerca de los arrecifes peligrosos. De repente, una voz ruda resonó desde la galería exterior. El sensor ya está enviando la señal, vámonos antes de que alguien se dé cuenta de la luz. Clara se escondió rápido tras la enorme lente de Fresnel. Eran dos hombres con trajes de buceo negros. En cuanto bajaron, Clara corrió hacia el panel manual de control. Recordaba haber visto a su padre, que era técnico, arreglarlo una vez hace meses. Había que conectar el cable de emergencia y girar la manivela de bronce tres veces. Con todas sus fuerzas, Clara tiró del cable negro. Una chispa saltó y, de repente, un haz de luz blanca y poderosa cortó la oscuridad de la noche. La luz iluminó directamente a una lancha rápida que intentaba escapar con un gran ánfora antigua en la cubierta trasera. En el pueblo, la guardia costera vio la señal de aviso y salió de inmediato. Clara bajó al sótano y encontró a Don Tomás atado en la despensa. Estaba asustado pero se encontraba bien. Los ladrones fueron capturados por la patrulla antes de salir de la cala. Al día siguiente, Clara fue recibida como una verdadera heroína. Ella solo sonreía mientras guardaba la pluma azul en su caja de tesoros. Sabía que los ladrones eran parte de una red más grande y que aquel era solo el comienzo de sus investigaciones. Don Tomás le dio las gracias con una taza de chocolate caliente y le enseñó a leer las cartas náuticas. El misterio de la pluma azul seguía sin resolverse del todo, pero Clara no tenía prisa. El mar siempre devuelve lo que es suyo, y ella estaría allí para vigilarlo. Los secretos de la costa son profundos como el océano mismo, pero con valentía y una buena linterna, ninguna oscuridad es eterna. Clara miró al horizonte y prometió que Isla Bruma nunca volvería a quedarse a oscuras mientras ella estuviera cerca.",
+        "glosario": [
+            {
+                "palabra": "Forzada",
+                "definición": "Una puerta o cerradura que ha sido abierta usando la fuerza o herramientas."
+            },
+            {
+                "palabra": "Arqueológica",
+                "definición": "Relacionado con objetos muy antiguos que nos ayudan a entender la historia."
+            },
+            {
+                "palabra": "Arrecife",
+                "definición": "Rocas o corales que están justo debajo del agua y son peligrosos para los barcos."
+            },
+            {
+                "palabra": "Rítmico",
+                "definición": "Un sonido o movimiento que se repite de forma regular, como el latido del corazón."
+            },
+            {
+                "palabra": "Lente de Fresnel",
+                "definición": "Un tipo de cristal especial y grande que usan los faros para que la luz llegue muy lejos."
+            },
+            {
+                "palabra": "Ánfora",
+                "definición": "Cántaro o vasija antigua de cerámica con dos asas que se usaba para guardar líquidos."
+            },
+            {
+                "palabra": "Cala",
+                "definición": "Una parte pequeña del mar que entra en la tierra, parecida a una playa pequeña."
+            },
+            {
+                "palabra": "Cartas náuticas",
+                "definición": "Mapas especiales que usan los marineros para navegar por el mar sin perderse."
+            },
+            {
+                "palabra": "Galeón",
+                "definición": "Barco muy grande de madera que se usaba hace siglos para transportar tesoros."
+            },
+            {
+                "palabra": "Patrulla",
+                "definición": "Grupo de personas que vigilan un lugar para que sea seguro."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué día se apagó el faro por primera vez?",
+                "tipo": "test",
+                "opciones": [
+                    "Lunes",
+                    "Viernes",
+                    "Sábado",
+                    "Domingo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto extraño encontró Clara en el suelo del faro?",
+                "tipo": "test",
+                "opciones": [
+                    "Una moneda de oro",
+                    "Una llave de latón",
+                    "Una pluma azul metálico",
+                    "Un guante negro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde estaba escondido Don Tomás?",
+                "tipo": "test",
+                "opciones": [
+                    "En la parte de arriba del faro",
+                    "En la galería exterior",
+                    "Atado en la despensa del sótano",
+                    "En una lancha rápida"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Para qué querían los ladrones apagar la luz del faro?",
+                "tipo": "test",
+                "opciones": [
+                    "Para dormir mejor",
+                    "Para que la guardia costera no viera sus lanchas ilegales",
+                    "Para ahorrar energía",
+                    "Para asustar a Clara"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo sabía Clara manejar el panel de control?",
+                "tipo": "test",
+                "opciones": [
+                    "Lo leyó en un libro de misterio",
+                    "Se lo enseñó Don Tomás",
+                    "Había visto a su padre arreglarlo una vez",
+                    "Fue por pura suerte"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué transportaba la lancha de los ladrones?",
+                "tipo": "test",
+                "opciones": [
+                    "Redes de pesca",
+                    "Un ánfora antigua",
+                    "Mucho dinero",
+                    "Plumas azules"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué indica que la pluma azul es importante para el futuro?",
+                "tipo": "test",
+                "opciones": [
+                    "Que brilla en la oscuridad",
+                    "Que Clara la guarda como pista de una red más grande de ladrones",
+                    "Que pertenece a un pájaro mágico",
+                    "Que es de la suerte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué tipo de relación tienen Clara y Don Tomás?",
+                "tipo": "test",
+                "opciones": [
+                    "No se conocen",
+                    "Son enemigos",
+                    "Se respetan y Don Tomás le enseña cosas del mar",
+                    "Son hermanos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece que Clara fue valiente o que se puso en peligro innecesario?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue súper valiente porque si no llega a subir, los ladrones habrían robado el tesoro y Don Tomás seguiría atado. Aunque era peligroso, ella sabía lo que hacía porque conocía bien el faro."
+            },
+            {
+                "enunciado": "¿Por qué crees que es importante proteger los objetos antiguos que hay bajo el mar?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque esos objetos son parte de nuestra historia y si los ladrones se los llevan para venderlos, ya nadie podrá verlos en los museos ni aprender cómo vivía la gente antes."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Estante Trece",
+        "tema": "misterio",
+        "texto": "La antigua biblioteca de la familia Mendoza era un lugar donde el tiempo parecía haberse detenido entre paredes tapizadas de terciopelo verde y estanterías de roble que exhalaban un aroma embriagador a papel viejo y cera. Julián, un chico de once años con una curiosidad que a menudo lo metía en problemas, había sido enviado allí para ayudar a su tía abuela Beatriz a catalogar miles de volúmenes polvorientos. Todo transcurría con normalidad hasta que Julián notó algo extraño en el estante número trece de la sección de historia local. A diferencia de los otros, este anaquel siempre estaba ligeramente más frío al tacto y los libros allí colocados vibraban imperceptiblemente cuando el reloj de pared daba las doce. Un martes especialmente nublado, mientras pasaba un plumero por los lomos de cuero, Julián descubrió que el volumen titulado 'Crónicas de la Niebla' no era un libro real, sino una caja de madera tallada con una cerradura de combinación numérica oculta bajo el escudo familiar. Recordó que su abuelo siempre mencionaba el año en que se fundó el pueblo como la cifra más importante de su linaje. Con manos temblorosas, marcó 1842. Un clic metálico resonó en la estancia y la parte trasera del estante se deslizó hacia atrás, revelando un pequeño compartimento secreto. Dentro no había joyas ni oro, sino un mapa dibujado con tinta china y una carta escrita con una caligrafía elegante y nerviosa. La carta hablaba de un túnel olvidado que conectaba la biblioteca con el antiguo pozo del jardín, construido para proteger documentos valiosos durante las invasiones del siglo pasado. De repente, Julián sintió una corriente de aire frío y escuchó unos pasos pesados que se detenían justo frente a la puerta cerrada de la biblioteca. ¿Quién más conocía ese secreto? Guardó el mapa en su bolsillo justo antes de que el pomo de la puerta girara lentamente. Era el notario del pueblo, un hombre de mirada esquiva que siempre preguntaba por el testamento de los Mendoza. Julián fingió estar concentrado en un libro de botánica mientras su corazón martilleaba contra sus costillas. El notario inspeccionó la sala con sospecha, pero al no ver nada fuera de lugar, se marchó murmurando entre dientes. Esa misma noche, Julián decidió seguir el mapa. Con una linterna y mucha determinación, descendió al sótano y encontró la entrada oculta tras una pila de carbón. El túnel era estrecho y olía a tierra mojada, pero al final, bajo el pozo, encontró un cofre metálico que contenía las escrituras originales de las tierras comunales del pueblo, las cuales el alcalde planeaba vender ilegalmente. Julián comprendió que el verdadero tesoro era la verdad que podía salvar el futuro de todos sus vecinos. Entregó las pruebas a la justicia de forma anónima, asegurándose de que el legado de su familia sirviera para el bien común. El misterio del estante trece se resolvió, pero Julián sabía que aquella biblioteca aún guardaba mil historias esperando ser descubiertas por alguien que supiera mirar más allá de lo evidente.",
+        "glosario": [
+            {
+                "palabra": "Anaquel",
+                "definición": "Cada uno de los estantes o tablas horizontales que sirven para poner libros u objetos."
+            },
+            {
+                "palabra": "Incunable",
+                "definición": "Libro impreso durante el siglo XV, en los primeros tiempos de la invención de la imprenta."
+            },
+            {
+                "palabra": "Linaje",
+                "definición": "Conjunto de los antepasados y descendientes de una misma familia."
+            },
+            {
+                "palabra": "Metódico",
+                "definición": "Persona que hace las cosas siguiendo un orden muy estricto y con mucho cuidado."
+            },
+            {
+                "palabra": "Perspicacia",
+                "definición": "Capacidad para darse cuenta de las cosas difíciles o que están ocultas para los demás."
+            },
+            {
+                "palabra": "Esquiva",
+                "definición": "Una mirada o actitud que evita el trato con los demás o que parece ocultar algo."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Algo material o inmaterial que se deja a las generaciones siguientes como herencia."
+            },
+            {
+                "palabra": "Escrituras",
+                "definición": "Documentos legales que demuestran quién es el dueño de una casa o de unas tierras."
+            },
+            {
+                "palabra": "Testamento",
+                "definición": "Documento donde una persona escribe qué quiere que se haga con sus cosas tras morir."
+            },
+            {
+                "palabra": "Criptografía",
+                "definición": "Arte de escribir mensajes con claves secretas para que nadie más pueda entenderlos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué año utilizó Julián para abrir la cerradura secreta?",
+                "tipo": "test",
+                "opciones": [
+                    "1942",
+                    "1842",
+                    "1812",
+                    "1742"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era el título del libro falso que ocultaba la caja de madera?",
+                "tipo": "test",
+                "opciones": [
+                    "Secretos del Pueblo",
+                    "Crónicas de la Niebla",
+                    "Historia de los Mendoza",
+                    "El Tesoro de Beatriz"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto encontró Julián al final del túnel bajo el pozo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una bolsa de monedas de oro",
+                    "Un cofre con las escrituras originales de las tierras",
+                    "Un diario de su abuelo",
+                    "Joyas de la familia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que el estante trece estaba más frío que los demás?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba cerca de una ventana rota",
+                    "Porque el compartimento secreto conectaba con un túnel subterráneo",
+                    "Porque los fantasmas lo enfriaban",
+                    "Porque era de un material diferente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué intención tenía el notario al visitar la biblioteca?",
+                "tipo": "test",
+                "opciones": [
+                    "Ayudar a Julián con el polvo",
+                    "Encontrar el mapa del túnel",
+                    "Buscar el testamento de los Mendoza para su propio beneficio",
+                    "Leer libros de botánica"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Julián entregó las pruebas de forma anónima?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía miedo de que el alcalde le hiciera algo",
+                    "Porque no quería fama y solo quería ayudar al pueblo",
+                    "Porque no sabía quién era él mismo",
+                    "Porque la tía Beatriz se lo ordenó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación hay entre el mapa y el pozo del jardín?",
+                "tipo": "test",
+                "opciones": [
+                    "El pozo era donde se tiraba el mapa",
+                    "El mapa indicaba que el túnel terminaba bajo el pozo",
+                    "El pozo servía para beber agua durante el dibujo",
+                    "No tienen ninguna relación"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hubiera pasado si Julián no hubiera sido curioso?",
+                "tipo": "test",
+                "opciones": [
+                    "El pueblo sería más rico",
+                    "El alcalde habría vendido las tierras ilegalmente sin que nadie lo supiera",
+                    "El notario habría encontrado el tesoro antes",
+                    "La biblioteca se habría quemado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Julián hizo bien en ocultarle la verdad al notario? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí hizo súper bien porque el notario parecía un poco mentiroso y sospechoso. Si le decía la verdad, a lo mejor el notario le quitaba el mapa y se quedaba con el tesoro él solo."
+            },
+            {
+                "enunciado": "Si encontraras un túnel secreto en tu casa, ¿te atreverías a entrar como Julián?",
+                "tipo": "abierta",
+                "respuestaModelo": "¡Claro que sí! Me daría un poco de miedo por si hay bichos o está muy oscuro, pero la curiosidad de ver qué hay al final sería más fuerte. Eso sí, me llevaría una linterna con mucha batería."
+            }
+        ]
+    },
+    {
+        "titulo": "La Sombra del Faro de San Telmo",
+        "tema": "misterio",
+        "texto": "El pueblo costero de San Telmo era famoso por su densa bruma y por el faro que, según los marineros, proyectaba sombras de barcos que ya no existían. Marina, cuyo padre era el actual farero, conocía cada rincón de la torre de piedra, pero nunca se le había permitido subir a la linterna durante las tormentas. Una noche de viernes, un rayo impactó en el pararrayos y, de forma inexplicable, la luz principal se tornó de un color violeta intenso. Don Ramón, su padre, bajó corriendo a la sala de máquinas gritando que el sistema se había vuelto loco. Marina aprovechó el desconcierto para subir por la escalera de caracol. Al llegar arriba, el haz de luz violeta iluminaba un punto exacto en el mar, justo donde las rocas formaban un círculo perfecto llamado 'El Ojo del Diablo'. Marina usó sus prismáticos y divisó un pequeño bote de madera que flotaba sin remos, pero en su interior brillaba algo metálico. Lo más extraño es que el bote parecía moverse en contra de la corriente, como si algo lo empujara desde las profundidades. Con sigilo, Marina bajó a la playa y cogió su kayak. El mar estaba inquieto, y la espuma salada le golpeaba la cara. Al acercarse al bote, descubrió que no había nadie, solo un viejo catalejo de latón y una brújula cuya aguja giraba sin control. Debajo de un banco de madera, encontró una trampilla. Al abrirla, vio un compartimento estanco con un mensaje en una botella. El papel estaba amarillento y decía: 'La marea devuelve lo que la ambición robó'. Marina recordó la historia del naufragio del 'Santa Lucía', un barco que transportaba medicinas para una epidemia hace cien años y que nunca llegó a puerto porque alguien saboteó su ruta. Siguiendo el haz violeta que seguía marcando el camino, Marina se dio cuenta de que el bote la guiaba hacia una cueva submarina que solo era visible durante la marea más baja del año, que era precisamente esa noche. Entró en la cueva y encontró cajas de madera con el sello de la Cruz Roja de 1920, conservadas perfectamente por el frío y el aislamiento. No eran tesoros de piratas, sino la ayuda médica que el pueblo necesitó en su día y que alguien escondió para venderla por dinero. Al salir, la luz del faro volvió a ser blanca y el bote desapareció entre la niebla como si nunca hubiera existido. Marina regresó a casa y le contó todo a su padre. Juntos avisaron al museo histórico. Los documentos encontrados en las cajas revelaron quién fue el saboteador: el tatarabuelo del hombre más rico del pueblo actual. La verdad salió a la luz un siglo después, limpiando el nombre de los marineros acusados injustamente. Marina comprendió que el faro no solo guiaba a los vivos, sino que a veces ayudaba a que la justicia descansara por fin tranquila.",
+        "glosario": [
+            {
+                "palabra": "Bruma",
+                "definición": "Niebla que se forma sobre el mar, que no deja ver bien a lo lejos."
+            },
+            {
+                "palabra": "Inexplicable",
+                "definición": "Algo que no se puede entender o que no tiene una razón clara de por qué ocurre."
+            },
+            {
+                "palabra": "Sigilo",
+                "definición": "Hacer algo con mucho silencio y cuidado para que nadie se dé cuenta."
+            },
+            {
+                "palabra": "Estanco",
+                "definición": "Un recipiente o lugar que está tan bien cerrado que no deja pasar el agua ni el aire."
+            },
+            {
+                "palabra": "Ambición",
+                "definición": "Deseo muy fuerte de tener mucho dinero o poder, sin importar a quién se haga daño."
+            },
+            {
+                "palabra": "Naufragio",
+                "definición": "Cuando un barco se hunde en el mar debido a un accidente o tormenta."
+            },
+            {
+                "palabra": "Saboteó",
+                "definición": "Dañar algo a propósito para que no funcione bien o para impedir que se haga un trabajo."
+            },
+            {
+                "palabra": "Epidemia",
+                "definición": "Enfermedad que se extiende muy rápido por un pueblo o país afectando a mucha gente."
+            },
+            {
+                "palabra": "Catalejo",
+                "definición": "Instrumento parecido a un telescopio pequeño que sirve para ver cosas de lejos."
+            },
+            {
+                "palabra": "Vestigio",
+                "definición": "Recuerdo o señal que queda de algo que pasó hace mucho tiempo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De qué color se puso la luz del faro tras el rayo?",
+                "tipo": "test",
+                "opciones": [
+                    "Verde esmeralda",
+                    "Violeta intenso",
+                    "Rojo brillante",
+                    "Amarillo pálido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba el lugar peligroso donde las rocas formaban un círculo?",
+                "tipo": "test",
+                "opciones": [
+                    "La Boca del Lobo",
+                    "El Ojo del Diablo",
+                    "La Roca Negra",
+                    "El Abismo Azul"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué había dentro de las cajas encontradas en la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de plata",
+                    "Medicinas antiguas de 1920",
+                    "Mapas de piratas",
+                    "Comida para los marineros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el bote se movía de forma extraña según Marina?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía un motor eléctrico",
+                    "Porque iba en contra de la corriente como empujado por algo invisible",
+                    "Porque Marina lo remolcaba",
+                    "Porque el viento soplaba muy fuerte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué se puede deducir sobre el haz de luz violeta?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era un error de la bombilla",
+                    "Que era una señal mágica para guiar a Marina hacia la verdad",
+                    "Que era una luz para asustar a los peces",
+                    "Que era parte de un experimento del padre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el verdadero motivo del hundimiento del 'Santa Lucía'?",
+                "tipo": "test",
+                "opciones": [
+                    "Una tormenta muy fuerte",
+                    "Un sabotaje provocado por la ambición de un hombre",
+                    "Que el barco era muy viejo",
+                    "Que el farero de entonces se quedó dormido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué era importante que fuera la noche de marea más baja del año?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que el agua estuviera más caliente",
+                    "Porque era el único momento en que se podía ver la entrada de la cueva",
+                    "Porque Marina tenía permiso para salir",
+                    "Porque los peces no picaban"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué consecuencia tuvo el descubrimiento de Marina para el pueblo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se hicieron todos ricos",
+                    "Que se supo la verdad sobre el saboteador y se limpió el nombre de los marineros",
+                    "Que cerraron el faro para siempre",
+                    "Que Marina se convirtió en la nueva farera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece que Marina fue responsable al irse sola en el kayak por la noche?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue un poco peligroso porque el mar estaba inquieto y de noche es fácil perderse. Pero como ella conocía muy bien la costa, se arriesgó para resolver el misterio y ayudar a su pueblo."
+            },
+            {
+                "enunciado": "Si fueras Marina, ¿habrías contado la verdad sobre el tatarabuelo del hombre rico?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, porque aunque ese hombre ahora sea rico, es justo que se sepa que su familia hizo algo malo en el pasado. La verdad es más importante que el dinero, sobre todo si acusaron a inocentes."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Reloj de Arena",
+        "tema": "misterio",
+        "texto": "La mansión de los Ecos siempre había permanecido en un silencio sepulcral, hasta que llegó el verano del duodécimo cumpleaños de Marcos. Sus padres habían heredado la propiedad de un tío lejano que, según los rumores del pueblo, era un inventor de artilugios imposibles. El primer día, Marcos exploró el desván, un lugar donde el polvo danzaba en los rayos de sol que atravesaban las tejas rotas. Allí, bajo una sábana de terciopelo azul, encontró un objeto fascinante: un reloj de arena de cuatro brazos. Lo más extraño no era su forma, sino que la arena caía hacia arriba, desafiando toda lógica física conocida. Al tocar el cristal frío, Marcos escuchó un clic metálico bajo sus pies. Una tabla del suelo se deslizó, revelando un pequeño compartimento secreto donde descansaba un diario encuadernado en cuero desgastado. Las páginas estaban llenas de diagramas complejos y anotaciones apresuradas. La primera frase decía: El tiempo no corre, nosotros caminamos a través de él. Marcos, intrigado, decidió investigar el significado de aquellas palabras. Esa misma noche, mientras todos dormían, el reloj empezó a emitir un zumbido rítmico. Al acercarse, el joven notó que el cristal mostraba imágenes borrosas de la mansión, pero tal como era hace cien años. Vio a su tío abuelo escondiendo algo detrás de la chimenea del salón principal. Con el corazón latiendo con fuerza, Marcos bajó las escaleras. El salón estaba a oscuras, solo iluminado por la pálida luz de la luna llena. Buscó el ladrillo exacto que había visto en la visión del reloj. Al presionarlo, un resorte saltó y una pequeña caja de madera de cedro cayó al suelo. Dentro no había joyas ni oro, sino las escrituras originales de los bosques cercanos. Marcos comprendió entonces el gran secreto: su tío abuelo había comprado los bosques para evitar que fueran talados por la industria maderera de la época. Sin embargo, los documentos habían desaparecido tras su muerte, y ahora una empresa moderna reclamaba las tierras. Marcos sabía que tenía la prueba necesaria para salvar el entorno natural del pueblo. Justo cuando guardaba los papeles, una sombra se proyectó en la pared. Era el gato de la mansión, que parecía vigilar sus movimientos con ojos inteligentes. El misterio del reloj de arena no era un truco de magia, sino una brújula temporal diseñada para que alguien con buen corazón encontrara la verdad oculta. A la mañana siguiente, Marcos entregó los documentos a sus padres, quienes contactaron de inmediato con las autoridades locales. El bosque fue declarado reserva protegida permanentemente. Al volver al desván, el reloj de arena ya no estaba; en su lugar, solo quedaba una nota que decía: Buen trabajo, guardián. Marcos sonrió, comprendiendo que algunos misterios solo se revelan a quienes están dispuestos a mirar más allá de lo evidente y usar la curiosidad para hacer el bien. La mansión de los Ecos ya no parecía un lugar sombrío, sino un hogar lleno de historias esperando ser contadas.",
+        "glosario": [
+            {
+                "palabra": "Sepulcral",
+                "definición": "Un silencio muy profundo y serio, como el que hay en los cementerios."
+            },
+            {
+                "palabra": "Artilugios",
+                "definición": "Mecanismos o aparatos extraños, a veces complicados, hechos para un fin."
+            },
+            {
+                "palabra": "Desván",
+                "definición": "Parte más alta de una casa, cerca del tejado, que se usa para guardar cosas viejas."
+            },
+            {
+                "palabra": "Lógica",
+                "definición": "Forma de pensar que usa la razón para entender si algo tiene sentido."
+            },
+            {
+                "palabra": "Diagramas",
+                "definición": "Dibujos o esquemas que sirven para explicar cómo funciona algo o cómo están relacionadas sus partes."
+            },
+            {
+                "palabra": "Resorte",
+                "definición": "Pieza elástica, normalmente de metal, que al soltarse recupera su forma y mueve un mecanismo."
+            },
+            {
+                "palabra": "Escrituras",
+                "definición": "Documentos legales que demuestran quién es el dueño de una propiedad o tierra."
+            },
+            {
+                "palabra": "Industria maderera",
+                "definición": "Negocio que se dedica a talar árboles para vender su madera."
+            },
+            {
+                "palabra": "Sombrío",
+                "definición": "Un lugar oscuro, poco iluminado o que transmite tristeza y miedo."
+            },
+            {
+                "palabra": "Evidente",
+                "definición": "Algo que se ve con mucha claridad y que nadie puede dudar de que es cierto."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué edad cumple Marcos el verano que llega a la mansión?",
+                "tipo": "test",
+                "opciones": [
+                    "Diez años",
+                    "Once años",
+                    "Doce años",
+                    "Catorce años"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué tiene de especial la arena del reloj que encuentra Marcos?",
+                "tipo": "test",
+                "opciones": [
+                    "Es de color azul brillante",
+                    "Cae hacia arriba",
+                    "No se mueve nunca",
+                    "Cambia de color según el tiempo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde estaba escondida la caja de madera de cedro?",
+                "tipo": "test",
+                "opciones": [
+                    "En el desván",
+                    "Detrás de la chimenea",
+                    "Bajo la cama de sus padres",
+                    "En el jardín"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el tío abuelo de Marcos escondió las escrituras?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que nadie le robara su fortuna",
+                    "Porque quería que se perdieran para siempre",
+                    "Para proteger los bosques de la industria maderera",
+                    "Porque no sabía qué hacer con ellas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué función real tenía el reloj de arena según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Era un juguete antiguo",
+                    "Servía para medir el tiempo de cocina",
+                    "Era una brújula temporal para encontrar la verdad",
+                    "Era un despertador"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué ocurrió con el reloj después de que se resolvió el misterio?",
+                "tipo": "test",
+                "opciones": [
+                    "Se rompió en mil pedazos",
+                    "Desapareció y dejó una nota",
+                    "Se lo regalaron al pueblo",
+                    "Empezó a funcionar normalmente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre el tío abuelo de Marcos?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era una persona egoísta",
+                    "Que le importaba mucho la naturaleza",
+                    "Que no sabía construir nada",
+                    "Que no quería a su familia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el relato se titula 'El Enigma del Reloj de Arena'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el reloj es el objeto clave para resolver el problema",
+                    "Porque a Marcos le gustan los relojes",
+                    "Porque el misterio ocurre en una tienda de relojes",
+                    "Porque el tiempo se detiene en la mansión"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Crees que Marcos hizo bien en no decirle nada a sus padres hasta encontrar las pruebas?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí hizo bien porque a veces los adultos no creen en cosas mágicas como relojes que van al revés. Si les hubiera dicho algo antes, igual pensaban que eran fantasías y no le dejaban investigar el salón de noche."
+            },
+            {
+                "enunciado": "¿Qué importancia tiene proteger los bosques para el futuro del pueblo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es súper importante porque los árboles nos dan aire limpio y son la casa de muchos animales. Si los cortan para hacer fábricas o casas, el pueblo se quedaría sin naturaleza y eso es algo que no se puede recuperar si se destruye."
+            }
+        ]
+    },
+    {
+        "titulo": "La Desaparición en el Museo de Cera",
+        "tema": "misterio",
+        "texto": "El museo de cera de Puerto Escondido no era un lugar muy visitado, excepto por Elena, una niña de sexto grado fascinada por la historia. Un viernes por la tarde, mientras recorría la sala de los exploradores, notó algo que le heló la sangre: la figura de la capitana Valerosa, famosa por descubrir rutas secretas en el siglo XVIII, había desaparecido. En su lugar, solo quedaba un charco de agua salada y un pequeño colgante con forma de ancla. Elena sabía que las estatuas de cera no cobran vida, pero también sabía que el director del museo, el señor Plácido, se comportaba de forma errática últimamente. Decidida a resolver el enigma, se escondió detrás de un pesado telón de terciopelo rojo cuando el museo cerró sus puertas. La oscuridad era casi total, rota solo por el parpadeo de las luces de emergencia. Cerca de la medianoche, escuchó pasos metálicos resonando en el pasillo principal. No era el señor Plácido. Era una figura alta, vestida con un traje de buceo antiguo, que arrastraba algo pesado hacia el sótano. Elena, con el corazón en un puño, lo siguió manteniendo una distancia prudencial. En el sótano, descubrió que no era un museo normal, sino una tapadera. El sótano conectaba directamente con una cueva marina. Allí, vio la figura de la capitana Valerosa, pero no era de cera; era una persona real disfrazada. El señor Plácido y un cómplice estaban interrogándola sobre la ubicación de un galeón hundido. Sofía comprendió que habían secuestrado a una historiadora experta que se parecía a la estatua para obligarla a trabajar para ellos. Utilizando su ingenio, Sofía buscó el panel de control del sistema de incendios. Sabía que si activaba la alarma, el ruido y el agua distraerían a los malhechores. Al accionar la palanca, un estruendo ensordecedor llenó la cueva y chorros de agua empezaron a caer por todas partes. Los delincuentes, confundidos y pensando que el techo se derrumbaba por la marea, salieron corriendo hacia la salida trasera. Sofía ayudó a la historiadora a desatarse. Resultó que la mujer había descubierto que el museo se construyó sobre un antiguo cementerio de barcos y que el director quería robar los tesoros antes de que el gobierno se hiciera cargo. Gracias a la valentía de Elena, la policía llegó en pocos minutos y detuvo a los culpables. El museo fue restaurado y la capitana Valerosa volvió a su pedestal, pero esta vez con una placa nueva que mencionaba la hazaña de Elena. El charco de agua salada del principio no era magia, sino el rastro que dejó el buceador al entrar desde la cueva. Elena aprendió que la realidad puede ser más misteriosa que la ficción y que los verdaderos héroes no siempre llevan capa, sino a veces solo una mochila de colegio y mucha valentía para enfrentarse a la injusticia.",
+        "glosario": [
+            {
+                "palabra": "Errática",
+                "definición": "Persona que actúa de forma rara, sin un plan claro o cambiando de opinión constantemente."
+            },
+            {
+                "palabra": "Errante",
+                "definición": "Algo o alguien que anda de un lugar a otro sin tener un sitio fijo donde quedarse."
+            },
+            {
+                "palabra": "Galeón",
+                "definición": "Barco de vela muy grande que se usaba hace siglos para la guerra o el comercio."
+            },
+            {
+                "palabra": "Tapadera",
+                "definición": "Negocio o actividad que sirve para esconder algo ilegal que se está haciendo en secreto."
+            },
+            {
+                "palabra": "Interrogándola",
+                "definición": "Hacer muchas preguntas a alguien para obtener información, a veces de forma obligada."
+            },
+            {
+                "palabra": "Malhechores",
+                "definición": "Personas que hacen cosas malas o cometen delitos."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base sobre la que se pone una estatua u objeto para que se vea mejor."
+            },
+            {
+                "palabra": "Ensordecedor",
+                "definición": "Un ruido tan fuerte que parece que te va a dejar sordo por un momento."
+            },
+            {
+                "palabra": "Hazaña",
+                "definición": "Una acción muy valiente, heroica o difícil de hacer."
+            },
+            {
+                "palabra": "Prudencial",
+                "definición": "Hacer algo con cuidado y manteniendo una distancia para evitar un peligro."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto encontró Elena en el lugar donde debía estar la estatua?",
+                "tipo": "test",
+                "opciones": [
+                    "Una moneda de oro",
+                    "Un colgante con forma de ancla",
+                    "Un mapa del tesoro",
+                    "Una llave oxidada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba la estatua de la exploradora desaparecida?",
+                "tipo": "test",
+                "opciones": [
+                    "Capitana Valerosa",
+                    "Marinera Esperanza",
+                    "Pirata Veloz",
+                    "Exploradora Elena"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué había en realidad debajo del museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un parking secreto",
+                    "Una cueva marina",
+                    "Un laboratorio de cera",
+                    "Una tienda de buceo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el señor Plácido secuestró a la historiadora?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que limpiara el museo",
+                    "Para que le enseñara a hacer estatuas",
+                    "Para obligarla a decirle dónde estaba un barco hundido",
+                    "Porque era su amiga"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué truco usó Elena para distraer a los ladrones?",
+                "tipo": "test",
+                "opciones": [
+                    "Gritó muy fuerte",
+                    "Llamó por teléfono",
+                    "Activó el sistema de incendios",
+                    "Apagó todas las luces"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿De qué era el charco que Elena vio al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Cera derretida",
+                    "Agua salada que dejó el buceador",
+                    "Refresco de fresa",
+                    "Lluvia de la calle"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre el carácter de Elena?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es asustadiza y prefiere no meterse en líos",
+                    "Que es muy observadora y decidida",
+                    "Que no le gusta la historia",
+                    "Que quiere ser buceadora"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la verdadera intención del director del museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacer el museo más famoso",
+                    "Robar tesoros arqueológicos para hacerse rico",
+                    "Arreglar las estatuas rotas",
+                    "Cerrar el museo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué piensas del comportamiento del director? ¿Es peor por ser el encargado del museo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí es peor porque él debería cuidar el museo y la historia del pueblo, no usarlo para robar. Es como si un policía robara en una tienda; está traicionando la confianza de todos."
+            },
+            {
+                "enunciado": "¿Te parece que Elena fue valiente o que se puso en peligro innecesariamente?",
+                "tipo": "abierta",
+                "respuestaModelo": "Fue muy valiente, aunque un poco arriesgado. Si no se hubiera escondido, nadie habría sabido que la historiadora estaba en peligro. A veces hay que ser valiente para ayudar a los demás cuando ves que algo está mal."
+            }
+        ]
+    }
+]

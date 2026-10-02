@@ -1,0 +1,194 @@
+[
+  {
+    "titulo": "Tobi y el cometa de caramelo",
+    "tema": "ciencia ficción",
+    "texto": "Tobi era un niño que vivía en una pequeña estación espacial llamada Dulce-Órbita, situada cerca de la Vía Láctea. A diferencia de otras estaciones grises y aburridas, Dulce-Órbita estaba fabricada con paneles de colores que brillaban como piruletas gigantes bajo la luz de las estrellas. Un viernes por la tarde, mientras Tobi miraba por el gran ventanal de su habitación, vio un objeto extraño cruzando el espacio a toda velocidad. Parecía un cometa, pero dejaba un rastro de polvo rosa que olía a fresa silvestre. Tobi activó su radar personal y descubrió que era el legendario Cometa de Caramelo, un fenómeno que solo ocurría cada cien años terrestres. Rápidamente, el niño avisó a su robot doméstico, llamado Chicle, para que preparara los recolectores de energía. Juntos, lograron atrapar una pequeña muestra de ese polvo mágico usando un rayo tractor de luz violeta. Al analizarlo en el laboratorio, descubrieron que el polvo podía generar electricidad limpia para toda la estación durante una década entera. Tobi se sintió muy feliz porque su descubrimiento ayudaría a todos sus vecinos. Esa noche, los habitantes de Dulce-Órbita celebraron una fiesta espacial mientras contemplaban cómo el cometa se alejaba hacia otras galaxias lejanas de este universo.",
+    "glosario": [
+      { "palabra": "Órbita", "definición": "Trayectoria que recorre un objeto alrededor de otro en el espacio." },
+      { "palabra": "Radar", "definición": "Sistema que sirve para detectar objetos lejanos mediante ondas." },
+      { "palabra": "Legendario", "definición": "Algo muy famoso que se conoce por historias o leyendas antiguas." },
+      { "palabra": "Rayo tractor", "definición": "Tecnología imaginaria que sirve para atraer objetos hacia una nave." },
+      { "palabra": "Galaxia", "definición": "Gran conjunto de estrellas, planetas, gas y polvo unidos por la gravedad." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama la estación espacial donde vive Tobi?", "tipo": "test", "opciones": ["Marte-1", "Dulce-Órbita", "Estrella Gris", "Nave Piruleta"], "correctaIdx": 1 },
+      { "enunciado": "¿A qué olía el rastro del cometa?", "tipo": "test", "opciones": ["A chocolate", "A vainilla", "A fresa silvestre", "A menta"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se llama el robot doméstico de Tobi?", "tipo": "test", "opciones": ["Chicle", "Tuercas", "Botón", "Rayo"], "correctaIdx": 0 },
+      { "enunciado": "¿Cada cuánto tiempo pasa el Cometa de Caramelo?", "tipo": "test", "opciones": ["Cada año", "Cada diez años", "Cada cien años", "Cada mil años"], "correctaIdx": 2 },
+      { "enunciado": "¿Para qué sirve el polvo del cometa según el laboratorio?", "tipo": "test", "opciones": ["Para hacer dulces", "Para pintar la nave", "Para generar electricidad limpia", "Para viajar más rápido"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué usaron para atrapar la muestra de polvo?", "tipo": "test", "opciones": ["Una red metálica", "Un rayo tractor", "Una caja de cristal", "Sus propias manos"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué color era la luz del rayo tractor?", "tipo": "test", "opciones": ["Azul", "Verde", "Roja", "Violeta"], "correctaIdx": 3 },
+      { "enunciado": "¿Por qué Tobi se sintió feliz al final?", "tipo": "test", "opciones": ["Porque comió caramelos", "Porque su descubrimiento ayudaría a sus vecinos", "Porque se fue de fiesta", "Porque el cometa era suyo"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo son las estaciones espaciales normales según el texto?", "tipo": "test", "opciones": ["Colores brillantes", "Grises y aburridas", "Hechas de madera", "Muy pequeñas"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hicieron los habitantes esa noche?", "tipo": "test", "opciones": ["Dormir temprano", "Limpiar la estación", "Celebrar una fiesta espacial", "Viajar a otra galaxia"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "Iris y el mapa estelar",
+    "tema": "ciencia ficción",
+    "texto": "Iris era la mejor piloto de drones de la Ciudad de Cristal, una metrópoli protegida por una burbuja gigante en la superficie de Saturno. Un lunes, mientras realizaba sus prácticas de vuelo con su dron favorito, Turbo, Iris encontró un antiguo disco de metal semienterrado en la arena plateada. Al limpiarlo, el disco proyectó un mapa holográfico que mostraba una ruta hacia una reserva de agua pura en una de las lunas heladas de Saturno, llamada Titán. En la Ciudad de Cristal el agua era muy escasa y valiosa. Sin decir nada a nadie, Iris dirigió a Turbo fuera de la burbuja protectora, esquivando los peligrosos anillos de asteroides que rodeaban el planeta. Fue una misión arriesgada, pero su habilidad con los controles era asombrosa. Al llegar a las coordenadas, Iris descubrió un manantial subterráneo de agua cristalina. Regresó a la ciudad como una heroína nacional. El alcalde le entregó una medalla al valor y nombró a Iris Jefa de Exploración Estelar. Ahora, gracias a su curiosidad y valentía, la Ciudad de Cristal tendría agua para miles de años, y los niños ya no tendrían que estudiar solo sobre hologramas de ríos, sino que pronto podrían ver el agua correr de verdad por las calles de su hogar espacial.",
+    "glosario": [
+      { "palabra": "Metrópoli", "definición": "Ciudad de gran tamaño que tiene mucha importancia y muchos habitantes." },
+      { "palabra": "Holográfico", "definición": "Imagen creada con luz que parece tener tres dimensiones y ser real." },
+      { "palabra": "Asteroides", "definición": "Cuerpos rocosos y metálicos que orbitan alrededor del sol o planetas." },
+      { "palabra": "Manantial", "definición": "Lugar donde el agua brota de la tierra o entre las rocas de forma natural." },
+      { "palabra": "Audacia", "definición": "Capacidad para realizar acciones arriesgadas con valentía y decisión." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué planeta se encuentra la Ciudad de Cristal?", "tipo": "test", "opciones": ["Marte", "Júpiter", "Saturno", "Venus"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué encontró Iris en la arena plateada?", "tipo": "test", "opciones": ["Una moneda de oro", "Un disco de metal", "Un trozo de hielo", "Una planta rara"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué proyectaba el disco al limpiarlo?", "tipo": "test", "opciones": ["Una película", "Un mapa holográfico", "Su nombre", "Un dibujo de Saturno"], "correctaIdx": 1 },
+      { "enunciado": "¿En qué luna se encontraba la reserva de agua pura?", "tipo": "test", "opciones": ["Europa", "Luna", "Titán", "Ganimedes"], "correctaIdx": 2 },
+      { "enunciado": "¿Cuál era el riesgo principal de salir de la burbuja protectora?", "tipo": "test", "opciones": ["Perder el dron Turbo", "Los peligros de los asteroides", "Que se apagara el sol", "Quedarse sin botas nuevas"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué cualidad destacó el alcalde al premiar a Iris?", "tipo": "test", "opciones": ["Su fuerza física", "Su curiosidad y valentía", "Su capacidad para dibujar", "Su velocidad al correr"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo ayuda el hallazgo de Iris al futuro de la ciudad?", "tipo": "test", "opciones": ["Permite tener más juguetes", "Asegura agua para miles de años", "Ayuda a pintar los anillos", "Permite viajar a Marte"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llama el dron de Iris?", "tipo": "test", "opciones": ["Rayo", "Turbo", "Veloz", "Eco"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hacían los niños antes para conocer los ríos?", "tipo": "test", "opciones": ["Iban de excursión", "Estudiaban hologramas", "Leían libros de papel", "No sabían qué eran"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué el agua era tan importante en esa ciudad?", "tipo": "test", "opciones": ["Porque era de colores", "Porque era escasa y valiosa", "Porque servía de combustible", "Porque era mágica"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Alma y el pájaro de Titán",
+    "tema": "ciencia ficción",
+    "texto": "Alma vivía en Titán, una luna de Saturno donde las rocas eran de color naranja brillante. Cada mañana, se ponía su traje espacial plateado y salía a explorar los ríos de metano líquido con su perro robótico, llamado Tuercas. Un martes, mientras caminaba cerca de las montañas de hielo, algo metálico brilló entre la espesa niebla. Era un pequeño pájaro mecánico con las alas rotas y sensores apagados. Alma lo recogió con cuidado y lo llevó a su laboratorio biológico. Allí, descubrió que el pájaro funcionaba con energía estelar, pero sus paneles estaban cubiertos de polvo cósmico. Con un cepillo de cerdas suaves, Alma limpió el mecanismo hasta que los ojos del pájaro se encendieron con una luz azul intensa. El animalito empezó a cantar una melodía electrónica que recordaba al sonido de las estrellas. Alma comprendió que la tecnología, al igual que los seres vivos, necesitaba cariño y mantenimiento para funcionar correctamente. Desde aquel día, el pájaro mecánico se convirtió en el guía oficial de la estación. Juntos, exploraban los rincones más lejanos de Titán, demostrando que la amistad no tiene límites, ni siquiera en el vacío del espacio exterior.",
+    "glosario": [
+      { "palabra": "Titán", "definición": "Nombre de la luna más grande del planeta Saturno." },
+      { "palabra": "Metano", "definición": "Tipo de gas que en lugares muy fríos puede convertirse en líquido." },
+      { "palabra": "Sensores", "definición": "Dispositivos que sirven para detectar cambios en el entorno, como la luz o el calor." },
+      { "palabra": "Estelar", "definición": "Relacionado con las estrellas." },
+      { "palabra": "Cósmico", "definición": "Perteneciente al espacio exterior o al universo en general." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué color eran las rocas en la luna Titán?", "tipo": "test", "opciones": ["Azules", "Naranjas", "Verdes", "Grises"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llama el perro robótico de Alma?", "tipo": "test", "opciones": ["Tornillo", "Tuercas", "Rayo", "Metal"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué encontró Alma cerca de las montañas de hielo?", "tipo": "test", "opciones": ["Una planta", "Un pájaro mecánico", "Una moneda", "Un casco"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué tipo de energía usaba el pájaro para funcionar?", "tipo": "test", "opciones": ["Pilas", "Gasolina", "Energía estelar", "Viento"], "correctaIdx": 2 },
+      { "enunciado": "¿De qué estaban cubiertos los paneles del pájaro?", "tipo": "test", "opciones": ["De agua", "De polvo cósmico", "De pintura", "De nieve"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué color se encendieron los ojos del pájaro?", "tipo": "test", "opciones": ["Rojos", "Amarillos", "Verdes", "Azules"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué tipo de melodía cantaba el animalito?", "tipo": "test", "opciones": ["Una canción de cuna", "Una melodía electrónica", "Un rock espacial", "Un silencio"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál fue la lección que aprendió Alma?", "tipo": "test", "opciones": ["Que el espacio es peligroso", "Que la tecnología necesita cariño y mantenimiento", "Que los robots no cantan", "Que Titán es muy frío"], "correctaIdx": 1 },
+      { "enunciado": "¿En qué se convirtió el pájaro al final de la historia?", "tipo": "test", "opciones": ["En un juguete", "En el guía oficial de la estación", "En un satélite", "En una lámpara"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué nos enseña la historia sobre la amistad?", "tipo": "test", "opciones": ["Que solo existe entre humanos", "Que no tiene límites", "Que es difícil en el espacio", "Que los robots no tienen amigos"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Rayo y el cristal de navegación",
+    "tema": "ciencia ficción",
+    "texto": "Leo era un joven estudiante de ingeniería en la Academia Espacial de Marte. Su proyecto final consistía en reparar a Rayo, un pequeño vehículo explorador que se utilizaba para buscar minerales raros en el Planeta Rojo. Rayo tenía una rueda floja y su sistema de orientación estaba estropeado. Mientras buscaba piezas en el almacén de chatarra, Leo encontró un cristal brillante que emitía pulsos de luz verde. Al instalar el cristal en el núcleo de energía de Rayo, algo increíble sucedió. El pequeño robot no solo empezó a moverse con una velocidad asombrosa, sino que proyectaba mapas de galaxias lejanas en las paredes de la academia. La capitana Vega, directora de la academia, quedó impresionada por el hallazgo. Explicó que ese cristal era una antigua memoria de navegación de una civilización perdida. Gracias al esfuerzo de Leo y la energía del cristal, Rayo ya no solo exploraría Marte, sino que ayudaría a los humanos a viajar hacia otras estrellas. Leo aprendió que a veces las piezas que parecen viejas guardan los secretos más grandes del universo. Fue premiado con una beca para estudiar en la Tierra, el hogar original de sus abuelos.",
+    "glosario": [
+      { "palabra": "Ingeniería", "definición": "Estudio y aplicación de la tecnología para diseñar y construir máquinas o estructuras." },
+      { "palabra": "Minerales", "definición": "Sustancias naturales que se encuentran en el suelo o en las rocas." },
+      { "palabra": "Pulsos", "definición": "Apariciones rápidas y repetidas de luz o sonido." },
+      { "palabra": "Núcleo", "definición": "Parte central y más importante de una máquina o sistema." },
+      { "palabra": "Beca", "definición": "Ayuda económica que se recibe para poder estudiar o investigar." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué academia estudia Leo?", "tipo": "test", "opciones": ["Academia de la Tierra", "Academia Espacial de Marte", "Escuela de Robots", "Centro Estelar"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llama el vehículo explorador?", "tipo": "test", "opciones": ["Trueno", "Rayo", "Centella", "Fuego"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué problemas tenía Rayo al principio?", "tipo": "test", "opciones": ["No tenía batería", "Rueda floja y sistema de orientación roto", "Estaba sucio", "No tenía luces"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué encontró Leo en el almacén de chatarra?", "tipo": "test", "opciones": ["Una llave inglesa", "Un cristal brillante", "Una rueda nueva", "Un mapa de papel"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué color eran los pulsos de luz del cristal?", "tipo": "test", "opciones": ["Rojos", "Azules", "Verdes", "Amarillos"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué proyectaba Rayo tras instalar el cristal?", "tipo": "test", "opciones": ["Películas", "Fotos de Leo", "Mapas de galaxias lejanas", "Luces de discoteca"], "correctaIdx": 2 },
+      { "enunciado": "¿Quién es la capitana Vega?", "tipo": "test", "opciones": ["La madre de Leo", "La directora de la academia", "Una piloto de naves", "Una robot"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué era realmente el cristal brillante?", "tipo": "test", "opciones": ["Una pila común", "Una memoria de navegación antigua", "Un trozo de cristal roto", "Una joya cara"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál fue el premio de Leo por su hallazgo?", "tipo": "test", "opciones": ["Una medalla", "Una beca para estudiar en la Tierra", "Un robot nuevo", "Dinero"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué lección importante aprendió Leo?", "tipo": "test", "opciones": ["Que la chatarra no sirve", "Que las piezas viejas pueden guardar grandes secretos", "Que Marte es aburrido", "Que es mejor comprar cosas nuevas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Elena y el Cantor Estelar",
+    "tema": "ciencia ficción",
+    "texto": "Elena vivía en la colonia estelar Vega-7, un lugar donde el cielo siempre era de un color morado brillante. En su burbuja gigante no había árboles ni parques con hierba real, solo hologramas que proyectaban imágenes del pasado terrestre. Un martes, mientras exploraba los túneles de mantenimiento, Elena encontró un pequeño robot con forma de esfera metálica llamado Cantor. Tenía un botón de cristal transparente en el centro que parecía apagado por el polvo. Elena lo limpió con su manga y pulsó el botón con mucha curiosidad. De repente, la habitación se llenó de un sonido mágico y desconocido: el canto de un jilguero. Elena nunca había escuchado a un pájaro de verdad. Cantor también proyectó un pequeño vídeo de bosques verdes y ríos de agua cristalina. La niña comprendió que su misión era proteger esos recuerdos para que los futuros habitantes de Vega-7 supieran cómo era la naturaleza original. Aprendió que la tecnología no solo sirve para viajar rápido por el espacio, sino también para guardar la belleza de la vida. Desde ese día, Elena y Cantor visitan la escuela para compartir esos sonidos con otros niños, soñando juntos con un mañana lleno de flores reales en su hogar.",
+    "glosario": [
+      { "palabra": "Colonia", "definición": "Lugar fuera de la Tierra donde vive un grupo de personas." },
+      { "palabra": "Holograma", "definición": "Imagen brillante que parece un objeto real pero está hecha de luz." },
+      { "palabra": "Mantenimiento", "definición": "Trabajo que se hace para que las máquinas y lugares sigan funcionando bien." },
+      { "palabra": "Esfera", "definición": "Objeto que tiene forma de pelota, completamente redondo." },
+      { "palabra": "Jilguero", "definición": "Pájaro pequeño que tiene un canto muy bonito y variado." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué colonia vive Elena?", "tipo": "test", "opciones": ["Tierra-2", "Vega-7", "Marte-A", "Luna-9"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué color es el cielo en Vega-7?", "tipo": "test", "opciones": ["Azul", "Rojo", "Verde", "Morado brillante"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué forma tiene el robot Cantor?", "tipo": "test", "opciones": ["Cuadrada", "De esfera metálica", "De perro", "De pájaro"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué sonido escuchó Elena al pulsar el botón?", "tipo": "test", "opciones": ["Una alarma", "El canto de un jilguero", "Un trueno", "Música rock"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué proyectó el robot además del sonido?", "tipo": "test", "opciones": ["Un mapa", "Un vídeo de bosques y ríos", "Su nombre", "Un juego"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué no hay árboles reales en la burbuja de Elena?", "tipo": "test", "opciones": ["Porque no les gustan", "Porque es una colonia espacial artificial", "Porque los cortaron", "Porque son de plástico"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es la misión de Elena tras encontrar a Cantor?", "tipo": "test", "opciones": ["Reparar naves", "Proteger los recuerdos de la naturaleza", "Viajar a la Tierra", "Limpiar túneles"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué aprendió Elena sobre la tecnología?", "tipo": "test", "opciones": ["Que es aburrida", "Que solo sirve para correr", "Que sirve para guardar la belleza de la vida", "Que no funciona bien"], "correctaIdx": 2 },
+      { "enunciado": "¿A dónde llevan a Cantor ahora?", "tipo": "test", "opciones": ["Al taller", "A la escuela", "Al jardín", "A la basura"], "correctaIdx": 1 },
+      { "enunciado": "¿Con qué sueñan Elena y los otros niños?", "tipo": "test", "opciones": ["Con robots nuevos", "Con un mañana lleno de flores reales", "Con naves rápidas", "Con comer dulces"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Tico y la semilla de Roca-Seca",
+    "tema": "ciencia ficción",
+    "texto": "Tico era un robot jardinero en el planeta Roca-Seca, un lugar cubierto de piedras grises y arena roja. Su trabajo era limpiar los paneles solares de la base humana. Un día, después de una gran tormenta de polvo, Tico encontró una pequeña semilla metálica atrapada en su cepillo de limpieza. A diferencia de las semillas de la Tierra, esta brillaba con una luz plateada. Tico, que tenía un programa especial de curiosidad, decidió plantarla en un rincón de la base donde llegaba la luz de las tres lunas. Durante semanas, la cuidó usando gotas de agua reciclada y calor artificial. Una noche, la semilla brotó y se convirtió en una planta de cristal con hojas que cambiaban de color según la música que escuchaba. El invento de Tico permitió que los humanos volvieran a respirar aire puro sin usar cascos pesados, pues la planta de cristal fabricaba oxígeno espacial de gran calidad. Tico fue nombrado el primer robot biólogo del universo. Todos comprendieron que incluso en los planetas más secos, la vida puede florecer si se cuida con paciencia y tecnología inteligente.",
+    "glosario": [
+      { "palabra": "Jardinero", "definición": "Persona o máquina que se encarga de cuidar las plantas y jardines." },
+      { "palabra": "Brotó", "definición": "Cuando una planta empieza a nacer o a salir de la tierra o de la semilla." },
+      { "palabra": "Reciclada", "definición": "Agua u objeto que se ha procesado para poder usarse de nuevo." },
+      { "palabra": "Biólogo", "definición": "Persona que estudia a los seres vivos y su entorno." },
+      { "palabra": "Oxígeno", "definición": "Gas invisible que necesitamos los seres vivos para poder respirar." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué planeta trabaja Tico?", "tipo": "test", "opciones": ["Roca-Seca", "Tierra", "Marte", "Saturno"], "correctaIdx": 0 },
+      { "enunciado": "¿Qué tarea tenía Tico originalmente?", "tipo": "test", "opciones": ["Cocinar", "Limpiar paneles solares", "Volar naves", "Construir casas"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde encontró Tico la semilla metálica?", "tipo": "test", "opciones": ["En un cofre", "Atrapada en su cepillo", "En el suelo", "En una caja"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué color brillaba la semilla?", "tipo": "test", "opciones": ["Oro", "Plateado", "Verde", "Rojo"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué usó Tico para cuidar la planta?", "tipo": "test", "opciones": ["Zumo", "Agua reciclada y calor", "Tierra de jardín", "Aceite"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo cambiaban de color las hojas de la planta?", "tipo": "test", "opciones": ["Con el sol", "Según la música que escuchaba", "Con el agua", "Cada hora"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué beneficio trajo la planta a los humanos?", "tipo": "test", "opciones": ["Daba comida", "Fabricaba oxígeno espacial", "Hacía música", "Daba luz"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué título recibió Tico al final?", "tipo": "test", "opciones": ["Rey del planeta", "Robot biólogo", "Limpiador jefe", "Capitán"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuántas lunas tiene el planeta Roca-Seca?", "tipo": "test", "opciones": ["Una", "Dos", "Tres", "Ninguna"], "correctaIdx": 2 },
+      { "enunciado": "¿Cuál es el mensaje principal de la historia?", "tipo": "test", "opciones": ["Que los robots son peligrosos", "Que la vida puede florecer con paciencia y cuidado", "Que las piedras son bonitas", "Que no hay que limpiar"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "La Escuela de los Anillos",
+    "tema": "ciencia ficción",
+    "texto": "En la Estación Saturno-B, los niños no usan autobuses, sino pequeñas cápsulas voladoras para ir a clase. Marco es un alumno de tercero que siempre llega puntual a la Escuela de los Anillos. Su maestra es la unidad educativa Sabiondo, un robot plateado con una pantalla gigante en el pecho. Hoy, la clase es muy especial: aprenderán a cultivar vegetales en gravedad cero. Marco se pone sus botas magnéticas y flota hasta su mesa metálica. En el centro de la habitación hay un gran cilindro de cristal con luces de colores. Dentro, pequeñas lechugas espaciales crecen sin tierra, alimentadas por rayos láser nutritivos. Marco nota que una planta está un poco mustia. Con cuidado, ajusta la temperatura del panel táctil y le habla suavemente. El robot Sabiondo le explica que las plantas espaciales también necesitan cariño, no solo tecnología avanzada. Al final del día, la lechuga recupera su color verde brillante. Marco sonríe porque sabe que pronto podrá probar la primera ensalada cosechada en el espacio exterior. Aprender en las estrellas es una aventura increíble donde la ciencia y la naturaleza se unen para crear un futuro mejor para todos.",
+    "glosario": [
+      { "palabra": "Cápsula", "definición": "Vehículo pequeño y cerrado que se usa para viajar por el espacio." },
+      { "palabra": "Gravedad cero", "definición": "Estado en el que los objetos parecen no tener peso y flotan." },
+      { "palabra": "Magnéticas", "definición": "Botas que tienen imanes para poder caminar sobre suelos metálicos sin flotar." },
+      { "palabra": "Mustia", "definición": "Una planta que está un poco marchita o que ha perdido su frescura." },
+      { "palabra": "Nutritivos", "definición": "Que sirven para alimentar y dar salud a los seres vivos." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué estación espacial vive Marco?", "tipo": "test", "opciones": ["Tierra-A", "Saturno-B", "Luna-1", "Marte-X"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo van los niños a la escuela?", "tipo": "test", "opciones": ["Caminando", "En autobús", "En cápsulas voladoras", "En bicicleta"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se llama el robot maestro?", "tipo": "test", "opciones": ["Listo", "Sabiondo", "Plateado", "Profesor"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué aprenden a cultivar hoy en clase?", "tipo": "test", "opciones": ["Flores", "Árboles", "Vegetales", "Frutas"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Marco usa botas magnéticas?", "tipo": "test", "opciones": ["Porque son bonitas", "Para no flotar en gravedad cero", "Porque hace frío", "Para correr más"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué alimentaba a las lechugas espaciales?", "tipo": "test", "opciones": ["Agua sucia", "Rayos láser nutritivos", "Tierra negra", "Aire caliente"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo ayudó Marco a la planta mustia?", "tipo": "test", "opciones": ["Le echó mucha agua", "Ajustó la temperatura y le habló suave", "La sacó fuera", "La cambió de maceta"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué lección le dio el robot Sabiondo?", "tipo": "test", "opciones": ["Que las plantas no sirven", "Que las plantas también necesitan cariño", "Que la tecnología lo hace todo", "Que no hay que hablar a las plantas"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué podrá probar Marco pronto?", "tipo": "test", "opciones": ["Un helado", "La primera ensalada cosechada en el espacio", "Una pizza", "Un caramelo"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se describe aprender en las estrellas?", "tipo": "test", "opciones": ["Aburrido", "Una aventura increíble", "Difícil", "Muy ruidoso"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Archi y el sonido de la lluvia",
+    "tema": "ciencia ficción",
+    "texto": "Archi es un robot explorador con ruedas anchas que vive en el Desierto Rojo de Marte. Su misión diaria es limpiar los paneles solares de la ciudad subterránea donde viven los humanos. Archi nunca ha visto la lluvia, porque en Marte nunca llueve. Un día, mientras revisaba unos archivos antiguos en la computadora central, Archi encontró un vídeo de la Tierra. En el vídeo se veía caer agua del cielo y se escuchaba un sonido relajante: 'ploc, ploc, ploc'. Archi se quedó fascinado por ese sonido. Usando sus procesadores de sonido, Archi logró imitar el ruido de la lluvia y empezó a reproducirlo por los altavoces de la ciudad subterránea. Los humanos, al escucharlo, recordaron los hermosos paisajes de la Tierra y se sintieron muy felices y tranquilos. El alcalde de la ciudad le dio las gracias a Archi por traerles ese regalo sonoro. Desde entonces, Archi pone 'sonido de lluvia' cada noche para que todos descansen mejor. Archi aprendió que, aunque sea un robot, puede ayudar a las personas a sentirse cerca de su antiguo hogar con solo un poco de imaginación y tecnología.",
+    "glosario": [
+      { "palabra": "Subterránea", "definición": "Que está debajo de la tierra o de la superficie." },
+      { "palabra": "Fascinado", "definición": "Estar muy impresionado o atraído por algo que te gusta mucho." },
+      { "palabra": "Procesadores", "definición": "Partes del cerebro de un ordenador que sirven para manejar información." },
+      { "palabra": "Altavoces", "definición": "Aparatos que sirven para que el sonido se escuche más fuerte." },
+      { "palabra": "Relajante", "definición": "Algo que sirve para calmar los nervios o ayudar a descansar." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde vive el robot Archi?", "tipo": "test", "opciones": ["En la Luna", "En el Desierto Rojo de Marte", "En la Tierra", "En una nube"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es la misión diaria de Archi?", "tipo": "test", "opciones": ["Buscar agua", "Limpiar paneles solares", "Volar naves", "Pintar casas"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Archi nunca había visto la lluvia?", "tipo": "test", "opciones": ["Porque siempre duerme", "Porque en Marte nunca llueve", "Porque no tiene ojos", "Porque no le gusta"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde viven los humanos en Marte según el texto?", "tipo": "test", "opciones": ["En barcos", "En una ciudad subterránea", "En los árboles", "En el cielo"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llama el sonido que hace la lluvia según el texto?", "tipo": "test", "opciones": ["Boom, boom", "Ploc, ploc, ploc", "Sssshhh", "Tic, tac"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué sintió Archi al ver el vídeo de la lluvia?", "tipo": "test", "opciones": ["Miedo", "Fascinación", "Sueño", "Tristeza"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hizo Archi con el sonido de la lluvia?", "tipo": "test", "opciones": ["Lo borró", "Lo imitó y lo puso por los altavoces", "Se lo guardó para él", "Lo cambió por música"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sintieron los humanos al escuchar la lluvia?", "tipo": "test", "opciones": ["Asustados", "Felices y tranquilos", "Enfadados", "Mojados"], "correctaIdx": 1 },
+      { "enunciado": "¿Para qué sirve ahora el sonido de lluvia por las noches?", "tipo": "test", "opciones": ["Para despertar a todos", "Para que todos descansen mejor", "Para limpiar el aire", "Para llamar a las naves"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué aprendió Archi al final?", "tipo": "test", "opciones": ["Que no debe usar altavoces", "Que puede ayudar a las personas con imaginación", "Que Marte es mejor que la Tierra", "Que la lluvia es ruidosa"], "correctaIdx": 1 }
+    ]
+  }
+]

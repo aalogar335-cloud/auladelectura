@@ -1,0 +1,242 @@
+[
+  {
+    "titulo": "El misterio de la fiambrera azul",
+    "tema": "misterio",
+    "texto": "El lunes en el recreo, Lucas dejó su fiambrera azul bajo el viejo roble del patio. Al sonar la campana para volver a clase, ¡la comida había desaparecido por completo! Lucas se puso su gorra de detective y comenzó a investigar la zona con cuidado. No encontró huellas de zapatos, pero sí vio un pequeño rastro de migas blancas que cruzaba el camino de tierra. Siguió el rastro con mucha paciencia hasta llegar a la puerta trasera del gimnasio. Allí, escondida tras unos sacos de arena, vio una cola larga y peluda que se movía con rapidez. Al acercarse en silencio, descubrió a una familia de ardillas disfrutando de su delicioso sándwich de queso. Las ardillas lo miraron con ojos grandes y brillantes, asustadas por ser descubiertas en pleno banquete. Lucas sonrió al ver que las pequeñas criaturas tenían mucha hambre y decidió no molestarlas más. Volvió a su aula muy contento, aunque tuviera el estómago vacío. Sabía que había resuelto el gran misterio del patio y, además, había ayudado a unos amigos del bosque sin querer. Al día siguiente, trajo un poco de maíz extra para sus nuevas vecinas del roble centenario que ahora cuidaba con mucho cariño especial.",
+    "glosario": [
+      { "palabra": "Fiambrera", "definición": "Recipiente que sirve para llevar la comida de casa al colegio o al campo." },
+      { "palabra": "Rastro", "definición": "Señal o huella que deja algo o alguien cuando pasa por un sitio." },
+      { "palabra": "Centenario", "definición": "Algo que es muy antiguo porque tiene cien años o incluso muchos más." },
+      { "palabra": "Detective", "definición": "Persona que busca pistas para resolver un problema o descubrir un secreto difícil." },
+      { "palabra": "Banquete", "definición": "Comida muy rica y abundante que se comparte en una ocasión muy especial." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué color era la fiambrera de Lucas?", "tipo": "test", "opciones": ["Roja", "Verde", "Azul", "Amarilla"], "correctaIdx": 2 },
+      { "enunciado": "¿Dónde dejó Lucas su comida al principio?", "tipo": "test", "opciones": ["En el gimnasio", "Bajo un roble", "En la clase", "Tras unos sacos"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué rastro encontró el niño detective?", "tipo": "test", "opciones": ["Huellas de pies", "Manchas de zumo", "Migas blancas", "Pelos de perro"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué animales tenían el sándwich de queso?", "tipo": "test", "opciones": ["Pájaros", "Ardillas", "Gatos", "Conejos"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué trajo Lucas al colegio el martes?", "tipo": "test", "opciones": ["Más queso", "Una gorra nueva", "Maíz", "Otro sándwich"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Lucas se puso una gorra de detective?", "tipo": "test", "opciones": ["Porque hacía mucho sol", "Para meterse en su papel de investigador", "Porque era parte del uniforme", "Para que las ardillas no lo vieran"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo supo Lucas que no fue una persona quien robó la comida?", "tipo": "test", "opciones": ["Porque vio a las ardillas", "Porque no había huellas de zapatos", "Porque las migas eran muy pequeñas", "Porque el conserje se lo dijo"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué las ardillas miraron a Lucas con ojos brillantes?", "tipo": "test", "opciones": ["Porque estaban felices", "Porque tenían sueño", "Porque estaban asustadas", "Porque querían más comida"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué nos indica que Lucas es una persona generosa?", "tipo": "test", "opciones": ["Que usa una gorra", "Que sabe seguir rastros", "Que les llevó comida al día siguiente", "Que tiene una fiambrera azul"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Lucas volvió contento al aula aunque no había comido?", "tipo": "test", "opciones": ["Porque no tenía hambre", "Porque resolvió el misterio y ayudó a los animales", "Porque la profesora le dio su comida", "Porque el recreo fue muy largo"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El chasquido de la biblioteca",
+    "tema": "misterio",
+    "texto": "En la biblioteca municipal siempre reina un silencio absoluto, pero esta mañana algo era diferente. La bibliotecaria Marta escuchó un chasquido rítmico que venía de la sección de libros de viajes. Parecía el sonido de un reloj viejo, pero allí no había relojes. Marta pidió ayuda a Hugo, un niño que siempre leía cuentos de detectives. Hugo caminó de puntillas entre las estanterías de madera. El sonido se detenía cuando ellos hablaban, lo que indicaba que alguien o algo los estaba escuchando con mucha atención. De repente, Hugo vio un pequeño brillo verde detrás de un libro de mapas de Italia. No era un fantasma ni un monstruo, sino un juguete de cuerda que se había quedado encendido por accidente. Era un pequeño saltamontes de metal que un niño olvidó el día anterior. Marta y Hugo se rieron mucho al descubrir que el gran misterio era solo un juguete travieso. Guardaron el saltamontes en la caja de objetos perdidos esperando que su dueño volviera pronto a buscarlo. Aquella tarde, la biblioteca recuperó su paz habitual, aunque Hugo no dejó de mirar de reojo los estantes por si aparecía otra sorpresa mecánica. Fue una aventura emocionante en un lugar muy tranquilo.",
+    "glosario": [
+      { "palabra": "Municipal", "definición": "Algo que pertenece al pueblo o ciudad y que todos pueden usar." },
+      { "palabra": "Chasquido", "definición": "Sonido corto y seco que se produce al golpear o romperse algo." },
+      { "palabra": "Rítmico", "definición": "Un sonido o movimiento que se repite ordenadamente, como los latidos." },
+      { "palabra": "Estantería", "definición": "Mueble con tablas horizontales que sirve para colocar libros u otros objetos." },
+      { "palabra": "Mecánica", "definición": "Relacionado con las máquinas o piezas que se mueven para que algo funcione." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama la bibliotecaria de la historia?", "tipo": "test", "opciones": ["Sofía", "Marta", "Lucía", "Elena"], "correctaIdx": 1 },
+      { "enunciado": "¿En qué sección de la biblioteca se oía el ruido?", "tipo": "test", "opciones": ["Libros de miedo", "Libros de cocina", "Libros de viajes", "Libros de animales"], "correctaIdx": 2 },
+      { "enunciado": "¿De qué color era el brillo que vio Hugo?", "tipo": "test", "opciones": ["Rojo", "Verde", "Amarillo", "Azul"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto causaba el extraño sonido?", "tipo": "test", "opciones": ["Un reloj de pared", "Un saltamontes de metal", "Un fantasma", "Un teléfono móvil"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde pusieron el juguete al terminar?", "tipo": "test", "opciones": ["En la estantería", "En la calle", "En la caja de objetos perdidos", "En la mochila de Hugo"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Hugo caminó de puntillas por la biblioteca?", "tipo": "test", "opciones": ["Porque le dolían los pies", "Para no asustar a lo que hacía el ruido", "Porque el suelo estaba mojado", "Para llegar a los libros altos"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo sabían que el misterio 'los escuchaba'?", "tipo": "test", "opciones": ["Porque el ruido paraba al hablar ellos", "Porque el brillo se movía", "Porque Marta lo vio primero", "Porque Hugo leyó un libro sobre eso"], "correctaIdx": 0 },
+      { "enunciado": "¿Qué tipo de lectura le gusta a Hugo según el texto?", "tipo": "test", "opciones": ["Libros de viajes", "Cuentos de hadas", "Historias de detectives", "Mapas de Italia"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué se rieron Marta y Hugo al final?", "tipo": "test", "opciones": ["Porque el saltamontes contó un chiste", "Al darse cuenta de que no había peligro real", "Porque Hugo tropezó con un libro", "Porque el dueño del juguete apareció"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Hugo seguía mirando los estantes al final del día?", "tipo": "test", "opciones": ["Porque buscaba un libro nuevo", "Porque tenía miedo de los fantasmas", "Por la curiosidad de encontrar otro secreto", "Porque quería llevarse el saltamontes"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "El misterio de las llaves de plata",
+    "tema": "misterio",
+    "texto": "En el tranquilo colegio de Valleverde, el profesor Martín entró al aula de tercer grado muy preocupado. Sus llaves de plata, que siempre llevaba colgadas del cinturón, habían desaparecido misteriosamente durante el recreo. Lucía, una alumna muy observadora, sacó su pequeña libreta de notas y decidió investigar el caso. Primero, examinó el pupitre del profesor, donde encontró un pequeño rastro de polvillo blanco que brillaba bajo la luz del sol. Lucía siguió el rastro con mucho sigilo por el pasillo principal hasta llegar a la puerta del laboratorio de ciencias. Al entrar, escuchó un suave tintineo metálico que provenía de detrás de una estantería llena de frascos antiguos. Con cuidado, movió una caja de cartón y descubrú a Pipo, el hámster de la clase, que intentaba meter las llaves en su jaula para decorar su nido brillante. Lucía rió con suavidad y le devolvió las llaves al profesor, quien le agradeció su gran astucia. Todos en clase aplaudieron a la joven detective, y desde ese día, el profesor Martín siempre cierra bien la jaula de Pipo antes de salir al patio. Fue el misterio más divertido y peludo que Lucía resolvió en todo el curso escolar.",
+    "glosario": [
+      { "palabra": "Pupitre", "definición": "Mesa de madera con cajón que usan los alumnos y profesores en clase." },
+      { "palabra": "Sigilo", "definición": "Hacer algo con mucho cuidado y silencio para no ser notado." },
+      { "palabra": "Tintineo", "definición": "Sonido delicado que hacen las llaves o campanillas al chocar entre sí." },
+      { "palabra": "Astucia", "definición": "Habilidad para comprender las cosas rápidamente y resolver problemas con inteligencia." },
+      { "palabra": "Laboratorio", "definición": "Lugar equipado con instrumentos donde se realizan experimentos y trabajos científicos." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué material eran las llaves del profesor Martín?", "tipo": "test", "opciones": ["Oro", "Bronce", "Plata", "Hierro"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué encontró Lucía sobre el pupitre del profesor?", "tipo": "test", "opciones": ["Una nota", "Polvillo blanco brillante", "Una llave", "Pelos de hámster"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde estaba escondido Pipo con las llaves?", "tipo": "test", "opciones": ["En el patio", "Debajo de una silla", "En el laboratorio de ciencias", "En la biblioteca"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se llama el hámster de la clase?", "tipo": "test", "opciones": ["Martín", "Pipo", "Detective", "Valleverde"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué herramienta usó Lucía para anotar sus pistas?", "tipo": "test", "opciones": ["Una tableta", "Su pizarra", "Una libreta de notas", "Una lupa"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué el hámster se llevó las llaves al laboratorio?", "tipo": "test", "opciones": ["Para abrirlas", "Porque le gustan los objetos brillantes", "Para gastar una broma", "Porque tenía mucha hambre"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sentía el profesor al inicio de la historia?", "tipo": "test", "opciones": ["Alegre", "Enfadado", "Preocupado", "Cansado"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué nos indica que Lucía es una buena detective?", "tipo": "test", "opciones": ["Que es la más alta", "Que sabe observar y seguir rastros", "Que tiene muchas llaves", "Que sabe correr rápido"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hará el profesor a partir de ahora para evitar el misterio?", "tipo": "test", "opciones": ["Comprar llaves nuevas", "No llevar llaves al recreo", "Asegurar bien la jaula de Pipo", "Castigar a los alumnos"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Lucía caminó con sigilo por el pasillo?", "tipo": "test", "opciones": ["Porque tenía miedo", "Para no asustar al culpable", "Porque le dolían los pies", "Porque el suelo estaba mojado"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El visitante nocturno del jardín",
+    "tema": "misterio",
+    "texto": "Cada noche, a las ocho en punto, un extraño sonido retumbaba en el jardín de la abuela Rosa. Era un golpe seco, como si alguien estuviera llamando a una puerta invisible entre los rosales. Mateo, un niño valiente de nueve años, decidió resolver el enigma con su linterna nueva. Una noche de luna llena, se escondió detrás de un viejo árbol de manzanas y esperó en silencio. De pronto, el arbusto de jazmín se movió con fuerza y el golpe volvió a sonar. Mateo encendió su linterna y descubrió algo sorprendente: no era un fantasma ni un ladrón, sino un erizo pequeño que intentaba mover una maceta de barro para buscar lombrices sabrosas. El erizo, al verse descubierto, se hizo una bola de pinchos muy apretada. Mateo comprendió que el animalito solo tenía mucha hambre y que el sonido era la maceta chocando contra el suelo de piedra. Al día siguiente, Mateo y su abuela dejaron un platito con agua y comida adecuada para su nuevo visitante nocturno. El misterio del jardín se convirtió en una hermosa amistad, y Mateo aprendió que a veces las cosas que nos asustan tienen una explicación hoy muy sencilla y natural.",
+    "glosario": [
+      { "palabra": "Retumbar", "definición": "Hacer un ruido muy fuerte o resonar mucho en un lugar." },
+      { "palabra": "Enigma", "definición": "Algo que no se comprende o que es difícil de explicar; un misterio." },
+      { "palabra": "Maceta", "definición": "Recipiente de barro o plástico donde se ponen tierra y plantas." },
+      { "palabra": "Erizo", "definición": "Pequeño mamífero cubierto de púas que suele salir a buscar comida de noche." },
+      { "palabra": "Nocturno", "definición": "Que ocurre o tiene lugar durante la noche, cuando no hay sol." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿A qué hora exacta sonaba el ruido en el jardín?", "tipo": "test", "opciones": ["A las siete", "A las diez", "A las ocho", "A medianoche"], "correctaIdx": 2 },
+      { "enunciado": "¿Dónde se escondió Mateo para vigilar el jardín?", "tipo": "test", "opciones": ["En el tejado", "Detrás de un manzano", "En el garaje", "Bajo la cama"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto usó Mateo para ver en la oscuridad?", "tipo": "test", "opciones": ["Una vela", "Su teléfono", "Una linterna", "Un fósforo"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué animal causaba realmente el ruido de los golpes?", "tipo": "test", "opciones": ["Un gato", "Un erizo", "Un pájaro", "Un perro"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué material era la maceta que se movía?", "tipo": "test", "opciones": ["De metal", "De plástico", "De barro", "De madera"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Mateo decidió esperar a una noche de luna llena?", "tipo": "test", "opciones": ["Para tener más luz natural", "Porque le gustaba la luna", "Porque el erizo solo sale con luna", "Para ver a los lobos"], "correctaIdx": 0 },
+      { "enunciado": "¿Por qué el erizo se convirtió en una bola de pinchos?", "tipo": "test", "opciones": ["Porque tenía frío", "Porque quería dormir", "Para protegerse al sentirse descubierto", "Porque estaba enfadado"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué causaba realmente el sonido de los golpes?", "tipo": "test", "opciones": ["Los pasos del ladrón", "La maceta golpeando el suelo de piedra", "La puerta de la casa", "Ramas rompiéndose"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo cambió el sentimiento de Mateo al final de la historia?", "tipo": "test", "opciones": ["Tenía más miedo", "Se sentía aburrido", "Sintió amistad y curiosidad", "Se puso triste"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué la abuela Rosa no resolvió el misterio antes?", "tipo": "test", "opciones": ["No vivía allí", "Probablemente le daba miedo salir de noche", "No escuchaba nada", "Le gustaban los ruidos"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El misterio de las manzanas del recreo",
+    "tema": "misterio",
+    "texto": "En el colegio San Isidro, un misterio asustaba a los niños durante el recreo de los miércoles. Daniel, el mejor detective de la clase de tercero, decidió investigar por qué desaparecían las manzanas rojas de las mochilas. Todo comenzó cuando su amiga Lucía encontró su bolsa vacía bajo el gran pino del patio. Daniel sacó su lupa y examinó el suelo arenoso. No encontró huellas de zapatos, pero sí pequeñas marcas circulares y un rastro de cáscaras brillantes que subía por el tronco rugoso. El culpable no tenía pies, exclamó Daniel con una sonrisa astuta. El miércoles siguiente, se escondió detrás de un banco con su cámara lista. De repente, una sombra rápida bajó de las ramas. Era una ardilla muy traviesa con una cola peluda y ojos negros. La ardilla no robaba por maldad, sino porque estaba preparando su nido para el frío invierno. Daniel decidió que, en lugar de atraparla, los niños traerían trozos de nueces para ayudar al animalito. El misterio se resolvió y la ardilla se convirtió en la mascota secreta del colegio. Ahora, todos los miércoles, Lucía deja una manzana extra cerca del tronco para alimentar a su pequeña amiga que vive siempre en paz.",
+    "glosario": [
+      { "palabra": "Lupa", "definición": "Lente que aumenta el tamaño de los objetos para verlos mejor." },
+      { "palabra": "Rastro", "definición": "Señal o huella que deja alguien o algo al pasar." },
+      { "palabra": "Astuta", "definición": "Persona que es hábil para engañar o evitar el engaño." },
+      { "palabra": "Rugoso", "definición": "Que tiene arrugas o partes desiguales al tacto." },
+      { "palabra": "Nido", "definición": "Refugio que construyen las aves o algunos animales para vivir." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué colegio ocurre la historia?", "tipo": "test", "opciones": ["San Juan", "San Isidro", "Valleverde", "El Pino"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué fruta desaparecía de las mochilas?", "tipo": "test", "opciones": ["Plátanos", "Peras", "Manzanas rojas", "Nueces"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué herramienta usó Daniel para examinar el suelo?", "tipo": "test", "opciones": ["Una cámara", "Una linterna", "Una lupa", "Una libreta"], "correctaIdx": 2 },
+      { "enunciado": "¿Quién era el culpable de las desapariciones?", "tipo": "test", "opciones": ["Un niño de cuarto", "Una ardilla", "Un pájaro", "El conserje"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué deciden traer los niños para ayudar a la ardilla?", "tipo": "test", "opciones": ["Más manzanas", "Trozos de nueces", "Agua fresca", "Una casita de madera"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Daniel supo que el culpable no era un humano?", "tipo": "test", "opciones": ["Porque vio a la ardilla", "Porque no encontró huellas de zapatos", "Porque las manzanas estaban mordidas", "Porque Lucía se lo dijo"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál era el motivo real de la ardilla para llevarse la fruta?", "tipo": "test", "opciones": ["Quería jugar con los niños", "Tenía mucha hambre en ese momento", "Estaba preparando su nido para el invierno", "Le gustaba el color rojo"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué cualidad define mejor a Daniel en esta historia?", "tipo": "test", "opciones": ["Es muy fuerte", "Es observador y paciente", "Es muy gracioso", "Es miedoso"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo termina la relación entre los niños y la ardilla?", "tipo": "test", "opciones": ["La ardilla se fue del colegio", "Los niños la atraparon", "Se convirtió en la mascota secreta", "Daniel la llevó al bosque"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué significa que Daniel tiene una 'sonrisa astuta' al descubrir el rastro?", "tipo": "test", "opciones": ["Que tiene hambre", "Que ya sabe quién es el culpable", "Que le gustan las bromas", "Que está muy cansado"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El misterio de los zapatos desaparecidos",
+    "tema": "misterio",
+    "texto": "En la vieja casa de la tía abuela Rosa, las zapatillas siempre aparecían en lugares muy extraños cada mañana temprano. Leo y Sofía, que estaban de visita, decidieron resolver aquel misterio antes de que terminara el largo fin de semana. Anoche dejé mis botas bajo la cama y ahora están dentro de la bañera, se quejó Leo muy confundido. Sofía, armada con una libreta y un lápiz, revisó todas las habitaciones buscando pistas importantes. No había puertas abiertas ni ventanas rotas, pero en el pasillo encontró unos granos de maíz esparcidos por la alfombra roja. Siguieron el rastro de comida hasta el cuarto de las herramientas, donde escucharon un suave ronquido que venía de una caja. Al abrirla, vieron a Bruno, el perro labrador de la tía, durmiendo felizmente sobre un montón de zapatos y zapatillas. El pobre Bruno extrañaba mucho a sus dueños y buscaba el olor de los zapatos para sentirse más seguro durante la noche. Los niños comprendieron que no era un fantasma, sino un perrito algo triste. Desde entonces, Leo y Sofía le dan un fuerte abrazo a Bruno antes de dormir y el misterio de los zapatos desaparecidos terminó para siempre en aquella gran mansión.",
+    "glosario": [
+      { "palabra": "Detective", "definición": "Persona que investiga pistas para resolver secretos o problemas." },
+      { "palabra": "Extrañaba", "definición": "Sentir pena por la ausencia de alguien o algo querido." },
+      { "palabra": "Esparcidos", "definición": "Cosas que están separadas o desordenadas por el suelo." },
+      { "palabra": "Seguro", "definición": "Sentirse libre de todo peligro o con mucha confianza." },
+      { "palabra": "Confundido", "definición": "Persona que no entiende algo o está desorientada." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué lugar encontró Leo sus botas por la mañana?", "tipo": "test", "opciones": ["Bajo la cama", "En el jardín", "Dentro de la bañera", "En la cocina"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué herramientas usó Sofía para investigar?", "tipo": "test", "opciones": ["Una lupa", "Una libreta y un lápiz", "Una linterna", "Una cámara"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué rastro encontraron los niños en la alfombra?", "tipo": "test", "opciones": ["Migas de pan", "Granos de maíz", "Huellas de barro", "Pelos blancos"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué raza es el perro Bruno?", "tipo": "test", "opciones": ["Pastor alemán", "Caniche", "Labrador", "Dálmata"], "correctaIdx": 2 },
+      { "enunciado": "¿Dónde dormía Bruno finalmente?", "tipo": "test", "opciones": ["En su caseta", "En el sofá", "En el cuarto de herramientas", "Bajo la cama de Leo"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Bruno se llevaba los zapatos de los niños?", "tipo": "test", "opciones": ["Para jugar a esconderlos", "Porque quería comérselos", "Para oler a sus dueños y sentirse seguro", "Porque tenía frío"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo supieron los niños que no entró nadie de fuera de la casa?", "tipo": "test", "opciones": ["Porque el perro ladró", "Porque no había puertas ni ventanas rotas", "Porque la tía Rosa vigilaba", "Porque Leo no escuchó nada"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué sentimiento tenía Bruno al principio de la historia?", "tipo": "test", "opciones": ["Alegría", "Miedo", "Tristeza o soledad", "Enfado"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué decidieron hacer los niños para que Bruno no estuviera triste?", "tipo": "test", "opciones": ["Comprarle un juguete", "Darle un fuerte abrazo antes de dormir", "Dejarle dormir en la bañera", "Llevarlo al veterinario"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué tipo de historia es esta según lo ocurrido?", "tipo": "test", "opciones": ["De terror", "De misterio con final feliz", "De ciencia ficción", "De hadas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El misterio de las huellas azules",
+    "tema": "misterio",
+    "texto": "Sara era la detective más curiosa del colegio. Un lunes, descubrió unas extrañas huellas azules en el pasillo de la biblioteca. Las marcas eran pequeñas y redondeadas, como si alguien caminara de puntillas. Sara sacó su lupa y comenzó a seguir el rastro con mucho cuidado. Las huellas pasaban por debajo de las mesas de lectura y llegaban hasta la ventana abierta del jardín. De repente, escuchó un suave maullido detrás de una estantería llena de libros de aventuras. Al asomarse, encontró a Bigotes, el gato del profesor de arte. El pobre animalito tenía las patas manchadas de pintura azul. Al parecer, Bigotes había entrado al aula de plástica durante el recreo y saltó sobre una paleta que todavía estaba húmeda. Sara rió aliviada porque no era un fantasma ni un ladrón, sino solo un gatito travieso buscando un lugar tranquilo para dormir. Ella limpió las patitas de Bigotes con un paño suave y le devolvió el gato al profesor, quien le agradeció su gran ayuda. Desde ese día, el profesor siempre cierra bien sus botes de pintura antes de salir a descansar. El misterio de las huellas azules se resolvió con éxito y Sara se sintió muy orgullosa hoy.",
+    "glosario": [
+      { "palabra": "Lupa", "definición": "Lente con mango que sirve para ver las cosas pequeñas mucho más grandes." },
+      { "palabra": "Rastro", "definición": "Señal o huella que deja alguien o algo cuando pasa por un lugar." },
+      { "palabra": "Estantería", "definición": "Mueble compuesto de estantes o tablas horizontales para poner libros u objetos." },
+      { "palabra": "Maullido", "definición": "Voz o sonido característico que emiten los gatos para comunicarse." },
+      { "palabra": "Aula", "definición": "Sala de un colegio o centro de enseñanza donde se dan las clases." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué descubrió Sara en el pasillo de la biblioteca?", "tipo": "test", "opciones": ["Un libro perdido", "Unas huellas azules", "Una paleta de arte", "Un ratón"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto usó Sara para seguir el rastro?", "tipo": "test", "opciones": ["Una linterna", "Un cuaderno", "Una lupa", "Un mapa"], "correctaIdx": 2 },
+      { "enunciado": "¿Como se llamaba el gato del profesor?", "tipo": "test", "opciones": ["Manchas", "Bigotes", "Azulito", "Puntillas"], "correctaIdx": 1 },
+      { "enunciado": "¿En qué parte del colegio se manchó el gato?", "tipo": "test", "opciones": ["En el jardín", "En la biblioteca", "En el aula de plástica", "En el recreo"], "correctaIdx": 2 },
+      { "enunciado": "¿De qué color era la pintura que pisó Bigotes?", "tipo": "test", "opciones": ["Roja", "Verde", "Amarilla", "Azul"], "correctaIdx": 3 },
+      { "enunciado": "¿Por qué las huellas llegaban hasta una ventana abierta?", "tipo": "test", "opciones": ["Porque el ladrón escapó", "Porque el gato entró o salió por allí", "Para que entrara aire", "Porque Sara la abrió"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué nos indica que Bigotes no quería hacer nada malo?", "tipo": "test", "opciones": ["Que estaba escondido", "Que buscaba un lugar tranquilo para dormir", "Que tenía las patas sucias", "Que es el gato del profesor"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sintió Sara al descubrir que el 'culpable' era un gato?", "tipo": "test", "opciones": ["Asustada", "Enfadada", "Aliviada", "Triste"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué aprendió el profesor de arte tras este incidente?", "tipo": "test", "opciones": ["A no tener gatos", "A cerrar bien los botes de pintura", "A limpiar la biblioteca", "A no dejar las ventanas abiertas"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Sara pensó al principio que alguien caminaba de puntillas?", "tipo": "test", "opciones": ["Porque las huellas eran de zapatos", "Por la forma pequeña y redondeada de las marcas", "Porque escuchó pasos", "Porque era de noche"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El susurro del buzón amarillo",
+    "tema": "misterio",
+    "texto": "Hugo vivía en una casa pequeña con un buzón de metal amarillo en la entrada. Todas las tardes, al volver del colegio, escuchaba un susurro extraño que venía del buzón. Parecía que el metal hablaba o que alguien escondía un secreto allí dentro. Hugo decidió investigar con su linterna y un cuaderno de notas. Primero, miró por la ranura donde el cartero dejaba las cartas, pero solo vio oscuridad. Al día siguiente, el sonido era más fuerte, parecido a un crujido de hojas secas. Con mucho valor, Hugo pidió la llave a su padre y abrió la puertecita con cuidado. Lo que encontró no eran cartas ni fantasmas. En un rincón del buzón, una familia de pajaritos pequeños había construido un nido con ramitas y plumas suaves. Los polluelos movían sus picos pidiendo comida, y eso era lo que producía el misterioso susurro. Hugo comprendió que debía proteger a sus nuevos vecinos. Colocó un cartel que decía: Por favor, no usar este buzón, hay bebés descansando. La familia puso una caja nueva para las cartas y Hugo cuidó a los pájaros hasta que aprendieron a volar muy alto. Fue el misterio más bonito del verano en su calle muy tranquila.",
+    "glosario": [
+      { "palabra": "Buzón", "definición": "Caja con una ranura donde se echan las cartas y papeles del correo." },
+      { "palabra": "Susurro", "definición": "Ruido suave que se parece a una voz hablando muy bajito." },
+      { "palabra": "Ranura", "definición": "Abertura estrecha y larga por donde se puede meter algo fino." },
+      { "palabra": "Polluelos", "definición": "Crías de los pájaros que tienen poco tiempo de vida." },
+      { "palabra": "Proteger", "definición": "Cuidar o defender a alguien o algo de un posible daño o peligro." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué color era el buzón de la casa de Hugo?", "tipo": "test", "opciones": ["Rojo", "Azul", "Amarillo", "Verde"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué herramientas usó Hugo para investigar?", "tipo": "test", "opciones": ["Lupa y cámara", "Linterna y cuaderno", "Llave y martillo", "Guantes y red"], "correctaIdx": 1 },
+      { "enunciado": "¿Quién le dio la llave del buzón a Hugo?", "tipo": "test", "opciones": ["El cartero", "Su madre", "Su abuelo", "Su padre"], "correctaIdx": 3 },
+      { "enunciado": "¿De qué estaba hecho el nido de los pájaros?", "tipo": "test", "opciones": ["De papel y pegamento", "De ramitas y plumas", "De lana y barro", "De hojas y flores"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué escribió Hugo en el cartel que puso?", "tipo": "test", "opciones": ["No tocar el metal", "Buzón roto", "No usar este buzón, hay bebés descansando", "Peligro, pájaros"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Hugo pensó al principio que el buzón hablaba?", "tipo": "test", "opciones": ["Porque el cartero gritaba", "Por el sonido suave que hacían los polluelos", "Porque el viento soplaba fuerte", "Porque Hugo estaba soñando"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué era importante no echar cartas en ese buzón?", "tipo": "test", "opciones": ["Porque las cartas se mancharían", "Porque el buzón estaba lleno", "Para no molestar o aplastar a los pajaritos", "Porque el cartero tenía miedo"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué nos dice el texto sobre la personalidad de Hugo?", "tipo": "test", "opciones": ["Que es miedoso", "Que es curioso y respeta la naturaleza", "Que le gusta recibir cartas", "Que es muy distraído"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál era la verdadera causa del 'crujido de hojas secas'?", "tipo": "test", "opciones": ["El viento en el jardín", "El cartero llegando", "El movimiento de los pájaros en su nido", "La puerta oxidada"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo terminó el misterio para la familia de Hugo?", "tipo": "test", "opciones": ["Cambiaron de casa", "Pusieron una caja nueva para las cartas", "Llamaron a un experto", "Quitaron el buzón amarillo"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El caso de la flauta dorada",
+    "tema": "misterio",
+    "texto": "En el pequeño colegio de Robledal, algo muy extraño sucedió el martes por la mañana. Bruno, el director de la orquesta, abrió el estuche de su flauta dorada y se quedó pálido. ¡El instrumento había desaparecido! Solo quedaba una pequeña pluma azul sobre el terciopelo rojo del estuche. Bruno llamó de inmediato a la detective Clara, una niña de tercero con una lupa siempre lista. Clara observó la pluma y sonrió. No era una pluma de ave común. Primero, interrogó al conserje, quien dijo haber visto un brillo cerca del jardín. Luego, Clara siguió un rastro de polvillo brillante por el pasillo hasta llegar a la biblioteca. Allí, detrás de unos libros antiguos, encontró a un pequeño robot de limpieza que intentaba \"tocar\" la flauta con sus pinzas metálicas. El robot pensó que era una pieza suelta que debía ser guardada por su color brillante. Clara explicó al robot que las flautas son para hacer música, no para ser guardadas como chatarra. El robot devolvió el tesoro y Bruno pudo comenzar el ensayo. Todos aplaudieron la gran inteligencia de la joven detective Clara, quien guardó la pluma azul como recuerdo de su caso más brillante y ruidoso en aquel colegio.",
+    "glosario": [
+      { "palabra": "Orquesta", "definición": "Grupo de músicos que tocan instrumentos diferentes juntos bajo la guía de un director." },
+      { "palabra": "Lupa", "definición": "Lente con un mango que sirve para ver las cosas pequeñas mucho más grandes." },
+      { "palabra": "Interrogar", "definición": "Hacer una serie de preguntas a alguien para obtener información o resolver un misterio." },
+      { "palabra": "Rastro", "definición": "Señal o huella que deja algo o alguien cuando pasa por un lugar determinado." },
+      { "palabra": "Ensayo", "definición": "Práctica que realizan los músicos o actores antes de hacer una función frente al público." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué objeto desapareció del estuche rojo?", "tipo": "test", "opciones": ["Una pluma azul", "Una flauta dorada", "Una lupa brillante", "Un libro antiguo"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué día de la semana ocurrió el misterio?", "tipo": "test", "opciones": ["Lunes", "Miércoles", "Martes", "Viernes"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué pista encontró Bruno dentro del estuche?", "tipo": "test", "opciones": ["Una moneda", "Una pluma azul", "Un rastro de aceite", "Una pinza metálica"], "correctaIdx": 1 },
+      { "enunciado": "¿En qué lugar exacto estaba escondido el robot?", "tipo": "test", "opciones": ["En el jardín", "En el gimnasio", "Detrás de libros en la biblioteca", "Debajo de la mesa del director"], "correctaIdx": 2 },
+      { "enunciado": "¿Quién es el dueño de la flauta?", "tipo": "test", "opciones": ["Clara", "El conserje", "El robot", "Bruno"], "correctaIdx": 3 },
+      { "enunciado": "¿Por qué el robot se llevó la flauta?", "tipo": "test", "opciones": ["Quería aprender música", "Pensó que era basura brillante", "Quería jugar con Clara", "Se la robó al conserje"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo supo Clara que el ladrón no era un pájaro?", "tipo": "test", "opciones": ["Porque no había nidos", "Porque la pluma no era de ave común", "Porque el robot confesó", "Porque Bruno vio al robot"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué habilidad especial tiene Clara?", "tipo": "test", "opciones": ["Sabe tocar la flauta", "Es muy rápida corriendo", "Es experta resolviendo misterios", "Limpia muy bien el colegio"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué representa la pluma azul al final del cuento?", "tipo": "test", "opciones": ["Parte del disfraz del robot", "Una prueba de que el robot vuela", "Un recuerdo del caso resuelto", "Un regalo del director Bruno"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué podemos decir del carácter del robot?", "tipo": "test", "opciones": ["Es malvado y ladrón", "Es obediente pero se confundió", "Es perezoso y no limpia", "Es el mejor músico del colegio"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El secreto del desván de Ágata",
+    "tema": "misterio",
+    "texto": "La vieja mansión de la tía Ágata siempre estaba llena de secretos y cuadros que parecían mirar a los visitantes. Mario y Sofía exploraban el desván buscando un antiguo gran baúl de madera que contenía mapas de piratas. Sin embargo, al llegar a la puerta del altillo, descubrieron que la llave de plata no estaba en su gancho habitual. En su lugar, había una nota con un dibujo de un gato y un reloj. Mario pensó que era una broma, pero Sofía recordó que el gato de la tía, llamado Bigotes, siempre dormía sobre el reloj del salón. Bajaron corriendo las escaleras y miraron debajo del gran reloj de péndulo. Allí, entre las patas de madera, brillaba la llave de plata. Cerca de ella, Bigotes jugaba con un ovillo de lana roja. Sofía comprendió que el gato había empujado la llave mientras perseguía su juguete preferido. Con la llave en la mano, subieron de nuevo y abrieron el baúl. Dentro no había oro, sino fotos antiguas y una brújula que todavía funcionaba muy perfectamente ahora. Mario y Sofía pasaron la tarde imaginando viajes increíbles, felices de haber resuelto el gran misterio de la llave perdida en la mansión de Ágata.",
+    "glosario": [
+      { "palabra": "Mansión", "definición": "Casa muy grande, lujosa y antigua que suele tener muchas habitaciones y pasillos." },
+      { "palabra": "Desván", "definición": "Parte más alta de una casa, justo debajo del tejado, donde se guardan cosas viejas." },
+      { "palabra": "Altillo", "definición": "Habitación pequeña situada en lo alto de una casa, a veces usada como trastero." },
+      { "palabra": "Péndulo", "definición": "Pieza pesada que cuelga de un reloj y se mueve de un lado a otro para marcar el tiempo." },
+      { "palabra": "Brújula", "definición": "Instrumento con una aguja imantada que siempre señala el norte para no perderse." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué buscaban Mario y Sofía en el desván?", "tipo": "test", "opciones": ["Un gato", "Un baúl de madera", "Cuadros antiguos", "Un ovillo de lana"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué material era la llave perdida?", "tipo": "test", "opciones": ["Oro", "Bronce", "Plata", "Hierro"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se llama el gato de la tía Ágata?", "tipo": "test", "opciones": ["Péndulo", "Bigotes", "Mario", "Manchas"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto contenía el dibujo de la nota?", "tipo": "test", "opciones": ["Un baúl y un mapa", "Un gato y un reloj", "Una llave y una brújula", "Una tía y un cuadro"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué encontraron finalmente dentro del baúl?", "tipo": "test", "opciones": ["Monedas de oro", "Mapas de piratas", "Fotos y una brújula", "Lana roja"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué la llave no estaba en su sitio?", "tipo": "test", "opciones": ["La tía Ágata la escondió", "Mario la perdió ayer", "El gato la tiró jugando", "Se rompió el gancho"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué pista fue fundamental para encontrar la llave?", "tipo": "test", "opciones": ["El ruido del reloj", "La nota con el dibujo", "El maullido de Bigotes", "El brillo del baúl"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sintieron los niños al final de la historia?", "tipo": "test", "opciones": ["Asustados por los cuadros", "Tristes por no hallar oro", "Felices e imaginativos", "Cansados de limpiar"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué parte de la casa visitaron los niños primero?", "tipo": "test", "opciones": ["El salón", "La cocina", "El desván", "El jardín"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué los cuadros parecían mirar a los visitantes?", "tipo": "test", "opciones": ["Porque eran cuadros mágicos", "Por el estilo antiguo y misterioso", "Porque tenían cámaras ocultas", "Porque los niños tenían miedo"], "correctaIdx": 1 }
+    ]
+  }
+]

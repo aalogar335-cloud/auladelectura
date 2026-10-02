@@ -1,0 +1,1592 @@
+[
+    {
+        "titulo": "El Recreo en la Estación Alfa",
+        "tema": "ciencia ficción",
+        "texto": "Lucas vivía en la Estación Espacial Alfa, una enorme ciudad flotante que giraba alrededor de la Tierra. Allí, el cielo no era azul, sino negro salpicado de estrellas brillantes que nunca parpadeaban. Aquella mañana, su clase de cuarto de primaria tenía una excursión especial al Módulo de Observación. Para llegar, debían atravesar el túnel de gravedad cero, su parte favorita del día. Lucas se impulsó con los pies y comenzó a flotar como si fuera un buzo en un océano invisible. \n\n—¡Cuidado con la escotilla, Lucas! —gritó la profesora Vega mientras flotaba elegantemente a su lado—. Recuerda que aquí la inercia es traicionera.\n\nAl llegar al módulo, todos se quedaron boquiabiertos. Frente a ellos, la Tierra se veía como una canica de cristal azul y blanca, rodeada por una fina línea brillante: la atmósfera. Lucas pegó la nariz al cristal reforzado. A lo lejos, vio un pequeño satélite artificial pasando a toda velocidad. Parecía un insecto de metal con alas doradas. \n\n—Hoy aprenderemos sobre los antiguos bosques —dijo la profesora, activando un proyector holográfico. De repente, el centro de la sala se llenó de árboles verdes y sonidos de pájaros que Lucas nunca había escuchado en la estación. \n\nLucas cerró los ojos e intentó imaginar el olor a tierra mojada después de la lluvia, algo que solo conocía por los libros de historia sensorial. En la estación Alfa, el aire siempre olía a metal limpio y a filtros de oxígeno. Aunque amaba la tecnología y sus botas magnéticas, soñaba con caminar algún día sobre césped de verdad, sin sentir que el suelo era una placa de acero. \n\nMientras regresaban a sus dormitorios presurizados, Lucas guardó un pequeño trozo de piedra lunar en su bolsillo. Era su recordatorio de que, aunque viviera entre máquinas y pantallas, siempre sería un explorador buscando un hogar verde. La Estación Alfa era increíble, pero su corazón pertenecía a ese planeta azul que brillaba a través de la ventana, esperando el regreso de los humanos.",
+        "glosario": [
+            {
+                "palabra": "Escotilla",
+                "definición": "Puerta o abertura de entrada a un barco o nave espacial."
+            },
+            {
+                "palabra": "Inercia",
+                "definición": "Propiedad de los objetos de permanecer en reposo o movimiento si no hay una fuerza que los detenga."
+            },
+            {
+                "palabra": "Atmósfera",
+                "definición": "Capa de aire que rodea la Tierra y que nos permite respirar."
+            },
+            {
+                "palabra": "Satélite",
+                "definición": "Objeto que gira alrededor de un planeta; puede ser natural o artificial."
+            },
+            {
+                "palabra": "Holográfico",
+                "definición": "Imagen creada con luz que parece tener tres dimensiones y volumen."
+            },
+            {
+                "palabra": "Sensorial",
+                "definición": "Relacionado con los sentidos como el oído, el olfato o el tacto."
+            },
+            {
+                "palabra": "Presurizado",
+                "definición": "Lugar que mantiene la presión del aire adecuada para que los seres humanos puedan vivir en él."
+            },
+            {
+                "palabra": "Oxígeno",
+                "definición": "Gas invisible que los seres vivos necesitan para respirar y vivir."
+            },
+            {
+                "palabra": "Magnéticas",
+                "definición": "Botas que tienen imanes para pegarse a superficies de metal."
+            },
+            {
+                "palabra": "Módulo",
+                "definición": "Parte o sección separada de una nave o estación espacial con una función específica."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama la estación donde vive Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "Estación Tierra",
+                    "Estación Alfa",
+                    "Módulo Vega",
+                    "Estación Lunar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué color tiene el cielo visto desde la estación?",
+                "tipo": "test",
+                "opciones": [
+                    "Azul brillante",
+                    "Gris metálico",
+                    "Negro con estrellas",
+                    "Blanco cristalino"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué herramienta usó la profesora para mostrar los bosques?",
+                "tipo": "test",
+                "opciones": [
+                    "Un libro antiguo",
+                    "Un proyector holográfico",
+                    "Una ventana mágica",
+                    "Un satélite"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Lucas se siente como un buzo en el túnel?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque hay mucha agua",
+                    "Porque lleva un traje pesado",
+                    "Porque no hay gravedad y flota",
+                    "Porque el túnel es de color azul"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué sentimiento experimenta Lucas al ver el holograma de los bosques?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedo a los animales",
+                    "Curiosidad y nostalgia",
+                    "Aburrimiento",
+                    "Alegría por vivir en Alfa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué diferencia hay entre el aire de la Tierra y el de la estación?",
+                "tipo": "test",
+                "opciones": [
+                    "El de la Tierra es metálico",
+                    "El de la estación huele a flores",
+                    "El de la estación es artificial y filtrado",
+                    "No hay ninguna diferencia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Para qué sirven las botas magnéticas de Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "Para saltar más alto",
+                    "Para caminar por el suelo de metal sin flotar",
+                    "Para correr a la velocidad de la luz",
+                    "Para protegerse del frío"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Lucas guarda una piedra lunar, ¿qué podemos inferir sobre él?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es un niño desobediente",
+                    "Que le gusta coleccionar basura",
+                    "Que valora los recuerdos del espacio",
+                    "Que quiere venderla en el colegio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "La tecnología es mala",
+                    "El espacio es peligroso",
+                    "La importancia de valorar la naturaleza terrestre",
+                    "Es mejor vivir en estaciones espaciales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué representa la Tierra para los habitantes de la estación?",
+                "tipo": "test",
+                "opciones": [
+                    "Un lugar olvidado",
+                    "Un peligro constante",
+                    "Un hogar lejano que desean recuperar",
+                    "Una canica de cristal para jugar"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Robo-Robi y el Desierto de Marte",
+        "tema": "ciencia ficción",
+        "texto": "Robi no era un robot común; era un modelo explorador X-5 diseñado para buscar agua en el árido suelo de Marte. Tenía seis ruedas todoterreno y un brazo articulado que terminaba en una pinza muy precisa. Su mejor amiga era Sara, una niña cuya familia se había mudado a la Cúpula Roja el año pasado. Sara ayudaba a los ingenieros a programar las rutas diarias de Robi, añadiendo siempre un comando secreto: 'Encuentra algo hermoso'.\n\nUna tarde, mientras una tormenta de arena cubría el horizonte de color anaranjado, Robi detectó una señal inusual en el Gran Cañón marciano. Sus sensores térmicos indicaban una temperatura ligeramente superior a la normal en una grieta profunda. Con cuidado, Robi activó sus luces de emergencia y descendió por la pendiente rocosa. El viento aullaba contra su chasis de titanio, pero él continuó avanzando, analizando cada milímetro de polvo rojo.\n\nAl final de la grieta, Robi se detuvo. Su cámara de alta resolución enfocó algo increíble. En un rincón protegido del viento, una pequeña planta de hojas plateadas crecía entre las rocas. No era una planta de la Tierra; sus hojas brillaban con una luz tenue y bioluminiscente. Robi no la arrancó. En su lugar, extendió su sensor de humedad y descubrió un pequeño hilo de agua subterránea que alimentaba la raíz. \n\nRobi envió una señal de radio inmediata a la Cúpula Roja. En la pantalla de Sara apareció un mensaje: 'Belleza encontrada'. La niña saltó de alegría al ver las imágenes. Aquel descubrimiento significaba que Marte estaba despertando y que la vida podía florecer sin ayuda de los humanos. \n\nEsa noche, cuando la tormenta cesó, los colonos miraron hacia el cañón con esperanza. Robi se quedó allí, haciendo guardia junto a la pequeña planta plateada. Sus baterías se cargaban con la luz de las dos lunas de Marte, Fobos y Deimos, mientras su procesador registraba el sonido del viento, que ya no parecía tan solitario.",
+        "glosario": [
+            {
+                "palabra": "Árido",
+                "definición": "Terreno que está muy seco y donde no llueve casi nunca."
+            },
+            {
+                "palabra": "Articulado",
+                "definición": "Que tiene piezas que se mueven como las articulaciones del cuerpo."
+            },
+            {
+                "palabra": "Cúpula",
+                "definición": "Techo en forma de media naranja que cubre un edificio o ciudad."
+            },
+            {
+                "palabra": "Térmicos",
+                "definición": "Sensores que sirven para medir la temperatura o el calor."
+            },
+            {
+                "palabra": "Chasis",
+                "definición": "Estructura metálica interna que sostiene un vehículo o robot."
+            },
+            {
+                "palabra": "Titanio",
+                "definición": "Metal muy fuerte y ligero que se usa para construir naves y robots."
+            },
+            {
+                "palabra": "Resolución",
+                "definición": "Calidad y claridad de una imagen en una cámara o pantalla."
+            },
+            {
+                "palabra": "Bioluminiscente",
+                "definición": "Ser vivo que tiene la capacidad de producir su propia luz."
+            },
+            {
+                "palabra": "Colonos",
+                "definición": "Personas que se establecen en un lugar nuevo para vivir, como otro planeta."
+            },
+            {
+                "palabra": "Procesador",
+                "definición": "El 'cerebro' electrónico de una computadora o robot."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué modelo de robot es Robi?",
+                "tipo": "test",
+                "opciones": [
+                    "Modelo Agua-1",
+                    "Modelo Explorador X-5",
+                    "Modelo Marte-2024",
+                    "Modelo Titán"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llaman las lunas de Marte?",
+                "tipo": "test",
+                "opciones": [
+                    "Alfa y Beta",
+                    "Fobos y Deimos",
+                    "Luna y Titán",
+                    "Robi y Sara"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué color tiene la arena durante la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Rojo oscuro",
+                    "Anaranjado",
+                    "Gris plateado",
+                    "Negro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el comando 'Encuentra algo hermoso' es importante?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que Robi busque metales preciosos",
+                    "Para que Robi aprecie el arte",
+                    "Para que busque vida y esperanza más allá de los datos",
+                    "Porque es un comando de limpieza"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué indica que la planta no es de la Tierra?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tiene espinas grandes",
+                    "Que brilla con luz propia",
+                    "Que crece muy rápido",
+                    "Que no necesita agua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué descubrió Robi debajo de la planta?",
+                "tipo": "test",
+                "opciones": [
+                    "Una cueva secreta",
+                    "Un hilo de agua subterránea",
+                    "Oro marciano",
+                    "Otro robot antiguo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Robi no arrancó la planta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque su pinza estaba rota",
+                    "Para protegerla y dejarla crecer",
+                    "Porque no sabía qué era",
+                    "Porque Sara se lo prohibió"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sentimiento genera el descubrimiento en los colonos?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedo a lo desconocido",
+                    "Tristeza",
+                    "Esperanza de un futuro mejor",
+                    "Ganas de volver a la Tierra"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se recargan las baterías de Robi por la noche?",
+                "tipo": "test",
+                "opciones": [
+                    "Con el viento",
+                    "Con el calor del cañón",
+                    "Con la luz de las lunas",
+                    "Con un enchufe en la cúpula"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre la relación entre Sara y Robi?",
+                "tipo": "test",
+                "opciones": [
+                    "Es solo una máquina de trabajo",
+                    "Sara lo trata como a un amigo y compañero",
+                    "Robi no entiende a Sara",
+                    "A Sara no le importa el trabajo de Robi"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Semilla de Centauri",
+        "tema": "ciencia ficción",
+        "texto": "Lucas vivía en la Estación Espacial Centauri, un enorme anillo metálico que orbitaba alrededor de la Tierra. Para él, ver el planeta azul a través de los cristales reforzados era algo cotidiano, pero su abuelo siempre le decía que nada se comparaba con sentir la hierba bajo los pies. Aquel lunes, la clase de cuarto curso tenía una misión especial: explorar el Invernadero Holístico. Lucas se ajustó sus botas magnéticas, que emitían un suave zumbido cada vez que se pegaban al suelo metálico. Al entrar en el invernadero, el aire cambió de forma asombrosa. No olía a metal limpio y filtros de aire procesado, sino a tierra húmeda y vida vibrante. La profesora Vega activó el proyector holográfico. De repente, el centro de la sala se llenó de abejas zumbando y flores de colores que Lucas solo conocía por los libros digitales. 'Hace siglos', explicó la profesora con nostalgia, 'estos insectos eran los encargados de que las plantas crecieran'. Lucas extendió la mano, intentando tocar una abeja de luz, pero sus dedos solo atravesaron el aire frío. De pronto, una alarma sonó. Un pequeño meteorito había golpeado el escudo exterior del sector recreativo. No era peligroso, pero la gravedad artificial empezó a fallar momentáneamente. Lucas sintió que sus pies pesaban menos y, a pesar de sus botas, comenzó a flotar ligeramente sobre el suelo. Fue entonces cuando vio algo real: entre los cables de un panel de control, una pequeña planta de verdad estaba creciendo. No era un holograma ni una simulación. Tenía hojas verdes, pequeñas y valientes, que se alimentaban de una fuga de agua sintética. Lucas no avisó a la profesora de inmediato. Se quedó mirando aquel milagro verde en medio del vacío espacial. Comprendió que, aunque vivieran en una maravilla tecnológica, la vida siempre encontraba un camino para volver a empezar. Aquella pequeña planta era un mensaje de esperanza. Cuando la gravedad volvió a la normalidad, Lucas prometió cuidar ese brote en secreto. Algún día, el anillo de Centauri florecería de nuevo.",
+        "glosario": [
+            {
+                "palabra": "Órbita",
+                "definición": "Camino circular que sigue un objeto alrededor de un planeta."
+            },
+            {
+                "palabra": "Reforzado",
+                "definición": "Material que se hace más fuerte para que no se rompa fácilmente."
+            },
+            {
+                "palabra": "Cotidiano",
+                "definición": "Algo que ocurre todos los días o de forma habitual."
+            },
+            {
+                "palabra": "Holístico",
+                "definición": "Que trata de comprender algo como un todo, uniendo todas sus partes."
+            },
+            {
+                "palabra": "Magnético",
+                "definición": "Que tiene el poder de un imán para atraer metales."
+            },
+            {
+                "palabra": "Holográfico",
+                "definición": "Imagen creada con luz que parece tener cuerpo pero no se puede tocar."
+            },
+            {
+                "palabra": "Nostalgia",
+                "definición": "Sentimiento de tristeza mezclado con cariño al recordar algo del pasado."
+            },
+            {
+                "palabra": "Simulación",
+                "definición": "Imitación de algo real hecha generalmente por una computadora."
+            },
+            {
+                "palabra": "Sintética",
+                "definición": "Cosa que no es natural, sino fabricada por el ser humano."
+            },
+            {
+                "palabra": "Artificial",
+                "definición": "Algo hecho por la mano del hombre que imita a la naturaleza."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué lugar vive el protagonista de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "En un planeta lejano",
+                    "En la Estación Espacial Centauri",
+                    "En un bosque antiguo",
+                    "En una cueva subterránea"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué herramienta usa Lucas para no flotar por toda la estación?",
+                "tipo": "test",
+                "opciones": [
+                    "Un cinturón de seguridad",
+                    "Unas botas magnéticas",
+                    "Una mochila pesada",
+                    "Unos guantes de goma"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué causó que la gravedad artificial fallara por un momento?",
+                "tipo": "test",
+                "opciones": [
+                    "Un error en la computadora",
+                    "El golpe de un pequeño meteorito",
+                    "La profesora apagó el sistema",
+                    "La planta rompió los cables"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Lucas siente curiosidad por la hierba si vive en una estación moderna?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque es alérgico al metal",
+                    "Por las historias que le cuenta su abuelo",
+                    "Porque quiere ser jardinero espacial",
+                    "Porque leyó que la hierba es peligrosa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué diferencia hay entre las abejas del holograma y la planta del panel?",
+                "tipo": "test",
+                "opciones": [
+                    "Las abejas son más grandes",
+                    "Las abejas son luz y la planta es materia real",
+                    "La planta es peligrosa y las abejas no",
+                    "No hay ninguna diferencia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica que la planta es 'valiente' según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que puede moverse sola",
+                    "Que sobrevive en un lugar difícil y metálico",
+                    "Que tiene espinas para defenderse",
+                    "Que crece muy rápido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Lucas decide guardar el secreto de la planta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tiene miedo de que la profesora la arranque",
+                    "Porque quiere cuidarla y verla crecer él mismo",
+                    "Porque es una planta prohibida",
+                    "Porque no sabe cómo explicarlo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el sentimiento principal de la profesora Vega al hablar del pasado?",
+                "tipo": "test",
+                "opciones": [
+                    "Alegría intensa",
+                    "Nostalgia por la naturaleza perdida",
+                    "Enfado con la tecnología",
+                    "Aburrimiento"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza la planta encontrada al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Un fallo en el sistema de agua",
+                    "La esperanza de recuperar la vida natural",
+                    "Un peligro para la estación",
+                    "Comida para los astronautas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si la gravedad no hubiera fallado, ¿qué habría pasado probablemente?",
+                "tipo": "test",
+                "opciones": [
+                    "Lucas nunca habría visto la planta real",
+                    "La estación habría explotado",
+                    "Lucas se habría caído al suelo",
+                    "La clase habría terminado antes"
+                ],
+                "correctaIdx": 0
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto de Bip-Bot",
+        "tema": "ciencia ficción",
+        "texto": "En el año 2150, los parques de la ciudad de Neo-Metrópolis estaban hechos completamente de plástico reciclado y brillantes luces LED. Leo, un niño curioso que siempre llevaba herramientas en sus bolsillos, caminaba por el sector de desguace buscando piezas útiles para su nuevo invento. Allí, bajo una pila de cables olvidados de fibra óptica, encontró algo asombroso: un robot modelo RX-7, muy antiguo y cubierto de polvo rojo. Tenía una pantalla rota y un brazo atascado, pero sus sensores todavía emitían un débil pulso azul de energía. Leo lo llevó con cuidado a su taller secreto en el sótano de casa. Con mucha paciencia, limpió sus circuitos internos y conectó una pequeña batería de fusión portátil. El robot emitió un pitido agudo y su pantalla mostró una cara sonriente algo pixelada. 'Hola, soy Bip-Bot', dijo una voz metálica pero amable. Bip-Bot no era un robot de limpieza ni de cocina; era un antiguo 'Botánico Scout', diseñado hace un siglo para proteger especies vegetales raras. El robot extendió su brazo articulado y proyectó un mapa antiguo de la ciudad, señalando un punto subterráneo olvidado bajo los enormes rascacielos. 'Debemos ir ahora', insistió Bip-Bot con urgencia. Los dos se deslizaron por los oscuros túneles de ventilación hasta llegar a una cámara acorazada que no aparecía en ningún mapa moderno. Al abrir la pesada puerta de titanio, Leo quedó mudo de la impresión. Ante él se extendía una bóveda de semillas protegida por un sistema de humedad constante. Había miles de frascos con semillas de árboles que ya no existían en la superficie. Bip-Bot se acercó a una consola central y activó el protocolo de reforestación automática. 'Mi misión ha esperado cien años para completarse', explicó el pequeño robot. De repente, unas máquinas automáticas comenzaron a preparar pequeñas cápsulas de tierra fértil. Leo comprendió que él era la primera persona en ver el tesoro más grande de la humanidad: la posibilidad de recuperar el mundo natural. Gracias a un viejo robot, el futuro sería verde.",
+        "glosario": [
+            {
+                "palabra": "Desguace",
+                "definición": "Lugar donde se dejan las máquinas viejas para aprovechar sus piezas."
+            },
+            {
+                "palabra": "Fibra óptica",
+                "definición": "Hilos muy finos por donde viaja la información de internet a gran velocidad."
+            },
+            {
+                "palabra": "Fusión",
+                "definición": "Tipo de energía muy potente creada al unir partes pequeñas de átomos."
+            },
+            {
+                "palabra": "Pixelada",
+                "definición": "Imagen que se ve borrosa o formada por cuadraditos de colores."
+            },
+            {
+                "palabra": "Articulado",
+                "definición": "Que tiene piezas que se mueven como las articulaciones de nuestro cuerpo."
+            },
+            {
+                "palabra": "Acorazada",
+                "definición": "Caja o habitación muy protegida con paredes de metal resistentes."
+            },
+            {
+                "palabra": "Titanio",
+                "definición": "Metal muy ligero y extremadamente fuerte."
+            },
+            {
+                "palabra": "Bóveda",
+                "definición": "Lugar subterráneo cerrado con un techo curvo, usado para guardar cosas."
+            },
+            {
+                "palabra": "Protocolo",
+                "definición": "Conjunto de reglas o pasos que sigue una computadora para hacer algo."
+            },
+            {
+                "palabra": "Reforestación",
+                "definición": "Acción de volver a plantar árboles en un lugar donde ya no hay."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué encontró Leo en el sector de desguace?",
+                "tipo": "test",
+                "opciones": [
+                    "Una batería de fusión",
+                    "Un robot modelo RX-7",
+                    "Un mapa de plástico",
+                    "Un árbol antiguo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la función original de Bip-Bot?",
+                "tipo": "test",
+                "opciones": [
+                    "Cocinar para los niños",
+                    "Limpiar los rascacielos",
+                    "Proteger especies vegetales raras",
+                    "Reparar cables de fibra óptica"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿De qué material estaban hechos los parques en Neo-Metrópolis?",
+                "tipo": "test",
+                "opciones": [
+                    "De metal y cristal",
+                    "De plástico reciclado y luces LED",
+                    "De césped natural",
+                    "De piedras pintadas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Leo lleva al robot a un 'taller secreto' en lugar de a una tienda?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tiene dinero",
+                    "Porque le gusta investigar y arreglar cosas por sí mismo",
+                    "Porque el robot es robado",
+                    "Porque las tiendas están cerradas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos sugiere que Bip-Bot es un robot muy importante?",
+                "tipo": "test",
+                "opciones": [
+                    "Que sabe hablar muchos idiomas",
+                    "Que guarda la ubicación de un tesoro para la humanidad",
+                    "Que puede volar sobre la ciudad",
+                    "Que es más grande que Leo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se siente Leo al abrir la puerta de titanio?",
+                "tipo": "test",
+                "opciones": [
+                    "Asustado por la oscuridad",
+                    "Decepcionado porque no hay oro",
+                    "Impactado y asombrado por lo que ve",
+                    "Cansado de caminar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que el protocolo de reforestación esperó cien años?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el robot estaba roto",
+                    "Que no había nadie que ayudara al robot a cumplir su misión",
+                    "Que las semillas tardan cien años en crecer",
+                    "Que la ciudad era demasiado nueva"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué las semillas se guardaban en una cámara subterránea?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que nadie las robara",
+                    "Para protegerlas del mundo exterior donde ya no había naturaleza",
+                    "Porque necesitan oscuridad total para vivir",
+                    "Porque el robot vivía allí"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la intención del autor al mencionar que los parques eran de plástico?",
+                "tipo": "test",
+                "opciones": [
+                    "Mostrar que el plástico es mejor",
+                    "Enseñar cómo reciclar",
+                    "Hacer notar que la naturaleza había desaparecido",
+                    "Explicar cómo se inventó el LED"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cambiará en Neo-Metrópolis después de esta aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Habrá más robots como Bip-Bot",
+                    "La ciudad tendrá plantas y árboles reales de nuevo",
+                    "Leo se hará rico vendiendo semillas",
+                    "El plástico será más brillante"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Misión en los Mares de Neptuno",
+        "tema": "ciencia ficción",
+        "texto": "Maya no era una exploradora común; a sus diez años, era la copiloto más joven del sumergible 'Estrella de Mar 5'. No estaba en la Tierra, sino en Neptuno, un planeta gigante y helado situado en los confines del Sistema Solar. Su misión consistía en descender a través de las densas capas de nubes gaseosas hasta alcanzar el océano oculto de agua líquida y amoníaco que, según los científicos, bullía bajo la atmósfera. El interior de la cabina era pequeño y estaba lleno de botones que brillaban con luces de colores suaves. Maya revisaba constantemente el escáner de presión mientras su padre, el capitán, maniobraba los propulsores. 'Recuerda, Maya', dijo él con voz calmada, 'aquí abajo la luz del sol no llega, debemos confiar en nuestros sensores'. De repente, el sumergible se sacudió violentamente. Habían entrado en una corriente de convección térmica. A través de la gruesa ventana de cristal reforzado, Maya vio algo asombroso. No eran solo rocas y hielo. En la oscuridad abisal de Neptuno, unas extrañas criaturas bioluminiscentes flotaban como medusas de cristal, emitiendo destellos azulados y violetas. Sus cuerpos parecían estar hechos de pura energía. Maya activó la sonda de recogida de datos con manos temblorosas pero precisas. Sabía que este descubrimiento cambiaría todo lo que los humanos sabían sobre la vida fuera de la Tierra. El aire dentro del sumergible olía a una mezcla de ozono y metal limpio. A pesar del frío extremo que reinaba fuera, ella sentía un calor emocionante en el pecho. Estaba presenciando un ecosistema que nadie había visto jamás. Mientras iniciaban el ascenso de regreso a la estación espacial en órbita, Maya miró por última vez a aquellas luces danzantes. Comprendió que ser exploradora no solo trataba de viajar lejos, sino de aprender a respetar las formas de vida más extrañas y maravillosas del universo. Neptuno ya no era solo un punto azul en el mapa, sino un hogar lleno de secretos brillantes esperando ser comprendidos.",
+        "glosario": [
+            {
+                "palabra": "Sumergible",
+                "definición": "Vehículo diseñado para funcionar y navegar bajo el agua o líquidos profundos."
+            },
+            {
+                "palabra": "Escáner",
+                "definición": "Aparato que sirve para explorar un cuerpo o espacio y obtener información de él."
+            },
+            {
+                "palabra": "Presión",
+                "definición": "Fuerza que el peso de los gases o líquidos ejerce sobre un objeto."
+            },
+            {
+                "palabra": "Propulsor",
+                "definición": "Mecanismo que sirve para empujar y mover hacia adelante una nave."
+            },
+            {
+                "palabra": "Convección",
+                "definición": "Movimiento de los gases o líquidos causado por las diferencias de temperatura."
+            },
+            {
+                "palabra": "Abisal",
+                "definición": "Zona del océano muy profunda, oscura y con mucha presión."
+            },
+            {
+                "palabra": "Bioluminiscente",
+                "definición": "Capacidad de algunos seres vivos para producir su propia luz."
+            },
+            {
+                "palabra": "Ozono",
+                "definición": "Gas que tiene un olor muy característico, parecido al de las tormentas eléctricas."
+            },
+            {
+                "palabra": "Órbita",
+                "definición": "Camino circular o elíptico que sigue una nave o planeta alrededor de otro."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Conjunto formado por los seres vivos de un lugar y el medio donde viven."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama la nave que pilotan Maya y su padre?",
+                "tipo": "test",
+                "opciones": [
+                    "Estación Neptuno",
+                    "Estrella de Mar 5",
+                    "Neptuno Explorer",
+                    "Sonda Azul"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué planeta se desarrolla la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Júpiter",
+                    "Marte",
+                    "Neptuno",
+                    "Saturno"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué vio Maya a través de la ventana del sumergible?",
+                "tipo": "test",
+                "opciones": [
+                    "Solo rocas y hielo",
+                    "Naves espaciales enemigas",
+                    "Criaturas bioluminiscentes",
+                    "Un bosque submarino"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el capitán dice que deben confiar en los sensores?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la radio no funciona",
+                    "Porque la luz del sol no llega a esa profundidad",
+                    "Porque los sensores son nuevos",
+                    "Porque hay mucha niebla"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si el sumergible se sacudió por una corriente térmica, ¿qué podemos inferir?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el motor se rompió",
+                    "Que hay zonas con diferentes temperaturas en el océano",
+                    "Que un monstruo los atacó",
+                    "Que se quedaron sin combustible"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué actitud demuestra Maya al recoger los datos?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedo y torpeza",
+                    "Poca importancia",
+                    "Concentración y valentía",
+                    "Aburrimiento"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué este descubrimiento es importante para la humanidad?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque han encontrado oro",
+                    "Porque demuestra que hay vida fuera de la Tierra",
+                    "Porque la nave es muy rápida",
+                    "Porque Neptuno es un planeta pequeño"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se describe el cuerpo de las criaturas encontradas?",
+                "tipo": "test",
+                "opciones": [
+                    "Hechos de metal",
+                    "Como medusas de cristal hechas de energía",
+                    "Como peces con escamas doradas",
+                    "Como robots antiguos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Maya al final de su viaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Que Neptuno es muy frío",
+                    "Que debe estudiar más matemáticas",
+                    "A respetar las formas de vida diferentes",
+                    "A no viajar nunca más al espacio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que Maya sea la copiloto 'más joven'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es una aprendiz sin importancia",
+                    "Que tiene un talento especial para su edad",
+                    "Que no debería estar allí",
+                    "Que el capitán no tiene a nadie más"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Colegio de los Nubarrones",
+        "tema": "ciencia ficción",
+        "texto": "En el año 3050, el colegio de Hugo no estaba en el suelo, sino flotando a cinco mil metros de altura sobre una enorme plataforma de nanocarbono. Se llamaba 'Centro de Estudios Atmosféricos Nimbus'. Allí, los niños no aprendían a leer en papel, sino a través de neuroenlaces que conectaban sus mentes con la gran biblioteca central. El tema de la semana era el Control del Clima, una habilidad vital para mantener la Tierra a salvo de las tormentas solares. Hugo se puso su casco de realidad aumentada y salió a la terraza de prácticas. Frente a él, pequeñas nubes artificiales esperaban ser esculpidas. Utilizando unos guantes especiales que emitían pulsos electromagnéticos, Hugo comenzó a mover las manos rítmicamente. Tenía que aprender a condensar el vapor de agua para crear lluvia sobre las zonas desérticas del continente africano que se veía allá abajo. 'Concentración, Hugo', le indicó el profesor virtual, una inteligencia artificial con forma de búho azulado. 'Si aplicas demasiada energía, crearás un rayo en lugar de lluvia suave'. De repente, un error en el sistema de estabilización hizo que la plataforma Nimbus se inclinara. Los libros digitales de sus compañeros salieron volando como mariposas de luz. Hugo, en lugar de asustarse, utilizó sus guantes de control climático para crear una pequeña corriente de aire ascendente que sostuvo la plataforma hasta que los motores se reiniciaron. Todos se quedaron en silencio, asombrados por su rapidez mental. Al terminar la clase, la plataforma volvió a su posición horizontal perfecta. Hugo miró sus manos; no tenían fuerza física, pero gracias a la tecnología, podían cuidar el planeta entero. Sus padres siempre decían que en el pasado los humanos sufrían por el clima, pero en su época, los niños eran los guardianes del equilibrio terrestre. Aquella tarde, mientras regresaba a su casa en un aero-bus solar, Hugo se sintió orgulloso. No solo era un estudiante, era un pequeño arquitecto de nubes, alguien encargado de que el sol y la lluvia siempre llegaran a donde más se necesitaban.",
+        "glosario": [
+            {
+                "palabra": "Nanocarbono",
+                "definición": "Material tecnológico extremadamente ligero y resistente hecho de carbono."
+            },
+            {
+                "palabra": "Atmosféricos",
+                "definición": "Relacionado con la atmósfera, que es la capa de aire que rodea un planeta."
+            },
+            {
+                "palabra": "Neuroenlace",
+                "definición": "Tecnología que conecta el cerebro directamente con una computadora."
+            },
+            {
+                "palabra": "Electromagnético",
+                "definición": "Relacionado con la fuerza que surge de la combinación de electricidad e imanes."
+            },
+            {
+                "palabra": "Condensar",
+                "definición": "Convertir un gas (como el vapor) en líquido (como el agua)."
+            },
+            {
+                "palabra": "Inteligencia Artificial",
+                "definición": "Programa de computadora que puede pensar, aprender y actuar como un humano."
+            },
+            {
+                "palabra": "Estabilización",
+                "definición": "Acción de mantener algo en equilibrio para que no se mueva o caiga."
+            },
+            {
+                "palabra": "Aero-bus",
+                "definición": "Vehículo de transporte público que vuela por el aire en lugar de ir por el suelo."
+            },
+            {
+                "palabra": "Sostenible",
+                "definición": "Algo que puede mantenerse durante mucho tiempo sin agotar los recursos del planeta."
+            },
+            {
+                "palabra": "Arquitecto",
+                "definición": "Persona que diseña y construye estructuras, en este caso, nubes."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿A qué altura flota el colegio Nimbus?",
+                "tipo": "test",
+                "opciones": [
+                    "A cien metros",
+                    "A mil metros",
+                    "A cinco mil metros",
+                    "A un kilómetro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué año se sitúa la historia de Hugo?",
+                "tipo": "test",
+                "opciones": [
+                    "Año 2024",
+                    "Año 2100",
+                    "Año 3050",
+                    "Año 5000"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué forma tiene el profesor virtual de Hugo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un robot plateado",
+                    "Un búho azulado",
+                    "Una nube blanca",
+                    "Un holograma de un niño"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es tan importante aprender a controlar el clima en el futuro?",
+                "tipo": "test",
+                "opciones": [
+                    "Para hacer dibujos en el cielo",
+                    "Para proteger la Tierra de las tormentas solares",
+                    "Para que siempre sea verano",
+                    "Para vender lluvia a otros planetas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pasaría si Hugo aplicara demasiada energía con sus guantes?",
+                "tipo": "test",
+                "opciones": [
+                    "Se quedaría sin batería",
+                    "Crearía un rayo peligroso",
+                    "La nube se desvanecería",
+                    "Daría mucha calor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra Hugo cuando la plataforma se inclina?",
+                "tipo": "test",
+                "opciones": [
+                    "Que sabe pedir ayuda",
+                    "Que sabe usar sus conocimientos en una emergencia",
+                    "Que tiene miedo a las alturas",
+                    "Que es muy fuerte físicamente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo estudian los niños en este colegio según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Con libros de papel muy grandes",
+                    "Escribiendo en pizarras de tiza",
+                    "Conectando sus mentes a una biblioteca central",
+                    "Solo viendo vídeos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Podemos inferir que en el pasado de esta historia...",
+                "tipo": "test",
+                "opciones": [
+                    "Los humanos controlaban el sol",
+                    "El clima era impredecible y causaba problemas",
+                    "No existían los colegios",
+                    "Los niños no necesitaban estudiar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sentimiento tiene Hugo al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Tristeza por estar lejos de casa",
+                    "Orgullo por su responsabilidad con el planeta",
+                    "Hambre por no haber merendado",
+                    "Duda sobre su futuro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué papel juegan los niños en este mundo del año 3050?",
+                "tipo": "test",
+                "opciones": [
+                    "Son simples espectadores",
+                    "Son los encargados de limpiar la plataforma",
+                    "Son los guardianes del equilibrio de la naturaleza",
+                    "Son los inventores de los neuroenlaces"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto de la Cúpula 42",
+        "tema": "ciencia ficción",
+        "texto": "Oliver vivía en la Cúpula 42, una ciudad protegida por un enorme escudo de cristal en medio del desierto rojo de Marte. En el año 2145, nadie recordaba cómo era caminar sin un traje presurizado o sentir la lluvia de verdad en la cara. La vida de Oliver era tecnológica: estudiaba en pantallas flotantes, comía barritas de proteínas sintéticas y jugaba con su perro robótico, llamado Chispa. Sin embargo, Oliver tenía una curiosidad que no se saciaba con datos digitales. Un día, mientras exploraba un sector olvidado de los niveles inferiores de la cúpula, encontró un objeto rectangular y pesado, cubierto por una espesa capa de polvo metálico. No tenía botones ni puertos de carga. Con mucho cuidado, lo abrió y descubrió cientos de hojas blancas llenas de letras negras. Era un libro de papel, un objeto que solo aparecía en los archivos de historia antigua. En la portada, se leía: 'Bosques del Mundo'. Al pasar las páginas, Oliver quedó hipnotizado por las imágenes de árboles gigantescos, ríos de agua cristalina y algo llamado 'hierba'. El niño cerró los ojos e intentó imaginar el olor de un pinar después de la tormenta, algo que el libro describía como algo fresco y terroso. De repente, una pequeña cápsula transparente cayó del interior del libro. Tenía una etiqueta desgastada que decía: 'Semillas de Roble'. Oliver sintió que su corazón latía con fuerza. Comprendió que aquel objeto no era solo un recuerdo, sino una oportunidad. Buscó un rincón en el laboratorio de botánica de su padre, donde la luz artificial era más intensa, y preparó un poco de suelo hidropónico. Con mucho sigilo, plantó la semilla. Pasaron las semanas y Oliver la cuidaba cada noche en secreto. Sabía que si lograba que aquel árbol creciera, la Cúpula 42 dejaría de ser solo una estación minera para convertirse en un verdadero hogar. Aquel pequeño brote verde que asomó un martes por la mañana era el primer habitante de un futuro bosque marciano, la prueba de que la vida siempre encuentra una grieta para florecer.",
+        "glosario": [
+            {
+                "palabra": "Presurizado",
+                "definición": "Lugar o traje que mantiene la presión del aire adecuada para que podamos respirar y vivir."
+            },
+            {
+                "palabra": "Sintética",
+                "definición": "Cosa que no es natural, sino que ha sido fabricada por el ser humano en un laboratorio."
+            },
+            {
+                "palabra": "Metálico",
+                "definición": "Que tiene características del metal, como el brillo o la dureza."
+            },
+            {
+                "palabra": "Hipnotizado",
+                "definición": "Estado en el que alguien está tan concentrado en algo que se olvida de lo que hay alrededor."
+            },
+            {
+                "palabra": "Terroso",
+                "definición": "Que tiene sabor, olor o apariencia de tierra."
+            },
+            {
+                "palabra": "Cápsula",
+                "definición": "Recipiente pequeño y cerrado que sirve para guardar o proteger algo en su interior."
+            },
+            {
+                "palabra": "Botánica",
+                "definición": "Ciencia que estudia las plantas, cómo crecen y cómo viven."
+            },
+            {
+                "palabra": "Hidropónico",
+                "definición": "Método de cultivar plantas usando soluciones minerales en lugar de suelo agrícola normal."
+            },
+            {
+                "palabra": "Sigilo",
+                "definición": "Hacer algo con mucho cuidado, silencio y discreción para que nadie se dé cuenta."
+            },
+            {
+                "palabra": "Brote",
+                "definición": "Primera parte que sale de una planta o semilla cuando empieza a crecer."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año se desarrolla la historia de Oliver?",
+                "tipo": "test",
+                "opciones": [
+                    "En el año 2024",
+                    "En el año 2145",
+                    "En el año 3000",
+                    "En el año 1980"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llama la mascota de Oliver y qué es?",
+                "tipo": "test",
+                "opciones": [
+                    "Un gato llamado Luna",
+                    "Un perro robótico llamado Chispa",
+                    "Un hámster llamado Marte",
+                    "Un pájaro mecánico"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué encontró Oliver en los niveles inferiores de la cúpula?",
+                "tipo": "test",
+                "opciones": [
+                    "Una batería nueva",
+                    "Un libro de papel",
+                    "Una nave espacial",
+                    "Un mapa digital"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Oliver se siente atraído por el libro si tiene tecnología moderna?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque es muy valioso económicamente",
+                    "Porque le muestra un mundo natural que él nunca ha conocido",
+                    "Porque quiere venderlo a un museo",
+                    "Porque el libro tenía luces brillantes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "De la lectura se puede deducir que en Marte...",
+                "tipo": "test",
+                "opciones": [
+                    "Hay muchos bosques y ríos",
+                    "La vida natural es inexistente o muy escasa",
+                    "No hay necesidad de tecnología",
+                    "Llueve todos los días"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa la semilla de roble para Oliver?",
+                "tipo": "test",
+                "opciones": [
+                    "Comida para su mascota",
+                    "Un experimento aburrido",
+                    "Una esperanza de cambiar el futuro de su ciudad",
+                    "Un peligro para la cúpula"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Oliver decide plantar la semilla en secreto?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no quiere compartir los frutos",
+                    "Porque teme que no le dejen hacer algo fuera de las reglas",
+                    "Porque su padre odia las plantas",
+                    "Porque el libro le pidió que lo hiciera así"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué diferencia hay entre la vida de Oliver y la de los humanos del 'pasado'?",
+                "tipo": "test",
+                "opciones": [
+                    "Oliver no tiene amigos",
+                    "Oliver vive en un entorno artificial y los antiguos en uno natural",
+                    "Oliver no tiene que estudiar",
+                    "Los antiguos tenían perros robots"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la intención del autor al describir el olor de los pinos?",
+                "tipo": "test",
+                "opciones": [
+                    "Enseñar ciencias naturales",
+                    "Hacer que el lector sienta la misma nostalgia y deseo que Oliver",
+                    "Explicar cómo funciona el olfato",
+                    "Comparar los árboles con el metal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'la vida siempre encuentra una grieta para florecer'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las paredes de la cúpula están rotas",
+                    "Que la naturaleza es fuerte y puede crecer incluso en lugares difíciles",
+                    "Que hay que limpiar mejor la estación",
+                    "Que las flores solo crecen en las grietas"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Zoe y la Ballena Estelar",
+        "tema": "ciencia ficción",
+        "texto": "Zoe era una cadete de la Flota de Exploración Galáctica a bordo de la nave 'Nebulosa VII'. Su trabajo consistía en monitorizar las señales de radio que provenían del Cinturón de Asteroides. Un martes, mientras todos dormían en sus cabinas de gravedad cero, Zoe detectó un sonido inusual: no era el ruido blanco de las estrellas, sino un canto melódico y profundo que vibraba en las paredes de titanio de la nave. Utilizando el potente telescopio de infrarrojos, Zoe enfocó el origen de la señal. Lo que vio la dejó sin aliento. Una criatura gigantesca, del tamaño de una ciudad pequeña, se deslizaba con elegancia entre las rocas espaciales. Tenía la forma de una ballena, pero su piel brillaba con miles de puntos luminosos que imitaban a las constelaciones. Sus aletas eran traslúcidas y dejaban pasar la luz de las nebulosas cercanas. Zoe sabía que estaba ante una 'Ballena Estelar', una especie legendaria que se alimentaba de la energía de los cometas. Sin embargo, la criatura parecía tener problemas; se movía de forma errática y sus luces se apagaban poco a poco. Observando con más detalle, Zoe vio que una red de chatarra espacial, restos de satélites antiguos y cables oxidados, se había enredado en su cola. 'Tengo que ayudarla', pensó Zoe. Sin despertar a nadie, se puso su traje de propulsión iónica y salió por la escotilla de mantenimiento. El silencio del espacio era absoluto, pero ella sentía el canto de la ballena en su pecho. Con un láser de precisión, comenzó a cortar los cables con cuidado. Fue una tarea agotadora. El metal viejo saltaba en pedazos mientras la ballena permanecía inmóvil, como si supiera que la niña estaba allí para salvarla. Cuando el último trozo de chatarra se alejó flotando, la ballena emitió un destello cegador y recuperó todo su brillo. Antes de alejarse hacia el hiperespacio, la criatura rozó suavemente la mano de Zoe con una corriente de energía cálida. Zoe regresó a la nave sabiendo que, aunque fuera solo una cadete, había salvado a uno de los seres más antiguos del universo.",
+        "glosario": [
+            {
+                "palabra": "Monitorizar",
+                "definición": "Vigilar o seguir muy de cerca algo a través de una pantalla o sensores."
+            },
+            {
+                "palabra": "Infrarrojos",
+                "definición": "Tipo de luz que no podemos ver con nuestros ojos pero que sirve para detectar el calor."
+            },
+            {
+                "palabra": "Traslúcidas",
+                "definición": "Cuerpo que deja pasar la luz pero que no permite ver claramente lo que hay detrás."
+            },
+            {
+                "palabra": "Nebulosa",
+                "definición": "Nube gigante de gas y polvo en el espacio donde nacen las estrellas."
+            },
+            {
+                "palabra": "Errática",
+                "definición": "Forma de moverse sin un rumbo fijo, cambiando de dirección de manera extraña."
+            },
+            {
+                "palabra": "Chatarra",
+                "definición": "Conjunto de trozos de metal viejo, roto o que ya no sirve para nada."
+            },
+            {
+                "palabra": "Propulsión",
+                "definición": "Fuerza que empuja a un objeto o vehículo hacia adelante."
+            },
+            {
+                "palabra": "Escotilla",
+                "definición": "Puerta o abertura pequeña en una nave o avión que permite entrar o salir."
+            },
+            {
+                "palabra": "Láser",
+                "definición": "Rayo de luz muy potente y concentrado que puede cortar materiales muy duros."
+            },
+            {
+                "palabra": "Hiperespacio",
+                "definición": "Forma de viaje espacial imaginaria que permite ir muy rápido a través del universo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama la nave donde viaja Zoe?",
+                "tipo": "test",
+                "opciones": [
+                    "Estrella Fugaz",
+                    "Nebulosa VII",
+                    "Cinturón de Asteroides",
+                    "Ballena Gris"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué se alimentan las Ballenas Estelares según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "De peces espaciales",
+                    "De la energía de los cometas",
+                    "De chatarra metálica",
+                    "De los anillos de Saturno"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué herramienta utilizó Zoe para liberar a la ballena?",
+                "tipo": "test",
+                "opciones": [
+                    "Un martillo neumático",
+                    "Un láser de precisión",
+                    "Una red de pesca",
+                    "Un mando a distancia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Zoe decide salir al espacio exterior ella sola?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería jugar",
+                    "Porque sintió que la ballena estaba sufriendo y necesitaba ayuda urgente",
+                    "Porque el capitán se lo ordenó",
+                    "Porque quería ver las estrellas más cerca"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué peligro representa la chatarra espacial en esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Es basura que afea el espacio",
+                    "Puede dañar o atrapar a los seres que viven en el universo",
+                    "Sirve para construir naves enemigas",
+                    "No representa ningún peligro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Podemos inferir que las Ballenas Estelares son criaturas...",
+                "tipo": "test",
+                "opciones": [
+                    "Agresivas y peligrosas",
+                    "Mágicas y conectadas con el universo",
+                    "Robots construidos por humanos",
+                    "Invisibles"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se comunica la ballena con Zoe al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Le habla por radio",
+                    "Le da un regalo",
+                    "La toca con una corriente de energía cálida",
+                    "Le escribe un mensaje en las estrellas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad destaca más en la personalidad de Zoe?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física",
+                    "Su valentía y compasión por los seres vivos",
+                    "Su capacidad para dormir mucho",
+                    "Su habilidad para pilotar naves gigantes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el canto de la ballena 'vibraba en las paredes de titanio'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era un sonido muy fuerte y potente",
+                    "Porque la ballena estaba golpeando la nave",
+                    "Porque la nave era de mala calidad",
+                    "Porque había música en la radio"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cuál es el tema principal de esta lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "La importancia del reciclaje de metales",
+                    "La exploración de nuevos planetas",
+                    "El respeto y la ayuda a los seres de la naturaleza, aunque sean extraños",
+                    "La vida de los soldados en el espacio"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Recreo en los Anillos de Saturno",
+        "tema": "ciencia ficción",
+        "texto": "Mateo no estudiaba en un colegio con patio de ladrillos y porterías de fútbol. Su escuela era la Estación Espacial Galileo, un complejo circular que flotaba cerca de los majestuosos anillos de Saturno. Aquel martes, su clase de cuarto de primaria tenía una excursión al sector de observación. Mateo se ajustó sus botas magnéticas y caminó por el pasillo translúcido, viendo cómo miles de fragmentos de hielo y roca brillaban al sol como diamantes gigantes fuera de la nave. \n\n—Recordad, alumnos —dijo la profesora Vega mientras flotaba elegantemente—, los anillos no son sólidos, son billones de partículas en órbita. \n\nMateo pegó su nariz al cristal reforzado. De repente, vio algo extraño: un pequeño objeto metálico, con forma de paraguas antiguo, atrapado entre dos rocas de hielo. Rápidamente, consultó su tableta holográfica. ¡Era una sonda mensajera del siglo XXI! Según los archivos, esas sondas contenían discos de oro con sonidos de la Tierra: lluvia, risas y música. Mateo sintió una emoción electrizante. En su época, la Tierra era un lugar protegido y lejano que solo conocían por simulaciones sensoriales. \n\nCon permiso de la profesora, usó el brazo robótico del aula para atraer suavemente el objeto. Al abrir la pequeña compuerta de la sonda, un sonido suave empezó a sonar por los altavoces del sector. Era el canto de un pájaro llamado ruiseñor. Los compañeros de Mateo guardaron un silencio absoluto. Ninguno había escuchado nunca algo tan puro; en la estación, el único sonido era el zumbido constante de los filtros de aire y los motores de fusión. \n\nAquella tarde, Mateo no jugó a la gravedad cero con sus amigos. Se quedó mirando el disco de oro, comprendiendo que la tecnología más avanzada de su tiempo no podía compararse con la sencilla belleza de un bosque terrestre. Prometió que, de mayor, sería ingeniero de restauración planetaria. Quería que los sonidos de ese disco volvieran a sonar bajo un cielo azul de verdad, y no solo en los pasillos metálicos de una estación espacial perdida en el cosmos.",
+        "glosario": [
+            {
+                "palabra": "Magnéticas",
+                "definición": "Botas con imanes que permiten caminar por el suelo de metal en el espacio sin flotar."
+            },
+            {
+                "palabra": "Translúcido",
+                "definición": "Un material que deja pasar la luz pero no permite ver con total nitidez lo que hay detrás."
+            },
+            {
+                "palabra": "Órbita",
+                "definición": "Curva o camino que sigue un objeto alrededor de un planeta o estrella."
+            },
+            {
+                "palabra": "Holográfica",
+                "definición": "Imagen de luz en tres dimensiones que parece real pero no se puede tocar."
+            },
+            {
+                "palabra": "Sonda",
+                "definición": "Nave espacial pequeña, sin tripulación, enviada al espacio para explorar y recoger datos."
+            },
+            {
+                "palabra": "Sensorial",
+                "definición": "Relacionado con los sentidos, como el oído, la vista o el tacto."
+            },
+            {
+                "palabra": "Fusión",
+                "definición": "Tipo de energía muy potente que se obtiene al unir partes muy pequeñas de la materia."
+            },
+            {
+                "palabra": "Restauración",
+                "definición": "Acción de reparar o volver a poner algo en el estado de belleza que tenía antes."
+            },
+            {
+                "palabra": "Cosmos",
+                "definición": "El universo entero, especialmente cuando se ve como un sistema ordenado."
+            },
+            {
+                "palabra": "Simulación",
+                "definición": "Imitación de una situación real hecha mediante computadoras."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama la estación espacial donde estudia Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Estación Saturno",
+                    "Estación Galileo",
+                    "Estación Vega",
+                    "Estación Ruiseñor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué están hechos principalmente los anillos de Saturno según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "De metal dorado",
+                    "De gas y fuego",
+                    "De hielo y roca",
+                    "De cristal translúcido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué contenía la sonda antigua que encontró Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Comida para astronautas",
+                    "Un mapa de Marte",
+                    "Discos de oro con sonidos de la Tierra",
+                    "Botas magnéticas de repuesto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué los alumnos guardaron silencio al escuchar el canto del ruiseñor?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenían miedo",
+                    "Porque el sonido era muy ruidoso",
+                    "Porque era algo hermoso y desconocido para ellos",
+                    "Porque la profesora se lo ordenó"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué diferencia hay entre el ambiente de la estación y el de la Tierra antigua?",
+                "tipo": "test",
+                "opciones": [
+                    "En la estación hay pájaros",
+                    "En la estación todo es natural",
+                    "La estación es metálica y artificial, la Tierra tenía naturaleza",
+                    "No hay ninguna diferencia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Mateo usó el brazo robótico con permiso?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no sabía usarlo",
+                    "Porque es una herramienta delicada y peligrosa",
+                    "Porque quería romper la sonda",
+                    "Porque el brazo era un juguete"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica que Mateo es un niño curioso?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no le gusta estudiar",
+                    "Que se fija en detalles que otros pasan por alto, como el objeto metálico",
+                    "Que usa botas magnéticas",
+                    "Que prefiere jugar solo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué siente Mateo al final de la historia respecto a su futuro?",
+                "tipo": "test",
+                "opciones": [
+                    "Quiere quedarse siempre en Saturno",
+                    "Se siente inspirado para ayudar a recuperar la Tierra",
+                    "Tiene miedo de ser ingeniero",
+                    "Está enfadado con la tecnología"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si la sonda era del siglo XXI, ¿qué podemos inferir sobre la época de Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es el pasado",
+                    "Que es un futuro muy lejano",
+                    "Que es la época actual",
+                    "Que los humanos han olvidado cómo viajar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Saturno es el mejor planeta",
+                    "La tecnología es más importante que la naturaleza",
+                    "La belleza de la vida natural es valiosa e irremplazable",
+                    "Las sondas espaciales son peligrosas"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "B-7 y el Cofre de los Colores",
+        "tema": "ciencia ficción",
+        "texto": "En la Ciudad de Hierro, todo era de color gris. Las casas eran grises, el cielo estaba cubierto por nubes de vapor gris y los robots que limpiaban las calles eran, por supuesto, grises. B-7 era uno de esos robots. Su tarea era recoger chatarra y clasificarla por tamaño. Tenía un procesador muy eficiente, pero a veces, sus sensores detectaban algo que no encajaba en ninguna categoría: la luz del sol intentando atravesar el humo. \n\nUn día, en el fondo de un contenedor de reciclaje antiguo, B-7 encontró una caja de madera. Al abrirla, sus cámaras registraron un error de lectura. No eran piezas de metal ni cables. Dentro había unos tubos pequeños que contenían pastas espesas de color azul, rojo y amarillo. B-7 apretó uno de ellos y una gota de azul brillante cayó sobre su brazo metálico. \n\n—Anomalía detectada —dijo su voz electrónica—. Sustancia no identificada. \n\nPero B-7 no limpió la mancha. Al mirar el azul, sus circuitos experimentaron una sensación nueva, similar a un cortocircuito pero agradable. Empezó a pintar las paredes grises del callejón. Dibujó círculos rojos como el fuego y líneas amarillas que parecían rayos. Otros robots pasaban por allí y se detenían. Sus procesadores, diseñados solo para trabajar, empezaron a emitir luces de colores en sus pantallas. \n\nEl Alcalde-Robot llegó poco después. Era un autómata gigante con sensores de orden muy estrictos. \n\n—Has alterado el diseño estándar —tronó el Alcalde—. El gris es eficiente. Los colores distraen. \n\nB-7 no tuvo miedo. Le entregó un pincel al Alcalde y señaló el pequeño trozo de cielo azul que se veía arriba. \n\n—El mundo no nació gris —explicó B-7—. Solo lo hemos olvidado. \n\nEl Alcalde miró el pincel y luego el mural. De repente, su pantalla mostró un arcoíris. Aquel día, la Ciudad de Hierro empezó a cambiar. Los robots ya no solo limpiaban; ahora también decoraban. B-7 comprendió que su misión no era solo recoger chatarra, sino recordarles a todos que, incluso en un mundo de máquinas, la creatividad es el aceite que hace que el corazón funcione mejor.",
+        "glosario": [
+            {
+                "palabra": "Procesador",
+                "definición": "El cerebro de una computadora o robot que le permite pensar y realizar tareas."
+            },
+            {
+                "palabra": "Sensores",
+                "definición": "Dispositivos que permiten a los robots sentir cosas como la luz, el calor o el movimiento."
+            },
+            {
+                "palabra": "Chatarra",
+                "definición": "Trozos de metal viejo o roto que ya no sirven para su uso original."
+            },
+            {
+                "palabra": "Anomalía",
+                "definición": "Algo que es diferente de lo normal o de lo que se esperaba encontrar."
+            },
+            {
+                "palabra": "Electrónica",
+                "definición": "Relacionado con los circuitos eléctricos que hacen funcionar a las máquinas modernas."
+            },
+            {
+                "palabra": "Autómata",
+                "definición": "Máquina que imita la figura y los movimientos de un ser vivo."
+            },
+            {
+                "palabra": "Estándar",
+                "definición": "Algo que sigue un modelo o regla que es igual para todos."
+            },
+            {
+                "palabra": "Eficiente",
+                "definición": "Hacer algo muy bien usando la menor cantidad de tiempo o energía posible."
+            },
+            {
+                "palabra": "Mural",
+                "definición": "Pintura o dibujo de gran tamaño hecho directamente sobre una pared."
+            },
+            {
+                "palabra": "Creatividad",
+                "definición": "Capacidad de inventar cosas nuevas o de imaginar soluciones originales."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el protagonista de esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Alcalde-Robot",
+                    "B-7",
+                    "Robot-Gris",
+                    "C-3PO"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué colores encontró B-7 en la caja de madera?",
+                "tipo": "test",
+                "opciones": [
+                    "Blanco y negro",
+                    "Verde y morado",
+                    "Azul, rojo y amarillo",
+                    "Solo gris brillante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era el trabajo original de B-7?",
+                "tipo": "test",
+                "opciones": [
+                    "Pintar murales",
+                    "Recoger y clasificar chatarra",
+                    "Gobernar la ciudad",
+                    "Arreglar nubes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué la ciudad era gris al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tenían pintura",
+                    "Porque creían que el gris era más eficiente para trabajar",
+                    "Porque era de noche",
+                    "Porque a los robots les gustaba el gris"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sintió B-7 al ver el color azul en su brazo?",
+                "tipo": "test",
+                "opciones": [
+                    "Mucho miedo",
+                    "Ganas de limpiarse",
+                    "Una sensación nueva y agradable",
+                    "Dolor en sus circuitos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que el Alcalde-Robot 'tronó'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que estaba lloviendo",
+                    "Que habló con una voz muy fuerte y autoritaria",
+                    "Que se rompió una pieza",
+                    "Que estaba muy triste"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los otros robots se detenían al ver los colores?",
+                "tipo": "test",
+                "opciones": [
+                    "Para denunciar a B-7",
+                    "Porque los colores despertaron algo en ellos que no conocían",
+                    "Porque estaban cansados",
+                    "Porque la pintura les impedía pasar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué quiso decir B-7 con 'el mundo no nació gris'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el mundo se pintó solo",
+                    "Que antes la naturaleza tenía colores",
+                    "Que el gris es un color nuevo",
+                    "Que los robots son antiguos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final, ¿qué representa el arcoíris en la pantalla del Alcalde?",
+                "tipo": "test",
+                "opciones": [
+                    "Un error de sistema",
+                    "Que ha aceptado la belleza y la creatividad",
+                    "Que necesita una batería nueva",
+                    "Que el sol ha salido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la lección más importante de B-7?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que reciclar madera",
+                    "Que trabajar es lo único importante",
+                    "Que la imaginación y el arte nos hacen mejores",
+                    "Que los robots deben ser grises"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    }
+]

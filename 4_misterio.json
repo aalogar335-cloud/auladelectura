@@ -1,0 +1,1592 @@
+[
+    {
+        "titulo": "El Susurro de la Biblioteca Antigua",
+        "tema": "misterio",
+        "texto": "La biblioteca del pueblo de Valleverde era un edificio imponente de piedra gris, rodeado de robles centenarios cuyas ramas golpeaban los cristales como dedos inquietos. Marina, una niña de diez años con una curiosidad insaciable, pasaba allí sus tardes de martes investigando la sección de historia local. Un día, mientras buscaba un libro sobre los fundadores del pueblo, un ejemplar forrado en terciopelo azul cayó de una estantería alta. Al abrirlo, no encontró palabras, sino un intrincado mecanismo de papel con pequeñas pestañas móviles. Al mover la tercera pestaña, un compartimento oculto en la contraportada se deslizó, revelando una carta doblada y amarillenta. La nota decía: «La verdad brilla donde el sol nunca llega, bajo el guardián que no tiene voz». Marina sintió un escalofrío. Miró a su alrededor; la biblioteca estaba en absoluto silencio, excepto por el tic-tac de un enorme reloj de péndulo en la esquina. Recordó que en el sótano de la biblioteca había una estatua de un búho de piedra, el símbolo de la sabiduría. Con el corazón latiéndole con fuerza, bajó las escaleras crujientes hacia el archivo subterráneo. El lugar olía a papel viejo y humedad. Allí estaba el búho, cubierto de polvo. Marina observó la base de la estatua y notó una pequeña ranura que encajaba perfectamente con el tamaño de la carta doblada. Al introducirla, se escuchó un clic metálico. Una pequeña trampilla en el suelo se abrió, mostrando una caja de madera con el sello de la familia fundadora de Valleverde. Dentro, Marina encontró documentos que probaban que el pueblo no había sido fundado por un explorador, sino por una comunidad de artistas que buscaban paz. El misterio de la carta no solo reveló un secreto histórico, sino que convirtió a Marina en la historiadora más joven del pueblo, demostrando que a veces los mejores secretos están escondidos a plena vista, esperando a alguien con el valor suficiente para descifrarlos.",
+        "glosario": [
+            {
+                "palabra": "Imponente",
+                "definición": "Que causa admiración o respeto por su grandeza o aspecto."
+            },
+            {
+                "palabra": "Insaciable",
+                "definición": "Que no puede ser satisfecho o que siempre quiere más de algo."
+            },
+            {
+                "palabra": "Intrincado",
+                "definición": "Algo que es complicado de entender o que tiene muchos detalles enredados."
+            },
+            {
+                "palabra": "Contraportada",
+                "definición": "La parte de atrás de la tapa de un libro."
+            },
+            {
+                "palabra": "Péndulo",
+                "definición": "Pieza de un reloj que se balancea de un lado a otro para medir el tiempo."
+            },
+            {
+                "palabra": "Sabiduría",
+                "definición": "Conocimiento profundo que se adquiere con el estudio o la experiencia."
+            },
+            {
+                "palabra": "Subterráneo",
+                "definición": "Que está debajo de la superficie de la tierra."
+            },
+            {
+                "palabra": "Ranura",
+                "definición": "Abertura larga y estrecha en una superficie donde se puede introducir algo."
+            },
+            {
+                "palabra": "Trampilla",
+                "definición": "Puerta pequeña en el suelo o en el techo."
+            },
+            {
+                "palabra": "Descifrar",
+                "definición": "Entender o explicar algo que es difícil de conocer o está en código."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De qué material era el edificio de la biblioteca?",
+                "tipo": "test",
+                "opciones": [
+                    "Ladrillo rojo",
+                    "Piedra gris",
+                    "Madera de roble",
+                    "Cristal moderno"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animal representaba la estatua del sótano?",
+                "tipo": "test",
+                "opciones": [
+                    "Un lobo",
+                    "Un búho",
+                    "Un león",
+                    "Un águila"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué encontró Marina dentro de la caja de madera?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de oro",
+                    "Joyas de la familia",
+                    "Documentos históricos",
+                    "Un mapa del tesoro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el autor compara las ramas de los árboles con 'dedos inquietos'?",
+                "tipo": "test",
+                "opciones": [
+                    "Para indicar que hacía mucho viento",
+                    "Para crear un ambiente de misterio y suspenso",
+                    "Porque los árboles eran mágicos",
+                    "Para explicar que la biblioteca era vieja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase de la carta: 'bajo el guardián que no tiene voz'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el tesoro estaba bajo el reloj",
+                    "Que se refería a la estatua del búho",
+                    "Que debían buscar al bibliotecario",
+                    "Que el secreto estaba en el jardín"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo logró Marina abrir la trampilla del suelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Usando una llave de oro",
+                    "Empujando la estatua con fuerza",
+                    "Introduciendo la carta en una ranura",
+                    "Diciendo una palabra mágica"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Marina fue la persona adecuada para resolver el misterio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque vivía cerca de la biblioteca",
+                    "Por su gran curiosidad y su hábito de investigar",
+                    "Porque era la hija del bibliotecario",
+                    "Porque encontró el libro por accidente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sentimiento experimentó Marina al bajar al sótano?",
+                "tipo": "test",
+                "opciones": [
+                    "Aburrimiento total",
+                    "Valentía mezclada con nerviosismo",
+                    "Mucha alegría y risas",
+                    "Indiferencia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la historia del pueblo tras el descubrimiento?",
+                "tipo": "test",
+                "opciones": [
+                    "Se descubrió que el fundador era un guerrero",
+                    "Se supo que los fundadores eran artistas en busca de paz",
+                    "El pueblo cambió de nombre",
+                    "La biblioteca fue cerrada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña la historia sobre los secretos?",
+                "tipo": "test",
+                "opciones": [
+                    "Que nunca deben ser revelados",
+                    "Que a menudo están cerca de nosotros esperando ser descubiertos",
+                    "Que solo los adultos pueden encontrarlos",
+                    "Que siempre están protegidos por trampas peligrosas"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Código de las Piedras Brillantes",
+        "tema": "misterio",
+        "texto": "En la costa del Acantilado Azul, existía una cueva que solo era visible cuando la marea bajaba por completo. Los pescadores locales decían que la cueva estaba encantada, pero para Leo, un niño fascinado por los códigos y los acertijos, era el lugar perfecto para su próxima aventura. Una mañana, aprovechando la marea baja, Leo entró en la cueva con su linterna. Las paredes estaban cubiertas de extrañas piedras de cuarzo que reflejaban la luz de forma inusual. Al llegar al fondo, observó que tres piedras sobresalían más que las otras. Cada una tenía un símbolo grabado: un sol, una luna y una estrella. Leo recordó un antiguo poema que su abuelo le recitaba: «Cuando el día abraza a la noche y las luces se encuentran, el camino se muestra». El niño analizó los símbolos. Sabía que el sol representaba el día y la luna la noche. Pero, ¿qué significaba que se encontraran? Miró hacia la entrada de la cueva y vio cómo los últimos rayos del sol de la tarde entraban en línea recta. Colocó su espejo de bolsillo frente a la piedra del sol para desviar la luz hacia la piedra de la luna. En el momento en que el reflejo iluminó ambos símbolos, la piedra de la estrella comenzó a brillar con una luz azulada intensa. De repente, una sección de la pared de roca se deslizó hacia un lado, revelando una pequeña cámara llena de antiguas vasijas de barro y un mapa de navegación tallado en piedra. No era oro lo que había allí, sino conocimiento sobre las rutas que los antiguos navegantes usaban para viajar por el mundo sin perderse. Leo comprendió que el verdadero tesoro de la cueva era la historia de sus antepasados. Guardó el secreto en su corazón, sabiendo que la inteligencia y la observación habían sido sus mejores herramientas para resolver el enigma que muchos otros habían ignorado durante generaciones.",
+        "glosario": [
+            {
+                "palabra": "Acantilado",
+                "definición": "Corte vertical en una roca de gran altura, generalmente junto al mar."
+            },
+            {
+                "palabra": "Marea",
+                "definición": "Movimiento periódico de ascenso y descenso de las aguas del mar."
+            },
+            {
+                "palabra": "Cuarzo",
+                "definición": "Mineral duro y brillante que puede ser transparente o de diversos colores."
+            },
+            {
+                "palabra": "Inusual",
+                "definición": "Que no es común o que ocurre raramente."
+            },
+            {
+                "palabra": "Acertijo",
+                "definición": "Frase o pregunta que contiene un misterio que hay que resolver."
+            },
+            {
+                "palabra": "Recitar",
+                "definición": "Decir algo en voz alta, generalmente poemas o lecciones."
+            },
+            {
+                "palabra": "Desviar",
+                "definición": "Cambiar la dirección que lleva algo, como un rayo de luz."
+            },
+            {
+                "palabra": "Vasijas",
+                "definición": "Recipientes de barro o metal que sirven para guardar líquidos o alimentos."
+            },
+            {
+                "palabra": "Navegación",
+                "definición": "Acción de viajar por el agua en un barco o embarcación."
+            },
+            {
+                "palabra": "Generaciones",
+                "definición": "Grupos de personas que nacen y viven en una misma época."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué momento era visible la cueva del Acantilado Azul?",
+                "tipo": "test",
+                "opciones": [
+                    "Durante las tormentas",
+                    "Cuando la marea bajaba por completo",
+                    "Solo por la noche",
+                    "Al amanecer"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué símbolos estaban grabados en las tres piedras?",
+                "tipo": "test",
+                "opciones": [
+                    "Fuego, agua y tierra",
+                    "Sol, luna y estrella",
+                    "Norte, sur y este",
+                    "Pez, red y barco"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto utilizó Leo para desviar la luz?",
+                "tipo": "test",
+                "opciones": [
+                    "Una lupa",
+                    "Su linterna",
+                    "Un espejo de bolsillo",
+                    "Una vasija de barro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Leo decidió entrar a la cueva a pesar de las leyendas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería hacerse rico",
+                    "Porque le gustaban los desafíos y los acertijos",
+                    "Porque su abuelo se lo ordenó",
+                    "Porque estaba perdido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación tiene el poema del abuelo con la solución del misterio?",
+                "tipo": "test",
+                "opciones": [
+                    "Era una distracción para Leo",
+                    "Contenía la pista necesaria para activar el mecanismo",
+                    "Explicaba dónde estaba el oro",
+                    "Era una canción de cuna"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representan el sol y la luna en el acertijo según la deducción de Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "El calor y el frío",
+                    "El día y la noche",
+                    "Su padre y su madre",
+                    "El verano y el invierno"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué tipo de tesoro encontró realmente Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "Tesoro económico (monedas)",
+                    "Tesoro de conocimiento e historia",
+                    "Un barco pirata",
+                    "Piedras preciosas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué habría pasado si la marea hubiera subido mientras Leo estaba dentro?",
+                "tipo": "test",
+                "opciones": [
+                    "La cueva se habría iluminado más",
+                    "Leo no habría podido salir fácilmente",
+                    "Habría encontrado más peces",
+                    "El mapa se habría borrado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se dice que el mapa estaba tallado en piedra?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que fuera difícil de leer",
+                    "Para que durara mucho tiempo a través de las generaciones",
+                    "Porque no tenían papel en esa época",
+                    "Para que fuera más pesado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la principal herramienta de Leo para tener éxito?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física",
+                    "Su capacidad de observación e inteligencia",
+                    "Su suerte al encontrar el espejo",
+                    "La ayuda de los pescadores"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Reloj de los Sueños",
+        "tema": "misterio",
+        "texto": "En el desván de la vieja mansión de los abuelos de Hugo, el tiempo parecía haberse detenido entre sábanas blancas y motas de polvo que bailaban bajo los pocos rayos de sol que lograban atravesar las rendijas. Hugo, un niño de diez años con una curiosidad insaciable, encontró un objeto extraño escondido detrás de una pila de libros de botánica. Era un reloj de bolsillo, pero no uno cualquiera; su esfera era de un azul profundo como el océano y sus manecillas tenían forma de plumas plateadas. Lo más inquietante era que el reloj no marcaba las horas, sino que mostraba dibujos diminutos: una llave, un faro, una estrella y un sauce llorón. De repente, al girar la pequeña rosca lateral, el silencio del desván fue interrumpido por un susurro metálico. Las manecillas empezaron a girar frenéticamente en sentido contrario a las agujas del reloj. Hugo sintió un escalofrío cuando la habitación comenzó a oscurecerse y las sombras de los muebles cobraron formas de figuras que parecían señalar hacia la chimenea de piedra del salón principal. Intrigado, bajó las escaleras con sigilo, sujetando el reloj con fuerza. Al llegar frente a la chimenea, notó que una de las piedras tenía tallada la misma forma del sauce llorón que aparecía en la esfera. Al presionar la piedra, un compartimento secreto se abrió lentamente, revelando un antiguo cuaderno encuadernado en cuero. El cuaderno pertenecía a su tatarabuelo, un famoso inventor que, según la leyenda familiar, había descubierto una forma de guardar los sueños de la gente dentro de máquinas. Hugo comprendió que aquel reloj era la llave para activar un legado olvidado. El misterio de su familia apenas comenzaba, y el reloj de bolsillo seguía latiendo suavemente contra su mano, como si tuviera vida propia y estuviera ansioso por contarle la siguiente parte de la historia antes de que el sol se ocultara por completo hoy.",
+        "glosario": [
+            {
+                "palabra": "Desván",
+                "definición": "Parte más alta de una casa, inmediatamente debajo del tejado, que se usa para guardar cosas viejas."
+            },
+            {
+                "palabra": "Rendija",
+                "definición": "Abertura estrecha y alargada en una pared o superficie por donde pasa la luz o el aire."
+            },
+            {
+                "palabra": "Insaciable",
+                "definición": "Deseo o necesidad que no se puede satisfacer o calmar."
+            },
+            {
+                "palabra": "Inquietante",
+                "definición": "Algo que produce una sensación de inquietud, miedo o sospecha."
+            },
+            {
+                "palabra": "Frenéticamente",
+                "definición": "Hacer algo con mucha agitación, rapidez o violencia."
+            },
+            {
+                "palabra": "Escalofrío",
+                "definición": "Sensación de frío que suele acompañarse de temblor, causada por miedo o emoción."
+            },
+            {
+                "palabra": "Sigilo",
+                "definición": "Cuidado o silencio con que se hace algo para no ser visto u oído."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Conjunto de bienes, conocimientos o valores que se transmiten de padres a hijos."
+            },
+            {
+                "palabra": "Tatara-abuelo",
+                "definición": "El padre del abuelo de uno de los padres de una persona."
+            },
+            {
+                "palabra": "Botánica",
+                "definición": "Ciencia que estudia las plantas y los vegetales."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo eran las manecillas del reloj que encontró Hugo?",
+                "tipo": "test",
+                "opciones": [
+                    "De oro brillante",
+                    "Forma de plumas plateadas",
+                    "Forma de llaves antiguas",
+                    "De madera de sauce"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto encontró Hugo dentro del compartimento secreto de la chimenea?",
+                "tipo": "test",
+                "opciones": [
+                    "Una moneda de oro",
+                    "Un mapa del tesoro",
+                    "Un cuaderno de cuero",
+                    "Otro reloj azul"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién era el dueño original del cuaderno encontrado?",
+                "tipo": "test",
+                "opciones": [
+                    "El abuelo de Hugo",
+                    "Su tatarabuelo inventor",
+                    "Un famoso pirata",
+                    "Un explorador de océanos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el reloj no marcaba las horas como los relojes normales?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba roto",
+                    "Porque era un juguete",
+                    "Porque servía para activar mecanismos y no para medir el tiempo",
+                    "Porque era muy antiguo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué provocó que las sombras del desván señalaran hacia el salón?",
+                "tipo": "test",
+                "opciones": [
+                    "La luz del sol",
+                    "Hugo al encender una linterna",
+                    "El mecanismo del reloj al girar la rosca",
+                    "El viento que entraba por la rendija"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo supo Hugo que debía presionar la piedra de la chimenea?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la piedra brillaba",
+                    "Porque vio el símbolo del sauce en el reloj y luego en la piedra",
+                    "Porque se lo dijo su abuelo",
+                    "Porque estaba sucia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad de Hugo fue fundamental para descubrir el secreto?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física",
+                    "Su capacidad de observar detalles y su curiosidad",
+                    "Su obediencia",
+                    "Su velocidad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sugiere el autor al decir que el reloj 'latió suavemente como si tuviera vida'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el reloj era un animal",
+                    "Que el objeto tenía una energía mágica o especial",
+                    "Que Hugo tenía mucha fiebre",
+                    "Que el reloj hacía mucho ruido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si el tatarabuelo guardaba sueños, ¿qué función probable tenía el reloj?",
+                "tipo": "test",
+                "opciones": [
+                    "Para despertar a la gente",
+                    "Como una herramienta o llave para acceder a esos sueños",
+                    "Para decorar el desván",
+                    "Para venderlo por mucho dinero"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el propósito principal de esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Enseñar a reparar relojes",
+                    "Contar una aventura sobre el descubrimiento de un secreto familiar",
+                    "Describir cómo es un desván",
+                    "Explicar la vida de los inventores"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio de las Huellas de Cristal",
+        "tema": "misterio",
+        "texto": "Valeria vivía en un pueblo costero donde las leyendas sobre barcos fantasmas eran tan comunes como la sal en el aire. Sin embargo, ella no creía en fantasmas hasta que una mañana de niebla espesa encontró algo imposible en la orilla de la playa. No eran conchas ni restos de madera, sino una serie de huellas humanas que brillaban como si estuvieran hechas de cristal fundido. Lo más extraño es que las huellas comenzaban en medio de la arena seca y se dirigían directamente hacia el mar, pero desaparecían justo antes de tocar el agua. Valeria, armada con su cuaderno de notas de detective, decidió seguir el rastro a la inversa. El camino la llevó hasta una cueva oculta por las rocas del acantilado, un lugar que los pescadores llamaban 'La Boca del Silencio'. Al entrar, el aire se volvió frío y dulce. En las paredes de la cueva, alguien había dibujado mapas de constelaciones que Valeria nunca había visto en sus libros de astronomía. En el centro de la gruta, sobre un pedestal de piedra, descansaba un frasco de vidrio lleno de una arena plateada que emitía el mismo resplandor que las huellas de la playa. Al acercarse, escuchó una melodía suave, como si el viento cantara dentro de una caracola. De pronto, vio una sombra esbelta moverse al fondo de la cueva. No era un fantasma, sino una anciana que tejía redes con hilos transparentes. La mujer le explicó que no recolectaba peces, sino 'estrellas fugaces caídas al mar' para devolverles su brillo antes de que se apagaran para siempre. Valeria comprendió que aquel brillo en la arena no era magia oscura, sino un trabajo secreto para proteger la luz del océano. La anciana le pidió que guardara el secreto, entregándole una pequeña piedra brillante como prueba de su encuentro. Desde ese día, cada vez que Valeria ve un destello en el mar, sabe que alguien está cuidando que el mundo no pierda su magia hoy para siempre.",
+        "glosario": [
+            {
+                "palabra": "Niebla",
+                "definición": "Nube muy baja que dificulta la visión y suele ser húmeda."
+            },
+            {
+                "palabra": "Fundido",
+                "definición": "Material que ha pasado a estado líquido debido a un calor muy fuerte."
+            },
+            {
+                "palabra": "Acantilado",
+                "definición": "Corte vertical de una roca de gran altura, generalmente junto al mar."
+            },
+            {
+                "palabra": "Constelaciones",
+                "definición": "Grupo de estrellas que forman una figura determinada en el cielo."
+            },
+            {
+                "palabra": "Astronomía",
+                "definición": "Ciencia que estudia los astros, como las estrellas, planetas y galaxias."
+            },
+            {
+                "palabra": "Gruta",
+                "definición": "Cueva natural o artificial, a veces bajo tierra o entre rocas."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base o apoyo sobre el que se coloca una estatua u objeto valioso."
+            },
+            {
+                "palabra": "Resplandor",
+                "definición": "Luz muy clara que despide un cuerpo o que se refleja en él."
+            },
+            {
+                "palabra": "Esbelta",
+                "definición": "Figura que es alta, delgada y tiene formas elegantes."
+            },
+            {
+                "palabra": "Recolección",
+                "definición": "Acción de recoger cosas que están esparcidas, como frutos o materiales."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué encontró Valeria en la orilla de la playa que brillaba?",
+                "tipo": "test",
+                "opciones": [
+                    "Diamantes pequeños",
+                    "Huellas de cristal fundido",
+                    "Peces de colores",
+                    "Botellas de vidrio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba la cueva donde entró Valeria?",
+                "tipo": "test",
+                "opciones": [
+                    "La Cueva del Eco",
+                    "La Boca del Silencio",
+                    "El Refugio Marino",
+                    "La Gruta de Plata"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué le entregó la anciana a Valeria al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mapa de estrellas",
+                    "Una red de pesca",
+                    "Una pequeña piedra brillante",
+                    "Un frasco de arena"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué las huellas desaparecían antes de llegar al agua?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el mar las borraba",
+                    "Porque el ser que las hacía volvía a su forma original o flotaba",
+                    "Porque eran falsas",
+                    "Porque Valeria las pisó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la verdadera tarea de la anciana en la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Pescar para vender",
+                    "Limpiar la playa",
+                    "Cuidar el brillo de las estrellas fugaces caídas",
+                    "Tejer ropa para los pescadores"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos deducir sobre los mapas de constelaciones en la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Que eran dibujos de niños",
+                    "Que pertenecían a un mundo o cielo que los humanos no conocen bien",
+                    "Que estaban mal dibujados",
+                    "Que eran de un libro escolar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se siente el ambiente dentro de la cueva según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Peligroso y ruidoso",
+                    "Misterioso, frío y a la vez dulce",
+                    "Muy caluroso y oscuro",
+                    "Alegre y lleno de gente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Valeria no hubiera sido curiosa, ¿qué habría pasado con el misterio?",
+                "tipo": "test",
+                "opciones": [
+                    "La anciana la habría buscado",
+                    "El secreto habría permanecido oculto para siempre",
+                    "La policía habría ido a la cueva",
+                    "Las huellas se habrían apagado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que Valeria es 'detective' en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que trabaja para el gobierno",
+                    "Que tiene una actitud de investigar y resolver dudas",
+                    "Que usa un uniforme especial",
+                    "Que no le gusta jugar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el destello en el mar para Valeria al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Que va a llover",
+                    "Que hay un barco cerca",
+                    "Un recordatorio de que la magia y el cuidado de la naturaleza existen",
+                    "Que hay basura en el agua"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma de las Sombras Perdidas",
+        "tema": "misterio",
+        "texto": "El Museo de Antigüedades de Villa Bruma era famoso por su colección de estatuas egipcias. Sin embargo, una mañana de martes, el vigilante nocturno, el señor López, descubrió algo inquietante: las estatuas seguían allí, pero sus sombras habían desaparecido por completo de la sala principal. Lucía, una niña con alma de detective y gafas redondas, decidió investigar el enigma aprovechando la excursión escolar. Mientras sus compañeros merendaban, ella se escabulló hacia el pasillo de los espejos dorados. Notó que el suelo de mármol estaba inusualmente frío y que un suave aroma a jazmín inundaba el aire. Al observar con atención la base de la gran estatua de Anubis, descubrió una pequeña linterna de luz ultravioleta olvidada bajo un pedestal. Lucía recordó haber leído sobre pigmentos fotosensibles que reaccionan de forma extraña a ciertas longitudes de onda. Siguiendo el rastro del aroma, llegó a una puerta trasera que conducía al laboratorio del conservador. Allí, el joven ayudante del museo, Adrián, intentaba desesperadamente restaurar un antiguo mural. Adrián le confesó que había usado un barniz experimental que, al contacto con la luz halógena del museo, creaba una ilusión óptica que borraba las sombras de los objetos cercanos. No era magia ni un robo de sombras, sino un error científico. Lucía le ayudó a ventilar la sala y a cambiar la intensidad de los focos. Al poco tiempo, las sombras regresaron a su lugar, alargándose tímidamente sobre el suelo pulido. El señor López suspiró aliviado y Lucía guardó su cuaderno de notas con una sonrisa. Había aprendido que, a menudo, los misterios más aterradores tienen una explicación lógica si se mira con la curiosidad adecuada. El joven Adrián le agradeció su discreción regalándole una pequeña reproducción de un escarabajo de la suerte. Aquella tarde, mientras el autobús escolar regresaba a casa, Lucía miraba su propia sombra proyectada en el asiento delantero, sintiéndose satisfecha por haber resuelto el misterio más brillante de toda la región de Villa Bruma.",
+        "glosario": [
+            {
+                "palabra": "Inquietante",
+                "definición": "Algo que produce una sensación de desasosiego o miedo."
+            },
+            {
+                "palabra": "Enigma",
+                "definición": "Dicho o cosa que tiene un significado oculto o difícil de comprender."
+            },
+            {
+                "palabra": "Escabullirse",
+                "definición": "Irse de un lugar con habilidad sin que nadie lo note."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base sobre la que se apoya una estatua u objeto decorativo."
+            },
+            {
+                "palabra": "Ultravioleta",
+                "definición": "Tipo de luz que no es visible para el ojo humano."
+            },
+            {
+                "palabra": "Fotosensible",
+                "definición": "Que reacciona o cambia cuando le da la luz."
+            },
+            {
+                "palabra": "Conservador",
+                "definición": "Persona encargada de cuidar y restaurar las piezas de un museo."
+            },
+            {
+                "palabra": "Ilusión óptica",
+                "definición": "Efecto que engaña a nuestra vista haciéndonos ver algo que no es real."
+            },
+            {
+                "palabra": "Discreción",
+                "definición": "Capacidad de guardar un secreto o actuar con prudencia."
+            },
+            {
+                "palabra": "Proyectada",
+                "definición": "Imagen o sombra que se refleja sobre una superficie."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el vigilante nocturno del museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Señor Adrián",
+                    "Señor López",
+                    "Señor Anubis",
+                    "Señor Villa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto encontró Lucía debajo del pedestal de Anubis?",
+                "tipo": "test",
+                "opciones": [
+                    "Un escarabajo de oro",
+                    "Un cuaderno de notas",
+                    "Una linterna ultravioleta",
+                    "Un bote de barniz"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué olor ayudó a Lucía a encontrar el laboratorio?",
+                "tipo": "test",
+                "opciones": [
+                    "Mármol frío",
+                    "Jazmín",
+                    "Papel antiguo",
+                    "Pintura fresca"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Adrián estaba preocupado al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque odiaba a los niños",
+                    "Porque su experimento causó un efecto inesperado en el museo",
+                    "Porque el museo iba a cerrar",
+                    "Porque perdió su linterna"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Del texto se infiere que Lucía es una niña:",
+                "tipo": "test",
+                "opciones": [
+                    "Asustadiza y solitaria",
+                    "Observadora y con conocimientos científicos",
+                    "Distraída y juguetona",
+                    "A la que no le gusta el colegio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la causa real de la desaparición de las sombras?",
+                "tipo": "test",
+                "opciones": [
+                    "Un fenómeno de magia egipcia",
+                    "Un fallo en la electricidad del pueblo",
+                    "Una reacción química entre el barniz y las luces",
+                    "Que las estatuas se movieron de lugar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Lucía decidió investigar sola en lugar de avisar a sus profesores?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no confiaba en los adultos",
+                    "Porque tenía un espíritu de detective y quería resolverlo ella misma",
+                    "Porque estaba castigada",
+                    "Porque sus compañeros se burlaban de ella"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué importancia tuvo la linterna ultravioleta en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Fue el regalo que le dieron al final",
+                    "Fue la pista física que vinculó el misterio con el laboratorio",
+                    "Sirvió para iluminar el pasillo oscuro",
+                    "No tuvo ninguna importancia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué mensaje pedagógico transmite el relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los museos son lugares peligrosos",
+                    "Que la observación y la lógica pueden resolver miedos aparentes",
+                    "Que no se debe entrar en laboratorios ajenos",
+                    "Que las sombras no son importantes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el joven Adrián le regaló un escarabajo a Lucía?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque ella se lo robó",
+                    "Como muestra de gratitud por ayudarle y no delatar su error",
+                    "Porque sobraban en la tienda del museo",
+                    "Porque era el cumpleaños de Lucía"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Guardián del Tiempo",
+        "tema": "misterio",
+        "texto": "En el pequeño pueblo de San Amaro, la vida transcurría con la precisión de un cronómetro. El corazón del lugar era el gran reloj de la torre, una pieza de relojería suiza que nunca había fallado en cien años. Pero un jueves caluroso, justo cuando el sol estaba en su punto más alto, el reloj hizo algo imposible: empezó a girar hacia atrás. Al principio, los vecinos pensaron que era una avería mecánica, pero pronto notaron sucesos extraños. Las flores de los jardines se cerraban de golpe como si fuera el amanecer y los pájaros regresaban a sus nidos en silencio. Mateo, el nieto del antiguo relojero, sospechó que el problema no estaba en los engranajes de bronce. Subió los cien escalones de caracol de la torre, sintiendo el aire cada vez más denso. En la maquinaria encontró una pluma de cuervo atrapada entre los dientes de la rueda principal. Al retirarla, el reloj no volvió a la normalidad, sino que se detuvo por completo. Mateo observó que alguien había colocado un imán de neodimio oculto tras el péndulo de madera. Recordó que el alcalde quería demoler la torre para construir un moderno centro comercial y necesitaba una excusa para declarar el edificio irrecuperable. Con manos hábiles, Mateo retiró el potente imán y limpió los restos de polvo magnético. Inmediatamente, el tic-tac rítmico volvió a llenar la estancia y las agujas recuperaron su curso natural hacia el futuro. Desde la ventana de la torre, vio cómo el alcalde, que observaba desde la plaza con expresión de derrota, se alejaba apresuradamente. El pueblo de San Amaro recuperó su tiempo, y Mateo comprendió que la tecnología a veces se usa para engañar a la tradición. Bajó de la torre convertido en el nuevo guardián del tiempo, prometiendo que mientras él estuviera allí, nadie manipularía el destino de los habitantes de San Amaro. Aquella noche, el reloj sonó con más fuerza que nunca, celebrando su libertad recuperada.",
+        "glosario": [
+            {
+                "palabra": "Cronómetro",
+                "definición": "Reloj de gran precisión usado para medir fracciones de tiempo muy pequeñas."
+            },
+            {
+                "palabra": "Avería",
+                "definición": "Daño o fallo que impide el funcionamiento de una máquina."
+            },
+            {
+                "palabra": "Engranaje",
+                "definición": "Conjunto de ruedas con dientes que encajan entre sí para transmitir movimiento."
+            },
+            {
+                "palabra": "Escalera de caracol",
+                "definición": "Escalera que sube dando vueltas en torno a un eje central."
+            },
+            {
+                "palabra": "Neodimio",
+                "definición": "Material con el que se fabrican los imanes más potentes del mundo."
+            },
+            {
+                "palabra": "Péndulo",
+                "definición": "Pieza de un reloj que oscila de un lado a otro para regular su movimiento."
+            },
+            {
+                "palabra": "Demoler",
+                "definición": "Derribar o destruir un edificio o construcción."
+            },
+            {
+                "palabra": "Irrecuperable",
+                "definición": "Algo que no se puede arreglar o volver a tener como antes."
+            },
+            {
+                "palabra": "Rítmico",
+                "definición": "Que sucede con una pausa y orden constantes."
+            },
+            {
+                "palabra": "Tradición",
+                "definición": "Costumbre o valor que se transmite de generación en generación."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué material formaba los engranajes del reloj?",
+                "tipo": "test",
+                "opciones": [
+                    "Plata",
+                    "Bronce",
+                    "Plástico",
+                    "Oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuántos escalones tuvo que subir Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Cincuenta",
+                    "Doscientos",
+                    "Cien",
+                    "Diez"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué animal dejó la pluma en la maquinaria?",
+                "tipo": "test",
+                "opciones": [
+                    "Una paloma",
+                    "Un cuervo",
+                    "Un águila",
+                    "Un gorrión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el alcalde quería que el reloj se rompiera?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque odiaba el ruido",
+                    "Para poder derribar la torre y construir un centro comercial",
+                    "Porque quería comprar un reloj digital",
+                    "Para que los vecinos llegaran tarde"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo afectó el movimiento hacia atrás del reloj a la naturaleza?",
+                "tipo": "test",
+                "opciones": [
+                    "No afectó en nada",
+                    "Los animales y plantas empezaron a comportarse como si el día retrocediera",
+                    "Las plantas crecieron más rápido",
+                    "Llovió intensamente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué función cumplía el imán de neodimio en el plan del alcalde?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacer que el reloj brillara",
+                    "Sujetar el péndulo para que no se cayera",
+                    "Alterar el mecanismo para simular un fallo total",
+                    "Ayudar a Mateo a limpiar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad heredó Mateo de su abuelo?",
+                "tipo": "test",
+                "opciones": [
+                    "La riqueza",
+                    "El conocimiento sobre relojería y la paciencia",
+                    "Su casa en la plaza",
+                    "Su colección de imanes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se alejó el alcalde con 'expresión de derrota'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se le olvidaron las llaves",
+                    "Porque vio que su plan había fallado al oír el reloj funcionar",
+                    "Porque tenía mucho sueño",
+                    "Porque los vecinos le perseguían"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La torre del reloj simboliza para el pueblo:",
+                "tipo": "test",
+                "opciones": [
+                    "Un lugar viejo y molesto",
+                    "Su historia y su estabilidad",
+                    "Un estorbo para el progreso",
+                    "Un sitio para tirar basura"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cargo asume Mateo al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Alcalde del pueblo",
+                    "Vigilante nocturno",
+                    "Guardián del tiempo",
+                    "Constructor de centros comerciales"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Caserón Miravientos",
+        "tema": "misterio",
+        "texto": "El viejo caserón de la familia Miravientos se alzaba sobre la colina, rodeado de una niebla espesa que nunca parecía disiparse del todo, dándole un aspecto fantasmal bajo la luz de la luna. Los vecinos decían que la casa guardaba un secreto antiguo, pero nadie se atrevía a cruzar el jardín descuidado, lleno de maleza. Samuel, un niño de diez años con una curiosidad insaciable que a veces le metía en líos, decidió que ese sábado sería el día del gran descubrimiento. Llevaba semanas observando el caserón desde su ventana y había notado algo muy extraño: cada tarde, exactamente a las cinco, un destello verde brillaba en la ventana circular del ático. Samuel entró en la propiedad saltando con cuidado la valla metálica oxidada. El suelo crujía bajo sus botas, cubierto de hojas secas, barro y ramas rotas que dificultaban el paso. Mientras exploraba cerca de un viejo roble de tronco retorcido, su pie tropezó con un objeto metálico enterrado a medias en la tierra húmeda. Era una llave de bronce, pesada y fría, con un diseño que recordaba a un dragón enroscado con alas abiertas. Sin pensarlo dos veces, se dirigió a la puerta lateral de la cocina, que milagrosamente cedió al primer intento con un gemido de las bisagras. El interior olía a madera vieja, a polvo acumulado y a recuerdos olvidados. Samuel subió las escaleras de madera con el corazón latiéndole con fuerza contra las costillas. Al llegar al ático, encontró una estancia inmensa llena de baúles cerrados y espejos cubiertos con sábanas blancas. En el centro, sobre una mesa de caoba tallada, descansaba una caja de madera oscura con una cerradura idéntica al diseño de su llave de dragón. Con las manos temblorosas por la emoción, introdujo la llave y giró con fuerza. Un clic seco rompió el silencio del lugar. Al levantar la tapa, no encontró oro ni joyas, sino un mapa detallado del pueblo con marcas rojas. Debajo del mapa, una nota decía: «La aventura no termina aquí, sino en los túneles secretos». Samuel comprendió que el destello era una invitación.",
+        "glosario": [
+            {
+                "palabra": "Caserón",
+                "definición": "Casa muy grande y antigua que a menudo parece descuidada."
+            },
+            {
+                "palabra": "Disiparse",
+                "definición": "Desaparecer poco a poco, como cuando se quita la niebla."
+            },
+            {
+                "palabra": "Insaciable",
+                "definición": "Que no se cansa nunca de algo, en este caso, de aprender o saber."
+            },
+            {
+                "palabra": "Ático",
+                "definición": "La parte más alta de una casa, justo debajo del tejado."
+            },
+            {
+                "palabra": "Maleza",
+                "definición": "Plantas silvestres que crecen en abundancia y de forma desordenada."
+            },
+            {
+                "palabra": "Valla",
+                "definición": "Cerca de metal o madera que sirve para rodear un terreno."
+            },
+            {
+                "palabra": "Bronce",
+                "definición": "Metal de color marrón rojizo que es muy resistente."
+            },
+            {
+                "palabra": "Enroscado",
+                "definición": "Puesto en forma de rosca o espiral."
+            },
+            {
+                "palabra": "Caoba",
+                "definición": "Tipo de madera muy fina y oscura que se usa para muebles caros."
+            },
+            {
+                "palabra": "Estancia",
+                "definición": "Habitación o sala dentro de una vivienda."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿A qué hora exacta brillaba el destello verde en la ventana?",
+                "tipo": "test",
+                "opciones": [
+                    "A las tres de la tarde",
+                    "A las cinco de la tarde",
+                    "A la medianoche",
+                    "Al amanecer"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animal aparecía diseñado en la llave encontrada?",
+                "tipo": "test",
+                "opciones": [
+                    "Un águila",
+                    "Un león",
+                    "Un dragón",
+                    "Una serpiente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué lugar de la casa encontró Samuel la caja de madera?",
+                "tipo": "test",
+                "opciones": [
+                    "En la cocina",
+                    "En el jardín",
+                    "En el ático",
+                    "Bajo el roble"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nos indica que el jardín estaba 'descuidado' sobre los habitantes de la casa?",
+                "tipo": "test",
+                "opciones": [
+                    "Que les gustaba mucho la naturaleza",
+                    "Que hacía mucho tiempo que nadie vivía allí o se encargaba de ella",
+                    "Que el jardinero estaba de vacaciones",
+                    "Que era un jardín mágico"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Samuel decidió entrar en el caserón ese sábado?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque sus padres le obligaron",
+                    "Porque quería esconderse de sus amigos",
+                    "Porque su curiosidad por el destello verde fue más fuerte que su miedo",
+                    "Porque buscaba un balón perdido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué sugiere el hecho de que la puerta cediera 'milagrosamente' al primer intento?",
+                "tipo": "test",
+                "opciones": [
+                    "Que Samuel es muy fuerte",
+                    "Que la casa quería ser descubierta o alguien olvidó cerrarla",
+                    "Que la llave de bronce abrió la puerta de la cocina",
+                    "Que la puerta era de papel"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al encontrar un mapa en lugar de oro, ¿qué se puede inferir sobre el dueño de la caja?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era una persona pobre",
+                    "Que valoraba más la exploración y los secretos que el dinero",
+                    "Que se había olvidado de guardar las joyas",
+                    "Que era un pirata despistado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sentía Samuel cuando subía las escaleras del caserón?",
+                "tipo": "test",
+                "opciones": [
+                    "Aburrido y con sueño",
+                    "Muy asustado y con ganas de llorar",
+                    "Emocionado y nervioso, con el corazón acelerado",
+                    "Tranquilo como si estuviera en su casa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué función cumplía probablemente el destello verde en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Era un fallo en los cristales de la ventana",
+                    "Era una trampa para atrapar niños",
+                    "Era una señal o guía para atraer a alguien capaz de resolver el misterio",
+                    "Era la luz de una linterna de los vecinos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la consecuencia principal del descubrimiento de Samuel?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se hizo rico con el mapa",
+                    "Que el alcalde cerró el caserón para siempre",
+                    "Que descubrió el inicio de una red de túneles secretos en el pueblo",
+                    "Que perdió la llave de bronce"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio de la Tinta Brillante",
+        "tema": "misterio",
+        "texto": "El Museo de Bellas Artes de Villa Serena era conocido mundialmente por su tranquilidad absoluta, hasta que ocurrió el incidente del cuadro desaparecido una mañana de invierno. La obra maestra del museo, titulada «El Paisaje Susurrante», se había esfumado de su marco dorado durante la noche de la gran tormenta eléctrica. La inspectora Elena, una mujer que siempre llevaba una lupa en el bolsillo y un lápiz tras la oreja para anotar pistas, fue la encargada de resolver el enigma. Acompañada por su fiel ayudante, un perro labrador llamado Rastro, Elena examinó la sala principal con detenimiento. No había ventanas rotas ni cerraduras forzadas, lo cual era sumamente extraño para un robo de tal magnitud. Sin embargo, Rastro comenzó a ladrar con insistencia frente a una pared lisa que no tenía cuadros colgados actualmente. Elena se acercó y notó algo minúsculo: unas pequeñas gotas de una tinta azulada que brillaba suavemente en la oscuridad del pasillo. Siguiendo el rastro de la tinta luminosa, llegaron a la sección de esculturas romanas. Allí, el rastro se detenía bruscamente frente a la imponente estatua de un guerrero de mármol. Elena observó que el guerrero sostenía su escudo de una forma diferente a como aparecía en las fotografías oficiales del catálogo del museo. Al mover con cuidado el brazo de mármol, se abrió una puerta oculta en el pedestal de piedra. Dentro, en una habitación pequeña iluminada por velas aromáticas, encontraron al joven restaurador del museo, Martín. Él no había robado el cuadro para venderlo en el mercado negro; lo había ocultado para protegerlo del deterioro. Martín explicó que había descubierto que la humedad excesiva de la sala principal estaba dañando la pintura y, como nadie le escuchaba, decidió «secuestrarla» para llamar la atención sobre el grave problema. Elena, aunque admiraba la pasión de Martín por el arte, le explicó que había mejores formas de avisar. El cuadro regresó a su lugar tras instalar ventilación. Martín fue nombrado jefe de conservación y el misterio se resolvió.",
+        "glosario": [
+            {
+                "palabra": "Incidente",
+                "definición": "Suceso inesperado que interrumpe la normalidad de las cosas."
+            },
+            {
+                "palabra": "Esfumado",
+                "definición": "Desaparecido de forma rápida o misteriosa."
+            },
+            {
+                "palabra": "Enigma",
+                "definición": "Misterio o pregunta difícil de resolver."
+            },
+            {
+                "palabra": "Magnitud",
+                "definición": "Importancia o tamaño de algo."
+            },
+            {
+                "palabra": "Catálogo",
+                "definición": "Libro o lista donde se muestran ordenados todos los objetos de una colección."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base de piedra o madera sobre la que se coloca una estatua."
+            },
+            {
+                "palabra": "Restaurador",
+                "definición": "Persona que se encarga de arreglar obras de arte para que parezcan nuevas."
+            },
+            {
+                "palabra": "Deterioro",
+                "definición": "Daño o desgaste que sufre algo con el tiempo o el mal cuidado."
+            },
+            {
+                "palabra": "Conservación",
+                "definición": "Cuidado de algo para que no se estropee o se pierda."
+            },
+            {
+                "palabra": "Aromáticas",
+                "definición": "Que tienen un olor agradable y suave."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba la obra de arte desaparecida?",
+                "tipo": "test",
+                "opciones": [
+                    "El Guerrero de Mármol",
+                    "El Paisaje Susurrante",
+                    "La Tormenta Eléctrica",
+                    "El Escudo de Oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué raza era el perro ayudante de la inspectora?",
+                "tipo": "test",
+                "opciones": [
+                    "Pastor Alemán",
+                    "Labrador",
+                    "Caniche",
+                    "Dálmata"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto movió Elena para abrir la puerta oculta?",
+                "tipo": "test",
+                "opciones": [
+                    "Un cuadro",
+                    "Una vela",
+                    "El brazo de una estatua",
+                    "Una silla del museo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué la inspectora Elena sospechó que el robo era inusual desde el principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el cuadro era muy feo",
+                    "Porque no había rastro de entrada forzada como ventanas rotas",
+                    "Porque el vigilante estaba dormido",
+                    "Porque el perro no paraba de reír"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué función cumplían las gotas de tinta en la investigación?",
+                "tipo": "test",
+                "opciones": [
+                    "Eran manchas de pintura vieja",
+                    "Fueron la pista clave que guio a Elena hacia el escondite",
+                    "Eran parte de la decoración del suelo",
+                    "Las dejó el perro Rastro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la verdadera motivación de Martín para llevarse el cuadro?",
+                "tipo": "test",
+                "opciones": [
+                    "Quería ser rico vendiéndolo",
+                    "Quería decorar su habitación",
+                    "Quería salvar la pintura de la humedad porque nadie le hacía caso",
+                    "Quería gastar una broma a la inspectora"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué habilidad especial demostró tener la inspectora Elena?",
+                "tipo": "test",
+                "opciones": [
+                    "Sabía correr muy rápido",
+                    "Era muy observadora y conocía los detalles del catálogo",
+                    "Sabía pintar cuadros famosos",
+                    "Hablaba con los perros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se resolvió finalmente el problema de la humedad en el museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Cerraron el museo para siempre",
+                    "Pintaron el cuadro con otra pintura",
+                    "Instalaron un nuevo sistema de ventilación",
+                    "Cambiaron el cuadro de ciudad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "A pesar de haber ocultado el cuadro, ¿por qué Martín terminó siendo jefe de conservación?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era el hijo del dueño",
+                    "Porque demostró que era el único que realmente se preocupaba por la seguridad del arte",
+                    "Porque Elena era su amiga",
+                    "Porque el cuadro era suyo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña esta historia sobre las apariencias?",
+                "tipo": "test",
+                "opciones": [
+                    "Que todos los restauradores son ladrones",
+                    "Que a veces un acto que parece malo puede tener una intención protectora",
+                    "Que es mejor no ir a los museos",
+                    "Que los perros son mejores detectives que las personas"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Faro Abandonado",
+        "tema": "misterio",
+        "texto": "Hacía años que el viejo faro de la Isla de las Sombras no guiaba a los barcos. Su estructura de piedra, desgastada por la salitre y el viento, se alzaba como un gigante dormido frente al mar embravecido. Lucas, un niño curioso que pasaba el verano con su abuelo, siempre había sentido una extraña atracción por aquel lugar prohibido. Una tarde, aprovechando que la marea estaba inusualmente baja, caminó por el sendero rocoso hasta llegar a la pesada puerta de hierro. Para su sorpresa, la cerradura estaba rota. Al entrar, el aire frío y el olor a humedad lo envolvieron. Con su linterna, iluminó las escaleras de caracol que subían hacia la linterna del faro. A mitad de camino, Lucas notó que un escalón de madera sonaba hueco. Se arrodilló y, con esfuerzo, levantó la tabla. Debajo había una caja metálica oxidada. Dentro, encontró un cuaderno con cubiertas de cuero y una llave pequeña. El cuaderno pertenecía al último guardián, el señor Braulio. Lucas comenzó a leer febrilmente. El texto decía que el faro no se apagó por abandono, sino para proteger un secreto sumergido valioso. Según el relato, una cueva bajo el faro albergaba cristales naturales que brillaban intensamente con la luz de la luna, y el faro servía para ocultar esa luz natural y evitar que los buscadores de tesoros destruyeran el delicado arrecife de coral. De repente, Lucas escuchó un eco metálico abajo. ¿Había alguien más en la torre? Su corazón latía con fuerza contra su pecho. Miró rápidamente por la ventana circular y vio una sombra oscura alejándose a toda prisa por la playa solitaria. No era un fantasma, era alguien real que también buscaba la caja perdida. Lucas comprendió que el misterio era mucho más de lo que imaginaba. Guardó el cuaderno en su mochila, decidido a entregar la información a su abuelo, el cronista del pueblo. Sabía que la Isla de las Sombras ya no volvería a ser el lugar tranquilo de siempre, pues el secreto del guardián Braulio ahora estaba en sus manos y alguien más lo deseaba con mucha e inmensa ansia.",
+        "glosario": [
+            {
+                "palabra": "Salitre",
+                "definición": "Sustancia blanca que se forma en las paredes por la humedad del mar."
+            },
+            {
+                "palabra": "Embravecido",
+                "definición": "Mar que está muy agitado y tiene olas grandes."
+            },
+            {
+                "palabra": "Atracción",
+                "definición": "Sentimiento de interés o curiosidad por algo que nos llama la atención."
+            },
+            {
+                "palabra": "Inusualmente",
+                "definición": "De una manera poco común o extraña, que no sucede casi nunca."
+            },
+            {
+                "palabra": "Caracol",
+                "definición": "Tipo de escalera que sube dando vueltas en forma de espiral."
+            },
+            {
+                "palabra": "Febrilmente",
+                "definición": "Hacer algo con mucha rapidez, nerviosismo y gran interés."
+            },
+            {
+                "palabra": "Sumergido",
+                "definición": "Algo que se encuentra debajo del agua."
+            },
+            {
+                "palabra": "Arrecife",
+                "definición": "Barrera de rocas o corales que hay bajo el mar."
+            },
+            {
+                "palabra": "Cronista",
+                "definición": "Persona que se encarga de escribir y contar la historia de un lugar."
+            },
+            {
+                "palabra": "Ansia",
+                "definición": "Deseo muy fuerte de tener o conseguir algo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Quién era el dueño original del cuaderno que encontró Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "El abuelo de Lucas",
+                    "El señor Braulio",
+                    "Un buscador de tesoros",
+                    "Un marinero desconocido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde estaba escondida la caja metálica oxidada?",
+                "tipo": "test",
+                "opciones": [
+                    "En lo alto de la linterna",
+                    "Detrás de la puerta de hierro",
+                    "Bajo un escalón de madera",
+                    "En una cueva secreta"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué contenía la caja además del cuaderno?",
+                "tipo": "test",
+                "opciones": [
+                    "Una llave pequeña",
+                    "Monedas de oro",
+                    "Cristales brillantes",
+                    "Una linterna vieja"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Por qué Lucas pudo llegar hasta la puerta del faro ese día?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el abuelo le dio permiso",
+                    "Porque la marea estaba muy baja",
+                    "Porque tenía una linterna nueva",
+                    "Porque el camino era muy corto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la verdadera razón por la que el faro estaba apagado?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se rompió la linterna",
+                    "Para ahorrar energía",
+                    "Para ocultar una luz natural secreta",
+                    "Porque nadie quería trabajar allí"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué riesgo corrían los arrecifes si se descubría el secreto?",
+                "tipo": "test",
+                "opciones": [
+                    "Podían secarse sin agua",
+                    "Los buscadores de tesoros los destruirían",
+                    "Se apagaría la luz de la luna",
+                    "Se llenarían de salitre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué indica el 'eco metálico' que Lucas escuchó abajo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el faro se estaba derrumbando",
+                    "Que el viento movía la puerta",
+                    "Que otra persona estaba dentro del faro",
+                    "Que su linterna se había caído"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué la sombra se alejaba rápidamente por la playa?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía miedo de los fantasmas",
+                    "Porque no quería ser descubierta tras buscar la caja",
+                    "Porque el mar estaba subiendo",
+                    "Porque quería ir a nadar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Lucas decide llevar el cuaderno a su abuelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el abuelo es el cronista y sabrá qué hacer",
+                    "Porque el cuaderno pesa mucho",
+                    "Porque el abuelo es un buscador de tesoros",
+                    "Porque tiene miedo de guardarlo solo"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Al final del texto, ¿cómo se siente Lucas respecto a la isla?",
+                "tipo": "test",
+                "opciones": [
+                    "Aburrido por el verano",
+                    "Tranquilo y relajado",
+                    "Alerta porque el misterio continúa",
+                    "Triste por el faro"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Mapa en el Museo",
+        "tema": "misterio",
+        "texto": "El museo de la ciudad era un lugar fascinante, especialmente la sala antigua de los grandes navegantes. Allí, en una vitrina de cristal reforzado, se exhibía el famoso mapa histórico de la \"Ruta de las Especias\". Sin embargo, esa mañana, cuando el grupo de cuarto de primaria entró en la sala, la vitrina estaba completamente vacía. La alarma no había sonado y el guardia de seguridad, el señor Martínez, parecía realmente nervioso y desconcertado. Sara, una niña con ojos muy observadores, no se quedó paralizada como sus compañeros. Mientras la profesora llamaba al director, Sara examinó el suelo. Notó unas ligeramente pequeñas manchas sospechosas de agua que formaban un camino hacia la salida de emergencia. Lo más extraño es que fuera hacía un sol radiante y no había llovido en toda la semana. ¿De dónde venía ese misterioso agua? Sara siguió el rastro con sigilo. Cerca de una estatua de bronce, encontró un paraguas negro empapado. Recordó que el único que llevaba un paraguas esa mañana era el guía del museo, el joven y asustado Alberto, quien decía que siempre prefería estar prevenido. Sara se acercó a la taquilla de los empleados. A través de una pequeña rendija, vio un brillo amarillento que no debería estar allí. Era el pergamino valioso y frágilmente antiguo del mapa. De pronto, el pobre Alberto apareció detrás de ella, con la cara triste y pálida. No quería robarlo para venderlo en el mercado negro; confesó que había intentado limpiarlo porque una mancha de café le había caído encima accidentalmente mientras desayunaba y tenía miedo de perder su empleo. Había usado el paraguas para ocultar el mapa mientras lo trasladaba a su taquilla para usar un producto de limpieza especial. Sara escuchó con atención y comprendió su angustia, pero sabía que ocultar la verdad no era la solución correcta. Convenció a Alberto para que hablara con el director y explicara el accidente. Finalmente, el valioso pergamino fue restaurado profesionalmente y Alberto recibió una advertencia seria, pero pudo conservar su amado trabajo gracias a la gran honestidad que Sara le ayudó a encontrar aquel misterioso día.",
+        "glosario": [
+            {
+                "palabra": "Fascinante",
+                "definición": "Algo que atrae mucho la atención por ser muy interesante o hermoso."
+            },
+            {
+                "palabra": "Vitrina",
+                "definición": "Caja de cristal que sirve para exponer objetos valiosos en un museo."
+            },
+            {
+                "palabra": "Reforzado",
+                "definición": "Algo que se ha hecho más fuerte para que sea difícil de romper."
+            },
+            {
+                "palabra": "Desconcertado",
+                "definición": "Sentirse confundido o sorprendido porque algo no tiene explicación."
+            },
+            {
+                "palabra": "Radiante",
+                "definición": "Día con un sol muy brillante y mucha luz."
+            },
+            {
+                "palabra": "Sigilo",
+                "definición": "Caminar o actuar con mucho cuidado y sin hacer ningún ruido."
+            },
+            {
+                "palabra": "Bronce",
+                "definición": "Metal de color marrón rojizo que se usa para hacer estatuas."
+            },
+            {
+                "palabra": "Rendija",
+                "definición": "Abertura pequeña y estrecha en una pared o mueble."
+            },
+            {
+                "palabra": "Pergamino",
+                "definición": "Papel muy antiguo que se hacía con piel de animal."
+            },
+            {
+                "palabra": "Angustia",
+                "definición": "Sentimiento de tristeza o preocupación muy fuerte."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto valioso había desaparecido de la vitrina del museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una estatua de bronce",
+                    "El mapa de la Ruta de las Especias",
+                    "Un paraguas negro",
+                    "Una taza de café antigua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pista física encontró Sara en el suelo de la sala?",
+                "tipo": "test",
+                "opciones": [
+                    "Huellas de barro",
+                    "Manchas de café",
+                    "Pequeñas manchas de agua",
+                    "Un trozo de cristal"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde encontró Sara finalmente el mapa escondido?",
+                "tipo": "test",
+                "opciones": [
+                    "Detrás de una estatua",
+                    "En la salida de emergencia",
+                    "En la taquilla de los empleados",
+                    "Debajo del paraguas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué era sospechoso encontrar agua en el suelo del museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el suelo era de mármol",
+                    "Porque hacía un sol radiante y no llovía",
+                    "Porque el museo no tenía baños",
+                    "Porque el guardia estaba limpiando"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Alberto llevaba un paraguas si no estaba lloviendo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque le gustaba mucho su diseño",
+                    "Para ocultar el mapa dentro de él",
+                    "Porque lo usaba como bastón",
+                    "Porque se lo prestó Sara"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué motivó a Alberto a llevarse el mapa de la vitrina?",
+                "tipo": "test",
+                "opciones": [
+                    "Quería venderlo por mucho dinero",
+                    "Quería arreglar un accidente con café",
+                    "Quería llevárselo a su casa",
+                    "Quería asustar a los niños"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sentía Alberto cuando Sara lo descubrió?",
+                "tipo": "test",
+                "opciones": [
+                    "Orgulloso de su limpieza",
+                    "Enfadado con los alumnos",
+                    "Asustado, pálido y arrepentido",
+                    "Feliz por haber terminado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad de Sara fue fundamental para resolver el misterio?",
+                "tipo": "test",
+                "opciones": [
+                    "Su capacidad de correr rápido",
+                    "Su fuerza para abrir taquillas",
+                    "Su gran capacidad de observación",
+                    "Su conocimiento sobre mapas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Sara convenció a Alberto de confesar la verdad?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que lo despidieran",
+                    "Porque sabía que ocultarlo no solucionaba nada",
+                    "Para ganar un premio del museo",
+                    "Porque quería el mapa para ella"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el resultado final para Alberto tras decir la verdad?",
+                "tipo": "test",
+                "opciones": [
+                    "Perdió su empleo inmediatamente",
+                    "Fue premiado con una estatua",
+                    "Recibió una advertencia pero conservó el trabajo",
+                    "Tuvo que comprar un mapa nuevo"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    }
+]

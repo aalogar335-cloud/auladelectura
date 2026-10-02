@@ -1,0 +1,242 @@
+[
+  {
+    "titulo": "Leo y la Cueva del Cristal",
+    "tema": "aventuras",
+    "texto": "Leo y su perro Chispa caminaban por el sendero rocoso de la Montaña Brillante. El sol iluminaba las copas de los pinos mientras el viento soplaba suavemente. En su mochila, Leo llevaba una linterna potente, una cantimplora con agua fresca y un mapa antiguo que encontró en el desván del abuelo. Su misión era encontrar la legendaria Cueva del Cristal. Tras cruzar un pequeño puente de madera, Chispa empezó a ladrar emocionado frente a una entrada escondida tras unas lianas verdes. Con cuidado, Leo encendió su linterna y entró. Las paredes de la cueva brillaban con colores mágicos. De repente, Leo vio una piedra azul que iluminaba todo el recinto. No era un diamante, sino un cristal que guardaba los recuerdos de la montaña. Leo decidió no tocarlo para proteger el lugar. Se sentó a descansar y dibujó el cristal en su cuaderno de explorador. Se sentía muy valiente por haber llegado tan lejos. Al salir, el cielo estaba anaranjado por el atardecer. Había sido una aventura inolvidable para el joven niño y su leal mascota. Prometió volver el próximo año para seguir descubriendo los secretos que la naturaleza todavía oculta entre sus altas rocas hoy mismo en este valle.",
+    "glosario": [
+      { "palabra": "Sendero", "definición": "Camino estrecho que se ha formado por el paso de personas o animales." },
+      { "palabra": "Cantimplora", "definición": "Recipiente que sirve para llevar bebida en viajes o excursiones." },
+      { "palabra": "Legendaria", "definición": "Algo que es muy famoso y conocido por las historias que se cuentan." },
+      { "palabra": "Lianas", "definición": "Plantas largas y delgadas que cuelgan de los árboles en el bosque." },
+      { "palabra": "Recinto", "definición": "Espacio cerrado o limitado por paredes, como el interior de la cueva." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama el perro de Leo?", "tipo": "test", "opciones": ["Tobi", "Chispa", "Roco", "Manchas"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde encontró Leo el mapa antiguo?", "tipo": "test", "opciones": ["En la escuela", "En un libro", "En el desván del abuelo", "Bajo una roca"], "correctaIdx": 2 },
+      { "enunciado": "¿De qué color era el cristal que encontró en la cueva?", "tipo": "test", "opciones": ["Verde", "Rojo", "Amarillo", "Azul"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué tipo de puente cruzó Leo antes de llegar?", "tipo": "test", "opciones": ["De piedra", "De metal", "De madera", "De lianas"], "correctaIdx": 2 },
+      { "enunciado": "¿En qué momento del día salió Leo de la cueva?", "tipo": "test", "opciones": ["Al amanecer", "Al mediodía", "Al atardecer", "A medianoche"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Chispa ladraba frente a las lianas?", "tipo": "test", "opciones": ["Porque tenía miedo", "Porque vio un gato", "Porque encontró la entrada", "Porque tenía hambre"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Leo decidió no llevarse el cristal azul?", "tipo": "test", "opciones": ["Porque pesaba mucho", "Para proteger el lugar", "Porque no le gustó", "Porque no cabía en su mochila"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto de su mochila fue más útil dentro de la cueva?", "tipo": "test", "opciones": ["La cantimplora", "El mapa", "La linterna", "El cuaderno"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se sentía Leo mientras exploraba la cueva?", "tipo": "test", "opciones": ["Aburrido", "Asustado", "Cansado", "Valiente"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué significa que el cristal guardaba los 'recuerdos de la montaña'?", "tipo": "test", "opciones": ["Que era una radio", "Que era un objeto mágico y especial", "Que era un televisor antiguo", "Que tenía fotos dentro"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El Tesoro de la Capitana Marina",
+    "tema": "aventuras",
+    "texto": "La capitana Marina navegaba en su velero llamado Estrella del Sur por el inmenso océano azul. Ella buscaba una isla secreta que no aparecía en los globos terráqueos normales. Marina usaba un catalejo de bronce para observar el horizonte lejano. Después de navegar durante tres días, divisó una costa con palmeras altas y arena blanca muy fina. Al bajar del barco, Marina encontró una botella de vidrio medio enterrada. Dentro había un mensaje escrito con tinta roja que indicaba el camino hacia una cascada escondida. Ella caminó con paso firme, atravesando la selva espesa donde escuchaba el canto de pájaros exóticos y coloridos. Al llegar a la cascada, Marina no encontró monedas de oro ni joyas caras. En su lugar, descubrió una biblioteca antigua llena de libros de viajes escritos por exploradores antiguos. Marina sonrió con alegría porque sabía que los libros eran el tesoro más valioso del mundo entero. Pasó la tarde leyendo historias sobre tierras lejanas y criaturas marinas gigantes. Se sentía la pirata más rica del planeta por poseer tanto conocimiento nuevo. Cuando la luna salió, Marina regresó a su velero con un libro bajo el brazo, lista para su siguiente gran aventura oceánica.",
+    "glosario": [
+      { "palabra": "Velero", "definición": "Barco que se mueve gracias a la fuerza del viento en sus telas o velas." },
+      { "palabra": "Catalejo", "definición": "Instrumento parecido a un telescopio pequeño para ver cosas que están lejos." },
+      { "palabra": "Divisó", "definición": "Ver algo a lo lejos, aunque no se vea muy claro al principio." },
+      { "palabra": "Exóticos", "definición": "Animales o plantas que son de lugares lejanos y resultan muy raros o llamativos." },
+      { "palabra": "Conocimiento", "definición": "Información y cosas nuevas que aprendemos leyendo o estudiando." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama el velero de la capitana Marina?", "tipo": "test", "opciones": ["Rayo Azul", "Estrella del Sur", "Océano Libre", "Viento Veloz"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué material es el catalejo de Marina?", "tipo": "test", "opciones": ["De oro", "De madera", "De bronce", "De plástico"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué encontró Marina dentro de la botella de vidrio?", "tipo": "test", "opciones": ["Un mapa pirata", "Un mensaje con tinta roja", "Una moneda de plata", "Arena blanca"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué había realmente al llegar a la cascada?", "tipo": "test", "opciones": ["Un cofre de oro", "Una biblioteca antigua", "Una cueva oscura", "Un barco hundido"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuánto tiempo navegó Marina antes de ver la costa?", "tipo": "test", "opciones": ["Un día", "Dos días", "Tres días", "Una semana"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué la isla no aparecía en los globos terráqueos normales?", "tipo": "test", "opciones": ["Porque era muy pequeña", "Porque era una isla secreta", "Porque se hundía siempre", "Porque no existía"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Marina pensó que los libros eran el tesoro más valioso?", "tipo": "test", "opciones": ["Porque eran muy pesados", "Porque tenían tapas de oro", "Porque le daban conocimiento", "Porque eran muy antiguos"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo era el ambiente dentro de la selva?", "tipo": "test", "opciones": ["Silencioso y triste", "Ruidoso por los pájaros", "Frío y oscuro", "Aburrido"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué indica que Marina es una buena navegante?", "tipo": "test", "opciones": ["Que tiene un barco bonito", "Que usa un catalejo", "Que encontró una isla difícil de hallar", "Que sabe nadar bien"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se sintió Marina al final de su aventura?", "tipo": "test", "opciones": ["Decepcionada", "Cansada", "Enfadada", "Rica y satisfecha"], "correctaIdx": 3 }
+    ]
+  },
+  {
+    "titulo": "Leo y el Mapa de la Isla",
+    "tema": "aventuras",
+    "texto": "Leo es un niño muy curioso que vive en un pequeño pueblo costero. Un día, mientras exploraba el viejo faro abandonado, encontró un mapa amarillento escondido dentro de una botella de cristal. El mapa tenía una gran \"X\" roja marcada en la Isla de las Palmeras. Leo decidió construir una pequeña balsa de madera y pedirle a su perro, Max, que lo acompañara siempre. Juntos navegaron por las aguas tranquilas hasta llegar a la isla. Allí, el sol brillaba con fuerza sobre la arena blanca. Siguiendo las instrucciones del mapa, Leo caminó diez pasos hacia el norte desde la roca con forma de tortuga. Empezó a cavar con su pala de plástico y, de repente, golpeó algo duro. ¡Era un cofre! Sin embargo, no contenía oro ni joyas. Dentro había una nota que decía: \"El mayor tesoro es la curiosidad\". Leo sonrió y guardó la nota en su bolsillo. Se dio cuenta de que la verdadera aventura fue el viaje y no el premio. Al regresar a casa, las estrellas iluminaban el cielo nocturno. Leo ya estaba imaginando su próximo destino mientras Max dormía plácidamente a su lado. Fue un día increíble que recordará con mucha alegría y mucha felicidad.",
+    "glosario": [
+      { "palabra": "Faro", "definición": "Torre alta con una luz potente que sirve para guiar a los barcos por la noche." },
+      { "palabra": "Balsa", "definición": "Pequeña embarcación plana hecha generalmente de troncos o maderas atadas." },
+      { "palabra": "Curiosidad", "definición": "Deseo de conocer o averiguar cosas nuevas por uno mismo." },
+      { "palabra": "Tesoro", "definición": "Conjunto de dinero, joyas u objetos valiosos que está guardado en un lugar seguro." },
+      { "palabra": "Costero", "definición": "Que está situado en la orilla del mar o muy cerca de ella." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué encontró Leo en el faro abandonado?", "tipo": "test", "opciones": ["Una moneda", "Un mapa", "Una brújula", "Una red"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llama el perro de Leo?", "tipo": "test", "opciones": ["Tobi", "Roco", "Max", "Leo"], "correctaIdx": 2 },
+      { "enunciado": "¿De qué material era la balsa que construyó?", "tipo": "test", "opciones": ["Metal", "Plástico", "Madera", "Papel"], "correctaIdx": 2 },
+      { "enunciado": "¿Cuántos pasos debía caminar hacia el norte?", "tipo": "test", "opciones": ["Cinco", "Diez", "Veinte", "Siete"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué contenía el cofre realmente?", "tipo": "test", "opciones": ["Oro", "Joyas", "Una nota", "Un juguete"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Leo decidió construir una balsa?", "tipo": "test", "opciones": ["Para ir a pescar", "Para cruzar el mar hasta la isla", "Para jugar en el jardín", "Porque no tenía coche"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué significa la frase \"El mayor tesoro es la curiosidad\"?", "tipo": "test", "opciones": ["Que la curiosidad cuesta mucho dinero", "Que aprender y explorar es más valioso que el dinero", "Que los tesoros no existen", "Que hay que ser siempre serio"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sentía Leo al final de la historia?", "tipo": "test", "opciones": ["Triste por no hallar oro", "Enfadado con Max", "Feliz por haber vivido la aventura", "Cansado y aburrido"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué podemos decir sobre la personalidad de Leo?", "tipo": "test", "opciones": ["Es un niño perezoso", "Es un niño aventurero y curioso", "Tiene miedo a la oscuridad", "No le gustan los animales"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué momento del día era cuando Leo regresó a su casa?", "tipo": "test", "opciones": ["El amanecer", "El mediodía", "La tarde", "La noche"], "correctaIdx": 3 }
+    ]
+  },
+  {
+    "titulo": "El Viaje de Sara en Globo",
+    "tema": "aventuras",
+    "texto": "Sara siempre soñó con volar. En su octavo cumpleaños, su tía Elena le regaló un viaje en un gran globo aerostático de colores. Sara se despertó muy temprano, cuando el rocío todavía mojaba el césped del jardín. Al llegar al campo de despegue, vio cómo el enorme globo se inflaba con aire caliente. Se subió a la cesta de mimbre sintiendo unos nervios emocionantes en el estómago. El piloto soltó las cuerdas y, suavemente, empezaron a elevarse sobre los árboles. Desde arriba, las casas parecían juguetes pequeños y los ríos hilos de plata brillante. Sara observó un bosque donde una familia de ciervos corría alegremente. El viento soplaba con delicadeza, moviendo su cabello mientras las nubes pasaban cerca de sus manos extendidas. Ella sacó su cámara y tomó fotos de todo el paisaje maravilloso. Se sentía como un pájaro libre explorando el mundo infinito. Después de una hora de viaje, el globo aterrizó con suavidad en una pradera llena de flores amarillas. Sara bajó de la cesta con una gran sonrisa, sabiendo que las nubes serían sus nuevas amigas. Fue una experiencia mágica que le enseñó a mirar las cosas desde otra perspectiva distinta y muy especial hoy en día.",
+    "glosario": [
+      { "palabra": "Aerostático", "definición": "Tipo de globo que flota en el aire porque se llena de un gas ligero o aire caliente." },
+      { "palabra": "Mimbre", "definición": "Material natural flexible que se usa para tejer cestas y muebles." },
+      { "palabra": "Perspectiva", "definición": "Manera de ver las cosas desde un punto de vista determinado o a cierta distancia." },
+      { "palabra": "Paisaje", "definición": "Extensión de terreno que se ve desde un lugar, especialmente si es hermosa." },
+      { "palabra": "Despegue", "definición": "Momento en el que un aparato o vehículo se separa del suelo para empezar a volar." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Quién le regaló el viaje a Sara?", "tipo": "test", "opciones": ["Su padre", "Su tía Elena", "Su abuelo", "Su hermano"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué material era la cesta del globo?", "tipo": "test", "opciones": ["Plástico", "Hierro", "Mimbre", "Tela"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué animal vio Sara desde el cielo?", "tipo": "test", "opciones": ["Leones", "Ciervos", "Elefantes", "Gatos"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde aterrizó el globo al finalizar el viaje?", "tipo": "test", "opciones": ["En la playa", "En una pradera", "En el tejado de su casa", "En un lago"], "correctaIdx": 1 },
+      { "enunciado": "¿Con qué aparato tomó fotos Sara?", "tipo": "test", "opciones": ["Un teléfono", "Una cámara", "Una tableta", "Un telescopio"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué las casas parecían juguetes pequeños?", "tipo": "test", "opciones": ["Porque eran casas de muñecas", "Por la gran altura a la que estaba el globo", "Porque Sara estaba soñando", "Porque el globo era gigante"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sentía Sara antes de subir al globo?", "tipo": "test", "opciones": ["Asustada y con ganas de llorar", "Aburrida y con sueño", "Con nervios emocionantes", "Enfadada por el regalo"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué significa que los ríos parecían \"hilos de plata\"?", "tipo": "test", "opciones": ["Que estaban llenos de joyas", "Que el agua brillaba y se veía delgada desde arriba", "Que el agua estaba congelada", "Que eran ríos de metal"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué aprendió Sara con esta experiencia?", "tipo": "test", "opciones": ["Que el viento es peligroso", "A mirar las cosas desde una nueva perspectiva", "Que no le gustan las alturas", "Que los globos son de colores"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué el texto dice que se sentía como un \"pájaro libre\"?", "tipo": "test", "opciones": ["Porque le salieron alas", "Porque estaba volando por el cielo sin ataduras", "Porque tenía plumas en el pelo", "Porque quería comer alpiste"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Clara y el Valle de los Gigantes",
+    "tema": "aventuras",
+    "texto": "Clara era una niña muy valiente que vivía en una casa con un jardín enorme y misterioso. Una tarde, mientras buscaba su pelota roja, descubrió una puerta pequeña escondida entre las raíces de un roble centenario. Al abrirla con una llave de plata que guardaba su abuelo, se encontró en el Valle de los Gigantes. Todo allí era inmenso: las flores medían dos metros y los saltamontes eran del tamaño de bicicletas. Clara caminó con cuidado, maravillada por los colores brillantes de las mariposas gigantes que volaban sobre su cabeza. De repente, escuchó un llanto suave tras una roca de granito. Era un pequeño gigante que había perdido su juguete favorito en lo alto de un girasol gigante. Clara, usando su ingenio, trepó por los pétalos amarillos y rescató el camión de madera del pequeño. El gigante, agradecido, le regaló una piedra que brillaba en la oscuridad. Clara regresó a casa justo antes de que anocheciera, guardando el secreto del valle en su corazón aventurero. Sabía que aquel jardín no era normal, sino una entrada mágica a mundos increíbles donde la ayuda y la amistad no conocen el tamaño ni los límites imposibles hoy mismo. Fue una gran historia feliz.",
+    "glosario": [
+      { "palabra": "Roble", "definición": "Árbol fuerte que vive muchos años y tiene hojas con bordes curvados." },
+      { "palabra": "Centenario", "definición": "Que tiene cien años o más de edad." },
+      { "palabra": "Ingenio", "definición": "Capacidad para imaginar o inventar cosas útiles de forma rápida." },
+      { "palabra": "Inmenso", "definición": "Algo que es extremadamente grande o difícil de medir." },
+      { "palabra": "Granito", "definición": "Tipo de roca muy dura y resistente que se usa en construcción." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué color era la pelota que buscaba Clara?", "tipo": "test", "opciones": ["Azul", "Verde", "Roja", "Amarilla"], "correctaIdx": 2 },
+      { "enunciado": "¿Dónde estaba escondida la puerta pequeña?", "tipo": "test", "opciones": ["Bajo una piedra", "Entre raíces de roble", "Detrás de un arbusto", "En el tejado"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto usó Clara para abrir la puerta?", "tipo": "test", "opciones": ["Llave de oro", "Llave de plata", "Un palo", "Una cuerda"], "correctaIdx": 1 },
+      { "enunciado": "¿A qué se parecían los saltamontes por su tamaño?", "tipo": "test", "opciones": ["Coches", "Aviones", "Bicicletas", "Casas"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué objeto rescató Clara del girasol?", "tipo": "test", "opciones": ["Una muñeca", "Un camión de madera", "Una pelota", "Un libro"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Clara tuvo que usar su ingenio para ayudar al gigante?", "tipo": "test", "opciones": ["Porque el gigante estaba enfadado", "Porque el juguete estaba en un lugar muy alto", "Porque no sabía hablar gigante", "Porque tenía miedo a las flores"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sintió probablemente el gigante al recuperar su juguete?", "tipo": "test", "opciones": ["Triste", "Asustado", "Agradecido y aliviado", "Aburrido"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Clara decidió guardar el secreto del valle?", "tipo": "test", "opciones": ["Porque se le olvidó", "Para proteger ese mundo mágico", "Porque su abuelo se enfadaría", "Porque no le gustó el lugar"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué cualidad demuestra Clara al trepar por el girasol?", "tipo": "test", "opciones": ["Pereza", "Valentía y generosidad", "Egoísmo", "Distracción"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué nos indica que el Valle de los Gigantes es un lugar mágico?", "tipo": "test", "opciones": ["Que tiene muchas piedras", "Que allí todo es inmenso y las flores son enormes", "Que Clara tiene un perro", "Que es de noche"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Mateo y el Mensaje en la Botella",
+    "tema": "aventuras",
+    "texto": "Mateo y su perro Duque caminaban por la orilla del río cristalino que cruzaba el bosque de los pinos altos. Era una mañana fresca y el agua corría con fuerza golpeando las piedras grises. De repente, Duque empezó a ladrar con mucha energía señalando un objeto que flotaba cerca de unos juncos verdes. Mateo se acercó con cuidado y estiró su brazo para alcanzar una botella de cristal transparente. Dentro de la botella había un pergamino enrollado y atado con un cordón de color azul. Con mucha emoción, Mateo abrió el mensaje y leyó unas coordenadas secretas que llevaban a la Isla de los Pájaros. Rápidamente, construyó una pequeña balsa usando troncos caídos y lianas resistentes. Navegó durante media hora hasta llegar a un lugar lleno de nidos coloridos en las ramas bajas. Allí no encontró oro, sino una colección de plumas raras de aves que ya no existían en otros lugares. Mateo comprendió que la naturaleza era el mayor tesoro que podíamos encontrar en nuestras exploraciones diarias. Al volver, prometió cuidar siempre el río y el bosque para que otros niños pudieran vivir aventuras similares y descubrir los maravillosos secretos naturales. Fue así como se convirtió en un héroe.",
+    "glosario": [
+      { "palabra": "Cristalino", "definición": "Agua que es tan pura y clara que se puede ver a través de ella." },
+      { "palabra": "Juncos", "definición": "Plantas con tallos largos y flexibles que crecen en lugares húmedos." },
+      { "palabra": "Pergamino", "definición": "Material antiguo hecho de piel para escribir mensajes importantes." },
+      { "palabra": "Coordenadas", "definición": "Números que sirven para encontrar un lugar exacto en un mapa." },
+      { "palabra": "Lianas", "definición": "Tallos largos de plantas que trepan por los árboles y son muy resistentes." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama el perro que acompaña a Mateo?", "tipo": "test", "opciones": ["Max", "Duque", "Tobi", "Roco"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde encontraron la botella de cristal?", "tipo": "test", "opciones": ["En una cueva", "En la orilla del río", "En un árbol", "En la montaña"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué color era el cordón que ataba el mensaje?", "tipo": "test", "opciones": ["Rojo", "Verde", "Azul", "Blanco"], "correctaIdx": 2 },
+      { "enunciado": "¿Hacia qué lugar llevaban las coordenadas del mensaje?", "tipo": "test", "opciones": ["Cueva del Oro", "Bosque Oscuro", "Isla de los Pájaros", "Río Gris"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué encontró Mateo realmente en la isla?", "tipo": "test", "opciones": ["Monedas de oro", "Plumas raras de aves", "Un mapa nuevo", "Comida"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Duque ladraba con tanta energía al principio?", "tipo": "test", "opciones": ["Porque tenía hambre", "Porque vio algo inusual en el agua", "Porque quería correr", "Porque tenía miedo"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué habilidad demostró Mateo para poder llegar a la isla?", "tipo": "test", "opciones": ["Saber nadar", "Capacidad para construir una balsa", "Saber volar", "Correr muy rápido"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué el texto dice que las plumas eran un tesoro?", "tipo": "test", "opciones": ["Porque eran de oro", "Porque eran de aves que ya no existían", "Porque eran muy pesadas", "Porque brillaban"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué aprendió Mateo tras su aventura en la isla?", "tipo": "test", "opciones": ["Que el río es peligroso", "Que la naturaleza es el mayor tesoro", "Que no debe viajar con perros", "Que no hay mensajes en botellas"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Mateo decidió cuidar el bosque al final?", "tipo": "test", "opciones": ["Porque se lo pidió su perro", "Para que otros niños disfruten de la naturaleza", "Porque tiene miedo a los árboles", "Porque quiere vender las plumas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Sofía y el Jardín de las Estrellas",
+    "tema": "aventuras",
+    "texto": "Sofía era una niña que soñaba con ser una gran exploradora de tierras desconocidas. Una mañana soleada, mientras revisaba un baúl antiguo en el desván de su abuela, encontró una brújula de bronce brillante y un mapa de papel amarillento. El mapa indicaba un camino secreto que comenzaba justo detrás del gran roble del jardín. Sin dudarlo, Sofía se puso sus botas de montaña, cogió su mochila y empezó su emocionante travesía. El sendero estaba lleno de flores silvestres y mariposas de colores que parecían guiar sus pasos. Según las coordenadas del mapa, debía cruzar un pequeño arroyo de aguas cristalinas y caminar hacia la espesura del bosque. Allí, escondida tras unas enredaderas muy densas, descubrió una puerta de madera tallada. Con cuidado, Sofía abrió la puerta y entró en un jardín mágico donde los árboles daban frutas de cristal que brillaban como estrellas. No era oro, sino una reliquia de la naturaleza que nadie había visto en siglos. Sofía comprendió que el verdadero tesoro era la belleza del mundo oculto. Se sentó bajo un sauce llorón, sacó su cuaderno y comenzó a escribir su primera gran aventura, prometiendo proteger aquel lugar para siempre. Estaba muy feliz por este hallazgo.",
+    "glosario": [
+      { "palabra": "Brújula", "definición": "Instrumento con una aguja imantada que sirve para orientarse y saber dónde está el norte." },
+      { "palabra": "Travesía", "definición": "Viaje por tierra o por mar en el que se cruza un lugar de un lado a otro." },
+      { "palabra": "Coordenadas", "definición": "Números o marcas que sirven para indicar la posición exacta de un lugar en un mapa." },
+      { "palabra": "Espesura", "definición": "Lugar de un bosque donde los árboles y las plantas están muy juntos y apretados." },
+      { "palabra": "Reliquia", "definición": "Algo muy antiguo y valioso que se guarda con mucho respeto por su importancia histórica." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde encontró Sofía la brújula y el mapa?", "tipo": "test", "opciones": ["En su habitación", "En el desván de su abuela", "Bajo el roble del jardín", "En la escuela"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué material era la brújula?", "tipo": "test", "opciones": ["De plata", "De madera", "De plástico", "De bronce"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué tipo de árbol marcaba el inicio del camino secreto?", "tipo": "test", "opciones": ["Un sauce", "Un pino", "Un roble", "Un manzano"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué daban los árboles en el jardín mágico?", "tipo": "test", "opciones": ["Monedas de oro", "Frutas de cristal", "Flores de papel", "Estrellas de fuego"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hizo Sofía al sentarse bajo el sauce llorón?", "tipo": "test", "opciones": ["Se quedó dormida", "Comió frutas", "Empezó a escribir su aventura", "Dibujó un mapa nuevo"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué el mapa era de color amarillento?", "tipo": "test", "opciones": ["Porque era muy antiguo", "Porque lo pintaron así", "Porque estaba sucio", "Porque era de sol"], "correctaIdx": 0 },
+      { "enunciado": "¿Qué ayudó a Sofía a seguir el camino además del mapa?", "tipo": "test", "opciones": ["Su perro", "Las mariposas de colores", "El ruido del viento", "Las huellas en el suelo"], "correctaIdx": 1 },
+      { "enunciado": "¿Para qué se puso Sofía sus botas de montaña?", "tipo": "test", "opciones": ["Porque llovía", "Para estar preparada para caminar por el bosque", "Porque eran nuevas", "Para jugar en el jardín"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué significa que el tesoro era la 'belleza del mundo oculto'?", "tipo": "test", "opciones": ["Que había mucho dinero", "Que lo más valioso era el paisaje y la magia", "Que no encontró nada de valor", "Que el tesoro estaba enterrado"], "correctaIdx": 1 },
+      { "enunciado": "De la lectura se deduce que Sofía es una niña...", "tipo": "test", "opciones": ["Miedosa", "Aburrida", "Curiosa y valiente", "Poco observadora"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "Lucas y la Ciudad de Coral",
+    "tema": "aventuras",
+    "texto": "El capitán Lucas siempre quiso explorar las profundidades del océano Índico. Un martes nublado, subió a su moderno sumergible amarillo llamado Burbuja. Su misión era encontrar la Ciudad de Coral, un lugar que solo aparecía en los libros de leyendas marinas. Lucas ajustó su escafandra y verificó los niveles de oxígeno antes de descender lentamente por el agua azul oscuro. A medida que bajaba, peces de mil formas pasaban curiosos por la ventanilla. De pronto, el radar detectó una estructura inmensa en el fondo arenoso. Era un arrecife gigante rodeado de plantas luminiscentes que brillaban con luz propia. Lucas se emocionó al ver que las casas de la ciudad estaban hechas de conchas marinas y perlas gigantescas. No había habitantes humanos, pero los delfines nadaban alegremente entre las torres de coral. Fue una expedición fascinante que superó todas sus expectativas. Lucas tomó fotografías de cada rincón para mostrarlas en la escuela de exploradores. Al subir a la superficie, el sol comenzaba a esconderse en el horizonte. Aquella aventura submarina le enseñó que el mar guarda secretos maravillosos que debemos cuidar con mucho respeto. Lucas ya planeaba su próximo viaje hacia las fosas más profundas del mundo entero con gran ilusión.",
+    "glosario": [
+      { "palabra": "Sumergible", "definición": "Vehículo o barco pequeño que puede navegar por debajo del agua." },
+      { "palabra": "Escafandra", "definición": "Equipo compuesto por un casco y un traje especial para respirar y trabajar bajo el agua." },
+      { "palabra": "Arrecife", "definición": "Banco o formación de rocas y corales que se encuentra casi a flor de agua en el mar." },
+      { "palabra": "Luminiscente", "definición": "Cuerpo o planta que tiene la propiedad de emitir luz sin necesidad de calor." },
+      { "palabra": "Expedición", "definición": "Viaje que realiza un grupo de personas con el fin de explorar o investigar un lugar." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llamaba el sumergible de Lucas?", "tipo": "test", "opciones": ["Océano", "Burbuja", "Amarillo", "Capitán"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué misión tenía el capitán Lucas?", "tipo": "test", "opciones": ["Pescar delfines", "Buscar tesoros de oro", "Encontrar la Ciudad de Coral", "Limpiar el fondo marino"], "correctaIdx": 2 },
+      { "enunciado": "¿De qué estaban hechas las casas de la ciudad?", "tipo": "test", "opciones": ["De ladrillos y cemento", "De arena y algas", "De conchas y perlas", "De madera de barco"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué animales nadaban entre las torres de coral?", "tipo": "test", "opciones": ["Tiburones", "Delfines", "Ballenas", "Tortugas"], "correctaIdx": 1 },
+      { "enunciado": "¿Para qué tomó fotografías Lucas?", "tipo": "test", "opciones": ["Para venderlas", "Para su álbum familiar", "Para la escuela de exploradores", "Para un concurso"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Lucas necesitaba verificar los niveles de oxígeno?", "tipo": "test", "opciones": ["Para nadar más rápido", "Para poder respirar bajo el agua con seguridad", "Para que el sumergible flotara", "Porque el agua estaba fría"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué le permitió a Lucas ver la ciudad si estaba en el fondo oscuro?", "tipo": "test", "opciones": ["La luz del sol", "Una linterna de mano", "Las plantas luminiscentes", "Los ojos de los peces"], "correctaIdx": 2 },
+      { "enunciado": "¿En qué momento del día regresó a la superficie?", "tipo": "test", "opciones": ["Al amanecer", "Al mediodía", "A medianoche", "Al atardecer"], "correctaIdx": 3 },
+      { "enunciado": "¿Por qué se dice que la ciudad era 'de leyenda'?", "tipo": "test", "opciones": ["Porque era muy moderna", "Porque era difícil de encontrar y se contaba en libros antiguos", "Porque era muy ruidosa", "Porque estaba destruida"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál fue la principal lección que aprendió Lucas?", "tipo": "test", "opciones": ["Que el mar es peligroso", "Que debe pescar más", "Que hay que respetar y cuidar los secretos del mar", "Que los sumergibles son lentos"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "Marina y el Galeón de Semillas",
+    "tema": "aventuras",
+    "texto": "Marina siempre amaba los libros de piratas. En la biblioteca de su abuelo, descubrió un mapa antiguo muy extraño. El mapa señalaba un punto brillante en la costa del arrecife azul. Con mucha valentía, Marina alquiló un equipo de buceo profesional. Se sumergió en las aguas templadas y bajó hasta el fondo marino arenoso. Allí, medio enterrado, estaba el legendario galeón llamado Estrella del Mar. Los peces de colores nadaban curiosos entre las maderas viejas y podridas. Marina entró en el camarote principal y vio un pequeño cofre de hierro oxidado. Al abrirlo, no encontró monedas de oro ni joyas caras. En cambio, había cientos de semillas secas en frascos de vidrio. Una nota explicaba que eran plantas curativas desaparecidas hace siglos. Marina comprendió que salvar la salud del mundo era el tesoro más valioso de todos los tiempos. Regresó a la superficie con el cofre protegido en sus brazos. Sabía que su abuelo estaría orgulloso de su gran hallazgo científico. Ahora, ella cuidaría aquellas semillas mágicas para que el bosque volviera a crecer con fuerza y esperanza. Aquella aventura submarina cambió su vida para siempre. Marina se convirtió en una heroína local muy famosa por su gran inteligencia natural hoy.",
+    "glosario": [
+      { "palabra": "Arrecife", "definición": "Formación de rocas y corales bajo el mar donde viven muchos peces." },
+      { "palabra": "Galeón", "definición": "Barco muy grande de madera que se usaba antiguamente para viajes largos." },
+      { "palabra": "Cofre", "definición": "Caja fuerte, normalmente de madera o metal, que sirve para guardar tesoros." },
+      { "palabra": "Curativas", "definición": "Cosas que sirven para sanar enfermedades o ayudar a sentirse mejor." },
+      { "palabra": "Hallazgo", "definición": "Descubrimiento de algo que estaba oculto o que nadie conocía antes." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde encontró Marina el mapa antiguo?", "tipo": "test", "opciones": ["En el fondo del mar", "En la biblioteca de su abuelo", "En una tienda de buceo", "En un barco hundido"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se llamaba el galeón legendario?", "tipo": "test", "opciones": ["Estrella del Mar", "Tesoro Azul", "Pirata Veloz", "Semilla Mágica"], "correctaIdx": 0 },
+      { "enunciado": "¿Qué encontró Marina dentro del cofre de hierro?", "tipo": "test", "opciones": ["Monedas de oro", "Joyas brillantes", "Semillas de plantas", "Mapas nuevos"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué equipo alquiló Marina para su aventura?", "tipo": "test", "opciones": ["Un barco rápido", "Equipo de buceo profesional", "Una red de pesca", "Una lupa grande"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué material eran los frascos que contenían las semillas?", "tipo": "test", "opciones": ["De plástico", "De madera", "De vidrio", "De oro"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué Marina decidió bajar al fondo marino?", "tipo": "test", "opciones": ["Para nadar con peces", "Para seguir las pistas del mapa", "Para limpiar el océano", "Porque perdió su juguete"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué las semillas eran más valiosas que el oro?", "tipo": "test", "opciones": ["Porque brillaban más", "Porque podían curar enfermedades del mundo", "Porque eran muy pesadas", "Porque eran de colores"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué cualidad destaca más en Marina según la historia?", "tipo": "test", "opciones": ["Su fuerza física", "Su valentía e inteligencia", "Su capacidad de nadar rápido", "Su colección de libros"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué sintió Marina al final de su viaje?", "tipo": "test", "opciones": ["Tristeza por no hallar oro", "Miedo a los piratas", "Satisfacción y esperanza", "Cansancio extremo"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo ayudará el hallazgo de Marina al futuro?", "tipo": "test", "opciones": ["Vendiendo el cofre", "Haciendo crecer bosques curativos", "Construyendo un galeón nuevo", "Buscando más mapas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Nico y el Reino de los Dulces",
+    "tema": "aventuras",
+    "texto": "Nico era un pequeño explorador que buscaba la Montaña Nevada. Un día caluroso, encontró un túnel secreto cubierto de flores blancas. Al cruzarlo, llegó a un valle donde los árboles eran de chocolate y el césped sabía a menta. Allí vivía un dragón verde llamado Fuego que no podía volar porque sus alas estaban atrapadas por una red de nubes pesadas. Nico, usando sus tijeras mágicas, cortó las nubes y liberó al gran animal. El dragón, muy feliz, invitó a Nico a dar un paseo por las nubes más altas del cielo. Desde arriba, Nico vio ríos de leche y volcanes que lanzaban palomitas de maíz calientes. El dragón le explicó que ese lugar era el Reino de los Dulces, un sitio donde solo llegaban los niños con buen corazón. Como agradecimiento, Fuego le regaló una brújula de caramelo que siempre señalaba el camino hacia la felicidad verdadera. Nico volvió a su casa antes de la cena, sintiendo el aroma del chocolate en sus manos pequeñas. Guardó la brújula bajo su almohada y soñó con su nuevo amigo. Fue la aventura más dulce y divertida que jamás imaginó vivir en su pueblo. Nico estaba muy contento por su gran hazaña única.",
+    "glosario": [
+      { "palabra": "Valle", "definición": "Terreno llano que se encuentra entre montañas o alturas." },
+      { "palabra": "Menta", "definición": "Planta de olor refrescante que se usa para dar sabor a caramelos." },
+      { "palabra": "Hazaña", "definición": "Acción heroica o muy importante que requiere mucho esfuerzo." },
+      { "palabra": "Agradecimiento", "definición": "Sentimiento de dar las gracias a alguien por un favor recibido." },
+      { "palabra": "Brújula", "definición": "Pequeño instrumento que ayuda a los exploradores a no perderse." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llamaba el dragón que conoció Nico?", "tipo": "test", "opciones": ["Hielo", "Fuego", "Viento", "Dulce"], "correctaIdx": 1 },
+      { "enunciado": "¿A qué sabía el césped del valle mágico?", "tipo": "test", "opciones": ["A fresa", "A chocolate", "A menta", "A vainilla"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué lanzaban los volcanes del reino?", "tipo": "test", "opciones": ["Fuego rojo", "Palomitas de maíz", "Piedras grandes", "Agua dulce"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué objeto usó Nico para liberar al dragón?", "tipo": "test", "opciones": ["Una espada", "Sus manos", "Tijeras mágicas", "Una cuerda"], "correctaIdx": 2 },
+      { "enunciado": "¿Dónde guardó Nico su brújula de caramelo?", "tipo": "test", "opciones": ["En la mochila", "Bajo su almohada", "En el jardín", "En la cocina"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué el dragón no podía volar al principio?", "tipo": "test", "opciones": ["Porque tenía sueño", "Porque sus alas estaban atrapadas por nubes", "Porque era muy pequeño", "Porque no sabía cómo hacerlo"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué requisito se necesitaba para entrar al Reino de los Dulces?", "tipo": "test", "opciones": ["Ser muy fuerte", "Tener buen corazón", "Tener mucho dinero", "Saber correr rápido"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué simboliza la brújula de caramelo que recibió Nico?", "tipo": "test", "opciones": ["Que debe comer dulces", "La dirección hacia la felicidad", "El camino de regreso al túnel", "Que el dragón volverá"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo sabemos que la aventura fue especial para Nico?", "tipo": "test", "opciones": ["Porque se perdió", "Porque sintió el aroma del chocolate al volver", "Porque el dragón le dio miedo", "Porque no quería cenar"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué tipo de niño es Nico según sus acciones?", "tipo": "test", "opciones": ["Egoísta y solitario", "Amable y aventurero", "Perezoso y miedoso", "Desordenado"], "correctaIdx": 1 }
+    ]
+  }
+]

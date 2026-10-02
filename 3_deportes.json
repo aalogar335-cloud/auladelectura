@@ -1,0 +1,174 @@
+[
+  {
+    "titulo": "El partido de fútbol de Leo",
+    "tema": "deportes",
+    "texto": "Leo estaba muy emocionado porque hoy jugaba la final del torneo de fútbol. Se puso su uniforme, que era de color azul brillante, y sus botas nuevas. Su equipo, \"Los Rayos\", había entrenado mucho durante semanas. En el campo, el entrenador les recordó la importancia de jugar en equipo y pasar el balón. El partido comenzó y Leo corrió rápido por la banda derecha. Recibió un pase perfecto de su amiga Ana y chutó con fuerza hacia la portería. El portero rival se estiró, pero no pudo detener el balón. ¡Gol de Leo! Todo el equipo lo celebró con abrazos y saltos de alegría. Sin embargo, el otro equipo empató poco después. El partido estaba muy reñido y el tiempo se acababa. Faltando solo un minuto, Ana robó el balón y se lo pasó a Leo, que estaba solo frente a la portería. Esta vez, Leo miró a su compañero Dani, que estaba mejor posicionado, y le pasó el balón. Dani marcó el gol de la victoria. Todos aprendieron que trabajar juntos es la mejor manera de ganar, y celebraron el triunfo como un verdadero equipo unido.",
+    "glosario": [
+      { "palabra": "Torneo", "definición": "Competición deportiva entre varios participantes o equipos para conseguir un premio." },
+      { "palabra": "Entrenador", "definición": "Persona que prepara y dirige a un equipo o deportista para mejorar su rendimiento." },
+      { "palabra": "Banda", "definición": "Zona lateral del campo de fútbol." },
+      { "palabra": "Reñido", "definición": "Cuando una competición está muy igualada y es difícil saber quién ganará." },
+      { "palabra": "Posicionado", "definición": "Estar colocado en el lugar adecuado para realizar una acción." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama el equipo de Leo?", "tipo": "test", "opciones": ["Los Soles", "Los Rayos", "Los Tigres", "Los Halcones"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué color era el uniforme de Leo?", "tipo": "test", "opciones": ["Rojo", "Verde", "Azul brillante", "Amarillo"], "correctaIdx": 2 },
+      { "enunciado": "¿Quién le dio el pase a Leo para el primer gol?", "tipo": "test", "opciones": ["Dani", "Ana", "El entrenador", "El portero"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hizo Leo en la última jugada del partido?", "tipo": "test", "opciones": ["Chutó a portería", "Se sentó en el suelo", "Le pasó el balón a Dani", "Salió del campo"], "correctaIdx": 2 },
+      { "enunciado": "¿Quién marcó el gol de la victoria?", "tipo": "test", "opciones": ["Leo", "Ana", "Dani", "El entrenador"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué lección aprendió el equipo?", "tipo": "test", "opciones": ["Que hay que correr solo", "Que trabajar juntos es la mejor manera de ganar", "Que las botas nuevas no sirven", "Que es mejor no pasar el balón"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Héctor y el pase de la victoria",
+    "tema": "deportes",
+    "texto": "Héctor amaba el baloncesto desde que era muy pequeño. Cada tarde, acudía al polideportivo municipal para practicar sus lanzamientos a canasta. Su equipo, llamado Los Halcones, se preparaba para el partido más importante de la temporada. Héctor estaba algo nervioso porque se enfrentaban a un rival muy fuerte y alto. Al comenzar el juego, el sonido del silbato del árbitro resonó en todo el pabellón de madera. El balón naranja volaba de mano en mano rápidamente. Héctor intentó hacer un triple, pero la pelota golpeó el aro y salió fuera. En ese momento, su amiga Lucía le dio una palmadita en la espalda para animarlo. '¡Sigue intentándolo, somos un equipo!', le dijo con una gran sonrisa. En el último cuarto, el marcador estaba empatado. Héctor recibió el balón, vio que Lucía estaba libre cerca del aro y decidió pasarle la pelota en lugar de tirar él. Lucía encestó justo antes de que sonara la bocina final. Los Halcones ganaron gracias a ese pase perfecto. Héctor aprendió que el compañerismo es mucho más valioso que ser el máximo anotador del partido. Todos celebraron felices.",
+    "glosario": [
+      { "palabra": "Canasta", "definición": "Aro con red por donde debe pasar el balón para puntuar." },
+      { "palabra": "Árbitro", "definición": "Persona encargada de hacer cumplir las reglas durante el juego." },
+      { "palabra": "Triple", "definición": "Lanzamiento a canasta desde lejos que vale tres puntos." },
+      { "palabra": "Empatado", "definición": "Cuando ambos equipos tienen la misma puntuación." },
+      { "palabra": "Bocina", "definición": "Sonido fuerte que indica que el tiempo de juego ha terminado." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿A qué deporte juega Héctor?", "tipo": "test", "opciones": ["Fútbol", "Balonmano", "Baloncesto", "Tenis"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se llama su equipo?", "tipo": "test", "opciones": ["Los Águilas", "Los Halcones", "Los Cuervos", "Los Leones"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué pasó cuando Héctor intentó el triple?", "tipo": "test", "opciones": ["Entró limpia", "Golpeó el aro y salió fuera", "Se le cayó el balón", "Se rompió la canasta"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué decidió hacer Héctor al final del partido?", "tipo": "test", "opciones": ["Tirar él mismo", "Salir del campo", "Pasarle la pelota a Lucía", "Esconder el balón"], "correctaIdx": 2 },
+      { "enunciado": "¿Quién encestó el tiro final?", "tipo": "test", "opciones": ["Héctor", "Lucía", "El árbitro", "Héctor y Lucía a la vez"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Marina y el reto en la piscina",
+    "tema": "deportes",
+    "texto": "Marina es una nadadora excelente que entrena todos los sábados por la mañana, incluso cuando hace frío. Para ella, la piscina municipal es como un segundo hogar. Hoy tiene una competición de estilo libre de 50 metros. Al ponerse sus gafas y su gorro azul, Marina se concentra solo en el sonido del agua. El entrenador sopla el silbato y ¡plof!, todos saltan al agua cristalina. Marina mueve sus brazos y piernas con mucha coordinación, sintiéndose veloz como un delfín. A mitad de camino, siente que sus músculos se cansan, pero recuerda cuánto ha practicado y sigue adelante con determinación. Al tocar el borde de la piscina, mira el cronómetro: ¡ha bajado su tiempo récord por dos segundos! Aunque no llegó en primer lugar, Marina se siente una ganadora porque superó su propia marca personal. El deporte le ha enseñado que la constancia y el esfuerzo propio son los mejores trofeos que uno puede recibir.",
+    "glosario": [
+      { "palabra": "Estilo libre", "definición": "Modalidad de natación donde el nadador puede elegir cualquier técnica, generalmente crol." },
+      { "palabra": "Cronómetro", "definición": "Reloj de gran precisión para medir fracciones de tiempo muy pequeñas." },
+      { "palabra": "Récord", "definición": "Mejor resultado o tiempo obtenido anteriormente en una actividad." },
+      { "palabra": "Coordinación", "definición": "Capacidad de mover los músculos de forma ordenada y armoniosa." },
+      { "palabra": "Constancia", "definición": "Voluntad de continuar haciendo algo hasta conseguir un objetivo." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué deporte practica Marina?", "tipo": "test", "opciones": ["Ciclismo", "Natación", "Atletismo", "Esgrima"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué distancia debe recorrer en la competición?", "tipo": "test", "opciones": ["10 metros", "25 metros", "50 metros", "100 metros"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo se siente Marina en el agua?", "tipo": "test", "opciones": ["Como un gato", "Como un delfín", "Como una piedra", "Como un barco"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué logró Marina al final de la carrera?", "tipo": "test", "opciones": ["Ganar una medalla de oro", "Bajar su tiempo récord en dos segundos", "Salir de la piscina antes", "Comprar unas gafas nuevas"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es la lección principal para Marina?", "tipo": "test", "opciones": ["Que nadar cansa mucho", "Que el esfuerzo propio es el mejor trofeo", "Que el agua debe estar caliente", "Que no hay que entrenar los sábados"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El desafío de Paula en el tenis",
+    "tema": "deportes",
+    "texto": "Paula amaba el tenis. Cada sábado, ella caminaba hacia las pistas municipales con su raqueta colgada a la espalda. El sol brillaba con fuerza mientras Paula practicaba su saque contra la pared de entrenamiento. El sonido de la pelota amarilla golpeando las cuerdas era música para sus oídos. Su entrenador, Marcos, siempre le decía que lo más importante era la concentración. Durante el torneo escolar, Paula tuvo que enfrentarse a un rival muy rápido. Al principio, ella perdía por tres juegos. Se sentía algo cansada y sus zapatillas blancas estaban llenas de polvo. Sin embargo, recordó que el deporte se trata de persistir. Respiró profundo, se ajustó la visera y se concentró en cada movimiento del brazo. Logró remontar el marcador gracias a su esfuerzo constante. Cuando terminó el partido, Paula saludó a su oponente en la red con respeto. No importaba quién hubiera ganado el trofeo de plata al final. Ella se sentía como una verdadera campeona por no haberse rendido nunca. El tenis le enseñó que con disciplina se puede mejorar cada día.",
+    "glosario": [
+      { "palabra": "Raqueta", "definición": "Instrumento con un marco y cuerdas que se usa para golpear la pelota." },
+      { "palabra": "Saque", "definición": "Primer golpe que pone la pelota en juego." },
+      { "palabra": "Remontar", "definición": "Superar una situación adversa o una puntuación en contra." },
+      { "palabra": "Oponente", "definición": "Persona que juega en contra de otra en una competición." },
+      { "palabra": "Disciplina", "definición": "Hábito de seguir unas reglas y entrenar con orden y constancia." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué instrumento usa Paula para jugar?", "tipo": "test", "opciones": ["Un bate", "Una raqueta", "Un palo", "Una red"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué le aconsejaba siempre su entrenador Marcos?", "tipo": "test", "opciones": ["Correr mucho", "Comer bien", "La concentración", "Comprar pelotas nuevas"], "correctaIdx": 2 },
+      { "enunciado": "¿Cómo empezó el partido para Paula?", "tipo": "test", "opciones": ["Iba ganando", "Perdía por tres juegos", "Se suspendió", "Empataron"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hizo Paula tras terminar el partido?", "tipo": "test", "opciones": ["Se fue corriendo", "Saludó a su oponente con respeto", "Tiró la raqueta", "Se puso a llorar"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué le enseñó el tenis a Paula?", "tipo": "test", "opciones": ["Que ganar es lo único importante", "Que con disciplina se puede mejorar", "Que las pelotas son amarillas", "Que no debe jugar los sábados"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Jorge y su primer día en el hielo",
+    "tema": "deportes",
+    "texto": "Jorge nunca se había puesto unos patines de hockey. Cuando llegó a la pista de hielo, el aire frío le hizo cosquillas en la nariz. Sus amigos ya estaban allí, deslizándose con velocidad y golpeando el disco negro llamado puck con sus sticks de madera. Al principio, a Jorge le temblaban las piernas como gelatina. Se agarró a la barandilla con fuerza, temiendo caerse al suelo helado. Sin embargo, su amigo Carlos se acercó y le dio la mano. 'No te preocupes, Jorge, al principio todos nos caemos', le dijo con ánimos. Poco a poco, Jorge soltó la barandilla y empezó a dar pequeños pasos. A la media hora, ya era capaz de desplazarse solo por el centro de la pista. Incluso logró darle un golpe suave al puck. Al terminar la tarde, Jorge estaba sudando a pesar del frío. Se sentía muy orgulloso de haber vencido su miedo. El hockey sobre hielo parecía difícil, pero descubrió que con paciencia y la ayuda de buenos compañeros, cualquier deporte puede ser una aventura maravillosa.",
+    "glosario": [
+      { "palabra": "Stick", "definición": "Bastón largo que usan los jugadores de hockey para golpear el disco." },
+      { "palabra": "Puck", "definición": "Disco pequeño de caucho que se usa en el hockey sobre hielo." },
+      { "palabra": "Deslizarse", "definición": "Moverse suavemente sobre una superficie lisa como el hielo." },
+      { "palabra": "Barandilla", "definición": "Marco de madera o metal que rodea la pista y sirve de apoyo." },
+      { "palabra": "Orgulloso", "definición": "Sentirse muy satisfecho por algo bueno que uno ha hecho." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama el disco negro en el hockey?", "tipo": "test", "opciones": ["Pelota", "Puck", "Stick", "Círculo"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sentía Jorge al principio de la tarde?", "tipo": "test", "opciones": ["Muy seguro", "Con las piernas como gelatina", "Con ganas de dormir", "Muy rápido"], "correctaIdx": 1 },
+      { "enunciado": "¿Quién ayudó a Jorge en la pista?", "tipo": "test", "opciones": ["El entrenador", "Su amigo Carlos", "Su padre", "Nadie"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué logró hacer Jorge tras media hora de práctica?", "tipo": "test", "opciones": ["Ganar un partido", "Desplazarse solo por la pista", "Saltar muy alto", "Hacer un gol profesional"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué descubrió Jorge sobre el deporte?", "tipo": "test", "opciones": ["Que es mejor jugar solo", "Que es aburrido", "Que con paciencia y ayuda es una aventura maravillosa", "Que el hielo quema"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "El secreto de los Rayos Azules",
+    "tema": "deportes",
+    "texto": "Miguel estaba muy nervioso porque hoy era la gran final del torneo escolar de fútbol. Su equipo, los Rayos Azules, se enfrentaba a los Leones Rojos en el campo principal. Miguel siempre quería marcar todos los goles él mismo. Al empezar el partido, corrió con el balón, pero tres defensas lo rodearon rápidamente. Miguel perdió la pelota y se sintió frustrado. En el descanso, su entrenadora le explicó que el fútbol es un deporte de equipo. “Si confías en tus compañeros, seremos imparables”, le dijo con una sonrisa. En la segunda parte, Miguel recibió un pase largo. Esta vez, en lugar de intentar regatear a todos solo, vio a su amiga Clara desmarcada. Miguel hizo un pase preciso y Clara disparó con fuerza hacia la portería. ¡Gol! Todo el equipo celebró el triunfo con abrazos y gritos de alegría. Miguel comprendió que compartir el balón es mucho más divertido que jugar solo. Al final del día, todos recibieron una medalla brillante por su esfuerzo y deportividad.",
+    "glosario": [
+      { "palabra": "Final", "definición": "Último partido de un campeonato donde se decide quién es el ganador." },
+      { "palabra": "Defensas", "definición": "Jugadores encargada de proteger su portería y quitar el balón al rival." },
+      { "palabra": "Frustrado", "definición": "Sentirse mal por no haber conseguido lo que se deseaba." },
+      { "palabra": "Desmarcada", "definición": "Cuando un jugador está libre de rivales y listo para recibir un pase." },
+      { "palabra": "Deportividad", "definición": "Actitud de respeto y juego limpio hacia los compañeros y rivales." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llama el equipo de Miguel?", "tipo": "test", "opciones": ["Leones Rojos", "Rayos Azules", "Tigres Verdes", "Águilas"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué le pasaba a Miguel al principio del partido?", "tipo": "test", "opciones": ["No quería correr", "Quería marcar todos los goles él solo", "Tenía sueño", "Estaba lesionado"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué consejo le dio la entrenadora?", "tipo": "test", "opciones": ["Que corriera más rápido", "Que confiara en sus compañeros", "Que descansara", "Que comprara botas nuevas"], "correctaIdx": 1 },
+      { "enunciado": "¿A quién le dio el pase Miguel en la segunda parte?", "tipo": "test", "opciones": ["Al portero", "A Clara", "A nadie", "Al árbitro"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué premio recibieron al final del día?", "tipo": "test", "opciones": ["Un trofeo de oro", "Una medalla brillante", "Un balón nuevo", "Camisetas nuevas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "Pablo y la carrera de la amistad",
+    "tema": "deportes",
+    "texto": "Era el día de la gran carrera de atletismo en el colegio. Pablo se había preparado durante meses, corriendo cada tarde por el parque. Sus piernas eran rápidas como el viento. Al sonar el pistoletazo de salida, Pablo se colocó en primera posición. Detrás de él iba su amiga Sara, que también corría muy bien. A mitad de la carrera, Sara tropezó con una piedra y se cayó al suelo, lastimándose la rodilla. Pablo, al verla, no lo pensó dos veces. Se detuvo y regresó para ayudar a su amiga a levantarse. Otros corredores los adelantaron, pero a Pablo no le importó. Ayudó a Sara a caminar y, juntos, cruzaron la meta los últimos. Todo el público se puso en pie y aplaudió con muchísima fuerza. El profesor de gimnasia les entregó un trofeo especial al compañerismo. Pablo aprendió que ganar una medalla es bonito, pero ayudar a un amigo en apuros es la victoria más grande de todas.",
+    "glosario": [
+      { "palabra": "Atletismo", "definición": "Conjunto de actividades deportivas que incluyen carreras, saltos y lanzamientos." },
+      { "palabra": "Pistoletazo", "definición": "Sonido que indica el comienzo de una carrera." },
+      { "palabra": "Tropezó", "definición": "Golpear el pie contra algo y perder el equilibrio." },
+      { "palabra": "Meta", "definición": "Línea final que marca el término de una carrera." },
+      { "palabra": "Compañerismo", "definición": "Actitud de ayuda y colaboración entre amigos o miembros de un grupo." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde se preparaba Pablo para la carrera?", "tipo": "test", "opciones": ["En el gimnasio", "En el parque", "En su casa", "En la playa"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué le pasó a Sara durante la carrera?", "tipo": "test", "opciones": ["Ganó a Pablo", "Tropezó y se cayó", "Se perdió", "Se fue a casa"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hizo Pablo al ver a Sara en el suelo?", "tipo": "test", "opciones": ["Siguió corriendo", "Se detuvo para ayudarla", "Se puso a llorar", "Llamó a un médico"], "correctaIdx": 1 },
+      { "enunciado": "¿En qué posición llegaron a la meta?", "tipo": "test", "opciones": ["Los primeros", "Los segundos", "Los últimos", "No llegaron"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué trofeo especial recibieron?", "tipo": "test", "opciones": ["A la velocidad", "Al compañerismo", "Al mejor uniforme", "A la resistencia"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El gran partido de los Halcones",
+    "tema": "deportes",
+    "texto": "Héctor estaba muy emocionado porque hoy era la gran final del torneo escolar de baloncesto. Su equipo, los Halcones, se enfrentaba a los Gigantes en el pabellón municipal. Miguel, su entrenador, les recordó antes de salir que lo más importante era el compañerismo. Al empezar el juego, el balón naranja volaba de mano en mano. Héctor intentó hacer una canasta desde lejos, pero la pelota golpeó el aro y salió fuera. Por un momento, se sintió algo frustrado. Sin embargo, su compañera Lucía le dio una palmadita en la espalda y le animó a seguir intentándolo. En el último cuarto, el marcador estaba muy reñido. Héctor recibió la pelota cerca de la canasta, pero vio que Lucía estaba mejor posicionada para tirar. En lugar de ser egoísta, le pasó el balón con precisión. Lucía encestó justo antes de que sonara la bocina final. ¡Habían ganado! Todo el equipo lo celebró con abrazos y saltos de alegría.",
+    "glosario": [
+      { "palabra": "Torneo", "definición": "Serie de partidos o concursos para elegir a un ganador o campeón." },
+      { "palabra": "Compañerismo", "definición": "Vínculo y colaboración que existe entre los compañeros de un equipo." },
+      { "palabra": "Marcador", "definición": "Tablón donde se anotan los puntos que lleva cada equipo." },
+      { "palabra": "Egoísta", "definición": "Persona que solo piensa en su propio beneficio sin importar los demás." },
+      { "palabra": "Precisión", "definición": "Capacidad de hacer algo con exactitud y cuidado." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Contra quién jugaban los Halcones?", "tipo": "test", "opciones": ["Los Tigres", "Los Gigantes", "Los Leones", "Los Rayos"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué color suele tener el balón de baloncesto?", "tipo": "test", "opciones": ["Blanco", "Azul", "Naranja", "Verde"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué pasó con el primer tiro de Héctor?", "tipo": "test", "opciones": ["Fue gol", "Fue canasta", "Golpeó el aro y salió fuera", "Se pinchó el balón"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué hizo Héctor en la jugada final?", "tipo": "test", "opciones": ["Tiró él solo", "Le pasó el balón a Lucía", "Se sentó", "Perdió la pelota"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sintió el entrenador Miguel?", "tipo": "test", "opciones": ["Enfadado", "Triste", "Orgulloso", "Cansado"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "Sara y el reto de la constancia",
+    "tema": "deportes",
+    "texto": "Sara amaba la natación. Cada mañana, antes de ir al colegio, acudía a la piscina municipal para entrenar. El olor a cloro y el reflejo del sol en el agua azul la hacían sentir muy feliz. Su estilo favorito era el crol, porque le permitía avanzar muy rápido. Un sábado frío de invierno, se celebraba el campeonato regional. Sara estaba nerviosa porque sabía que sus rivales eran muy veloces. Al sonar el silbato, saltó al agua con potencia. A mitad de la piscina, sintió que sus brazos pesaban y que le faltaba el aire. Pero recordó las palabras de su madre: 'El éxito es el resultado de no rendirse nunca'. Sara dio un último esfuerzo, batiendo sus pies con energía. Al llegar al final, descubrió que había mejorado su tiempo personal en tres segundos. No ganó la medalla de oro, pero se sentía como una verdadera campeona por haber superado su propio límite. Aprendió que la constancia es la clave para mejorar en cualquier deporte.",
+    "glosario": [
+      { "palabra": "Cloro", "definición": "Producto químico que se usa para mantener el agua de las piscinas limpia." },
+      { "palabra": "Crol", "definición": "Estilo de natación más rápido donde se alternan los brazos y las piernas." },
+      { "palabra": "Regional", "definición": "Que pertenece a una región o zona determinada." },
+      { "palabra": "Potencia", "definición": "Fuerza y rapidez con la que se realiza un movimiento." },
+      { "palabra": "Constancia", "definición": "Fuerza de voluntad para continuar con un trabajo o meta sin rendirse." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿A qué hora solía entrenar Sara?", "tipo": "test", "opciones": ["Por la noche", "Antes de ir al colegio", "Después de cenar", "A mediodía"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es el estilo de natación favorito de Sara?", "tipo": "test", "opciones": ["Espalda", "Braza", "Mariposa", "Crol"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué le dijo su madre sobre el éxito?", "tipo": "test", "opciones": ["Que hay que ser el más rápido", "Que es el resultado de no rendirse nunca", "Que hay que comprar gafas nuevas", "Que nadar es aburrido"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuánto mejoró Sara su tiempo personal?", "tipo": "test", "opciones": ["Un segundo", "Tres segundos", "Diez segundos", "Nada"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo se sintió Sara al final aunque no ganó el oro?", "tipo": "test", "opciones": ["Triste", "Enfadada", "Como una verdadera campeona", "Con ganas de llorar"], "correctaIdx": 2 }
+    ]
+  }
+]

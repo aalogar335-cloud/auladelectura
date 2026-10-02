@@ -1,0 +1,1592 @@
+[
+    {
+        "titulo": "Clara y el Reloj Suizo",
+        "tema": "deportes",
+        "texto": "Clara amaba el baloncesto por encima de todo. Cada tarde, después de terminar sus deberes escolares, se calzaba sus zapatillas deportivas de color azul brillante y corría velozmente a la cancha del parque municipal. Formaba parte de un equipo muy unido llamado Los Rayos. Clara era la jugadora más rápida de la liga, pero tenía un pequeño defecto: a veces quería encestar todas las canastas ella sola, olvidando a sus compañeros. Su sabio entrenador, el señor Martín, siempre le repetía la misma frase: Clara, el baloncesto es como un reloj suizo; si una pequeña pieza no se mueve correctamente, el tiempo se detiene. Llegó el esperado sábado de la gran final escolar contra el poderoso equipo de Los Halcones. El pabellón estaba completamente lleno de padres, profesores y amigos que gritaban con muchísima emoción. Durante la primera mitad del intenso partido, Los Rayos iban perdiendo por diez puntos de diferencia. Clara se sentía muy frustrada y nerviosa. Intentó realizar tres jugadas individuales seguidas, pero perdió el balón rápidamente porque las rivales eran fuertes y estaban muy bien organizadas. En el descanso, Clara estaba sentada en el banco de madera, mirando al suelo con evidente tristeza. Su compañera Elena se acercó amablemente y le ofreció una botella de agua fresca. No podemos ganar solas, Clara, somos un equipo, susurró Elena con una sonrisa. Entonces, Clara comprendió profundamente el mensaje de su entrenador. Al volver a la pista central, cambió totalmente su estrategia. Ya no buscaba la gloria personal ni el aplauso del público. Empezó a observar a sus lados con atención. Vio a Pablo libre bajo el aro y le dio un pase perfecto. ¡Canasta! Luego, ayudó a Sofía en la defensa, bloqueando un lanzamiento difícil. Poco a poco, la diferencia se redujo. Faltaban diez segundos y el marcador estaba empatado. Clara tenía el balón, pero vio que Elena estaba mejor situada. Sin dudarlo, lanzó un pase preciso. Elena anotó antes de sonar la bocina final. Habían ganado el trofeo, pero lo más valioso fue el respeto mutuo entre todas las jugadoras que estaban allí presentes hoy durante esta jornada deportiva.",
+        "glosario": [
+            {
+                "palabra": "Pabellón",
+                "definición": "Edificio cubierto diseñado para practicar deportes o realizar eventos."
+            },
+            {
+                "palabra": "Encestar",
+                "definición": "Meter la pelota dentro del aro para conseguir puntos."
+            },
+            {
+                "palabra": "Estrategia",
+                "definición": "Plan preparado para dirigir un asunto y lograr un objetivo."
+            },
+            {
+                "palabra": "Frustración",
+                "definición": "Sentimiento de tristeza o enfado al no lograr lo que deseas."
+            },
+            {
+                "palabra": "Rival",
+                "definición": "Persona o equipo que compite contra otro en un juego."
+            },
+            {
+                "palabra": "Marcador",
+                "definición": "Panel donde se anotan y ven los puntos de cada equipo."
+            },
+            {
+                "palabra": "Compañerismo",
+                "definición": "Vínculo de ayuda, respeto y confianza entre los miembros de un grupo."
+            },
+            {
+                "palabra": "Bocina",
+                "definición": "Instrumento sonoro que avisa cuando el tiempo de juego ha terminado."
+            },
+            {
+                "palabra": "Defensa",
+                "definición": "Acción de proteger tu canasta para evitar que el rival anote."
+            },
+            {
+                "palabra": "Sabio",
+                "definición": "Persona que tiene muchos conocimientos y experiencia sobre un tema."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el equipo en el que jugaba Clara?",
+                "tipo": "test",
+                "opciones": [
+                    "Los Halcones",
+                    "Los Rayos",
+                    "Los Gigantes",
+                    "Los Rápidos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuántos puntos perdían Los Rayos durante la primera mitad?",
+                "tipo": "test",
+                "opciones": [
+                    "Cinco puntos",
+                    "Dos puntos",
+                    "Diez puntos",
+                    "Veinte puntos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué le ofreció Elena a Clara durante el descanso?",
+                "tipo": "test",
+                "opciones": [
+                    "Una pelota",
+                    "Una manzana",
+                    "Una botella de agua",
+                    "Una toalla"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué quería explicar el entrenador con la metáfora del reloj suizo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el partido duraba poco tiempo",
+                    "Que todos los jugadores son piezas importantes para que el equipo funcione",
+                    "Que debían comprar relojes nuevos",
+                    "Que Clara debía correr más rápido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué fallaron las jugadas individuales de Clara al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no sabía botar el balón",
+                    "Porque las rivales estaban muy bien organizadas y ella jugaba sola",
+                    "Porque el balón estaba pinchado",
+                    "Porque tenía sueño"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la actitud de Clara tras hablar con Elena?",
+                "tipo": "test",
+                "opciones": [
+                    "Se puso a llorar",
+                    "Decidió no volver a jugar",
+                    "Comenzó a jugar en equipo y a pasar el balón",
+                    "Se enfadó con el entrenador"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Clara decidió pasarle el balón a Elena en el último segundo en lugar de tirar ella?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía miedo de fallar",
+                    "Porque Elena estaba en una posición mucho mejor para anotar",
+                    "Porque se le resbaló la pelota",
+                    "Porque quería irse a casa pronto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que 'la diferencia se redujo' en el marcador?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el marcador se rompió",
+                    "Que Los Rayos empezaron a anotar y se acercaron a los puntos de los rivales",
+                    "Que el partido terminó",
+                    "Que quitaron puntos a Los Halcones"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el valor principal que aprendió Clara en esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que ganar es lo único importante",
+                    "Que las zapatillas azules dan suerte",
+                    "Que el trabajo en equipo es fundamental para el éxito",
+                    "Que el baloncesto es un juego individual"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo demostró Clara respeto por sus rivales al final del partido?",
+                "tipo": "test",
+                "opciones": [
+                    "Salió corriendo del pabellón",
+                    "No les habló",
+                    "Felicitó sinceramente a las otras jugadoras",
+                    "Gritó que ella era la mejor"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Álex y el Testigo de Madera",
+        "tema": "deportes",
+        "texto": "Álex se encontraba en la línea de salida, sintiendo cómo el corazón le golpeaba el pecho como un tambor frenético. Era la carrera de relevos de cuatro por cien metros en las Olimpiadas Escolares del distrito. Él era el último corredor de su equipo, lo que significaba que tenía la gran responsabilidad de cruzar la meta final. Sus amigos, Lucía, Diego y Marta, ya habían hecho un esfuerzo increíble entregando el testigo de madera roja con total precisión. Cuando Marta se acercó a toda velocidad, Álex empezó a correr, extendiendo su brazo hacia atrás para recibir el objeto. ¡Vamos, Álex!, gritó ella mientras le entregaba el relevo. Álex aceleró por la pista de ceniza, sintiendo el viento fresco golpeando su cara. Iba en segunda posición, muy cerca del corredor del colegio San Jorge. Sin embargo, a mitad de la curva, ocurrió algo totalmente inesperado: Álex tropezó con una pequeña piedra y cayó de bruces sobre el suelo rugoso. El silencio se apoderó de la grada por un instante. Sus rodillas estaban raspadas y sentía un dolor punzante, pero lo peor era ver cómo los otros corredores lo adelantaban velozmente. Por un segundo, pensó en quedarse allí y rendirse por la vergüenza. Entonces, escuchó los gritos de ánimo de sus compañeros: ¡Levántate, Álex! ¡Tú puedes terminar!. Recordó que el atletismo no trata solo de ser el más rápido, sino de tener la resiliencia necesaria para superar los obstáculos. Se puso en pie, recogió el testigo que había rodado por la pista y empezó a correr con más fuerza que nunca. No ganó la medalla de oro, ni siquiera la de plata, pero cuando cruzó la meta en quinta posición, todo el estadio se puso en pie para aplaudirlo. Sus amigos corrieron a abrazarlo, ignorando que no habían ganado el trofeo. Habían ganado algo mucho más importante: el orgullo de no haberse rendido jamás ante las dificultades del camino. Álex comprendió que el éxito real es levantarse siempre con una sonrisa y seguir luchando por sus metas mientras disfruta del viaje compartido con las personas que más quiere en este gran mundo.",
+        "glosario": [
+            {
+                "palabra": "Relevos",
+                "definición": "Carrera por equipos donde los participantes se turnan para completar el recorrido."
+            },
+            {
+                "palabra": "Testigo",
+                "definición": "Barra o tubo que los corredores se pasan unos a otros durante la carrera."
+            },
+            {
+                "palabra": "Precisión",
+                "definición": "Capacidad de realizar una acción de forma exacta y sin errores."
+            },
+            {
+                "palabra": "Ceniza",
+                "definición": "Material de color gris que cubre algunas pistas de atletismo antiguas."
+            },
+            {
+                "palabra": "Resiliencia",
+                "definición": "Capacidad de las personas para superar situaciones difíciles o dolorosas."
+            },
+            {
+                "palabra": "Obstáculo",
+                "definición": "Cosa o situación que impide avanzar o que dificulta un objetivo."
+            },
+            {
+                "palabra": "Distrito",
+                "definición": "Parte en la que se divide una ciudad o región para organizarse."
+            },
+            {
+                "palabra": "Frenético",
+                "definición": "Algo que se mueve de forma muy rápida, agitada o con mucha fuerza."
+            },
+            {
+                "palabra": "Rugoso",
+                "definición": "Que tiene arrugas o bultos y no es suave al tacto."
+            },
+            {
+                "palabra": "Espíritu deportivo",
+                "definición": "Comportarse de forma justa, honesta y valiente al practicar deporte."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto debían pasarse los corredores durante la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Una pelota",
+                    "Un testigo de madera",
+                    "Una medalla",
+                    "Un silbato"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién fue la compañera que le entregó el relevo a Álex?",
+                "tipo": "test",
+                "opciones": [
+                    "Lucía",
+                    "Sofía",
+                    "Marta",
+                    "Elena"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué posición cruzó Álex la meta finalmente?",
+                "tipo": "test",
+                "opciones": [
+                    "Primera",
+                    "Segunda",
+                    "Quinta",
+                    "Última"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué sintió Álex deseos de rendirse cuando se cayó?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía mucho sueño",
+                    "Por el dolor físico y la vergüenza de haber fallado frente a la grada",
+                    "Porque no le gustaba correr",
+                    "Porque quería irse al parque"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué fue lo que motivó a Álex a levantarse del suelo?",
+                "tipo": "test",
+                "opciones": [
+                    "El miedo al entrenador",
+                    "Los gritos de ánimo de sus compañeros de equipo",
+                    "Que vio una moneda en el suelo",
+                    "Que el juez se lo ordenó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el estadio se puso en pie para aplaudirlo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que querían irse ya",
+                    "Que el público reconoció y valoró su valentía y esfuerzo por terminar",
+                    "Que estaban enfadados",
+                    "Que no veían bien la carrera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué sus amigos lo abrazaron si no habían ganado ninguna medalla?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se habían equivocado",
+                    "Porque estaban orgullosos de que no se rindiera y terminara la carrera",
+                    "Porque hacía frío",
+                    "Porque querían salir en la foto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación tiene la palabra 'resiliencia' con la caída de Álex?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna",
+                    "Es la capacidad de Álex para ponerse en pie y seguir corriendo tras el golpe",
+                    "Es el nombre de la piedra con la que tropezó",
+                    "Es el nombre del estadio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Álex se hubiera quedado en el suelo, ¿qué habría pasado con su equipo?",
+                "tipo": "test",
+                "opciones": [
+                    "Habrían ganado igual",
+                    "No habrían podido completar la carrera como equipo",
+                    "Le habrían dado un premio",
+                    "Marta habría corrido por él"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la lección principal sobre el éxito que aprendió Álex?",
+                "tipo": "test",
+                "opciones": [
+                    "Que solo el que llega primero tiene éxito",
+                    "Que el éxito es levantarse siempre y luchar por tus metas",
+                    "Que no hay que participar en carreras",
+                    "Que tropezar es bueno"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Laura y el Baile del Balón",
+        "tema": "deportes",
+        "texto": "Laura era la delantera más rápida de su colegio. Sus botas de fútbol, de un verde fluorescente, parecían tener alas propias cuando corría por el césped. El equipo de Laura, las Cebras, había llegado a la final del campeonato regional. Sin embargo, había un pequeño problema que preocupaba mucho al entrenador Julián: Laura nunca pasaba el balón a sus compañeras. Ella pensaba que, si quería ganar, debía marcar todos los goles ella sola. El día de la final, el cielo estaba despejado y el estadio olía a hierba recién cortada. Se enfrentaban a los Halcones, un equipo conocido por su excelente organización defensiva. Durante la primera mitad, Laura intentó tres regates imposibles, pero siempre terminaba rodeada de tres defensas rivales que le robaban el cuero fácilmente. En el descanso, mientras bebían agua, su amiga Sofía le dijo con tristeza que estaba libre en la banda derecha, pero que Laura nunca la miraba. El entrenador Julián se acercó y les recordó que el fútbol es un baile coordinado, no un solo de guitarra. Al empezar la segunda parte, Laura sintió el peso de la responsabilidad. En el minuto ochenta, recibió un pase largo. Tenía a la portera delante, pero también tenía dos defensas bloqueando su disparo. Por primera vez en la temporada, Laura levantó la vista y vio a Sofía desmarcada en una posición perfecta. Recordó las palabras de su entrenador y, con un toque suave y preciso, envió el balón a su compañera. Sofía disparó con fuerza y el balón entró por la escuadra. ¡Gool! Las Cebras ganaron el partido por uno a cero. Al terminar, Laura no fue a celebrar su jugada sola, sino que corrió a abrazar a todo el equipo. Comprendió que el brillo de una medalla es mucho más intenso cuando se comparte con amigos. Aquel trofeo de plata en la vitrina del colegio siempre le recordaría que ningún jugador es tan bueno como todos los jugadores juntos trabajando en armonía por un sueño compartido. Esa tarde mágica, el deporte les brindó una lección de vida inolvidable que recordarían con mucho cariño durante muchísimos años.",
+        "glosario": [
+            {
+                "palabra": "Delantera",
+                "definición": "Jugadora que ataca y está más cerca de la portería rival."
+            },
+            {
+                "palabra": "Fluorescente",
+                "definición": "Color muy brillante que parece que emite luz propia."
+            },
+            {
+                "palabra": "Regional",
+                "definición": "Que pertenece a una región o zona determinada del país."
+            },
+            {
+                "palabra": "Organización",
+                "definición": "Manera de estar ordenados para trabajar bien en equipo."
+            },
+            {
+                "palabra": "Regate",
+                "definición": "Movimiento rápido para esquivar a un rival sin perder el balón."
+            },
+            {
+                "palabra": "Cuero",
+                "definición": "Forma coloquial de llamar al balón de fútbol."
+            },
+            {
+                "palabra": "Coordinado",
+                "definición": "Hacer algo de forma ordenada junto a otras personas."
+            },
+            {
+                "palabra": "Desmarcada",
+                "definición": "Estar en un lugar libre de defensas para recibir un pase."
+            },
+            {
+                "palabra": "Escuadra",
+                "definición": "Ángulo superior de la portería donde se unen los palos."
+            },
+            {
+                "palabra": "Armonía",
+                "definición": "Unión y buena relación entre las personas de un grupo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De qué color eran las botas de fútbol de Laura?",
+                "tipo": "test",
+                "opciones": [
+                    "Rojo brillante",
+                    "Verde fluorescente",
+                    "Azul eléctrico",
+                    "Blanco puro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba el equipo rival en la final?",
+                "tipo": "test",
+                "opciones": [
+                    "Las Cebras",
+                    "Los Leones",
+                    "Los Halcones",
+                    "Los Águilas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué minuto se marcó el gol de la victoria?",
+                "tipo": "test",
+                "opciones": [
+                    "Minuto diez",
+                    "Minuto cuarenta",
+                    "Minuto noventa",
+                    "Minuto ochenta"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Por qué el entrenador comparó el fútbol con un baile?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque hay que llevar música al campo",
+                    "Porque requiere que todos se muevan juntos y con ritmo",
+                    "Porque es aburrido como bailar",
+                    "Porque las jugadoras deben llevar tutú"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sentía Sofía durante la primera parte del partido?",
+                "tipo": "test",
+                "opciones": [
+                    "Mucha alegría",
+                    "Tristeza porque Laura no confiaba en ella",
+                    "Ganas de irse a casa",
+                    "Miedo a los Halcones"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Laura al final de la historia sobre el éxito?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es mejor ganar sola",
+                    "Que las medallas de plata no valen nada",
+                    "Que el éxito es más valioso cuando se comparte",
+                    "Que debe comprar botas nuevas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Laura no pudo marcar goles en la primera mitad?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no sabía chutar",
+                    "Porque intentaba hacerlo todo sola contra tres defensas",
+                    "Porque el balón estaba pinchado",
+                    "Porque estaba cansada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el cambio principal en la actitud de Laura en la segunda parte?",
+                "tipo": "test",
+                "opciones": [
+                    "Corrió mucho más rápido",
+                    "Se enfadó con el árbitro",
+                    "Levantó la vista para buscar a sus compañeras",
+                    "Decidió ser portera"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Si Laura no hubiera pasado el balón a Sofía, ¿qué habría pasado probablemente?",
+                "tipo": "test",
+                "opciones": [
+                    "Laura habría marcado un gol mejor",
+                    "Las defensas habrían bloqueado su disparo",
+                    "El partido se habría suspendido",
+                    "Sofía se habría ido del equipo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza el trofeo en la vitrina del colegio?",
+                "tipo": "test",
+                "opciones": [
+                    "La velocidad de Laura",
+                    "El trabajo en equipo y la unión de las Cebras",
+                    "El dinero que ganaron",
+                    "La mala suerte de los Halcones"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Hugo y la Victoria de la Verdad",
+        "tema": "deportes",
+        "texto": "Hugo siempre llevaba su raqueta de tenis a todas partes, incluso cuando no tenía entrenamiento. Para él, el deporte era una cuestión de ganar o perder, sin puntos intermedios. Se preparaba con disciplina para el Torneo de Verano del club, donde se enfrentaría a Leo, el actual campeón. Hugo tenía un saque potente y un revés envidiable, pero su temperamento era volcánico cuando fallaba un golpe. El partido fue muy reñido desde el primer set. El sol caía con fuerza sobre la pista de tierra batida, levantando nubes de polvo naranja con cada carrera. En el punto decisivo para ganar el partido, Hugo lanzó una bola que aterrizó muy cerca de la línea lateral. El árbitro, que estaba un poco distraído, gritó que la bola era buena y le otorgó el punto ganador a Hugo. Sin embargo, Hugo sabía perfectamente que su pelota había caído fuera por unos pocos centímetros. Miró a Leo, que aceptaba la derrota con elegancia, aunque se le veía decepcionado. En ese instante, Hugo sintió un nudo extraño en el estómago. Sabía que si no decía nada, tendría el trofeo en sus manos, pero su conciencia no le dejaría dormir tranquilo. Hugo levantó la mano y se acercó a la red. 'Perdone, señor árbitro, pero mi bola fue fuera', dijo con voz firme pero nerviosa. El público quedó en silencio absoluto por un segundo y luego estalló en un aplauso espontáneo. Se repitió el punto y, finalmente, Leo ganó el encuentro con un golpe magistral. Al terminar, Leo le dio la mano con un respeto profundo que Hugo nunca había sentido antes. El entrenador de Hugo se acercó y le puso la mano en el hombro con orgullo. 'Hoy has ganado algo más importante que un torneo, Hugo; has ganado integridad', le dijo. Aquella tarde, Hugo regresó a casa sin la copa de metal, pero con una sensación de paz y madurez que lo convirtió en un verdadero deportista para siempre. Él comprendió que la verdad brilla con más fuerza que cualquier oro y que la honestidad es la mejor compañera de juego en la vida.",
+        "glosario": [
+            {
+                "palabra": "Disciplina",
+                "definición": "Capacidad de seguir normas y entrenar con constancia."
+            },
+            {
+                "palabra": "Revés",
+                "definición": "Golpe en el tenis que se da con el dorso de la mano hacia delante."
+            },
+            {
+                "palabra": "Volcánico",
+                "definición": "Que tiene un carácter muy fuerte y explota con facilidad."
+            },
+            {
+                "palabra": "Reñido",
+                "definición": "Dicho de una competición: muy igualada y difícil de ganar."
+            },
+            {
+                "palabra": "Tierra batida",
+                "definición": "Superficie de polvo de ladrillo donde se juegan partidos de tenis."
+            },
+            {
+                "palabra": "Decisivo",
+                "definición": "Momento que determina el resultado final de algo."
+            },
+            {
+                "palabra": "Conciencia",
+                "definición": "Voz interior que nos indica si lo que hacemos está bien o mal."
+            },
+            {
+                "palabra": "Integridad",
+                "definición": "Valor de actuar con honestidad y hacer lo correcto siempre."
+            },
+            {
+                "palabra": "Magistral",
+                "definición": "Hecho con gran habilidad, como si lo hiciera un maestro."
+            },
+            {
+                "palabra": "Espontáneo",
+                "definición": "Algo que surge de forma natural y voluntaria, sin ser planeado."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el oponente de Hugo en el torneo?",
+                "tipo": "test",
+                "opciones": [
+                    "Julián",
+                    "Leo",
+                    "Sofía",
+                    "Martín"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué color era el polvo que se levantaba en la pista?",
+                "tipo": "test",
+                "opciones": [
+                    "Blanco",
+                    "Verde",
+                    "Naranja",
+                    "Gris"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién ganó finalmente el encuentro de tenis?",
+                "tipo": "test",
+                "opciones": [
+                    "Hugo",
+                    "El árbitro",
+                    "Leo",
+                    "Nadie"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que el temperamento de Hugo era 'volcánico'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que le gustaban los volcanes",
+                    "Que se enfadaba mucho cuando cometía errores",
+                    "Que era muy tranquilo",
+                    "Que jugaba en una isla"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Hugo sintió un 'nudo en el estómago'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía mucha hambre",
+                    "Porque se sentía mal por ganar con una mentira",
+                    "Porque le dolía la tripa por el sol",
+                    "Porque tenía miedo de Leo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el público aplaudió cuando Hugo admitió su error?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque querían que el partido durara más",
+                    "Porque admiraron su sinceridad y juego limpio",
+                    "Porque el árbitro se lo pidió",
+                    "Porque Hugo era muy gracioso"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué diferencia hay entre ganar un trofeo y ganar integridad?",
+                "tipo": "test",
+                "opciones": [
+                    "El trofeo es de metal y la integridad es un valor que te hace mejor persona",
+                    "La integridad se puede comprar en una tienda",
+                    "No hay ninguna diferencia",
+                    "El trofeo es más importante siempre"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cómo cambió la relación entre Leo y Hugo al final del partido?",
+                "tipo": "test",
+                "opciones": [
+                    "Se hicieron enemigos",
+                    "Leo dejó de respetar a Hugo",
+                    "Surgió un respeto profundo gracias a la honestidad de Hugo",
+                    "No se volvieron a hablar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué hubiera pasado probablemente si Hugo no hubiera dicho la verdad?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría sido más feliz",
+                    "Su conciencia no le habría dejado estar tranquilo",
+                    "Leo habría ganado el punto igual",
+                    "El árbitro le habría castigado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que entrenar más el revés",
+                    "Que ganar a cualquier precio no merece la pena",
+                    "Que los árbitros siempre se equivocan",
+                    "Que el tenis es un deporte aburrido"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Marina y la Orquesta de Canastas",
+        "tema": "deportes",
+        "texto": "Marina era la capitana orgullosa del equipo de baloncesto llamado Los Delfines. Tenía un bote de balón realmente impresionante y podía correr velozmente de un lado a otro de la pista sin cansarse nunca. Sin embargo, Marina tenía una pequeña debilidad que preocupaba a todos: le costaba mucho confiar en sus propios compañeros. Siempre pensaba que ella era la única jugadora capaz de encestar en los momentos más difíciles y tensos. El sábado por la mañana, Los Delfines se enfrentaban valientemente a Las Águilas en la gran final regional. El pabellón municipal estaba repleto de padres, profesores y amigos que animaban con muchísima energía y entusiasmo. Durante todo el primer tiempo, Marina intentó realizar todas las jugadas ella sola, sin mirar a nadie. Aunque consiguió anotar ocho puntos espectaculares, también perdió el balón muchas veces porque las defensas rivales la rodeaban rápidamente con astucia. En el descanso, su sabio entrenador, el señor Lucas, le pidió que se sentara un momento en el banco de madera. 'Marina', dijo con mucha calma, 'el baloncesto no es un deporte individual; es exactamente como una orquesta donde todos los instrumentos deben sonar juntos para crear una melodía hermosa'. Marina miró a sus amigas: Lucía esperaba siempre en la esquina, Pablo era excelente recuperando rebotes y Clara tenía un tiro de tres puntos magnífico. Al volver a la pista azul, la actitud de Marina cambió por completo. En lugar de bajar la cabeza y correr sola hacia el aro, levantó la vista con inteligencia. Vio a Lucía desmarcada y le pasó el balón con una precisión asombrosa. ¡Canasta! Luego, ayudó a Pablo en un bloqueo difícil y permitió que Clara anotara un triple decisivo. El marcador estaba muy apretado cuando faltaban solo diez segundos para el final. Marina recibió el balón, pero en lugar de tirar rodeada de rivales, vio a Pablo libre. Le dio un pase perfecto y Pablo anotó antes de la bocina. Ganaron por un punto. Marina corrió a abrazar a todos. Ese día aprendió que el equipo es más fuerte que el individuo.",
+        "glosario": [
+            {
+                "palabra": "Capitana",
+                "definición": "Persona que encabeza y dirige un equipo deportivo."
+            },
+            {
+                "palabra": "Debilidad",
+                "definición": "Punto flojo o defecto que tiene una persona en una actividad."
+            },
+            {
+                "palabra": "Encestar",
+                "definición": "Meter la pelota dentro de la canasta para conseguir puntos."
+            },
+            {
+                "palabra": "Regional",
+                "definición": "Competición que se realiza entre equipos de una misma región o zona."
+            },
+            {
+                "palabra": "Pabellón",
+                "definición": "Edificio cubierto donde se practican deportes como el baloncesto."
+            },
+            {
+                "palabra": "Astucia",
+                "definición": "Habilidad para engañar al rival o evitar ser engañado durante el juego."
+            },
+            {
+                "palabra": "Orquesta",
+                "definición": "Grupo de músicos que tocan instrumentos juntos de forma coordinada."
+            },
+            {
+                "palabra": "Bloqueo",
+                "definición": "Jugada para impedir que un rival se mueva libremente por la pista."
+            },
+            {
+                "palabra": "Marcador",
+                "definición": "Panel electrónico donde se ven los puntos de cada equipo."
+            },
+            {
+                "palabra": "Bocina",
+                "definición": "Instrumento que emite un sonido fuerte para indicar que el tiempo terminó."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el equipo de baloncesto de Marina?",
+                "tipo": "test",
+                "opciones": [
+                    "Las Águilas",
+                    "Los Delfines",
+                    "Los Tiburones",
+                    "Los Rayos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién anotó la canasta final del partido?",
+                "tipo": "test",
+                "opciones": [
+                    "Marina",
+                    "Lucía",
+                    "Pablo",
+                    "Clara"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué instrumento o grupo musical mencionó el entrenador Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "Un tambor",
+                    "Una banda de rock",
+                    "Una orquesta",
+                    "Un piano"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Marina perdía el balón frecuentemente en la primera parte?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no sabía botar bien",
+                    "Porque las rivales la rodeaban al jugar ella sola",
+                    "Porque el balón estaba resbaladizo",
+                    "Porque estaba cansada de correr"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la forma de jugar de Marina tras hablar con el entrenador?",
+                "tipo": "test",
+                "opciones": [
+                    "Corrió mucho más rápido",
+                    "Decidió no volver a tirar a canasta",
+                    "Empezó a observar a sus compañeros y a pasar el balón",
+                    "Se puso a defender en lugar de atacar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el entrenador comparó al equipo con una orquesta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería que cantaran antes de jugar",
+                    "Porque en ambos casos el éxito depende del trabajo conjunto",
+                    "Porque el pabellón tenía mucha acústica",
+                    "Porque Marina tocaba el violín"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sentían probablemente los compañeros de Marina en el primer tiempo?",
+                "tipo": "test",
+                "opciones": [
+                    "Muy felices de no tener que correr",
+                    "Ignorados y poco importantes para el juego",
+                    "Divertidos por ver a Marina jugar sola",
+                    "Enfadados con el entrenador Lucas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad demostró Marina al dar el último pase a Pablo?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedo a fallar el tiro",
+                    "Generosidad y confianza en su equipo",
+                    "Pereza por no querer saltar",
+                    "Poca puntería"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el marcador estaba 'muy apretado'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el panel era pequeño",
+                    "Que la puntuación entre ambos equipos era casi igual",
+                    "Que el marcador se había roto",
+                    "Que no quedaba espacio en la pista"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de este relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Que ganar es lo único que importa",
+                    "Que la capitana siempre debe meter los goles",
+                    "Que la colaboración hace al equipo más fuerte",
+                    "Que el baloncesto se juega mejor los sábados"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Hugo y la Victoria del Corazón",
+        "tema": "deportes",
+        "texto": "Hugo participaba ilusionado en la carrera de relevos de su escuela. Era un evento muy especial porque se celebraba el día del deporte escolar anual. Su equipo estaba formado por sus tres mejores amigos: Ana, Luis y Sara. Hugo era el encargado de realizar el último tramo de la carrera, lo que significaba que debía recibir el testigo y correr con todas sus fuerzas hasta cruzar la cinta blanca de la meta. Durante semanas, los cuatro habían entrenado cada tarde en la pista de ceniza, practicando cómo pasarse el cilindro de madera roja sin que se cayera al suelo. Llegó el momento de la gran competición esperada. Ana salió como un cohete, ganando una ventaja considerable sobre los otros equipos. Luego, Luis mantuvo el ritmo con elegancia y le entregó el testigo a Sara con un movimiento fluido y seguro. Sara corrió como el viento y, finalmente, se acercó a la zona donde esperaba Hugo. ¡Vamos, Hugo!, gritó ella mientras le entregaba el objeto de madera. Hugo arrancó con una potencia increíble. Sentía el aire fresco en su cara y escuchaba los gritos de ánimo de sus compañeros de clase. Iba en primera posición, pero de repente, sintió que el corredor del equipo rival estaba muy cerca. En un momento de máxima tensión, Hugo vio que el otro chico tropezaba levemente y perdía el equilibrio peligrosamente. En lugar de acelerar para asegurar su medalla de oro, Hugo frenó instintivamente y extendió su brazo para ayudar al compañero a no caerse del todo. Gracias a ese gesto generoso, el otro corredor recuperó el equilibrio. Ambos terminaron la carrera casi al mismo tiempo, pero el rival cruzó la meta un milímetro antes que Hugo. Sus amigos corrieron hacia él. Algunos pensaban que Hugo había cometido un error, pero el director se acercó con una sonrisa. 'Hugo, no has ganado la carrera de velocidad, pero has ganado el trofeo al mejor espíritu deportivo'. Hugo sonrió feliz. Comprendió que ser un campeón no solo trata de llegar primero, sino de ser bueno.",
+        "glosario": [
+            {
+                "palabra": "Relevos",
+                "definición": "Carrera por equipos donde los corredores se turnan para completar el recorrido."
+            },
+            {
+                "palabra": "Testigo",
+                "definición": "Objeto cilíndrico que los corredores se pasan de mano en mano."
+            },
+            {
+                "palabra": "Tramo",
+                "definición": "Parte o distancia de un camino o de una carrera."
+            },
+            {
+                "palabra": "Ceniza",
+                "definición": "Material grisáceo que cubre algunas pistas de atletismo antiguas."
+            },
+            {
+                "palabra": "Cilindro",
+                "definición": "Cuerpo geométrico alargado y redondo, como el palo del testigo."
+            },
+            {
+                "palabra": "Fluido",
+                "definición": "Movimiento que se hace con facilidad, suavidad y sin interrupciones."
+            },
+            {
+                "palabra": "Ventaja",
+                "definición": "Superioridad o margen que se lleva sobre un rival en una competición."
+            },
+            {
+                "palabra": "Potencia",
+                "definición": "Fuerza y velocidad aplicadas en un movimiento o acción."
+            },
+            {
+                "palabra": "Instintivamente",
+                "definición": "Hacer algo de forma automática, sin pararse a pensarlo."
+            },
+            {
+                "palabra": "Espíritu deportivo",
+                "definición": "Valor de jugar limpio, respetar al rival y ayudar a los demás."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De qué color era el testigo de madera que usaba el equipo?",
+                "tipo": "test",
+                "opciones": [
+                    "Azul",
+                    "Rojo",
+                    "Verde",
+                    "Amarillo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién fue la primera corredora del equipo de Hugo?",
+                "tipo": "test",
+                "opciones": [
+                    "Sara",
+                    "Luis",
+                    "Ana",
+                    "Hugo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué trofeo recibió Hugo al finalizar la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Medalla de oro",
+                    "Copa de velocidad",
+                    "Trofeo al espíritu deportivo",
+                    "Placa al más rápido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué era fundamental practicar el paso del testigo durante semanas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el testigo pesaba mucho",
+                    "Para evitar que cayera y perder tiempo en la carrera",
+                    "Porque era una regla del director",
+                    "Para que el testigo no se rompiera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad de Hugo destaca cuando decide ayudar al corredor rival?",
+                "tipo": "test",
+                "opciones": [
+                    "Distracción",
+                    "Solidaridad",
+                    "Rapidez",
+                    "Cansancio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el rival de Hugo terminó ganando la carrera por un milímetro?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque Hugo se cansó de repente",
+                    "Porque Hugo frenó para evitar que el otro niño cayera",
+                    "Porque Hugo se perdió en la pista",
+                    "Porque el otro niño hizo trampa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la opinión de los amigos de Hugo al final del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Se enfadaron con él para siempre",
+                    "Comprendieron que su gesto fue más valioso que ganar",
+                    "Decidieron no volver a correr",
+                    "Le pidieron que devolviera el trofeo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña la reacción del director de la escuela?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no le importa quién gane",
+                    "Que los valores son tan importantes como los resultados",
+                    "Que el director no vio la carrera",
+                    "Que prefiere el segundo puesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa 'ser un campeón' según esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Llegar siempre el primero a la meta",
+                    "Tener las zapatillas más rápidas",
+                    "Actuar con bondad y respeto durante la competición",
+                    "No cansarse nunca al correr"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se sintió Hugo al recibir su trofeo especial?",
+                "tipo": "test",
+                "opciones": [
+                    "Triste por no tener el oro",
+                    "Avergonzado ante sus amigos",
+                    "Feliz y satisfecho con su decisión",
+                    "Confundido por el premio"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "La Magia del Pase Perfecto",
+        "tema": "deportes",
+        "texto": "En la pequeña ciudad de Villaverde, el equipo de fútbol local se preparaba con mucha ilusión para el partido más importante de todo el año. Lucas era el capitán, un niño con una habilidad realmente asombrosa para el regate rápido. Sin embargo, Lucas tenía una costumbre que desesperaba a su entrenador, el paciente señor Martín: nunca pasaba el balón a sus compañeros. Prefería intentar jugadas individuales que, aunque espectaculares, a menudo terminaban en una triste pérdida de posesión. El sábado amaneció soleado y el césped del campo estaba impecable. Los rivales, el equipo de Los Halcones, eran famosos por su gran coordinación colectiva. Al empezar el juego, Lucas recibió la pelota y corrió hacia la portería contraria, ignorando los gritos de su amiga Sofía, que estaba completamente sola cerca del área rival. Lucas perdió el balón y Los Halcones marcaron el primer gol tras un contraataque perfecto y veloz. En el descanso, el señor Martín no se enfadó. Se sentó con Lucas y le entregó una pequeña brújula de metal brillante. 'Mira esto, Lucas', dijo con mucha calma. 'La brújula no marca el norte si sus piezas no están conectadas. Tu talento es el imán, pero el equipo unido es la estructura'. Lucas miró a sus compañeros, que parecían desanimados y cansados. Comprendió que su egoísmo estaba dañando el sueño compartido de todos. En la segunda mitad, el juego cambió por completo. Lucas recibió el cuero en el centro del campo y, en lugar de agachar la cabeza para correr solo, levantó la vista. Vio a Pablo desmarcado y le envió un pase milimétrico que dejó a la defensa sorprendida. Pablo anotó con facilidad. Minutos después, fue Lucas quien recibió una asistencia de Sofía para marcar el tanto definitivo. Al sonar el silbato final, la alegría fue inmensa. No ganaron porque Lucas fuera el mejor, sino porque aprendieron que el fútbol es un lenguaje que siempre se debe hablar en plural. Aquella tarde, Lucas guardó la brújula en su mochila, sabiendo que ahora siempre encontraría el camino correcto hacia la victoria y la amistad deportiva.",
+        "glosario": [
+            {
+                "palabra": "Regate",
+                "definición": "Movimiento rápido con los pies para esquivar a un rival sin perder el balón."
+            },
+            {
+                "palabra": "Posesión",
+                "definición": "Tiempo o situación en la que un equipo tiene el control del balón."
+            },
+            {
+                "palabra": "Coordinación",
+                "definición": "Capacidad de varios jugadores para realizar movimientos conjuntos de forma ordenada."
+            },
+            {
+                "palabra": "Contraataque",
+                "definición": "Ataque rápido que se hace aprovechando que el rival ha perdido el balón."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento con una aguja imantada que sirve para orientarse y encontrar el norte."
+            },
+            {
+                "palabra": "Estructura",
+                "definición": "Forma en la que están organizadas las partes de un grupo para que funcione bien."
+            },
+            {
+                "palabra": "Egoísmo",
+                "definición": "Actitud de quien solo piensa en su propio interés sin importar los demás."
+            },
+            {
+                "palabra": "Milimétrico",
+                "definición": "Que es extremadamente preciso y exacto, como si se midiera por milímetros."
+            },
+            {
+                "palabra": "Asistencia",
+                "definición": "Pase final que recibe un jugador justo antes de marcar un gol."
+            },
+            {
+                "palabra": "Plural",
+                "definición": "Valor que se refiere a actuar pensando en el grupo y no solo en uno mismo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el entrenador del equipo de Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "Señor Pablo",
+                    "Señor Martín",
+                    "Señor Halcón",
+                    "Señor Lucas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto le entregó el entrenador a Lucas en el descanso?",
+                "tipo": "test",
+                "opciones": [
+                    "Un balón nuevo",
+                    "Un silbato",
+                    "Una brújula",
+                    "Una medalla"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Contra qué equipo jugaba el equipo de Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "Los Águilas",
+                    "Los Delfines",
+                    "Los Halcones",
+                    "Los Leones"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el equipo de Los Halcones marcó el primer gol?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque Lucas no sabía correr",
+                    "Porque aprovecharon que Lucas perdió el balón por no pasarla",
+                    "Porque el árbitro les ayudó",
+                    "Porque Lucas estaba cansado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa 'el imán' en la metáfora del entrenador?",
+                "tipo": "test",
+                "opciones": [
+                    "El balón de fútbol",
+                    "El talento individual de Lucas",
+                    "La portería contraria",
+                    "El césped del campo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el principal cambio de Lucas en la segunda mitad del partido?",
+                "tipo": "test",
+                "opciones": [
+                    "Corrió más rápido que antes",
+                    "Empezó a observar a sus compañeros y a trabajar con ellos",
+                    "Se cambió de posición con el portero",
+                    "Decidió no volver a tocar el balón"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el fútbol es un lenguaje que se habla en 'plural'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que hablar mucho durante el partido",
+                    "Que el éxito depende de la unión de todos los jugadores",
+                    "Que hay que marcar muchos goles",
+                    "Que el entrenador da las órdenes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sentían los compañeros de Lucas antes de que él cambiara su actitud?",
+                "tipo": "test",
+                "opciones": [
+                    "Muy alegres y divertidos",
+                    "Desanimados y poco valorados",
+                    "Enfadados con el entrenador",
+                    "Deseando que el partido terminara"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué fue importante el pase de Lucas a Pablo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque así Lucas descansó un poco",
+                    "Porque demostró que confiaba en su compañero para marcar",
+                    "Porque Pablo era el capitán del equipo",
+                    "Porque el balón estaba sucio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué lección aprendió Lucas al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que debe entrenar más sus regates",
+                    "Que ganar solo es más divertido",
+                    "Que la colaboración es la clave para la victoria y la amistad",
+                    "Que las brújulas sirven para jugar al fútbol"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Desafío de la Ola Azul",
+        "tema": "deportes",
+        "texto": "Elena siempre había sentido una mezcla de respeto y miedo hacia el agua profunda de la inmensa piscina olímpica municipal. Aunque era una nadadora excelente en el estilo crol, el momento de saltar desde el bloque de salida le provocaba un fuerte nudo en el estómago. Ese viernes se celebraba el campeonato interescolar de natación y Elena debía participar en la difícil prueba de relevos cuatro por cincuenta metros. Sus tres compañeras de equipo, Alba, Martina y Julia, confiaban plenamente en ella para cerrar la carrera con éxito. El ambiente en el polideportivo era ruidoso, con olor a cloro y gritos de ánimo constantes. Cuando llegó el turno de su equipo, Elena sintió que sus piernas temblaban como gelatina fría. Alba salió primera con una potencia increíble, seguida de Martina, que mantuvo la ventaja con brazadas rítmicas y fuertes. Julia saltó al agua y nadó como si tuviera alas en los pies. Mientras tanto, Elena se colocaba en el borde, mirando fijamente la superficie azul. Recordó las palabras sabias de su abuelo, quien siempre decía que la valentía no es la ausencia de miedo, sino la capacidad de seguir adelante a pesar de él. Cuando Julia tocó la pared, Elena inhaló profundamente y se lanzó al vacío. El impacto con el agua fría borró todas sus dudas. Nadó con una determinación que nunca antes había sentido, sintiendo cómo sus músculos trabajaban en perfecta armonía con el agua. Al llegar a la meta y tocar el panel electrónico, levantó la cabeza y vio a sus amigas saltando de alegría. Habían conseguido la medalla de plata, pero para Elena el premio era mucho mayor. Había vencido su propio temor al salto inicial. Esa noche, mientras descansaba en casa, comprendió que el deporte no se trata solo de medallas o trofeos brillantes, sino de superar los límites que nuestra propia mente nos impone. La piscina ya no parecía un lugar temible, sino un espacio lleno de retos que ella estaba totalmente preparada para afrontar con coraje.",
+        "glosario": [
+            {
+                "palabra": "Crol",
+                "definición": "Estilo de natación más rápido donde se alternan los brazos y se bate de pies."
+            },
+            {
+                "palabra": "Bloque",
+                "definición": "Plataforma elevada desde la cual los nadadores se lanzan al agua para empezar."
+            },
+            {
+                "palabra": "Relevos",
+                "definición": "Competición por equipos donde los integrantes se turnan para completar el recorrido."
+            },
+            {
+                "palabra": "Polideportivo",
+                "definición": "Recinto o edificio diseñado para practicar diversos tipos de deportes."
+            },
+            {
+                "palabra": "Potencia",
+                "definición": "Capacidad para aplicar mucha fuerza y velocidad en un movimiento deportivo."
+            },
+            {
+                "palabra": "Rítmicas",
+                "definición": "Acciones que siguen un orden o compás regular y constante."
+            },
+            {
+                "palabra": "Valentía",
+                "definición": "Valor para enfrentar situaciones difíciles o miedos personales."
+            },
+            {
+                "palabra": "Determinación",
+                "definición": "Firmeza y seguridad al tomar una decisión para lograr un objetivo."
+            },
+            {
+                "palabra": "Armonía",
+                "definición": "Equilibrio y combinación perfecta entre los movimientos del cuerpo y el entorno."
+            },
+            {
+                "palabra": "Coraje",
+                "definición": "Fuerza de voluntad que permite realizar acciones valiosas a pesar de las dificultades."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué estilo de natación domina Elena según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Espalda",
+                    "Braza",
+                    "Mariposa",
+                    "Crol"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Qué medalla ganó el equipo de Elena en la competición?",
+                "tipo": "test",
+                "opciones": [
+                    "Oro",
+                    "Plata",
+                    "Bronce",
+                    "No ganaron ninguna"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién le dio a Elena el consejo sobre la valentía?",
+                "tipo": "test",
+                "opciones": [
+                    "Su entrenador",
+                    "Su madre",
+                    "Su abuelo",
+                    "Su amiga Julia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Elena sentía 'un nudo en el estómago'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía mucha hambre",
+                    "Porque estaba nerviosa y tenía miedo al salto inicial",
+                    "Porque el agua estaba demasiado fría",
+                    "Porque no quería nadar con sus amigas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la responsabilidad de Elena en la prueba de relevos?",
+                "tipo": "test",
+                "opciones": [
+                    "Ser la primera en saltar",
+                    "Contar los segundos de sus amigas",
+                    "Cerrar la carrera siendo la última nadadora",
+                    "Limpiar los bloques de salida"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué efecto tuvo el impacto del agua fría sobre Elena?",
+                "tipo": "test",
+                "opciones": [
+                    "Hizo que quisiera salirse de la piscina",
+                    "Hizo que olvidara sus miedos y se concentrara en nadar",
+                    "Le provocó un resfriado inmediato",
+                    "Hizo que nadara más despacio que Julia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'las piernas temblaban como gelatina fría'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que Elena tenía mucha fuerza",
+                    "Que Elena estaba muy cansada",
+                    "Que Elena sentía una inseguridad física causada por los nervios",
+                    "Que Elena tenía mucho frío en las piernas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el premio para Elena fue 'mayor' que la medalla de plata?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la plata vale más que el oro",
+                    "Porque logró vencer su propio miedo interno",
+                    "Porque sus amigas le dieron un regalo extra",
+                    "Porque el trofeo era muy grande"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la visión de Elena sobre la piscina al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Decidió no volver a nadar nunca más",
+                    "Empezó a verla como un lugar lleno de retos superables",
+                    "Le pidió a su abuelo que la acompañara siempre",
+                    "Se dio cuenta de que el cloro era malo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de este relato sobre el deporte?",
+                "tipo": "test",
+                "opciones": [
+                    "Que solo los que no tienen miedo pueden competir",
+                    "Que lo más importante es ganar medallas de oro",
+                    "Que el deporte nos ayuda a superar nuestros propios límites mentales",
+                    "Que hay que nadar rápido para ser famoso"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Relevo Perdido",
+        "tema": "deportes",
+        "texto": "El sol brillaba con fuerza sobre la pista de atletismo roja de la escuela San Isidro. Era el gran día de la carrera de relevos, y el equipo de cuarto curso, formado por Dani, Marta, Sergio y Sofía, estaba más nervioso que nunca. Llevaban semanas practicando el intercambio del testigo, ese cilindro de madera que representaba su unión. Dani, el más veloz, sería el encargado de empezar. Marta ocuparía el segundo tramo, Sergio el tercero y Sofía, con sus piernas largas, cruzaría la meta. La bocina sonó y el estadio estalló en gritos. Dani salió como una flecha, ganando una ventaja considerable. Al llegar a la zona de transferencia, entregó el testigo a Marta sin problemas. Todo parecía ir perfecto hasta que Marta tropezó levemente con un cordón desatado. El testigo voló por los aires y cayó fuera de la pista. El silencio se apoderó de sus compañeros. Marta, con lágrimas en los ojos, se detuvo para recogerlo, perdiendo mucho tiempo. Cuando se lo entregó a Sergio, el equipo iba en última posición. Sergio no se rindió; corrió con el corazón, recuperando dos puestos. Finalmente, le pasó el cilindro a Sofía. Ella vio a la corredora de sexto curso muy lejos, casi en la meta. Sofía recordó lo que su profesor de educación física siempre decía: \"El deporte no termina hasta que cruzas la línea\". Apretó los dientes y aumentó su zancada rítmicamente. En los últimos diez metros, rozó el hombro de la rival y estiró el brazo. ¡Ganaron por apenas un centímetro! Sin embargo, lo más importante no fue la medalla de oro. Al terminar, los cuatro amigos se abrazaron en círculo. Marta pidió perdón por el tropiezo, pero Dani le puso la mano en el hombro y dijo: \"No ganaste tú ni perdí yo; ganamos porque no dejamos de correr juntos\". Esa tarde aprendieron que el esfuerzo compartido tiene un sabor mucho más dulce que cualquier premio individual. La perseverancia y la verdadera amistad fueron los auténticos campeones en la pista escolar. Ellos siempre recordarían aquel día con una sonrisa enorme, sabiendo que unidos son capaces de todo.",
+        "glosario": [
+            {
+                "palabra": "Testigo",
+                "definición": "Barra o cilindro de madera que los corredores se pasan unos a otros en las carreras de relevos."
+            },
+            {
+                "palabra": "Tramo",
+                "definición": "Cada una de las partes en las que se divide un camino o una carrera."
+            },
+            {
+                "palabra": "Bocina",
+                "definición": "Instrumento que emite un sonido fuerte para indicar el inicio o fin de una actividad."
+            },
+            {
+                "palabra": "Ventaja",
+                "definición": "Superioridad o margen que se tiene sobre alguien en una competición."
+            },
+            {
+                "palabra": "Transferencia",
+                "definición": "Acción de pasar algo de una persona a otra, como el testigo en la carrera."
+            },
+            {
+                "palabra": "Zancada",
+                "definición": "Paso largo que se da al andar o correr rápidamente."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Valor de seguir intentando algo con constancia hasta lograrlo, a pesar de las dificultades."
+            },
+            {
+                "palabra": "Compartido",
+                "definición": "Algo que se realiza entre varias personas de forma conjunta."
+            },
+            {
+                "palabra": "Rítmicamente",
+                "definición": "Hacer algo siguiendo un orden o compás repetido y constante."
+            },
+            {
+                "palabra": "Individual",
+                "definición": "Que pertenece a una sola persona o se hace por cuenta propia."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto representa la unión del equipo en la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Una medalla",
+                    "Un testigo de madera",
+                    "Una zapatilla",
+                    "Una bocina"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién era la persona encargada de correr el último tramo y cruzar la meta?",
+                "tipo": "test",
+                "opciones": [
+                    "Dani",
+                    "Sergio",
+                    "Marta",
+                    "Sofía"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Cómo se llama la escuela donde se celebra la competición?",
+                "tipo": "test",
+                "opciones": [
+                    "San Pedro",
+                    "San Isidro",
+                    "Cuarto Curso",
+                    "La Pista Roja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se dice que el silencio se apoderó de los compañeros cuando cayó el testigo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaban aburridos",
+                    "Porque estaban preocupados por la posible derrota",
+                    "Porque el estadio se quedó sin electricidad",
+                    "Porque se quedaron dormidos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que Sergio 'corrió con el corazón'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que le dolía el pecho",
+                    "Que corrió con mucho sentimiento y máximo esfuerzo",
+                    "Que llevaba un dibujo de un corazón",
+                    "Que corría muy despacio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué provocó que Marta perdiera el testigo durante la carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "Un empujón de la rival",
+                    "Un cordón de su zapatilla desatado",
+                    "Que el testigo pesaba mucho",
+                    "Que se le olvidó recogerlo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal que Dani le transmite a Marta al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Que ganar es lo más importante",
+                    "Que los errores individuales no importan si el equipo permanece unido",
+                    "Que debe atarse mejor los zapatos",
+                    "Que Sergio fue el mejor del grupo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la posición del equipo después de que Sergio corriera su tramo?",
+                "tipo": "test",
+                "opciones": [
+                    "Pasaron de últimos a ganar dos puestos",
+                    "Siguieron siendo los últimos",
+                    "Se detuvieron por completo",
+                    "Llegaron los primeros"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué cualidad demostró Sofía al ver a la rival de sexto curso tan lejos?",
+                "tipo": "test",
+                "opciones": [
+                    "Pereza",
+                    "Determinación para no rendirse",
+                    "Miedo al fracaso",
+                    "Envidia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué frase resume mejor la moraleja de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "La velocidad lo es todo",
+                    "La unión y el esfuerzo compartido valen más que el triunfo individual",
+                    "Nunca corras con cordones desatados",
+                    "Las medallas de oro son lo único valioso"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Raqueta de Cristal de Marina",
+        "tema": "deportes",
+        "texto": "Marina se ajustó la visera blanca y apretó la empuñadura de su raqueta favorita antes de entrar a la pista central. Iba a disputar la final del torneo de tenis municipal contra Hugo, un jugador conocido por sus potentes saques y su gran tenacidad. El público guardaba un respetuoso silencio mientras los jugadores realizaban el peloteo de calentamiento. Marina se sentía pequeña bajo el intenso sol, pero su mente estaba totalmente concentrada en la estrategia que había diseñado con su entrenadora. El partido comenzó de forma muy intensa. Hugo ganaba puntos gracias a su fuerza, mientras que Marina utilizaba su técnica para moverlo de un lado a otro. De repente, Marina falló un revés sencillo y sintió cómo una oleada de frustración recorría su cuerpo. Estuvo a punto de lanzar la raqueta al suelo, pero respiró hondo y recordó que el pundonor es la base de todo buen deportista. El marcador estaba muy apretado cuando llegaron al último juego. Marina sacaba para ganar. Lanzó la pelota al aire, saltó con elegancia y realizó un saque directo que dejó a Hugo sin reacción. Sin embargo, el árbitro dudó un segundo antes de cantar el punto. Marina sabía que la pelota había tocado la línea por fuera, aunque nadie más lo había notado. En ese instante de máxima tensión, Marina levantó la mano y le dijo al juez que el saque era malo. Hugo la miró con absoluta admiración. El partido continuó y, aunque finalmente Hugo ganó el trofeo de cristal, todo el estadio se puso en pie para aplaudir el gesto técnico y humano de Marina. Al finalizar, el director del torneo se acercó a ella y le entregó una medalla especial por su honestidad. Marina comprendió que la rivalidad termina cuando termina el juego, pero los valores deportivos permanecen para siempre. Ese día, Marina no se llevó el trofeo a casa, pero se llevó algo mucho más valioso: el respeto de todos y la paz de haber sido justa consigo misma. Ella sonrió a Hugo porque sabía que ser buen deportista es más importante que cualquier victoria dentro del campo.",
+        "glosario": [
+            {
+                "palabra": "Empuñadura",
+                "definición": "Parte de la raqueta por donde se sujeta con la mano."
+            },
+            {
+                "palabra": "Tenacidad",
+                "definición": "Fuerza que impulsa a continuar con empeño y sin desistir de un propósito."
+            },
+            {
+                "palabra": "Peloteo",
+                "definición": "Acción de golpear la pelota entre jugadores para calentar antes de empezar."
+            },
+            {
+                "palabra": "Estrategia",
+                "definición": "Plan preparado para intentar ganar o lograr un objetivo."
+            },
+            {
+                "palabra": "Revés",
+                "definición": "Golpe de tenis que se da con el dorso de la mano hacia delante."
+            },
+            {
+                "palabra": "Frustración",
+                "definición": "Sentimiento de tristeza o enfado que surge cuando algo no sale como esperábamos."
+            },
+            {
+                "palabra": "Pundonor",
+                "definición": "Sentimiento de dignidad y orgullo que lleva a alguien a esforzarse al máximo."
+            },
+            {
+                "palabra": "Árbitro",
+                "definición": "Persona encargada de hacer cumplir las reglas durante un juego o partido."
+            },
+            {
+                "palabra": "Honestidad",
+                "definición": "Valor de actuar con sinceridad y justicia, diciendo siempre la verdad."
+            },
+            {
+                "palabra": "Rivalidad",
+                "definición": "Competencia entre dos personas que aspiran a un mismo objetivo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué accesorio de color blanco se ajustó Marina antes de empezar?",
+                "tipo": "test",
+                "opciones": [
+                    "Una muñequera",
+                    "Una visera",
+                    "Unos calcetines",
+                    "Una cinta de pelo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llama el oponente de Marina en la final?",
+                "tipo": "test",
+                "opciones": [
+                    "Sergio",
+                    "Dani",
+                    "Hugo",
+                    "Director"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué premio recibió Marina al finalizar el torneo?",
+                "tipo": "test",
+                "opciones": [
+                    "El trofeo de cristal",
+                    "Una raqueta nueva",
+                    "Una medalla especial por su honestidad",
+                    "Una visera de oro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Marina estuvo a punto de lanzar su raqueta al suelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la raqueta estaba rota",
+                    "Debido a la frustración por fallar un golpe sencillo",
+                    "Porque quería asustar a Hugo",
+                    "Porque el sol le molestaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra Marina al decirle al juez que su propio saque fue malo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no quería ganar",
+                    "Que es una persona íntegra y honesta",
+                    "Que estaba muy cansada",
+                    "Que no sabía las reglas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el estadio se puso en pie para aplaudir a Marina si ella perdió?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque jugaba muy mal",
+                    "Porque reconocieron su gran nobleza y juego limpio",
+                    "Porque el partido fue muy corto",
+                    "Porque querían irse a casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que Marina 'utilizaba su técnica para mover a Hugo'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que lo empujaba con las manos",
+                    "Que colocaba la pelota con inteligencia para cansar al rival",
+                    "Que le pedía que se moviera",
+                    "Que usaba un control remoto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué lección aprendió Marina sobre la rivalidad?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que ser enemigos para siempre",
+                    "Que termina cuando acaba el juego y lo importante son los valores",
+                    "Que Hugo es mejor que ella",
+                    "Que nunca debe jugar contra niños"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la ventaja principal de Hugo sobre Marina al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Su raqueta de cristal",
+                    "Sus potentes saques y fuerza",
+                    "Que conocía al árbitro",
+                    "Que jugaba en su casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Según el texto, ¿qué es 'más importante que cualquier victoria'?",
+                "tipo": "test",
+                "opciones": [
+                    "Ganar trofeos de cristal",
+                    "Ser un buen deportista y actuar con justicia",
+                    "Tener una buena entrenadora",
+                    "No fallar nunca un revés"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    }
+]

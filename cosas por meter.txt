@@ -1,0 +1,6 @@
+- como crear ahora los perfiles de los profesores?
+- poner a los profesores monedas infinitas
+- que los profesores puedan regalar monedas a los alumnos
+- se podría desactivar los poderes en determinados momentos? cuando un profe quiere que la lectura le valga para examen....
+- que el profe pueda ver una lista con sus alumnos y sus contraseñas
+- que el profe pueda eliminar alumnos desde su panel de control

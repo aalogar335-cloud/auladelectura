@@ -1,0 +1,1472 @@
+[
+    {
+        "titulo": "El Enigma del Faro de los Susurros",
+        "tema": "aventuras",
+        "texto": "La tormenta golpeaba los cristales de la vieja biblioteca municipal con una furia que asustaba a cualquiera, pero a Lucas y a Irene les daba igual. Llevaban semanas obsesionados con una leyenda local que los ancianos del pueblo contaban en voz baja: el tesoro del Capitán Barbanegra no estaba enterrado en una isla lejana, sino escondido en los cimientos del antiguo faro abandonado, conocido como el Faro de los Susurros. Aquella tarde, mientras el bibliotecario dormitaba, Irene encontró un mapa oculto dentro de un libro de botánica polvoriento. El papel estaba amarillento y quebradizo, y olía a salitre y a tiempo. \n\n—Es esto, Lucas —susurró ella, con los ojos brillando de emoción—. Las marcas coinciden con la costa norte, justo donde las rocas son más peligrosas.\n\nSin pensarlo dos veces, y aprovechando que la lluvia había amainado un poco, se pusieron sus chubasqueros y salieron en bicicleta. El camino hacia el faro era una senda de tierra llena de baches que el barro había convertido en una pista de patinaje. Tuvieron que dejar las bicis a medio camino y seguir a pie, luchando contra el viento que parecía querer empujarlos de vuelta al pueblo. Al llegar al acantilado, el faro se alzaba imponente y gris, como un gigante dormido. La puerta de entrada estaba oxidada, pero Lucas, que era muy mañoso, sacó una pequeña herramienta multiusos y logró hacer girar el mecanismo. \n\nDentro, el aire estaba viciado y frío. Encendieron sus linternas. El haz de luz reveló una escalera de caracol que subía hacia la linterna del faro, pero el mapa indicaba que debían bajar. Buscaron una trampilla en el suelo de madera. Tras mover unas viejas cajas de redes de pesca, encontraron una argolla de hierro. Tiraron con todas sus fuerzas hasta que, con un chirrido metálico, la trampilla cedió. Una escalera de piedra descendía hacia la oscuridad. \n\nBajaron con cautela. Las paredes rezumaban humedad. Al llegar al fondo, no encontraron cofres llenos de monedas de oro ni joyas. En su lugar, había una pequeña sala circular con estanterías repletas de objetos extraños: astrolabios, brújulas antiguas, cuadernos de bitácora y extrañas piedras brillantes. En el centro, sobre una mesa, había una carta. Irene la leyó en voz alta. Era del último farero, quien explicaba que el verdadero tesoro era el conocimiento que había recopilado de todos los viajeros que habían naufragado en esas costas: historias, mapas de tierras desconocidas y secretos de navegación. \n\nDe repente, un ruido fuerte resonó arriba. La puerta del faro se había cerrado de golpe por el viento. El pánico intentó apoderarse de Lucas, pero Irene le señaló otra salida en el mapa: un túnel de drenaje que daba a la playa baja, accesible solo cuando bajaba la marea. Tuvieron que arrastrarse por el túnel, manchándose de lodo y raspándose las rodillas, pero trabajaron en equipo, ayudándose mutuamente cuando uno se quedaba atascado. Al salir al aire libre, respiraron el aire salado con alivio. No llevaban oro en los bolsillos, pero sí el diario del farero. Mientras volvían a casa, empapados y sucios, se dieron cuenta de que aquella aventura valía más que cualquier moneda. Habían descubierto la historia olvidada de su pueblo y, lo más importante, habían superado sus miedos juntos.",
+        "glosario": [
+            {
+                "palabra": "Amainado",
+                "definición": "Cuando una tormenta o la lluvia ha perdido fuerza o intensidad."
+            },
+            {
+                "palabra": "Acantilado",
+                "definición": "Una pared de roca muy alta y vertical que suele estar junto al mar."
+            },
+            {
+                "palabra": "Mañoso",
+                "definición": "Persona que tiene habilidad para arreglar cosas o hacer trabajos manuales."
+            },
+            {
+                "palabra": "Viciado",
+                "definición": "Se dice del aire cuando está encerrado, huele mal y es difícil de respirar."
+            },
+            {
+                "palabra": "Astrolabio",
+                "definición": "Instrumento antiguo que usaban los navegantes para saber dónde estaban mirando las estrellas."
+            },
+            {
+                "palabra": "Bitácora",
+                "definición": "Cuaderno o libro donde los marineros apuntan todo lo que pasa durante un viaje."
+            },
+            {
+                "palabra": "Recopilado",
+                "definición": "Juntado o reunido varias cosas, como información o datos, en un mismo lugar."
+            },
+            {
+                "palabra": "Naufragado",
+                "definición": "Sufrir un accidente en un barco que hace que se hunda o se pierda en el mar."
+            },
+            {
+                "palabra": "Drenaje",
+                "definición": "Sistema, como un tubo o túnel, que sirve para dar salida al agua acumulada."
+            },
+            {
+                "palabra": "Salitre",
+                "definición": "Sustancia salada que se queda en las paredes o superficies que están cerca del mar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde encontraron Irene y Lucas el mapa del tesoro?",
+                "tipo": "test",
+                "opciones": [
+                    "En el sótano del faro",
+                    "En un libro de botánica de la biblioteca",
+                    "Debajo de la cama de Lucas",
+                    "En una cueva de la playa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué herramienta usó Lucas para abrir la puerta del faro?",
+                "tipo": "test",
+                "opciones": [
+                    "Una llave antigua oxidada",
+                    "Una piedra grande",
+                    "Una herramienta multiusos",
+                    "Una palanca de hierro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué encontraron realmente en la sala secreta del sótano?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de oro y joyas",
+                    "Un esqueleto de pirata",
+                    "Instrumentos de navegación y un diario",
+                    "Nada, estaba vacía"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué decidieron ir al faro justo en ese momento a pesar del mal tiempo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque sus padres no estaban en casa",
+                    "Porque la lluvia había amainado un poco",
+                    "Porque era de noche y nadie los vería",
+                    "Porque el faro solo se abría con lluvia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede deducir que la leyenda del Capitán Barbanegra...",
+                "tipo": "test",
+                "opciones": [
+                    "Era totalmente cierta y encontraron su tesoro",
+                    "Era una historia inventada para ocultar el verdadero secreto del farero",
+                    "Fue escrita por Irene para engañar a Lucas",
+                    "Sucedió en otro pueblo distinto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sintieron los protagonistas al salir del túnel de drenaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Decepcionados por no encontrar oro",
+                    "Asustados porque seguía la tormenta",
+                    "Aliviados y satisfechos con su aventura",
+                    "Enfadados el uno con el otro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nos indica el hecho de que el farero guardara historias y mapas en lugar de dinero?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era muy pobre y no tenía dinero",
+                    "Que valoraba el conocimiento más que la riqueza material",
+                    "Que era un pirata que perdió su botín",
+                    "Que no le gustaban las monedas de oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué fue importante el trabajo en equipo en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Para poder llevar todas las monedas de oro",
+                    "Porque uno leía el mapa y el otro pedaleaba",
+                    "Para ayudarse a salir del túnel estrecho y sucio",
+                    "Para convencer al bibliotecario"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que mereció la pena el riesgo que corrieron Lucas e Irene por encontrar unos libros viejos? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí mereció la pena, aunque fue un poco peligroso. A veces las aventuras no son para hacerse rico, sino para descubrir cosas nuevas y vivir una experiencia emocionante con tus amigos. Además, salvaron la historia del pueblo."
+            },
+            {
+                "enunciado": "Si tú fueras Irene, ¿le contarías a todo el pueblo el secreto del faro o te lo guardarías? Explica tu decisión.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que se lo contaría a la gente del pueblo, o al menos a la biblioteca, porque el conocimiento y la historia deben ser para todos y no para que se queden escondidos en un sótano cogiendo polvo."
+            }
+        ]
+    },
+    {
+        "titulo": "La Travesía del Valle de los Espejos",
+        "tema": "aventuras",
+        "texto": "Hacía años que nadie se atrevía a cruzar el Valle de los Espejos. Se decía que quien entraba allí no regresaba, o si lo hacía, volvía cambiado para siempre. Sin embargo, Martín no tenía otra opción. Su abuelo había enfermado gravemente y la única cura era la flor de luna, una planta rarísima que solo crecía en el corazón de aquel valle prohibido. Martín preparó su mochila con provisiones, una cuerda resistente y un mapa que su abuelo había dibujado de memoria hacía mucho tiempo. \n\nAl amanecer, se adentró en el valle. Lo primero que notó fue el silencio. No cantaban los pájaros ni soplaba el viento. A medida que avanzaba, las rocas empezaron a cambiar. Ya no eran de piedra gris y rugosa, sino superficies lisas y brillantes como el cristal. Pronto, todo a su alrededor reflejaba su propia imagen: el suelo, las paredes de las montañas, incluso las hojas de los árboles parecían hechas de plata pulida. Era desorientador. Martín veía mil versiones de sí mismo caminando en todas direcciones. \n\nDe repente, el camino se dividió en tres. El mapa del abuelo era confuso en esa parte debido a una mancha de tinta. Martín miró a su alrededor. En el camino de la izquierda, sus reflejos parecían cansados y tristes. En el de la derecha, sus reflejos se veían enfadados. Pero en el camino del centro, su reflejo caminaba erguido y con determinación. Recordó lo que su abuelo siempre le decía: «Tu actitud es tu mejor brújula». Decidió seguir al reflejo decidido por el centro. \n\nHoras más tarde, llegó a un río. El agua no era transparente, sino plateada y espesa. No había puente. Martín tuvo que usar su ingenio. Vio unas grandes rocas flotantes que también eran espejos. Saltó a la primera, pero resbaló. Estuvo a punto de caer al extraño líquido, pero logró agarrarse al borde. Con el corazón a mil por hora, se dio cuenta de que si miraba a sus pies se mareaba con los reflejos, así que fijó la vista al frente, en la orilla opuesta, y saltó con confianza de piedra en piedra hasta cruzar. \n\nFinalmente, llegó al centro del valle. Allí, en un pequeño montículo de tierra normal, crecía la flor de luna, brillando con una luz suave y blanquecina. Al arrancarla con cuidado, el valle pareció suspirar. Un viento suave comenzó a soplar y los reflejos de las rocas se apagaron un poco, volviéndose menos intensos. Martín guardó la flor y emprendió el camino de vuelta. Fue más rápido esta vez, pues ya no dudaba de sus pasos. Al salir del valle y llegar a casa, preparó la infusión para su abuelo. Mientras el anciano bebía y recuperaba el color en las mejillas, Martín se miró en el espejo de su habitación. Ya no veía al niño asustado de la mañana, sino a alguien mucho más valiente que había aprendido a confiar en sí mismo.",
+        "glosario": [
+            {
+                "palabra": "Prohibido",
+                "definición": "Algo que no se permite hacer o un lugar al que no se deja entrar."
+            },
+            {
+                "palabra": "Provisiones",
+                "definición": "Comida, agua y cosas necesarias que se guardan para usarlas durante un viaje."
+            },
+            {
+                "palabra": "Desorientador",
+                "definición": "Algo que te confunde y hace que no sepas dónde estás o hacia dónde ir."
+            },
+            {
+                "palabra": "Erguido",
+                "definición": "Estar derecho, con la espalda recta y la cabeza alta."
+            },
+            {
+                "palabra": "Determinación",
+                "definición": "Tener valor y seguridad para hacer algo sin dudar."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento que sirve para orientarse y saber dónde está el Norte."
+            },
+            {
+                "palabra": "Ingenio",
+                "definición": "Habilidad para inventar cosas o solucionar problemas de forma rápida e inteligente."
+            },
+            {
+                "palabra": "Orilla",
+                "definición": "La parte de tierra que está justo al lado del agua de un río, lago o mar."
+            },
+            {
+                "palabra": "Infusión",
+                "definición": "Bebida que se hace poniendo hierbas o plantas en agua muy caliente, como un té."
+            },
+            {
+                "palabra": "Pulida",
+                "definición": "Superficie que está muy lisa y brillante, tanto que a veces te puedes reflejar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué necesitaba conseguir Martín para curar a su abuelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Agua del río plateado",
+                    "Una piedra espejo",
+                    "La flor de luna",
+                    "Una medicina de la farmacia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué característica especial tenían las rocas y árboles del valle?",
+                "tipo": "test",
+                "opciones": [
+                    "Eran invisibles",
+                    "Reflejaban la imagen como espejos",
+                    "Estaban hechos de fuego",
+                    "Eran de color azul brillante"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué camino eligió Martín cuando el sendero se dividió en tres?",
+                "tipo": "test",
+                "opciones": [
+                    "El de la izquierda",
+                    "El de la derecha",
+                    "El del centro",
+                    "Volvió hacia atrás"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Martín casi se cae al cruzar el río?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque alguien le empujó",
+                    "Porque las piedras flotantes resbalaban",
+                    "Porque el puente estaba roto",
+                    "Porque le pesaba mucho la mochila"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significado tiene la frase del abuelo «Tu actitud es tu mejor brújula»?",
+                "tipo": "test",
+                "opciones": [
+                    "Que siempre hay que llevar una brújula en el bolsillo",
+                    "Que si estás positivo y seguro tomarás buenas decisiones",
+                    "Que los mapas no sirven para nada",
+                    "Que hay que preguntar a los demás por el camino"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los reflejos de Martín eran diferentes en cada camino?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque eran espejos mágicos que mostraban sus emociones o futuros posibles",
+                    "Porque la luz del sol le daba de forma distinta",
+                    "Porque Martín estaba alucinando por el cansancio",
+                    "Porque los espejos estaban sucios"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué cambio se produjo en Martín al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Se hizo más alto físicamente",
+                    "Se volvió rico al vender la flor",
+                    "Maduró y ganó confianza en sí mismo",
+                    "Decidió no volver a salir de casa nunca más"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era el mayor peligro del Valle de los Espejos según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Los animales salvajes que vivían allí",
+                    "El calor insoportable",
+                    "La confusión y la desorientación que causaban los reflejos",
+                    "Los ladrones que esperaban a los viajeros"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué crees que habría pasado si Martín hubiera elegido el camino donde su reflejo se veía triste?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que si hubiera ido por el camino triste, se habría desanimado mucho y quizás se habría rendido antes de llegar a la flor, porque si piensas que vas a fracasar, al final te salen las cosas mal."
+            },
+            {
+                "enunciado": "Martín arriesgó su vida por su abuelo. ¿Qué harías tú por un familiar o amigo que está en problemas y por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo también intentaría ayudar todo lo posible, aunque me diera miedo, porque la familia y los amigos son lo más importante y sé que ellos harían lo mismo por mí si yo lo necesitara."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma de la Ciudad de Bruma",
+        "tema": "aventuras",
+        "texto": "El calor húmedo y pegajoso de la selva amazónica abrazaba a Leo y a Maia como una manta pesada. Llevaban tres días caminando, siguiendo el curso del río Serpiente, guiados únicamente por el diario de cuero desgastado que había pertenecido al abuelo de Maia. Según las notas escritas con tinta azul, más allá de la Catarata del Trueno se encontraba la entrada a la Ciudad de Bruma, un asentamiento antiguo que no aparecía en ningún mapa moderno. No buscaban oro ni joyas; el abuelo, un famoso botánico, había descrito una planta única, la «Orquídea de Cristal», capaz de curar enfermedades raras, y quería que sus nietos la protegieran antes de que las empresas madereras arrasaran la zona.\n\n—¿Falta mucho? —preguntó Leo, apartando una liana del tamaño de una serpiente con su machete—. Mis botas pesan una tonelada por el barro.\n\n—Según el dibujo del abuelo, debemos encontrar una roca con forma de jaguar —respondió Maia, ajustándose las gafas y secándose el sudor de la frente—. Y después, hay que cruzar el puente colgante.\n\nEl sonido de la selva era ensordecedor: chicharras, gritos de monos aulladores y el constante zumbido de insectos invisibles. De repente, el ruido del agua se intensificó. Al apartar unos helechos gigantes, se quedaron boquiabiertos. Frente a ellos rugía la Catarata del Trueno, y justo al lado, una inmensa piedra grisácea recordaba la silueta de un felino agazapado. Lo habían encontrado. Sin embargo, el puente colgante que mencionaba el diario estaba en muy mal estado. Las cuerdas parecían viejas y algunas tablas habían desaparecido, dejando huecos por los que se veía el abismo y el agua espumosa metros más abajo.\n\n—No sé si aguantará nuestro peso —dijo Leo con un hilo de voz, sintiendo un nudo en el estómago.\n\nMaia observó la estructura. Sabía que volver atrás no era una opción. Recordó las enseñanzas de su abuelo sobre nudos y resistencia. Sacó de su mochila una cuerda de escalada que habían traído por precaución. \n\n—Nos aseguraremos —dijo ella con determinación—. Tú pasas primero, yo sujeto la cuerda desde aquí. Si una tabla se rompe, la cuerda te sostendrá.\n\nCon el corazón palpitando en la garganta, Leo avanzó. El puente se mecía con cada paso y la madera crujía como si se quejara. A mitad de camino, una tabla se partió bajo su pie derecho. Leo gritó, quedando suspendido por los brazos y la cuerda de seguridad. Maia tensó los músculos y tiró con fuerza, ayudándole a recuperar el equilibrio. Tras unos minutos que parecieron horas, ambos lograron cruzar al otro lado. \n\nAllí, oculta tras la cortina de agua de la catarata, encontraron la entrada a una cueva iluminada por tragaluces naturales. En el centro, sobre un pedestal de piedra cubierto de musgo, crecía una flor blanca, casi transparente, que emitía una luz suave. Era la Orquídea de Cristal. Pero no estaba sola; alrededor había herramientas de piedra y vasijas. Maia comprendió que alguien cuidaba de ella. En lugar de arrancar la planta, decidieron tomar solo unas pocas semillas y dejar la flor madre intacta. \n\nAl salir de la cueva, vieron huellas frescas en el barro que no eran suyas. Eran de un jaguar real. El guardián de la selva los había estado observando, permitiéndoles el paso porque habían respetado el lugar. Leo y Maia regresaron al campamento base exhaustos pero felices. Habían vivido la mayor aventura de sus vidas y cumplido la misión del abuelo sin perturbar el equilibrio de la naturaleza.",
+        "glosario": [
+            {
+                "palabra": "Botanico",
+                "definición": "Científico que estudia las plantas, cómo crecen y sus propiedades."
+            },
+            {
+                "palabra": "Asentamiento",
+                "definición": "Lugar donde se establece un grupo de personas o una comunidad para vivir."
+            },
+            {
+                "palabra": "Ensordecedor",
+                "definición": "Un ruido tan fuerte que molesta al oído y no deja escuchar otras cosas."
+            },
+            {
+                "palabra": "Agazapado",
+                "definición": "Estar encogido o escondido, generalmente para saltar sobre algo o alguien."
+            },
+            {
+                "palabra": "Abismo",
+                "definición": "Lugar de gran profundidad, como un precipicio, donde no se ve el fondo."
+            },
+            {
+                "palabra": "Palpitando",
+                "definición": "Moverse o latir, especialmente referido al corazón cuando va muy rápido."
+            },
+            {
+                "palabra": "Tragaluz",
+                "definición": "Abertura o ventana en el techo o parte alta de una pared para dejar entrar luz."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base o soporte sobre el que se coloca una estatua, columna u objeto importante."
+            },
+            {
+                "palabra": "Perturbar",
+                "definición": "Alterar el orden o la tranquilidad de algo o alguien; molestar."
+            },
+            {
+                "palabra": "Intacta",
+                "definición": "Que no ha sido tocado, dañado o modificado; que está entero."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué buscaban exactamente Leo y Maia en la selva?",
+                "tipo": "test",
+                "opciones": [
+                    "Un cofre con monedas de oro",
+                    "Una antigua ciudad perdida llena de joyas",
+                    "Una planta medicinal llamada Orquídea de Cristal",
+                    "A su abuelo desaparecido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué objeto les servía de guía durante el viaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mapa digital en una tableta",
+                    "El diario de cuero de su abuelo",
+                    "Las instrucciones de un guía local",
+                    "Una brújula dorada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué forma tenía la roca que marcaba el lugar correcto?",
+                "tipo": "test",
+                "opciones": [
+                    "Forma de calavera",
+                    "Forma de serpiente",
+                    "Forma de jaguar agazapado",
+                    "Forma de pirámide"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que el abuelo quería que encontraran la planta antes que las empresas madereras?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque las empresas la destruirían al cortar los árboles",
+                    "Porque quería venderla él primero",
+                    "Porque las empresas no sabían llegar",
+                    "Porque la planta era venenosa para los trabajadores"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué nos dice sobre Maia el hecho de que llevara una cuerda de escalada?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenía miedo a las alturas",
+                    "Que era una chica previsora y preparada",
+                    "Que no confiaba en Leo",
+                    "Que quería atrapar al jaguar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'El jaguar les había permitido el paso'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el jaguar era su mascota",
+                    "Que el animal no los atacó porque notó que no eran una amenaza",
+                    "Que el jaguar les habló y les dio permiso",
+                    "Que el jaguar estaba dormido y no los vio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué decidieron llevarse solo semillas y no la planta entera?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la planta pesaba mucho",
+                    "Porque la planta se marchitaría en el camino",
+                    "Para respetar la naturaleza y que la planta siguiera viviendo allí",
+                    "Porque la maceta estaba pegada al pedestal"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue el mayor obstáculo físico que tuvieron que superar?",
+                "tipo": "test",
+                "opciones": [
+                    "Luchar contra el jaguar",
+                    "Cruzar un río nadando",
+                    "Atravesar un puente colgante en mal estado",
+                    "Escalar la catarata"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué te parece la decisión de Maia y Leo de no llevarse la flor madre? ¿Habrías hecho tú lo mismo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece que hicieron muy bien porque si se hubieran llevado la planta entera, a lo mejor se moría y ya nadie más podría encontrarla. Yo habría hecho lo mismo porque es mejor cuidar la naturaleza para que dure siempre."
+            },
+            {
+                "enunciado": "¿Crees que fue irresponsable que dos niños fueran solos a la selva o fue un acto de valentía necesario? Explica por qué.",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que fue un poco peligroso porque les podría haber pasado algo malo, como caerse del puente. Pero también fue muy valiente porque querían salvar una planta importante para curar enfermedades, así que fue un riesgo por una buena causa."
+            }
+        ]
+    },
+    {
+        "titulo": "Rumbo al Horizonte de Hielo",
+        "tema": "aventuras",
+        "texto": "El viento aullaba como un lobo hambriento alrededor de la pequeña tienda de campaña naranja, el único punto de color en la inmensidad blanca de la Antártida. Dentro, Lucas se frotaba las manos enguantadas para intentar entrar en calor. Él y su tía Clara, una experta geóloga, estaban en una expedición para recuperar un meteorito que había caído cerca de las Montañas Transantárticas. La misión era crucial: aquel meteorito contenía minerales nunca vistos en la Tierra que podrían ayudar a crear energías limpias. Sin embargo, una tormenta inesperada los había dejado atrapados a medio camino del campamento base.\n\n—El GPS no funciona, Lucas —dijo la tía Clara, golpeando suavemente el aparato—. Las interferencias magnéticas de la tormenta lo han bloqueado. Tendremos que usar la brújula y el mapa tradicional.\n\nLucas asintió, aunque sentía un nudo de miedo en la garganta. Salir ahí fuera significaba enfrentarse a temperaturas de treinta grados bajo cero. Se ajustaron las gafas de ventisca, se aseguraron los crampones en las botas y salieron. El frío era como un bofetón en la cara. No se veía nada a más de dos metros; todo era un torbellino blanco. Avanzaron atados el uno al otro por una cuerda de seguridad, clavando los piolets en el hielo duro para no resbalar.\n\nCaminaron durante horas. El cansancio empezaba a pesar en las piernas de Lucas. De repente, el suelo bajo la tía Clara cedió. Con un grito ahogado, desapareció en una grieta oculta por la nieve reciente. La cuerda se tensó violentamente, arrastrando a Lucas por el suelo unos metros hasta que logró clavar su piolet y frenar la caída.\n\n—¡Tía Clara! —gritó Lucas contra el viento.\n\n—¡Estoy bien! —respondió una voz con eco—. ¡Pero estoy colgada y no llego a la pared para subir!\n\nLucas sabía que no tenía fuerza suficiente para subirla a pulso. Tenía que usar su ingenio. Recordó el sistema de poleas que había aprendido en el colegio. Usando unos mosquetones y anclajes de hielo que llevaba en el arnés, montó un sistema para multiplicar su fuerza. Con movimientos lentos pero firmes, empezó a tirar. Era agotador, pero poco a poco, el casco rojo de su tía asomó por el borde de la grieta. \n\nCuando Clara estuvo a salvo, se abrazaron un instante. No había tiempo que perder. La tormenta empezaba a amainar, revelando un cielo despejado y, a lo lejos, las luces del campamento base. Habían sobrevivido. Pero no solo eso: al mirar dentro de la grieta para recoger el equipo, Lucas vio algo negro y brillante incrustado en la pared de hielo azul profundo. \n\n—¡Tía, mira! —señaló Lucas.\n\nEra el meteorito. Había caído justo allí, creando la grieta que casi se los traga. Lo extrajeron con cuidado y lo guardaron en un contenedor especial. El resto del camino fue duro, pero la alegría del hallazgo les dio fuerzas. Al llegar al campamento, los científicos los recibieron con aplausos. Lucas se quitó las gafas, con la cara roja por el frío pero sonriendo. Había ido a la Antártida siendo un niño y regresaba siendo un explorador que había salvado a su tía y encontrado un tesoro para la ciencia.",
+        "glosario": [
+            {
+                "palabra": "Geóloga",
+                "definición": "Científica que estudia la Tierra, las rocas, los minerales y cómo se formó el planeta."
+            },
+            {
+                "palabra": "Expedición",
+                "definición": "Viaje organizado por un grupo de personas con un fin específico, como explorar o investigar."
+            },
+            {
+                "palabra": "Interferencias",
+                "definición": "Problemas o ruidos que impiden que una señal (como la del GPS o la radio) funcione bien."
+            },
+            {
+                "palabra": "Ventisca",
+                "definición": "Tormenta fuerte de viento y nieve que hace muy difícil ver y caminar."
+            },
+            {
+                "palabra": "Crampones",
+                "definición": "Piezas metálicas con puntas que se ponen en la suela de las botas para no resbalar en el hielo."
+            },
+            {
+                "palabra": "Piolet",
+                "definición": "Herramienta con forma de pico que usan los montañeros para clavar en el hielo y escalar."
+            },
+            {
+                "palabra": "Polea",
+                "definición": "Máquina simple con una rueda y una cuerda que sirve para levantar cosas pesadas con menos esfuerzo."
+            },
+            {
+                "palabra": "Mosquetón",
+                "definición": "Anillo de metal con un cierre que se abre y cierra, usado para conectar cuerdas en escalada."
+            },
+            {
+                "palabra": "Amainar",
+                "definición": "Perder fuerza o intensidad, especialmente cuando se habla de la lluvia o el viento."
+            },
+            {
+                "palabra": "Incrustado",
+                "definición": "Metido o encajado con fuerza dentro de una superficie dura."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto fueron a buscar Lucas y su tía a la Antártida?",
+                "tipo": "test",
+                "opciones": [
+                    "Un tesoro pirata congelado",
+                    "Un meteorito con minerales especiales",
+                    "Un pinguino perdido",
+                    "Una bandera antigua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué dejó de funcionar el GPS?",
+                "tipo": "test",
+                "opciones": [
+                    "Se quedó sin pilas",
+                    "Se cayó en la nieve y se rompió",
+                    "Por las interferencias de la tormenta",
+                    "Porque Lucas no sabía usarlo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué herramienta usó Lucas para frenar su arrastre cuando cayó su tía?",
+                "tipo": "test",
+                "opciones": [
+                    "Sus propias manos",
+                    "El piolet",
+                    "Un ancla de barco",
+                    "Una pala de nieve"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si no hubieran llevado crampones, ¿qué habría pasado probablemente?",
+                "tipo": "test",
+                "opciones": [
+                    "Habrían caminado más rápido",
+                    "Se habrían resbalado constantemente en el hielo",
+                    "No habrían tenido frío en los pies",
+                    "Se habrían hundido en la nieve blanda"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo logró Lucas sacar a su tía de la grieta si ella pesaba más que él?",
+                "tipo": "test",
+                "opciones": [
+                    "Esperó a que llegara ayuda",
+                    "Usó su superfuerza",
+                    "Montó un sistema de poleas para multiplicar su fuerza",
+                    "Ella subió sola escalando"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué coincidencia afortunada ocurrió en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el GPS volvió a funcionar solo",
+                    "Que encontraron un iglú para dormir",
+                    "Que el meteorito estaba justo en la grieta donde cayó la tía",
+                    "Que dejó de nevar al instante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué era tan importante el meteorito para la misión?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque valía mucho dinero en el mercado",
+                    "Porque podía ayudar a crear energías limpias",
+                    "Porque era un regalo para un museo",
+                    "Porque brillaba en la oscuridad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad demostró Lucas al usar lo aprendido en el colegio para el rescate?",
+                "tipo": "test",
+                "opciones": [
+                    "Ingenio y capacidad de aplicar conocimientos",
+                    "Mucha suerte",
+                    "Que tenía buena memoria para los mapas",
+                    "Que era muy fuerte físicamente"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Crees que es importante explorar lugares peligrosos como la Antártida para la ciencia? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí es importante, aunque sea peligroso, porque gracias a esas exploraciones descubrimos cosas nuevas que pueden ayudar a todo el mundo, como nuevas energías o medicinas, pero hay que ir muy bien preparado."
+            },
+            {
+                "enunciado": "Lucas usó algo que aprendió en el colegio para salvar a su tía. ¿Alguna vez has usado algo que aprendiste en clase para resolver un problema real? Cuéntalo.",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, una vez usé lo que aprendí en matemáticas para calcular cuánto dinero necesitaba ahorrar para comprarme un juego, sumando mi paga y restando lo que gastaba en chuches."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Relojero de Praga",
+        "tema": "aventuras",
+        "texto": "Las calles empedradas de Praga brillaban bajo la luz de las farolas, reflejando la lluvia reciente como si el suelo estuviera hecho de espejos oscuros. Hugo y Valeria, dos estudiantes de intercambio de doce años, caminaban apresurados por el Callejón del Oro. No eran turistas normales; llevaban en sus mochilas una extraña llave de bronce que Hugo había encontrado dentro de un reloj de cuco antiguo en la tienda de antigüedades de su tío. La llave tenía grabada una fecha: 1584, y unas coordenadas que señalaban directamente a la torre del Reloj Astronómico.\n\n—¿Estás seguro de que es buena idea ir de noche? —susurró Valeria, subiéndose el cuello del abrigo. El viento soplaba con fuerza, haciendo gemir las veletas de los tejados.\n\n—Es la única oportunidad, Val. La nota decía 'cuando la luna abrace a la torre'. Hoy hay eclipse —respondió Hugo, con la voz temblorosa pero decidido. Su pasión por la historia y los misterios era más fuerte que su miedo.\n\nAl llegar a la plaza, el imponente reloj se alzaba ante ellos. Las figuras de los apóstoles dormían tras sus ventanas de madera. Hugo sacó la llave. No había ninguna cerradura visible en la puerta principal, pero Valeria, que tenía una vista de lince, señaló una pequeña hendidura oculta bajo la estatua de la Vanidad. Hugo introdujo la llave. Encajó perfectamente. Con un clic metálico que resonó en el silencio de la plaza, una puerta lateral, casi invisible al ojo humano, se entreabrió.\n\nEntraron con sus linternas encendidas. El interior olía a aceite, madera vieja y polvo acumulado durante siglos. Subieron por una escalera de caracol estrecha y vertiginosa. Al llegar a la sala de maquinaria, se quedaron boquiabiertos. Cientos de engranajes de todos los tamaños giraban en una danza hipnótica y silenciosa. Pero algo no encajaba: había una palanca roja que parecía mucho más moderna que el resto del mecanismo, con una inscripción que decía: 'Solo en caso de emergencia temporal'.\n\n—¡Mira eso! —exclamó Valeria, señalando un pergamino atrapado entre dos ruedas dentadas. Con mucho cuidado, Hugo lo extrajo. Era un plano de la ciudad, pero diferente. Mostraba túneles subterráneos que conectaban el reloj con el castillo. De repente, el suelo tembló. Los engranajes empezaron a girar más rápido. Habían activado, sin querer, un mecanismo de defensa. La puerta por la que entraron se cerró de golpe.\n\n—¡Tenemos que salir de aquí! —gritó Hugo. Miraron el plano. Había una salida de emergencia detrás de la esfera del calendario. Corrieron esquivando péndulos que oscilaban peligrosamente. Valeria tropezó, pero Hugo la agarró del brazo justo a tiempo. Juntos, empujaron la pesada esfera de madera desde dentro. La luz de la luna eclipsada entraba por la abertura. Estaban a gran altura, pero había un andamio de obras justo debajo. Saltaron, aterrizando sobre unas lonas que amortiguaron la caída.\n\nJadeando, miraron hacia arriba. El reloj seguía marcando la hora, imperturbable. En sus manos, Hugo aún tenía el plano antiguo. No habían encontrado oro ni joyas, pero tenían en su poder el mapa de los túneles secretos de los alquimistas, un misterio que llevaba siglos dormido. Sabían que esa noche solo era el principio de una aventura mucho mayor. Se miraron y sonrieron; la ciudad vieja tenía muchos secretos, y ellos tenían todo el curso escolar para descubrirlos.",
+        "glosario": [
+            {
+                "palabra": "Empedradas",
+                "definición": "Calles o suelos que están cubiertos de piedras ajustadas unas con otras para que se pueda caminar por encima."
+            },
+            {
+                "palabra": "Antigüedades",
+                "definición": "Objetos que tienen muchos años, suelen ser valiosos y nos cuentan cosas sobre cómo se vivía en el pasado."
+            },
+            {
+                "palabra": "Coordenadas",
+                "definición": "Conjunto de números y datos que sirven para localizar un punto exacto en un mapa."
+            },
+            {
+                "palabra": "Hendidura",
+                "definición": "Una abertura estrecha, grieta o corte poco profundo en una superficie."
+            },
+            {
+                "palabra": "Vertiginosa",
+                "definición": "Que causa sensación de mareo o pérdida del equilibrio, normalmente por estar muy alto o moverse muy rápido."
+            },
+            {
+                "palabra": "Engranajes",
+                "definición": "Ruedas con dientes que encajan unas con otras y sirven para transmitir movimiento en las máquinas."
+            },
+            {
+                "palabra": "Hipnótica",
+                "definición": "Algo que atrae tanto tu atención que no puedes dejar de mirarlo, como si te dejara atontado."
+            },
+            {
+                "palabra": "Pergamino",
+                "definición": "Material hecho de piel de animal, usado antiguamente para escribir antes de que existiera el papel moderno."
+            },
+            {
+                "palabra": "Alquimistas",
+                "definición": "Personas de la antigüedad que hacían experimentos mezclando ciencia y magia, buscando cosas como convertir metales en oro."
+            },
+            {
+                "palabra": "Imperturbable",
+                "definición": "Que mantiene la calma y no se altera ni se pone nervioso por nada de lo que pasa a su alrededor."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto encontró Hugo en la tienda de antigüedades?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mapa del tesoro",
+                    "Una llave de bronce",
+                    "Un reloj de bolsillo",
+                    "Una brújula dorada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde estaba situada la hendidura para abrir la puerta secreta?",
+                "tipo": "test",
+                "opciones": [
+                    "En la esfera del reloj",
+                    "En el suelo de la plaza",
+                    "Bajo la estatua de la Vanidad",
+                    "Detrás de una gárgola"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo lograron bajar de la torre al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Bajaron por la escalera de caracol",
+                    "Usaron una cuerda que llevaban",
+                    "Saltaron a un andamio de obras",
+                    "Esperaron a que los rescataran"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué decidieron ir a la torre esa noche específica?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era la noche de Halloween",
+                    "Porque la nota mencionaba un momento relacionado con la luna y había un eclipse",
+                    "Porque era cuando no había guardias vigilando",
+                    "Porque al día siguiente tenían examen y no podrían ir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si la palanca decía 'Solo en caso de emergencia temporal', podemos deducir que...",
+                "tipo": "test",
+                "opciones": [
+                    "Era para llamar a los bomberos",
+                    "Servía para parar el tiempo o controlar el reloj en situaciones graves",
+                    "Era una broma del relojero",
+                    "Estaba rota y no funcionaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica el hecho de que el plano mostrara túneles hacia el castillo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el relojero quería escapar del rey",
+                    "Que existía una conexión secreta entre el poder (castillo) y el tiempo (reloj)",
+                    "Que a Hugo le gustaban los castillos",
+                    "Que el mapa estaba mal dibujado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la característica principal de la personalidad de Valeria según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Es muy miedosa y quiere irse a casa",
+                    "Es observadora y atenta a los detalles",
+                    "Es impulsiva y no piensa las cosas",
+                    "Es experta en historia antigua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sugiere el final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se van a meter en líos con la policía",
+                    "Que van a vender el mapa para hacerse ricos",
+                    "Que esto es solo el inicio de una serie de exploraciones",
+                    "Que Hugo ha perdido la llave"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Hugo y Valeria hicieron bien en entrar al reloj sin permiso? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que, aunque fue muy emocionante y descubrieron algo chulo, en realidad no estuvo bien del todo porque podría haber sido peligroso o podrían haber roto algo histórico sin querer. A lo mejor deberían haber pedido permiso o ido con un adulto."
+            },
+            {
+                "enunciado": "Si encontraras un mapa de túneles secretos en tu ciudad, ¿qué harías con él?",
+                "tipo": "abierta",
+                "respuestaModelo": "La verdad es que me daría mucha curiosidad y querría ir a investigar con mis amigos, como hicieron ellos. Pero si pareciera muy peligroso o los túneles fueran muy viejos, igual se lo enseñaba a mi profesor de historia para que me ayudara a entenderlo."
+            }
+        ]
+    },
+    {
+        "titulo": "Perdidos en la Selva de Bambú",
+        "tema": "aventuras",
+        "texto": "El avión de hélice tosió dos veces antes de que el motor se parara por completo. No hubo explosiones ni fuego, solo un silencio aterrador seguido del silbido del viento. El piloto, un hombre mayor y experto llamado Sr. Tanaka, logró planear hasta un claro en medio de la inmensa selva de bambú de la isla de Yakushima. El aterrizaje fue brusco, sacudiendo a sus dos pasajeros: Kenji y su prima Aiko, que viajaban para visitar a sus abuelos. Cuando el polvo se asentó, comprobaron que todos estaban bien, aunque la radio del avión se había roto en el impacto.\n\n—Estamos a kilómetros de la civilización —dijo el Sr. Tanaka, revisando los suministros—. Tendremos que caminar hacia la costa. El río nos guiará.\n\nLa selva de Yakushima no era una selva normal. Los árboles estaban cubiertos de un musgo verde fosforescente y el bambú crecía tan alto que tapaba el sol, creando un crepúsculo eterno. Kenji, que siempre llevaba su navaja multiusos y un manual de supervivencia que le habían regalado por su cumpleaños, se sintió extrañamente preparado. Aiko, por su parte, tenía un oído prodigioso para los sonidos de la naturaleza.\n\nEl primer día fue agotador. La humedad se pegaba a la ropa y los insectos no daban tregua. Tuvieron que improvisar un refugio usando ramas grandes y las lonas del avión. Kenji enseñó a Aiko a purificar el agua del río hirviéndola en una lata de conserva que habían rescatado. Por la noche, alrededor de una pequeña fogata, el bosque cobraba vida con sonidos extraños. Aiko, asustada, agarró la mano de su primo.\n\n—¿Oyes eso? —susurró ella—. Suena como pasos pesados.\n\nNo eran monstruos, sino ciervos sika que se acercaban curiosos por la luz. Al verlos, el miedo se transformó en asombro. Al segundo día, el desafío fue mayor: el río se adentraba en un cañón profundo. No podían seguir por la orilla. Tenían que escalar una pared de roca resbaladiza. El Sr. Tanaka iba primero, asegurando la cuerda. Kenji resbaló una vez, quedando colgado del arnés improvisado con cinturones de seguridad. Aiko, desde abajo, le indicó dónde poner el pie, guiándole con calma. Trabajando en equipo, superaron el obstáculo.\n\nAl tercer día, el sonido del mar llegó a sus oídos como la mejor música del mundo. Salieron de la espesura a una playa de arena negra volcánica. A lo lejos, un barco pesquero faenaba cerca de la costa. Hicieron señales con un espejo y encendieron un fuego para hacer humo. Cuando vieron que el barco giraba hacia ellos, Aiko y Kenji se abrazaron llorando y riendo a la vez. \n\nLa experiencia había sido dura. Tenían rasguños, picaduras y mucha hambre. Pero mientras el barco se acercaba, Kenji miró hacia la selva una última vez. Ya no le parecía un lugar aterrador, sino un maestro severo que les había enseñado que eran más fuertes y valientes de lo que jamás imaginaron. Habían entrado como niños de ciudad y salían como supervivientes.",
+        "glosario": [
+            {
+                "palabra": "Planear",
+                "definición": "Volar manteniéndose en el aire sin usar el motor, aprovechando las corrientes de viento."
+            },
+            {
+                "palabra": "Civilización",
+                "definición": "Conjunto de ciudades, pueblos y personas; volver a la civilización significa volver donde vive la gente."
+            },
+            {
+                "palabra": "Fosforescente",
+                "definición": "Que tiene un color muy vivo o que parece que brilla y emite luz en la oscuridad."
+            },
+            {
+                "palabra": "Crepúsculo",
+                "definición": "La luz suave y tenue que hay justo antes de que salga el sol o justo después de que se ponga."
+            },
+            {
+                "palabra": "Prodigioso",
+                "definición": "Algo que es extraordinario, increíble o mucho mejor de lo normal."
+            },
+            {
+                "palabra": "Tregua",
+                "definición": "Un descanso o pausa en algo que es molesto o cansado; cuando los insectos no dan tregua, es que no paran de molestar."
+            },
+            {
+                "palabra": "Improvisar",
+                "definición": "Hacer algo al momento con lo que tienes a mano, sin haberlo preparado antes."
+            },
+            {
+                "palabra": "Purificar",
+                "definición": "Limpiar algo de suciedad o bacterias para que sea seguro, como hacer que el agua se pueda beber."
+            },
+            {
+                "palabra": "Espesura",
+                "definición": "Parte de un bosque o selva donde hay tantos árboles y plantas juntos que es difícil pasar."
+            },
+            {
+                "palabra": "Severo",
+                "definición": "Que es estricto, duro y exigente, que no permite fallos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cuál fue la causa del accidente del avión?",
+                "tipo": "test",
+                "opciones": [
+                    "Una tormenta eléctrica",
+                    "El motor se paró",
+                    "El piloto se durmió",
+                    "Chocaron con una montaña"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto útil llevaba Kenji consigo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un teléfono satélite",
+                    "Una navaja multiusos",
+                    "Una tienda de campaña",
+                    "Una pistola de bengalas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo lograron que el barco los viera al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Gritando muy fuerte",
+                    "Haciendo señales con un espejo y humo",
+                    "Nets nadando hacia el barco",
+                    "Usando la radio del avión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué decidieron seguir el curso del río?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque querían pescar",
+                    "Porque los ríos suelen desembocar en el mar, donde hay gente",
+                    "Porque el agua estaba más fresca",
+                    "Porque el piloto tenía un barco escondido allí"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué habilidad de Aiko fue fundamental para ayudar a Kenji en el acantilado?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física",
+                    "Su capacidad de mantener la calma y guiarle",
+                    "Su manual de escalada",
+                    "Su buena vista"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña el hecho de que usaran cinturones de seguridad como arnés?",
+                "tipo": "test",
+                "opciones": [
+                    "Que eran muy desordenados",
+                    "Que sabían improvisar y usar los recursos disponibles",
+                    "Que los cinturones del avión estaban rotos",
+                    "Que querían jugar a los escaladores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué al principio del texto se dice que la selva no era normal?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque había dinosaurios",
+                    "Porque el musgo era fosforescente y el bambú tapaba el sol",
+                    "Porque nevaba dentro de la selva",
+                    "Porque no había ningún animal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La frase 'la selva fue un maestro severo' significa que...",
+                "tipo": "test",
+                "opciones": [
+                    "En la selva había una escuela",
+                    "Aprendieron lecciones importantes a través de dificultades y sufrimiento",
+                    "El piloto les daba clases mientras caminaban",
+                    "La selva les castigó sin motivo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué crees que fue lo más importante para que Kenji y Aiko sobrevivieran: las herramientas o su actitud? Explícalo.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo pienso que las dos cosas fueron importantes, pero la actitud más. Si se hubieran rendido o puesto a llorar todo el rato, las herramientas no les habrían servido de nada. Necesitaban estar tranquilos para pensar cómo usarlas."
+            },
+            {
+                "enunciado": "Imagina que te pierdes en un bosque sin teléfono. ¿Qué tres cosas te gustaría llevar en los bolsillos y para qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me gustaría llevar una botella de agua para no tener sed, una linterna por si se hace de noche y me da miedo, y un silbato, porque si soplo fuerte me pueden oír desde lejos los que me busquen."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Reloj de Arena",
+        "tema": "aventuras",
+        "texto": "La lluvia golpeaba con fuerza los cristales de la vieja biblioteca del abuelo, creando una melodía rítmica que acompañaba el tic-tac del antiguo reloj de pared. Alejandro y Sofía, aburridos por la tormenta que les impedía salir a jugar, decidieron explorar el desván, un lugar que siempre les había parecido misterioso y prohibido. Entre cajas llenas de polvo y muebles cubiertos con sábanas blancas que parecían fantasmas, encontraron un objeto peculiar: un reloj de arena de madera oscura, tallado con extraños símbolos dorados. No era un reloj normal; la arena en su interior no era blanca ni gris, sino de un azul brillante, casi eléctrico.\n\nAl darle la vuelta, algo increíble sucedió. El suelo bajo sus pies comenzó a vibrar y una luz cegadora inundó la habitación. Cuando abrieron los ojos, ya no estaban en el desván. Se encontraban en medio de un denso bosque tropical, rodeados de helechos gigantes y árboles que tocaban el cielo. El aire era cálido y húmedo, y se escuchaban graznidos de aves que jamás habían visto en los libros. Alejandro, que siempre llevaba su navaja multiusos en el bolsillo, miró a su hermana con asombro. Sofía, más observadora, notó que el reloj de arena estaba en su mano, pero la arena caía mucho más despacio de lo habitual.\n\n—Creo que tenemos un tiempo límite para volver —susurró Sofía, señalando el hilo de arena azul—.\n\nDecidieron caminar hacia el norte, guiándose por el musgo de los árboles, como les había enseñado su padre en las excursiones. Pronto se toparon con un río caudaloso que les cortaba el paso. El agua bajaba con furia, arrastrando ramas y piedras. No había puente. Alejandro propuso buscar un tronco caído para cruzar, pero Sofía vio unas lianas gruesas que colgaban de los árboles de la otra orilla. Con valentía, y tras comprobar su resistencia, se lanzaron al estilo Tarzán. El corazón les latía a mil por hora cuando aterrizaron en el barro del otro lado.\n\nMás adelante, encontraron unas ruinas de piedra cubiertas de vegetación. Parecía un templo antiguo. En la entrada, un pedestal de piedra tenía un hueco con la forma exacta del reloj de arena. Sofía comprendió al instante: era la llave de regreso. Pero el pedestal estaba custodiado por una estatua de piedra que, al acercarse ellos, abrió los ojos. No era una estatua, sino un guardián mecánico antiguo. Les planteó un acertijo con voz grave: «Soy alto cuando soy joven y bajo cuando soy viejo. Brillo con la vida y me apago con el aliento. ¿Qué soy?». \n\nLos hermanos se miraron. El tiempo en el reloj de arena se agotaba. Alejandro pensó en el sol, en las sombras, pero nada encajaba. Sofía, recordando las noches de campamento, gritó: «¡Una vela!». El guardián sonrió, o eso pareció, y se apartó. Corrieron hacia el pedestal y colocaron el reloj justo cuando caía el último grano de arena azul. De nuevo, la luz cegadora los envolvió. \n\nDespertaron en el suelo del desván, con el sonido de la lluvia aún golpeando el tejado. El reloj de arena estaba vacío y parecía un objeto normal. Se miraron, sucios de barro y con hojas en el pelo, y sonrieron. Nadie creería su historia, pero ellos sabían que la aventura había sido real. Habían aprendido que, trabajando en equipo y manteniendo la calma, podían superar cualquier obstáculo, incluso en otros mundos.",
+        "glosario": [
+            {
+                "palabra": "Peculiar",
+                "definición": "Algo que es especial, raro o diferente a lo que estamos acostumbrados a ver."
+            },
+            {
+                "palabra": "Caudaloso",
+                "definición": "Se dice de un río que lleva mucha cantidad de agua y suele ir con fuerza."
+            },
+            {
+                "palabra": "Custodiado",
+                "definición": "Vigilado o protegido por alguien para que nadie lo toque o se lo lleve."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Una base o soporte, generalmente de piedra o madera, donde se coloca encima una estatua u objeto importante."
+            },
+            {
+                "palabra": "Acertijo",
+                "definición": "Una adivinanza o problema difícil de resolver que requiere pensar con ingenio."
+            },
+            {
+                "palabra": "Vegetación",
+                "definición": "El conjunto de todas las plantas, árboles y flores que crecen en un lugar."
+            },
+            {
+                "palabra": "Desván",
+                "definición": "La parte más alta de una casa, justo debajo del tejado, que se suele usar para guardar cosas viejas."
+            },
+            {
+                "palabra": "Vibrar",
+                "definición": "Moverse muy rápido con movimientos cortos y repetidos, como cuando tiembla un móvil."
+            },
+            {
+                "palabra": "Resistencia",
+                "definición": "La capacidad de algo para aguantar fuerza o peso sin romperse."
+            },
+            {
+                "palabra": "Inundó",
+                "definición": "Llenar un espacio por completo, en este caso se refiere a la luz que llenó toda la habitación."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto desencadenó la aventura de los hermanos?",
+                "tipo": "test",
+                "opciones": [
+                    "Un libro de hechizos",
+                    "Un mapa del tesoro",
+                    "Un reloj de arena",
+                    "Una brújula dorada"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo cruzaron el río caudaloso?",
+                "tipo": "test",
+                "opciones": [
+                    "Nadando contra la corriente",
+                    "Usando un tronco caído como puente",
+                    "Saltando sobre piedras",
+                    "Balanceándose con unas lianas"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Cuál era la respuesta al acertijo del guardián?",
+                "tipo": "test",
+                "opciones": [
+                    "El sol",
+                    "Una vela",
+                    "Un árbol",
+                    "La sombra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué decidieron caminar hacia el norte?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque vieron un cartel",
+                    "Porque el reloj les señaló esa dirección",
+                    "Guiándose por el musgo de los árboles",
+                    "Porque vieron humo a lo lejos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Se puede inferir que el tiempo en el mundo del bosque...",
+                "tipo": "test",
+                "opciones": [
+                    "Pasa mucho más lento que en el desván",
+                    "Estaba controlado por la arena del reloj",
+                    "No existía",
+                    "Era siempre de noche"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica el hecho de que Sofía notara la velocidad de la arena?",
+                "tipo": "test",
+                "opciones": [
+                    "Que Sofía es muy observadora y atenta",
+                    "Que el reloj estaba roto",
+                    "Que Sofía quería volver a casa rápido",
+                    "Que a Sofía no le gustaba la aventura"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Si no hubieran resuelto el acertijo, ¿qué habría pasado probablemente?",
+                "tipo": "test",
+                "opciones": [
+                    "El guardián les habría invitado a cenar",
+                    "Habrían encontrado otro camino rodeando el templo",
+                    "Se les habría acabado el tiempo para volver a casa",
+                    "El reloj se habría roto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es el tema principal de la historia además de la aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "La importancia de estudiar historia",
+                    "El trabajo en equipo y la resolución de problemas",
+                    "Cómo sobrevivir en la selva sin comida",
+                    "La magia de los relojes antiguos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Alejandro y Sofía hicieron bien tocando el reloj sin permiso? Explica por qué.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue un poco arriesgado porque no era suyo y podían haberlo roto o, como pasó, meterse en un lío mágico. Pero a veces la curiosidad te gana y gracias a eso vivieron una aventura chula."
+            },
+            {
+                "enunciado": "Si te encontraras en una selva desconocida como ellos, ¿qué objeto de tu casa te gustaría tener en el bolsillo y para qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me gustaría tener una linterna potente, porque si se hace de noche en la selva me daría mucho miedo no ver nada y así podría alumbrar el camino o asustar a algún bicho."
+            }
+        ]
+    },
+    {
+        "titulo": "Operación Rescate en el Glaciar Azul",
+        "tema": "aventuras",
+        "texto": "El viento aullaba como un lobo hambriento en las cumbres de las Montañas Nevadas. Martín, Lucía y su perro guía, un San Bernardo llamado Bruno, avanzaban con dificultad sobre la nieve espesa. No estaban allí de excursión. Habían recibido una señal de radio entrecortada en el refugio de montaña donde pasaban el fin de semana con sus padres. Alguien estaba atrapado en la Grieta del Glaciar Azul, un lugar peligroso al que los adultos les habían prohibido acercarse. Sin embargo, con la tormenta empeorando, sabían que los equipos de rescate tardarían demasiado. Dejaron una nota en la mesa de la cocina y se equiparon con cuerdas, mantas térmicas y un termo con chocolate caliente.\n\nBruno iba delante, olfateando el rastro invisible para los humanos. De repente, se detuvo y empezó a ladrar hacia una depresión en el terreno. Martín se acercó con cuidado, gateando para repartir su peso y no romper el hielo. Al asomarse, vio a un pequeño zorro ártico herido en una repisa de hielo, varios metros más abajo. Pero no era solo eso; junto al zorro, atrapado por una roca, había un excursionista joven que parecía inconsciente. \n\n—¡Está ahí abajo! —gritó Martín para hacerse oír sobre el viento—. ¡Tenemos que sacarlo ya!\n\nLucía, que era experta en nudos gracias a los campamentos de verano, preparó un sistema de poleas con la cuerda y un árbol cercano. —Yo bajaré —dijo con determinación—. Soy más ligera.\n\nMartín sujetó la cuerda con fuerza mientras Bruno vigilaba. El descenso fue tenso. Las paredes del glaciar eran resbaladizas y el frío mordía la cara de Lucía. Al llegar abajo, comprobó que el excursionista respiraba, pero tenía la pierna atrapada. Usando una pequeña pala de nieve, Lucía logró liberar la bota del chico. Luego, ató el arnés al desconocido. Martín y Bruno tiraron desde arriba. El perro era increíblemente fuerte y ayudó a subir el peso del hombre poco a poco. \n\nUna vez que el excursionista estuvo arriba, Lucía subió con el zorro en brazos, envuelto en su bufanda. El chico despertó tosiendo y temblando de frío. Le dieron el chocolate caliente y lo envolvieron en las mantas. \n\n—Pensé que no saldría de esta —susurró el chico, mirando a los dos niños y al perro con gratitud—. Me desvié del camino para fotografiar al zorro y el suelo cedió.\n\nEl regreso al refugio fue lento pero triunfal. La tormenta comenzó a amainar justo cuando vieron las luces de la cabaña. Sus padres, que acababan de encontrar la nota y estaban a punto de salir a buscarlos, corrieron a abrazarlos, mezclando regaños por el susto con lágrimas de orgullo por lo que habían hecho. Esa noche, mientras el zorro dormía junto a la chimenea recuperándose, Martín y Lucía comprendieron que ser valiente no significa no tener miedo, sino actuar a pesar de él para ayudar a los demás.",
+        "glosario": [
+            {
+                "palabra": "Entrecortada",
+                "definición": "Un sonido o voz que se interrumpe y no se oye seguido o con claridad."
+            },
+            {
+                "palabra": "Glaciar",
+                "definición": "Una enorme masa de hielo que se forma en las montañas altas y se mueve muy despacio."
+            },
+            {
+                "palabra": "Depresión",
+                "definición": "Una zona del terreno que está más hundida o baja que lo que la rodea."
+            },
+            {
+                "palabra": "Inconsciente",
+                "definición": "Estado en el que una persona parece dormida y no se da cuenta de lo que pasa a su alrededor, normalmente por un golpe."
+            },
+            {
+                "palabra": "Poleas",
+                "definición": "Máquinas simples con ruedas y cuerdas que sirven para levantar cosas pesadas haciendo menos fuerza."
+            },
+            {
+                "palabra": "Arnés",
+                "definición": "Conjunto de correas que se pone una persona alrededor del cuerpo para estar sujeta y segura, por ejemplo, al escalar."
+            },
+            {
+                "palabra": "Amainar",
+                "definición": "Cuando una tormenta, el viento o la lluvia pierden fuerza y se vuelven más suaves."
+            },
+            {
+                "palabra": "Térmicas",
+                "definición": "Mantas o ropas especiales diseñadas para mantener el calor del cuerpo y no pasar frío."
+            },
+            {
+                "palabra": "Refugio",
+                "definición": "Lugar seguro, como una cabaña en la montaña, donde protegerse del mal tiempo o peligro."
+            },
+            {
+                "palabra": "Triunfal",
+                "definición": "Sentirse muy feliz y orgulloso después de haber conseguido un éxito o victoria importante."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué señal alertó a los niños de que alguien necesitaba ayuda?",
+                "tipo": "test",
+                "opciones": [
+                    "Un grito lejano",
+                    "Una señal de humo",
+                    "Una transmisión de radio entrecortada",
+                    "El ladrido de su perro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué encontraron en el fondo de la grieta además del excursionista?",
+                "tipo": "test",
+                "opciones": [
+                    "Un cofre del tesoro",
+                    "Un zorro ártico herido",
+                    "Una mochila perdida",
+                    "Un mapa antiguo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el excursionista se había caído en la grieta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba esquiando fuera de pista",
+                    "Porque intentó hacer una foto al zorro y el suelo cedió",
+                    "Porque se perdió en la niebla",
+                    "Porque le perseguía un lobo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué papel fundamental jugó el perro Bruno en el rescate?",
+                "tipo": "test",
+                "opciones": [
+                    "Llevó el mensaje a los padres",
+                    "Dio calor al zorro",
+                    "Ayudó a tirar de la cuerda con su fuerza",
+                    "Cavó un túnel en la nieve"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué decidieron ir ellos mismos en lugar de esperar a los equipos de rescate?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque querían salir en las noticias",
+                    "Porque se aburrían en el refugio",
+                    "Porque la tormenta empeoraba y la ayuda tardaría mucho",
+                    "Porque no confiaban en la policía"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué demuestra el hecho de que Lucía supiera hacer un sistema de poleas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es muy fuerte físicamente",
+                    "Que ha prestado atención y aprendido cosas útiles en sus campamentos",
+                    "Que llevaba un libro de instrucciones",
+                    "Que es ingeniera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue la reacción de los padres al verlos volver?",
+                "tipo": "test",
+                "opciones": [
+                    "Solo les castigaron por desobedecer",
+                    "No se habían dado cuenta de que faltaban",
+                    "Sintieron una mezcla de enfado por el susto y orgullo",
+                    "Llamaron a la policía inmediatamente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿qué aprendieron los niños sobre la valentía?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los valientes nunca tienen miedo",
+                    "Que ser valiente es no pensar en el peligro",
+                    "Que la valentía es actuar para ayudar aunque tengas miedo",
+                    "Que solo los adultos pueden ser valientes"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Martín y Lucía fueron irresponsables al salir solos a la tormenta? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que fue un poco irresponsable porque eran niños y la montaña es peligrosa con tormenta, podrían haber acabado mal ellos también. Pero entiendo que lo hicieron porque pensaban que si no iban rápido, el chico moriría."
+            },
+            {
+                "enunciado": "El excursionista se arriesgó mucho por una foto. ¿Piensas que merece la pena arriesgarse por conseguir una buena imagen o un 'like' en redes sociales? Explícalo.",
+                "tipo": "abierta",
+                "respuestaModelo": "No merece la pena para nada. Una foto es solo un momento, pero tu vida o tu salud son mucho más importantes. Si te pasa algo grave por una foto, luego te vas a arrepentir un montón."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma de la Cueva de los Ecos",
+        "tema": "aventuras",
+        "texto": "El sol de agosto caía a plomo sobre el campamento de verano 'Roca Alta', pero Javier, Lucía y Mateo apenas sentían el calor. Estaban demasiado concentrados observando el viejo mapa que habían encontrado escondido detrás de un cuadro en la cabaña principal. Según la leyenda que todos los monitores contaban alrededor de la hoguera, el fundador del campamento había ocultado un cofre con 'el mayor tesoro del mundo' en la temida Cueva de los Ecos, un lugar prohibido situado en la ladera norte de la montaña. La mayoría de los niños pensaban que era solo un cuento para asustarlos, pero el mapa parecía muy real, con sus bordes quemados y la tinta descolorida.\n\n—Si nos vamos ahora, durante la hora de la siesta, nadie nos echará de menos —susurró Javier, ajustándose la gorra. Lucía dudó un segundo, mirando hacia la cabaña de los monitores, pero la curiosidad fue más fuerte que el miedo a un castigo. Mateo, que siempre llevaba su mochila con herramientas de exploración, asintió con entusiasmo.\n\nLa subida fue dura. El sendero estaba lleno de zarzas y piedras sueltas que rodaban colina abajo al pisarlas. Al llegar a la entrada de la cueva, un aire gélido les golpeó la cara, contrastando con el bochorno del exterior. Encendieron sus linternas y se adentraron en la oscuridad. El lugar hacía honor a su nombre: cada paso, cada respiración y cada susurro se multiplicaba en un coro de sonidos que parecía venir de todas partes. Las estalactitas colgaban del techo como dientes gigantes de piedra, y el suelo estaba resbaladizo por la humedad.\n\nDe repente, el camino se dividió en tres túneles. El mapa mostraba un símbolo extraño: un sol naciente. Mateo iluminó las paredes y vio que, en el túnel de la derecha, alguien había tallado un pequeño sol en la roca hacía muchos años. —¡Es por aquí! —exclamó. Avanzaron con cautela hasta llegar a una gran sala subterránea con un lago de agua cristalina en el centro. Al otro lado, sobre un pedestal natural, descansaba una caja de madera vieja.\n\nEl corazón les latía con fuerza. Cruzaron bordeando el lago, resbalando varias veces, hasta alcanzar la caja. No tenía candado. Javier levantó la tapa con manos temblorosas. Los tres contuvieron el aliento esperando ver monedas de oro o joyas antiguas. Sin embargo, el cofre estaba lleno de cartas, fotografías en blanco y negro y un diario viejo. Lucía cogió el diario y leyó la primera página: «Para quien encuentre esto: el verdadero tesoro no es el oro, sino los recuerdos de los veranos pasados aquí con los amigos que se convierten en familia».\n\nSe miraron, un poco decepcionados al principio, pero luego empezaron a reír. El eco de sus risas llenó la cueva, sonando como si cientos de niños rieran con ellos. Decidieron dejar el cofre allí, añadiendo una foto instantánea que se acababan de hacer los tres, para que otros aventureros del futuro pudieran encontrarla. El regreso fue más ligero; aunque no llevaban oro en los bolsillos, sentían que habían compartido un secreto que los uniría para siempre. Al salir de la cueva, el sol de la tarde brillaba más que nunca, y ellos sabían que aquel verano sería inolvidable.",
+        "glosario": [
+            {
+                "palabra": "A plomo",
+                "definición": "Caer de manera vertical y con mucha fuerza; se usa para decir que el sol calienta muchísimo."
+            },
+            {
+                "palabra": "Prohibido",
+                "definición": "Algo que no se permite hacer o un lugar al que no se deja entrar por normas o seguridad."
+            },
+            {
+                "palabra": "Descolorida",
+                "definición": "Que ha perdido su color original o se ve más pálido por el paso del tiempo o el sol."
+            },
+            {
+                "palabra": "Gélido",
+                "definición": "Que está extremadamente frío, como el hielo."
+            },
+            {
+                "palabra": "Estalactitas",
+                "definición": "Formaciones de roca alargadas y puntiagudas que cuelgan del techo de las cuevas, formadas por el goteo del agua durante años."
+            },
+            {
+                "palabra": "Cautela",
+                "definición": "Tener mucho cuidado y precaución al hacer algo para evitar peligros."
+            },
+            {
+                "palabra": "Cristalina",
+                "definición": "Se dice del agua o de un líquido que es muy transparente y limpio, como el cristal."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base o soporte, normalmente de piedra o madera, sobre el que se coloca un objeto importante o una estatua."
+            },
+            {
+                "palabra": "Decepción",
+                "definición": "Sentimiento de tristeza o desilusión cuando algo no es como esperabas que fuera."
+            },
+            {
+                "palabra": "Inolvidable",
+                "definición": "Algo tan especial, bonito o impactante que se recordará para siempre."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto utilizaban los niños para guiarse hacia la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Una brújula digital",
+                    "Un mapa viejo con bordes quemados",
+                    "Las instrucciones de un monitor",
+                    "El GPS del móvil"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué momento del día decidieron escaparse para la aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Durante el desayuno",
+                    "Por la noche, mientras todos dormían",
+                    "A la hora de la siesta",
+                    "Justo antes de cenar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué marca en la pared les indicó el túnel correcto?",
+                "tipo": "test",
+                "opciones": [
+                    "Una flecha roja",
+                    "Un dibujo de un sol naciente",
+                    "Una calavera pirata",
+                    "La letra X"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué la cueva se llamaba 'Cueva de los Ecos'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque había murciélagos ruidosos",
+                    "Porque el viento silbaba muy fuerte",
+                    "Porque cada sonido se repetía y multiplicaba",
+                    "Porque allí vivía un monstruo mitológico"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nos dice sobre la personalidad de Mateo el hecho de que llevara herramientas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es muy miedoso y quería defenderse",
+                    "Que es previsor y le gusta ir preparado",
+                    "Que quería romper las estalactitas",
+                    "Que pesaba mucho su mochila"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué al principio se sintieron decepcionados al abrir la caja?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la caja estaba vacía",
+                    "Porque esperaban encontrar oro o joyas valiosas",
+                    "Porque no podían leer la letra del diario",
+                    "Porque la caja estaba llena de insectos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significado tiene la frase del diario: 'el verdadero tesoro son los recuerdos'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el fundador del campamento era pobre",
+                    "Que las experiencias vividas valen más que el dinero",
+                    "Que las fotos antiguas se pueden vender caras",
+                    "Que se habían equivocado de cueva"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hicieron los niños antes de irse de la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Se llevaron todo el contenido de la caja",
+                    "Rompieron la caja para que nadie más la encontrara",
+                    "Añadieron una foto suya al cofre",
+                    "Escribieron sus nombres en la pared con pintura"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que hicieron bien saltándose las normas del campamento para ir a la cueva? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue un poco peligroso porque si les pasaba algo nadie sabía dónde estaban, pero entiendo que lo hicieran porque la curiosidad y vivir una aventura con amigos es muy emocionante."
+            },
+            {
+                "enunciado": "Si tú encontraras un cofre del tesoro para dejar un mensaje al futuro, ¿qué objeto tuyo guardarías dentro?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo guardaría mi pulsera de la suerte y una carta contando cómo son los videojuegos de ahora, para que los niños del futuro sepan a qué jugábamos nosotros."
+            }
+        ]
+    },
+    {
+        "titulo": "La Tormenta en el Paso del Gigante",
+        "tema": "aventuras",
+        "texto": "Las vacaciones en los Pirineos prometían ser tranquilas, pero para Sara, de doce años, 'tranquilo' significaba 'aburrido'. Ella soñaba con ser alpinista como su tía Elena. Una mañana, a pesar de las nubes grises que se acumulaban en el horizonte, convenció a su hermano mayor, Pablo, para hacer una ruta corta hasta el 'Paso del Gigante', un desfiladero estrecho famoso por sus vistas. Pablo, que prefería leer cómics, aceptó a regañadientes solo porque Sara prometió hacer sus tareas de casa durante una semana.\n\nAl principio, el camino era sencillo, rodeado de pinos y flores silvestres. Pero a medida que ascendían, el paisaje se volvía más rocoso e inhóspito. De repente, el cielo se oscureció por completo. No era un anochecer normal; era una tormenta de montaña, rápida y furiosa. Los truenos retumbaron haciendo vibrar el suelo bajo sus botas y la lluvia comenzó a caer como agujas heladas. \n\n—¡Tenemos que volver! —gritó Pablo, intentando cubrirse con su chubasquero.\n\n—¡Es peligroso bajar con las rocas mojadas! —respondió Sara, demostrando sus conocimientos—. ¡Hay que buscar refugio!\n\nRecordó haber visto una pequeña oquedad en la pared de roca unos metros más arriba. Tiró de la manga de su hermano y corrieron hacia allí. Apenas cabían los dos sentados, pero el saliente de piedra los protegía de lo peor de la lluvia. El frío empezó a calarles los huesos. Pablo estaba temblando y asustado. Sara sabía que no podían quedarse dormidos ni dejar que el pánico les ganara. \n\nAbrió su mochila y sacó el kit de emergencia que su tía le había enseñado a preparar: una manta térmica plateada, una linterna, unas barritas energéticas y un silbato. Envolvió a Pablo y a ella misma con la manta, compartiendo el calor corporal. Para mantener el ánimo, empezaron a cantar canciones ridículas que se sabían de memoria, riéndose entre el castañeteo de dientes. \n\nPasaron dos horas eternas hasta que la lluvia se convirtió en granizo y luego paró de golpe. El sol se abrió paso entre las nubes negras, iluminando el valle con una luz dorada. Sara se asomó con precaución. El camino de bajada estaba convertido en un barrizal resbaladizo. \n\n—No podemos bajar andando —dijo Sara, evaluando el terreno con madurez—. Podríamos resbalar y caer por el barranco.\n\nSacó el silbato y comenzó a soplar tres veces seguidas, una pausa, y tres veces más: la señal internacional de socorro. Al cabo de veinte minutos, oyeron un pitido de respuesta. Un grupo de guardas forestales estaba patrullando cerca. Cuando los rescataron, el jefe del grupo felicitó a Sara por su sensatez al no intentar bajar y por llevar el equipo adecuado. Pablo miró a su hermana pequeña con nuevos ojos; ya no era la niña pesada que le pedía favores, sino una auténtica aventurera que había sabido mantenerlos a salvo.",
+        "glosario": [
+            {
+                "palabra": "Alpinista",
+                "definición": "Deportista que se dedica a subir montañas altas y escalar picos difíciles."
+            },
+            {
+                "palabra": "Desfiladero",
+                "definición": "Un paso estrecho y profundo entre montañas, como un pasillo de roca natural."
+            },
+            {
+                "palabra": "A regañadientes",
+                "definición": "Hacer algo de mala gana, protestando o sin querer hacerlo realmente."
+            },
+            {
+                "palabra": "Inhóspito",
+                "definición": "Un lugar incómodo, desagradable o difícil para vivir o estar en él, donde no hay comodidades."
+            },
+            {
+                "palabra": "Oquedad",
+                "definición": "Un espacio hueco o agujero dentro de un cuerpo sólido, como una pequeña cueva en una roca."
+            },
+            {
+                "palabra": "Manta térmica",
+                "definición": "Una lámina muy fina, parecida al papel de aluminio, que sirve para mantener el calor del cuerpo en emergencias."
+            },
+            {
+                "palabra": "Castañeteo",
+                "definición": "El sonido que hacen los dientes al chocar unos con otros rápidamente, normalmente por mucho frío o miedo."
+            },
+            {
+                "palabra": "Barrizal",
+                "definición": "Un terreno lleno de barro donde es muy difícil caminar sin resbalarse o mancharse."
+            },
+            {
+                "palabra": "Barranco",
+                "definición": "Un precipicio o corte profundo en el terreno con peligro de caída."
+            },
+            {
+                "palabra": "Sensatez",
+                "definición": "Cualidad de las personas que actúan con prudencia, buen juicio y pensando bien las cosas antes de hacerlas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué quería ser Sara de mayor?",
+                "tipo": "test",
+                "opciones": [
+                    "Guardabosques",
+                    "Alpinista",
+                    "Meteoróloga",
+                    "Escritora de cómics"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo convenció Sara a Pablo para ir de excursión?",
+                "tipo": "test",
+                "opciones": [
+                    "Le prometió dinero",
+                    "Le dijo que había un tesoro",
+                    "Prometió hacer sus tareas de casa una semana",
+                    "Le amenazó con chivarse a sus padres"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué objeto del kit de emergencia usaron para pedir ayuda al final?",
+                "tipo": "test",
+                "opciones": [
+                    "La linterna",
+                    "El teléfono móvil",
+                    "Las barritas energéticas",
+                    "El silbato"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Por qué Sara decidió que no debían bajar inmediatamente cuando paró la lluvia?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería seguir jugando",
+                    "Porque el camino era un barrizal peligroso",
+                    "Porque Pablo se había dormido",
+                    "Porque esperaba ver el atardecer"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué señal nos indica al principio del texto que iba a haber mal tiempo?",
+                "tipo": "test",
+                "opciones": [
+                    "El calor sofocante",
+                    "Los pájaros volando bajo",
+                    "Las nubes grises acumulándose en el horizonte",
+                    "El aviso de la radio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué cantaron canciones durante la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Para practicar para un concurso",
+                    "Para que los rescatistas los oyeran",
+                    "Para mantener el ánimo y no pensar en el frío",
+                    "Porque estaban aburridos esperando"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué aprendió Pablo sobre su hermana al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que cantaba muy mal",
+                    "Que era una niña pesada",
+                    "Que era valiente, preparada y sensata",
+                    "Que le daba miedo la lluvia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué fue lo más importante para que los hermanos estuvieran a salvo durante la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Correr muy rápido hacia abajo",
+                    "El kit de emergencia y mantener la calma",
+                    "Tener mucha fuerza física",
+                    "Llevar ropa de marca"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Sara fue responsable al salir de excursión viendo que había nubes grises? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que no fue muy responsable salir sabiendo que podía llover, porque en la montaña el tiempo cambia rápido y es peligroso. Aunque luego actuó muy bien cuando pasó todo, lo mejor habría sido no salir."
+            },
+            {
+                "enunciado": "Sara llevaba una mochila preparada con cosas útiles. Si tú fueras a una excursión, ¿qué tres cosas meterías obligatoriamente en tu mochila?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo metería una botella de agua grande para no deshidratarme, tiritas por si me hago una herida en los pies y una chaqueta impermeable por si se pone a llover de repente."
+            }
+        ]
+    }
+]

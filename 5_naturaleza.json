@@ -1,0 +1,884 @@
+[
+    {
+        "titulo": "El Guardián del Bosque de Niebla",
+        "tema": "naturaleza",
+        "texto": "En el corazón de la cordillera donde las nubes se confunden con la tierra, existía un lugar mágico conocido como el Bosque de Niebla. Samuel, un niño que vivía en el valle cercano, siempre había sentido una conexión especial con los árboles centenarios que coronaban las cimas. Un día, mientras exploraba un sendero poco transitado, descubrió que los robles y helechos estaban perdiendo su color esmeralda característico. Las hojas se tornaban amarillentas y el musgo, que solía ser una alfombra suave, se sentía seco y quebradizo al tacto. Preocupado, Samuel decidió buscar al Gran Guardián, un anciano que, según las leyendas locales, habitaba en una cueva cerca del manantial sagrado. Tras horas de caminata entre rocas y arroyos, encontró una figura encorvada que observaba con tristeza una pequeña flor que languidecía. El Guardián le explicó que el equilibrio del ecosistema se estaba rompiendo porque los seres humanos habían olvidado el ciclo del agua y estaban desviando los cauces naturales para intereses egoístas. La humedad, que era la vida del bosque, ya no llegaba a las raíces más profundas. Samuel comprendió que no se trataba solo de plantas muriendo, sino de todo un sistema que dependía de cada gota. El Guardián le entregó una semilla dorada y le dijo que solo la voluntad de la comunidad podría salvar el lugar. Samuel regresó al pueblo y organizó a sus compañeros de escuela para limpiar los arroyos obstruidos y plantar especies nativas que retuvieran la humedad. Al principio, muchos adultos se mostraron escépticos, pero al ver la determinación de los niños, decidieron unirse a la causa. Juntos, construyeron pequeños diques de piedra para canalizar el agua de lluvia hacia las zonas más secas. Con el paso de las semanas, ocurrió un milagro: la niebla volvió a abrazar los troncos y el verde intenso recuperó su trono. Los animales, que se habían marchado en busca de agua, regresaron llenando el aire de cantos y sonidos vibrantes. Samuel volvió a la cueva para agradecer al Guardián, pero solo encontró la flor que antes languidecía, ahora radiante y fuerte. Entendió que el Guardián era el espíritu mismo de la naturaleza, que vive en quienes la protegen. Desde entonces, Samuel se convirtió en el líder ambiental de su comunidad, enseñando a todos que la naturaleza no es un recurso que poseemos, sino un hogar sagrado que nos presta la vida. Cada vez que subía a la montaña, sentía que los árboles le susurraban secretos de gratitud a través del viento. La lección del Bosque de Niebla se extendió por toda la región, inspirando a otros pueblos a cuidar sus fuentes hídricas y a respetar la biodiversidad que los rodeaba, asegurando así un futuro donde el hombre y el bosque caminaran de la mano para siempre.",
+        "glosario": [
+            {
+                "palabra": "Centenario",
+                "definición": "Que tiene cien años o más de edad."
+            },
+            {
+                "palabra": "Esmeralda",
+                "definición": "Color verde brillante y profundo, como el de una piedra preciosa."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Conjunto formado por los seres vivos, el ambiente donde viven y sus relaciones."
+            },
+            {
+                "palabra": "Cauce",
+                "definición": "El camino o canal por donde fluye el agua de un río o arroyo."
+            },
+            {
+                "palabra": "Escéptico",
+                "definición": "Persona que duda de algo o que no cree en ello fácilmente."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "La variedad de seres vivos (plantas, animales y microorganismos) que viven en un lugar."
+            },
+            {
+                "palabra": "Hídrico",
+                "definición": "Todo lo relacionado con el agua."
+            },
+            {
+                "palabra": "Languidecer",
+                "definición": "Perder el ánimo, el vigor o la fuerza, marchitarse."
+            },
+            {
+                "palabra": "Dique",
+                "definición": "Muro o construcción hecha para detener o desviar el agua."
+            },
+            {
+                "palabra": "Saturado",
+                "definición": "Algo que está completamente lleno o empapado de una sustancia."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el lugar mágico donde vivía el Gran Guardián?",
+                "tipo": "test",
+                "opciones": [
+                    "Bosque de las Hadas",
+                    "Valle del Sol",
+                    "Bosque de Niebla",
+                    "Montaña Verde"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué objeto le entregó el Guardián a Samuel?",
+                "tipo": "test",
+                "opciones": [
+                    "Una brújula de madera",
+                    "Una semilla dorada",
+                    "Un mapa del bosque",
+                    "Un frasco con agua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué descubrió Samuel en el suelo del bosque que estaba seco?",
+                "tipo": "test",
+                "opciones": [
+                    "La arena",
+                    "El musgo",
+                    "Las piedras",
+                    "Las cuevas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se estaba muriendo el bosque según el Guardián?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque hacía demasiado calor",
+                    "Porque los humanos desviaban los cauces de agua",
+                    "Porque los animales se habían ido",
+                    "Porque la semilla era vieja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre la desaparición del Guardián al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Se perdió en el bosque",
+                    "Se fue a vivir a otro país",
+                    "Era un ser mágico o una representación de la naturaleza",
+                    "Estaba enfadado con Samuel"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue la clave para que los adultos ayudaran a los niños?",
+                "tipo": "test",
+                "opciones": [
+                    "Les pagaron dinero",
+                    "Vieron que los niños estaban decididos y trabajaban duro",
+                    "Les obligó el director de la escuela",
+                    "Hicieron un sorteo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el cambio de color de las hojas al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "La llegada del otoño",
+                    "La enfermedad del ecosistema por falta de agua",
+                    "Un truco de magia",
+                    "Que los árboles eran viejos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si el agua no hubiera regresado, ¿qué habría pasado con los animales?",
+                "tipo": "test",
+                "opciones": [
+                    "Habrían aprendido a vivir sin beber",
+                    "No habrían vuelto nunca al bosque",
+                    "Habrían cavado pozos",
+                    "Se habrían convertido en plantas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que los niños pueden enseñar cosas importantes a los adultos sobre el medio ambiente?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí porque a veces los adultos están muy ocupados con sus cosas y se olvidan de cuidar el planeta. Los niños vemos los problemas con más ganas de ayudar y si nos unimos, podemos darles una lección de que el mundo es de todos."
+            },
+            {
+                "enunciado": "¿Por qué es importante cuidar los ríos y arroyos incluso si no vivimos cerca de un bosque?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque el agua siempre viaja y todo está conectado. Si ensuciamos un río aquí, ese agua llega a otros sitios y mueren plantas o animales. Sin agua limpia al final nadie podría vivir, ni nosotros ni la naturaleza."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Arrecife Coralino",
+        "tema": "naturaleza",
+        "texto": "Bajo la superficie turquesa del Mar Caribe, se extendía una ciudad sumergida de colores vibrantes y formas caprichosas: el Gran Arrecife de Coral. Lucía, hija de una bióloga marina, pasaba sus vacaciones buceando entre peces cirujano y tortugas carey. Sin embargo, este verano notó algo alarmante. Grandes extensiones del arrecife se habían vuelto blancas, como si la vida se hubiera evaporado de sus estructuras. Su madre le explicó que este fenómeno se llamaba blanqueamiento y ocurría cuando el agua se calentaba demasiado debido al cambio climático, expulsando a las pequeñas algas que dan color y alimento al coral. Lucía se sintió impotente al ver aquel desierto de cal donde antes había un festival de biodiversidad. Mientras nadaba cerca de una grieta profunda, observó una colonia de coral que seguía brillando con un azul intenso, resistiendo el calor. Parecía tener una simbiosis única con un tipo de esponja marina que filtraba el agua manteniéndola más fresca a su alrededor. Lucía tomó fotos y anotó las coordenadas en su libreta resistente al agua. Al regresar al laboratorio, propuso un proyecto audaz: crear viveros de estas especies resistentes para repoblar las zonas dañadas. El desafío era enorme, pues los corales crecen muy lentamente, apenas unos milímetros al año. Con la ayuda de voluntarios, instalaron estructuras de metal que favorecían el crecimiento de los fragmentos de coral azul. Lucía pasaba horas bajo el agua limpiando las algas invasoras que intentaban asfixiar a los pequeños brotes. Un día, una tormenta tropical amenazó con destruir el vivero, pero la comunidad de pescadores, que ahora entendía que sin arrecife no habría peces, protegió las instalaciones con sus propias redes y embarcaciones. Meses después, el esfuerzo dio sus frutos. Los primeros pólipos empezaron a colonizar las rocas blancas, devolviendo la esperanza al océano. La biodiversidad regresó; los caballitos de mar volvieron a enredar sus colas en los corales y los tiburones de arrecife patrullaban de nuevo las aguas. Lucía comprendió que la naturaleza tiene una resiliencia asombrosa, pero necesita que los humanos seamos sus aliados y no sus enemigos. La niña que antes solo miraba peces, se había convertido en una científica en potencia, demostrando que la observación y la acción pueden cambiar el destino de un ecosistema entero. El arrecife ya no era solo un lugar bonito para nadar, sino un testimonio vivo de que la unión entre la ciencia y el amor por la tierra es la herramienta más poderosa para sanar nuestro planeta azul. Cada burbuja de aire que Lucía soltaba al bucear parecía un suspiro de alivio de un mar que volvía a respirar con salud.",
+        "glosario": [
+            {
+                "palabra": "Arrecife",
+                "definición": "Estructura bajo el mar formada por esqueletos de corales y otros organismos."
+            },
+            {
+                "palabra": "Blanqueamiento",
+                "definición": "Pérdida de color del coral cuando está estresado por el calor del agua."
+            },
+            {
+                "palabra": "Simbiosis",
+                "definición": "Relación entre dos seres vivos donde ambos se ayudan para sobrevivir."
+            },
+            {
+                "palabra": "Resiliencia",
+                "definición": "Capacidad de un ser vivo o sistema para recuperarse de un daño o dificultad."
+            },
+            {
+                "palabra": "Pólipo",
+                "definición": "Pequeño animal marino que forma las colonias de coral."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "Variedad de especies animales y vegetales en su medio ambiente."
+            },
+            {
+                "palabra": "Invasoras",
+                "definición": "Especies que llegan a un lugar que no es el suyo y dañan a las que ya vivían allí."
+            },
+            {
+                "palabra": "Coordenadas",
+                "definición": "Números que sirven para encontrar la posición exacta de un punto en un mapa o en el mar."
+            },
+            {
+                "palabra": "Vivero",
+                "definición": "Lugar donde se cuidan y crían plantas o animales pequeños para que crezcan fuertes."
+            },
+            {
+                "palabra": "Audaz",
+                "definición": "Una idea o persona valiente que se atreve a hacer cosas difíciles."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué fenómeno hacía que el coral se volviera blanco?",
+                "tipo": "test",
+                "opciones": [
+                    "La falta de luz",
+                    "El blanqueamiento por el calor del agua",
+                    "El exceso de sal",
+                    "La mordida de los peces"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animal ayudaba al coral azul a mantenerse fresco?",
+                "tipo": "test",
+                "opciones": [
+                    "Una tortuga carey",
+                    "Un pez cirujano",
+                    "Una esponja marina",
+                    "Un caballito de mar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué instalaron Lucía y los voluntarios para ayudar al coral?",
+                "tipo": "test",
+                "opciones": [
+                    "Redes de pesca",
+                    "Estructuras de metal",
+                    "Bombas de aire",
+                    "Luces de colores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los pescadores ayudaron a proteger el vivero durante la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque les pagaron",
+                    "Porque sabían que sin arrecife no tendrían peces para pescar",
+                    "Porque eran amigos de la madre de Lucía",
+                    "Porque querían las redes nuevas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre el crecimiento del coral?",
+                "tipo": "test",
+                "opciones": [
+                    "Que crece muy rápido en verano",
+                    "Que requiere mucha paciencia porque es muy lento",
+                    "Que no necesita agua limpia",
+                    "Que solo crece de noche"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué importancia tuvo la libreta de Lucía en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Para dibujar peces",
+                    "Para anotar las coordenadas de los corales resistentes",
+                    "Para escribir cartas",
+                    "Para hacer barquitos de papel"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el arrecife es un 'desierto de cal'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay mucha arena",
+                    "Que el coral muerto es blanco y no tiene vida",
+                    "Que es un lugar muy divertido",
+                    "Que el agua está muy dulce"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la principal amenaza para el arrecife según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Los tiburones",
+                    "La falta de comida",
+                    "El cambio climático y el calentamiento del agua",
+                    "Las tormentas tropicales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece bien que los pescadores dejaran de pescar un tiempo para cuidar el arrecife?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, me parece una idea genial. Aunque al principio no ganen dinero, si el coral muere, los peces se van y luego no tendrán nada que pescar. Es mejor cuidar el mar ahora para tener peces siempre."
+            },
+            {
+                "enunciado": "¿Qué te gustaría hacer a ti para ayudar al océano si vivieras cerca de la playa?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo recogería todos los plásticos que vea en la arena para que no se los coman las tortugas. También le diría a la gente que no pise el coral cuando bucea porque es un ser vivo muy delicado y tarda mucho en crecer."
+            }
+        ]
+    },
+    {
+        "titulo": "El Susurro de las Secuoyas Gigantes",
+        "tema": "naturaleza",
+        "texto": "En el corazón de un valle oculto por la niebla matutina, se alzaba un bosque de secuoyas tan antiguas que sus raíces parecían abrazar el centro de la Tierra. El aire allí siempre olía a resina fresca y tierra húmeda, un aroma que transportaba a cualquiera a una época olvidada. Mateo, un niño de once años con una curiosidad inagotable, acompañaba a su abuela Clara, una botánica experimentada, en una expedición para documentar la salud de estos colosos de madera. Mientras caminaban entre los troncos rojizos que rozaban el cielo, Mateo notó algo inusual cerca del arroyo de cristal. Un grupo de secuoyas jóvenes presentaba manchas extrañas en sus cortezas, como si algo estuviera drenando su energía vital. Su abuela, preocupada, explicó que el equilibrio del ecosistema es sumamente delicado y que cualquier alteración mínima puede causar una catástrofe en cadena. Decidieron investigar la fuente del arroyo, sospechando que el problema venía del agua. Tras una larga caminata ladera arriba, descubrieron una obstrucción artificial hecha de plásticos y restos de construcción que alguien había arrojado ilegalmente, bloqueando el flujo natural y contaminando los nutrientes que las raíces absorbían. Con esfuerzo y determinación, Mateo y su abuela comenzaron a retirar los escombros, liberando el agua que rugió con alegría al recuperar su cauce. Mateo comprendió en ese instante que proteger la naturaleza no es solo un deber, sino una forma de agradecimiento hacia los seres que nos dan oxígeno y sombra. Observó cómo un pequeño ciervo se acercaba a beber del agua ahora limpia, confirmando que la biodiversidad florece cuando el ser humano actúa con respeto y empatía. De regreso al campamento, la luz del atardecer filtrándose entre las ramas creaba un espectáculo de sombras y destellos dorados. Su abuela le entregó una pequeña libreta de campo para que anotara sus descubrimientos, nombrándolo oficialmente guardián del valle. Mateo escribió con orgullo que la fuerza del bosque reside en la cooperación de todos sus habitantes, desde el hongo más pequeño hasta el árbol más alto. Esa noche, bajo un manto de estrellas que parecían diamantes sobre terciopelo negro, el niño escuchó el viento soplar entre las copas. No era un ruido común; era un susurro de gratitud de las secuoyas que finalmente podían beber agua pura. La expedición terminó, pero la conciencia ambiental de Mateo creció como una de aquellas semillas que, con el tiempo, se convierten en gigantes. Prometió regresar cada verano para vigilar que el equilibrio se mantuviera intacto. El bosque de niebla ya no era solo un paisaje en un mapa, sino un amigo vivo que necesitaba voz. Así, el pequeño investigador entendió que la verdadera grandeza no está en el tamaño, sino en la capacidad de cuidar la vida en todas sus formas posibles. La naturaleza le había enseñado la lección más importante de su vida: todos somos parte de una misma y hermosa red vital.",
+        "glosario": [
+            {
+                "palabra": "Secuoya",
+                "definición": "Árbol de gran tamaño que puede vivir miles de años y crecer mucho más que un edificio."
+            },
+            {
+                "palabra": "Botánica",
+                "definición": "Persona que se dedica al estudio científico de las plantas y los vegetales."
+            },
+            {
+                "palabra": "Inagotable",
+                "definición": "Algo que no se cansa nunca o que parece no tener fin."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Conjunto de seres vivos y el medio ambiente donde viven y se relacionan."
+            },
+            {
+                "palabra": "Catástrofe",
+                "definición": "Un suceso muy triste o destructivo que causa grandes daños a la naturaleza o a las personas."
+            },
+            {
+                "palabra": "Drenando",
+                "definición": "Sacar o retirar un líquido o la energía de un lugar de manera constante."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "La variedad de diferentes animales, plantas y seres vivos que existen en un lugar."
+            },
+            {
+                "palabra": "Empatía",
+                "definición": "Capacidad de entender y compartir los sentimientos o necesidades de los demás, incluso de la naturaleza."
+            },
+            {
+                "palabra": "Obstrucción",
+                "definición": "Algo que impide el paso de un líquido o de una cosa por un camino o conducto."
+            },
+            {
+                "palabra": "Resiliencia",
+                "definición": "Capacidad de los seres vivos para recuperarse de situaciones difíciles o daños ambientales."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Quién acompaña a Mateo en la expedición al bosque?",
+                "tipo": "test",
+                "opciones": [
+                    "Su profesor de ciencias",
+                    "Su abuela Clara",
+                    "Su mejor amigo",
+                    "Un guardabosques"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué causa la contaminación y la falta de agua en las secuoyas jóvenes?",
+                "tipo": "test",
+                "opciones": [
+                    "Un incendio forestal",
+                    "Una sequía natural",
+                    "Restos de construcción y plásticos",
+                    "Un grupo de animales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué aroma se menciona que tiene el bosque al principio del texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Flores silvestres",
+                    "Resina fresca y tierra húmeda",
+                    "Fruta madura",
+                    "Aire seco"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué la abuela de Mateo se preocupa al ver las manchas en la corteza?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque sabe que los árboles están muriendo por falta de nutrientes",
+                    "Porque las manchas ensucian el bosque",
+                    "Porque cree que habrá una tormenta",
+                    "Porque perdió sus herramientas"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué significa que la biodiversidad florece cuando el humano actúa con respeto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que nacen flores de metal",
+                    "Que los animales y plantas viven mejor si no los dañamos",
+                    "Que los humanos deben vivir en los árboles",
+                    "Que los ciervos aprenden a hablar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la función del arroyo dentro del ecosistema del bosque?",
+                "tipo": "test",
+                "opciones": [
+                    "Servir de camino para Mateo",
+                    "Reflejar la luz del sol solamente",
+                    "Llevar nutrientes y agua vital a las raíces de los árboles",
+                    "Hacer ruido para que el bosque no esté en silencio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo cambia el sentimiento de Mateo respecto al bosque al final del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Se aburre y quiere irse a casa",
+                    "Se siente un extraño en la naturaleza",
+                    "Siente que el bosque es un amigo vivo que debe proteger",
+                    "Decide que quiere ser leñador"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué representa la semilla mencionada al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Una merienda para el ciervo",
+                    "El crecimiento de la conciencia ambiental de Mateo",
+                    "Un regalo para su abuela",
+                    "Algo que se encontró en la basura"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que estuvo bien que Mateo y su abuela limpiaran el arroyo ellos mismos?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que hicieron súper bien porque si se quedaban esperando a que viniera otra persona, los árboles jóvenes igual se morían. A veces hay que actuar rápido para ayudar a la naturaleza cuando ves que está sufriendo por culpa de la basura."
+            },
+            {
+                "enunciado": "Si encontraras basura en un lugar natural, ¿qué harías y por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Intentaría recogerla con cuidado si puedo, o avisar a un adulto para que me ayude. Me daría mucha pena que un animal se la coma o que ensucie el agua, porque la naturaleza es de todos y hay que dejarla limpia."
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Arrecife de Cristal",
+        "tema": "naturaleza",
+        "texto": "Bajo las aguas turquesas de una isla remota, existía un reino de colores vibrantes conocido como el Arrecife de Cristal. Elena, una niña apasionada por el buceo, siempre se maravillaba con la danza rítmica de los peces payaso entre las anémonas. Sin embargo, este verano el panorama era desolador: gran parte del coral se había vuelto blanco, como si la vida se hubiera evaporado. Su madre, una bióloga marina, le explicó que el aumento de la temperatura del océano estaba provocando el blanqueamiento, un proceso donde el coral expulsa a las algas diminutas que le dan alimento y color. Elena decidió que no podía quedarse de brazos cruzados mientras su paraíso submarino desaparecía. Con la ayuda de un grupo de voluntarios locales, comenzó un proyecto para crear viveros de coral en zonas más frescas y profundas. Pasaban horas sumergidos, atando con cuidado pequeños fragmentos de coral sano a estructuras metálicas que favorecían su crecimiento. Durante sus inmersiones, Elena observó que algunas especies de peces limpiadores ayudaban a mantener los corales libres de algas nocivas, demostrando que la cooperación es vital bajo el mar. Un día, mientras inspeccionaba las estructuras, descubrió una red de pesca abandonada, conocida como red fantasma, que estaba asfixiando a una tortuga carey y destruyendo los nuevos brotes. Con mucha paciencia y un cuchillo de buceo, Elena liberó a la tortuga, que se alejó con un elegante aleteo. Este incidente le hizo comprender que la contaminación por plásticos es una amenaza tan grave como el cambio climático. La niña organizó charlas en su escuela para prohibir los plásticos de un solo uso en la isla, logrando que los pescadores también se comprometieran a recuperar sus redes perdidas. Meses después, el vivero de coral comenzó a florecer, mostrando nuevos matices de rosa y naranja. La vida regresaba al arrecife; los caballitos de mar volvieron a enredar sus colas en las ramificaciones y los tiburones de punta negra patrullaban de nuevo con calma. Elena se dio cuenta de que el océano tiene una capacidad asombrosa de recuperarse si le damos una oportunidad. El Arrecife de Cristal recuperó su brillo, no por arte de magia, sino por el esfuerzo constante de una comunidad que entendió que su destino estaba ligado al del mar. Al final del verano, Elena se sentó en la orilla, observando cómo la marea subía y bajaba. Sintió que cada ola era un suspiro de alivio de un ecosistema que volvía a respirar. La pequeña buceadora ya no solo veía el mar como un lugar de juegos, sino como un tesoro frágil que requería vigilancia y amor perpetuo. Su historia se convirtió en un ejemplo para otras islas cercanas, demostrando que incluso las acciones de una niña pueden generar olas de cambio positivas en todo el planeta azul. El misterio del arrecife se había resuelto: la clave para la supervivencia no era el aislamiento, sino la conexión profunda entre los seres humanos y el mundo marino.",
+        "glosario": [
+            {
+                "palabra": "Arrecife",
+                "definición": "Estructura bajo el mar formada por los esqueletos de animales llamados corales."
+            },
+            {
+                "palabra": "Anémona",
+                "definición": "Animal marino de colores brillantes con tentáculos que parece una planta."
+            },
+            {
+                "palabra": "Blanqueamiento",
+                "definición": "Fenómeno por el cual el coral pierde su color y se debilita debido al calor del agua."
+            },
+            {
+                "palabra": "Bióloga",
+                "definición": "Persona que estudia a los seres vivos y cómo funcionan sus cuerpos y ambientes."
+            },
+            {
+                "palabra": "Vivero",
+                "definición": "Lugar especial donde se cuidan plantas o corales pequeños para que crezcan fuertes antes de llevarlos a la naturaleza."
+            },
+            {
+                "palabra": "Inmersión",
+                "definición": "Acción de introducirse completamente bajo el agua, generalmente para bucear."
+            },
+            {
+                "palabra": "Nocivas",
+                "definición": "Cosas o sustancias que son dañinas o peligrosas para la salud o el medio ambiente."
+            },
+            {
+                "palabra": "Red fantasma",
+                "definición": "Red de pesca perdida o abandonada en el mar que sigue atrapando animales sin control."
+            },
+            {
+                "palabra": "Sustentable",
+                "definición": "Algo que se puede mantener en el tiempo sin agotar los recursos naturales ni dañar el entorno."
+            },
+            {
+                "palabra": "Pólipo",
+                "definición": "Pequeño animal marino que, al unirse con muchos otros, forma las grandes estructuras de coral."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué fenómeno está afectando al color de los corales en el arrecife?",
+                "tipo": "test",
+                "opciones": [
+                    "La falta de luz solar",
+                    "El blanqueamiento por el calor",
+                    "Un exceso de peces",
+                    "La lluvia constante"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animal libera Elena de la red de pesca abandonada?",
+                "tipo": "test",
+                "opciones": [
+                    "Un pez payaso",
+                    "Un tiburón",
+                    "Una tortuga carey",
+                    "Un caballito de mar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué técnica utiliza Elena para ayudar a que el coral crezca de nuevo?",
+                "tipo": "test",
+                "opciones": [
+                    "Pintar los corales de colores",
+                    "Crear viveros en estructuras metálicas",
+                    "Alimentar a los peces con vitaminas",
+                    "Cerrar la playa al público"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el coral expulsa a las algas diminutas según la madre de Elena?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque son aburridas",
+                    "Porque el agua se calienta demasiado",
+                    "Porque hay mucha sal",
+                    "Porque las algas son malas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre la relación entre los peces limpiadores y el coral?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los peces se comen el coral",
+                    "Que los peces ayudan al coral a estar sano al quitarle lo que le daña",
+                    "Que no se llevan bien",
+                    "Que los peces ensucian el arrecife"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambio social logra Elena en su isla?",
+                "tipo": "test",
+                "opciones": [
+                    "Que todos aprendan a bucear",
+                    "Que se prohíban los plásticos de un solo uso",
+                    "Que se construya un hotel nuevo",
+                    "Que nadie pueda pescar nunca más"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el sentimiento predominante de Elena al ver el arrecife blanco al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Alegría",
+                    "Indiferencia",
+                    "Tristeza y preocupación",
+                    "Miedo a los tiburones"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que el arrecife es un 'tesoro frágil'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que cuesta mucho dinero",
+                    "Que es muy resistente a todo",
+                    "Que es muy valioso pero se puede destruir fácilmente si no se cuida",
+                    "Que está hecho de cristal de verdad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece importante que Elena diera charlas en su escuela además de bucear?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue muy importante porque de nada sirve limpiar el mar si la gente sigue tirando basura o usando plásticos. Al hablar en la escuela, convenció a más niños para que ayudaran y así el cambio es más grande."
+            },
+            {
+                "enunciado": "¿Qué lecciones podemos aprender de la tortuga que fue salvada?",
+                "tipo": "abierta",
+                "respuestaModelo": "Nos enseña que nuestras acciones, como dejar una red tirada, pueden lastimar a animales que no tienen la culpa de nada. También que debemos ser responsables con nuestras cosas para que el mar sea un sitio seguro para ellos."
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián del Roble Milenario",
+        "tema": "naturaleza",
+        "texto": "En el corazón de un valle protegido por altas montañas, donde el aire siempre huele a tierra mojada y resina, se alzaba el Roble Milenario. Sus ramas eran tan extensas que parecían querer abrazar el cielo entero, y su tronco era tan ancho que hacían falta diez niños cogidos de la mano para rodearlo por completo. Lucas, un niño de sexto de primaria apasionado por la biología, visitaba el árbol cada sábado con su cuaderno de campo. Sin embargo, aquel sábado de primavera notó algo que le heló la sangre: las hojas del gigante, que deberían ser de un verde intenso, mostraban manchas marrones y se caían al menor soplo de viento. Preocupado, Lucas comenzó a inspeccionar las raíces y descubrió que el suelo estaba inusualmente compacto y seco, a pesar de las lluvias recientes. Al investigar los alrededores, se dio cuenta de que una nueva senda turística pasaba demasiado cerca del árbol, y cientos de personas pisoteaban la tierra a diario, apretándola tanto que el agua no podía filtrarse hasta las raíces profundas. Lucas comprendió que el roble se estaba asfixiando por el peso del progreso descontrolado. Corrió al pueblo y pidió ayuda a su maestra, organizando una campaña para informar a los visitantes sobre la fragilidad del ecosistema. Los niños de la escuela fabricaron carteles de madera reciclada explicando que el suelo es un organismo vivo que necesita respirar. Gracias a su perseverancia, lograron que el ayuntamiento desviara el camino y colocara una pasarela de madera elevada para que la gente pudiera admirar el árbol sin dañar su entorno. Con el paso de las semanas, y tras unas cuantas jornadas de riego cuidadoso por parte de los voluntarios, el Roble Milenario empezó a recuperarse. Las nuevas yemas brotaron con fuerza y el sonido de los pájaros regresó a su copa. Lucas aprendió que la naturaleza no es algo infinito que aguante todo, sino un equilibrio delicado que requiere nuestra atención y respeto constante. El árbol no solo daba sombra, sino que era el hogar de ardillas, insectos y musgos que dependían de su salud para sobrevivir. Aquel verano, bajo la sombra fresca del gigante recuperado, Lucas escribió en su diario que la verdadera valentía no consiste en hacer grandes hazañas, sino en proteger a los que no tienen voz, como los árboles. El valle volvió a ser un refugio de paz, y el Roble Milenario siguió creciendo, recordando a todos que el futuro de la naturaleza está en las manos de quienes deciden cuidarla hoy. El niño miró hacia arriba y sintió que el susurro de las hojas era un agradecimiento silencioso que solo aquellos que aman el bosque pueden llegar a entender realmente.",
+        "glosario": [
+            {
+                "palabra": "Inusualmente",
+                "definición": "De una manera poco común o extraña, que no sucede normalmente."
+            },
+            {
+                "palabra": "Compacto",
+                "definición": "Algo que está muy apretado o denso, sin dejar espacios libres."
+            },
+            {
+                "palabra": "Filtrarse",
+                "definición": "Pasar poco a poco un líquido a través de las pequeñas aberturas de un cuerpo sólido."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Comunidad de seres vivos que viven en un lugar y se relacionan entre ellos y con el medio."
+            },
+            {
+                "palabra": "Fragilidad",
+                "definición": "Cualidad de algo que se puede romper o dañar con mucha facilidad."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Esfuerzo continuo para alcanzar un objetivo, sin rendirse ante las dificultades."
+            },
+            {
+                "palabra": "Yemas",
+                "definición": "Pequeños bultos en las ramas de las plantas de donde salen las nuevas hojas o flores."
+            },
+            {
+                "palabra": "Refugio",
+                "definición": "Lugar adecuado para protegerse de un peligro o para estar tranquilo."
+            },
+            {
+                "palabra": "Organismo",
+                "definición": "Cualquier ser vivo, ya sea una planta, un animal o una bacteria."
+            },
+            {
+                "palabra": "Descontrolado",
+                "definición": "Algo que no tiene orden y que crece o sucede sin que nadie lo vigile bien."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cuántos niños hacían falta para rodear el tronco del roble?",
+                "tipo": "test",
+                "opciones": [
+                    "Cinco niños",
+                    "Dos niños",
+                    "Diez niños",
+                    "Veinte niños"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué problema físico tenía el suelo alrededor del árbol?",
+                "tipo": "test",
+                "opciones": [
+                    "Estaba muy húmedo",
+                    "Tenía demasiada arena",
+                    "Estaba compacto y seco por las pisadas",
+                    "Estaba lleno de basura"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue la solución final para que la gente visitara el árbol sin dañarlo?",
+                "tipo": "test",
+                "opciones": [
+                    "Prohibir la entrada al bosque",
+                    "Poner una valla de metal",
+                    "Construir una pasarela de madera elevada",
+                    "Regar el árbol todos los días"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué las hojas del roble se estaban volviendo marrones?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era otoño",
+                    "Porque el agua no llegaba a las raíces profundas",
+                    "Porque los insectos se las comían",
+                    "Porque el árbol era demasiado viejo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre la personalidad de Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "Es descuidado y prefiere jugar videojuegos",
+                    "Es observador y se preocupa por el medio ambiente",
+                    "No le gusta hablar con los adultos",
+                    "Solo le interesan los animales, no las plantas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el texto dice que el roble se asfixiaba por el 'peso del progreso'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el árbol pesaba mucho",
+                    "Porque el turismo (progreso) estaba dañando la salud del árbol",
+                    "Porque habían construido un edificio encima",
+                    "Porque el aire estaba contaminado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué función cumplen los carteles que hicieron los niños?",
+                "tipo": "test",
+                "opciones": [
+                    "Decorar el bosque",
+                    "Asustar a los turistas",
+                    "Educar a las personas sobre el cuidado del suelo",
+                    "Ganar un concurso de dibujo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué habría pasado si Lucas no hubiera hecho nada?",
+                "tipo": "test",
+                "opciones": [
+                    "El árbol se habría curado solo",
+                    "El roble probablemente habría muerto por falta de agua y aire",
+                    "Habrían cortado el árbol para hacer leña",
+                    "El ayuntamiento habría quitado el camino de todas formas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que es responsabilidad de los niños cuidar la naturaleza o deberían hacerlo solo los adultos?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que es cosa de todos. Aunque seamos pequeños, podemos ver cosas que los mayores no ven porque siempre van con prisa. Si nosotros cuidamos el planeta ahora, cuando seamos grandes todavía habrá árboles bonitos."
+            },
+            {
+                "enunciado": "¿Qué lección te enseña la historia sobre el turismo en lugares naturales?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me enseña que podemos ir a visitar sitios chulos, pero sin molestar. No vale solo con ir y hacerse fotos, hay que respetar por donde pisamos para no estropear la casa de las plantas y los animales."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Arrecife de Cristal",
+        "tema": "naturaleza",
+        "texto": "Bajo la superficie turquesa del océano, donde los rayos del sol juegan a esconderse entre las corrientes, se extendía el Arrecife de Cristal. Era un mundo vibrante de corales rosa, amarillo y azul, donde los peces payaso se refugiaban en anémonas mecidas por el agua. Martina, cuyo padre era un experto buceador, se sumergió aquel verano equipada con sus gafas y aletas. Al llegar al borde del arrecife, notó que una gran zona de corales se había vuelto blanca, como si la nieve hubiera caído bajo el mar. Su padre le explicó con tristeza que el aumento de la temperatura del agua estaba provocando el blanqueamiento del coral, un proceso peligroso donde los corales expulsan a las algas diminutas que les dan color y alimento. Sin esas algas, el arrecife moría lentamente, dejando a miles de criaturas sin hogar. Martina decidió que no podía quedarse de brazos cruzados. Investigando en la biblioteca del puerto, descubrió que la vegetación de la costa ayudaba a mantener el agua más limpia y fresca. Sin embargo, en su playa habían arrancado los manglares para poner sombrillas y hamacas de plástico. La niña comprendió que la salud del mar dependía directamente de lo que ocurría en la tierra. Con la ayuda de sus amigos de clase, inició el proyecto 'Salvemos el Cristal'. Organizaron jornadas de limpieza para retirar los plásticos que llegaban a la orilla y comenzaron una campaña para replantar pequeños brotes de manglar en las zonas vacías. Al principio, algunos dueños de negocios se quejaron, pero Martina les explicó que sin arrecife, las olas destruirían la playa y no habría turismo. Convencidos por su lógica, los pescadores y hoteleros se unieron para proteger el área. Tras meses de esfuerzo, los manglares crecieron, actuando como un filtro natural para el sedimento. El agua se volvió más cristalina y las corrientes frescas empezaron a estabilizar la temperatura del arrecife. Un día, al bucear de nuevo, Martina vio con alegría que los corales blancos estaban recuperando sus tonalidades pastel. Pequeños caballitos de mar se aferraban de nuevo a las estructuras y la biodiversidad volvía a brillar bajo las olas. Martina entendió que el océano es un pulmón gigante que todos debemos proteger, y que cada pequeña acción, como no usar pajitas de plástico o cuidar una planta, genera ondas de cambio que llegan hasta lo más profundo del mar. La naturaleza le había mostrado su resiliencia, pero también su necesidad de tener aliados humanos. Esa tarde, sentada en la arena, Martina escuchó el rugido del mar y supo que, gracias a su determinación, el Arrecife de Cristal seguiría siendo un refugio mágico para las generaciones futuras de niños y peces.",
+        "glosario": [
+            {
+                "palabra": "Vibrante",
+                "definición": "Algo que está lleno de energía, color o vida."
+            },
+            {
+                "palabra": "Blanqueamiento",
+                "definición": "Proceso por el cual el coral pierde sus algas y se queda blanco por el estrés del calor."
+            },
+            {
+                "palabra": "Manglares",
+                "definición": "Árboles o arbustos que crecen en zonas de agua salada cerca de la costa."
+            },
+            {
+                "palabra": "Sedimento",
+                "definición": "Materia como arena o lodo que se deposita en el fondo del agua."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "Variedad de diferentes especies de animales y plantas que viven en un lugar."
+            },
+            {
+                "palabra": "Resiliencia",
+                "definición": "Capacidad de un ser vivo o de la naturaleza para recuperarse después de un daño."
+            },
+            {
+                "palabra": "Estabilizar",
+                "definición": "Hacer que algo se mantenga constante y deje de cambiar o de fallar."
+            },
+            {
+                "palabra": "Nocivo",
+                "definición": "Algo que hace daño o es perjudicial para la salud o el entorno."
+            },
+            {
+                "palabra": "Aliados",
+                "definición": "Personas o seres que se unen para ayudarse y conseguir un objetivo común."
+            },
+            {
+                "palabra": "Turquesa",
+                "definición": "Color azul verdoso claro, típico de las aguas limpias y poco profundas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué color tenían los corales cuando Martina notó que estaban enfermos?",
+                "tipo": "test",
+                "opciones": [
+                    "Rojo brillante",
+                    "Negro",
+                    "Blanco",
+                    "Gris oscuro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué vegetación costera ayuda a filtrar el agua del arrecife?",
+                "tipo": "test",
+                "opciones": [
+                    "Las palmeras",
+                    "Los manglares",
+                    "Los pinos",
+                    "El césped"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llama el proyecto que inició Martina?",
+                "tipo": "test",
+                "opciones": [
+                    "Mundo Submarino",
+                    "Salvemos el Cristal",
+                    "Peces Felices",
+                    "Costa Limpia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el aumento de temperatura mata al coral?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el coral se quema",
+                    "Porque el coral expulsa a las algas que le dan alimento",
+                    "Porque los peces se van a aguas más frías",
+                    "Porque el agua se evapora"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación existe entre la tierra y el mar según la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "No tienen ninguna relación",
+                    "Lo que pasa en la tierra (como quitar manglares) afecta directamente al mar",
+                    "El mar es más importante que la tierra",
+                    "La tierra solo sirve para poner sombrillas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los dueños de los negocios decidieron ayudar finalmente?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque Martina les dio dinero",
+                    "Porque comprendieron que sin arrecife se quedarían sin playa y sin turistas",
+                    "Porque les obligó la policía",
+                    "Porque querían bucear con Martina"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos deducir sobre el blanqueamiento del coral?",
+                "tipo": "test",
+                "opciones": [
+                    "Es algo bonito que sucede en invierno",
+                    "Es una señal de que el arrecife está en grave peligro",
+                    "Es normal en todos los mares",
+                    "Se quita limpiando el coral con un cepillo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el océano es un 'pulmón gigante'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el mar respira aire",
+                    "Que produce gran parte del oxígeno que necesitamos para vivir",
+                    "Que tiene forma de pulmón",
+                    "Que hace mucho ruido al moverse"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué piensas de la gente que prefiere poner sombrillas antes que cuidar los manglares?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no piensan en el futuro. Está bien querer estar cómodos en la playa, pero si por poner una hamaca rompemos el equilibrio del mar, al final nos quedaremos sin playa y sin nada que ver bajo el agua."
+            },
+            {
+                "enunciado": "Si pudieras hablar con los peces del arrecife, ¿qué les dirías después de lo que hizo Martina?",
+                "tipo": "abierta",
+                "respuestaModelo": "Les diría que no todos los humanos somos malos y que hay muchos niños intentando arreglar los problemas. Les diría que aguanten un poco porque estamos trabajando para que su casa vuelva a estar llena de color."
+            }
+        ]
+    }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "titulo": "La Creación del Sol y la Luna",
+    "tema": "leyendas",
+    "texto": "Hace mucho tiempo, cuando el mundo era joven y las sombras reinaban sobre la tierra, no existía luz en el cielo. Los hombres caminaban a tientas entre los árboles gigantes y los ríos fríos. En una aldea pequeña vivían dos jóvenes muy valientes llamados Kuntur y Sara. Ellos deseaban que su pueblo pudiera ver los colores de las flores y el azul del mar. Un anciano sabio les contó que para crear la luz debían subir a la Montaña de Cristal. Los jóvenes caminaron durante siete días y siete noches, superando grandes peligros y tormentas heladas. Al llegar a la cima, el espíritu de la montaña se conmovió por su gran esfuerzo y nobleza. Transformó a Kuntur en un círculo dorado de fuego calorífico que iluminaría el día: el Sol. A Sara la convirtió en un círculo de plata suave que cuidaría los sueños: la Luna. Desde entonces, el Sol sale cada mañana para despertar a los pájaros y la Luna aparece de noche para guiar a los viajeros. Dicen los abuelos que cuando hay un eclipse, es porque Kuntur y Sara se abrazan en el cielo para recordar su antigua amistad. Esta leyenda nos enseña que el sacrificio trae esperanza.",
+    "glosario": [
+      { "palabra": "Leyenda", "definición": "Historia antigua que mezcla hechos reales con elementos fantásticos o mágicos." },
+      { "palabra": "A tientas", "definición": "Caminar usando las manos para guiarse porque no hay luz suficiente." },
+      { "palabra": "Calorífico", "definición": "Que produce o transmite calor de manera intensa." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo se llamaban los dos jóvenes valientes?", "tipo": "test", "opciones": ["Juan y María", "Kuntur y Sara", "Inti y Quilla", "Pedro y Ana"], "correctaIdx": 1 },
+      { "enunciado": "¿A qué lugar debían subir para crear la luz?", "tipo": "test", "opciones": ["Al Río de Plata", "A la Selva Oscura", "A la Montaña de Cristal", "Al Valle del Viento"], "correctaIdx": 2 },
+      { "enunciado": "¿En qué se transformó Kuntur?", "tipo": "test", "opciones": ["En la Luna", "En una estrella", "En el Sol", "En un árbol"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué cuida la Luna según el texto?", "tipo": "test", "opciones": ["Los campos", "Los sueños", "A los animales", "El fuego"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuánto tiempo caminaron los jóvenes?", "tipo": "test", "opciones": ["Tres días", "Un mes", "Siete días y siete noches", "Dos semanas"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué explica la leyenda sobre los eclipses?", "tipo": "test", "opciones": ["Que el sol se apaga", "Que Kuntur y Sara se abrazan", "Que la luna tiene frío", "Que es hora de dormir"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué valor nos enseña esta historia?", "tipo": "test", "opciones": ["La pereza", "El sacrificio y la esperanza", "La velocidad", "El miedo"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "La Leyenda del Colibrí",
+    "tema": "leyendas",
+    "texto": "Cuenta una antigua historia que cuando los dioses terminaron de crear todas las cosas del mundo, se dieron cuenta de que les faltaba alguien que llevara los pensamientos y deseos de un lugar a otro. Como ya no tenían barro ni maíz para hacer otro animal, tomaron una piedra de jade pequeña y tallaron una flecha muy fina. Cuando terminaron, soplaron sobre ella y la flechita salió volando; ya no era una piedra, sino un ser vivo: el colibrí. Era tan ligero y frágil que podía acercarse a las flores más delicadas sin mover un solo pétalo. Sus plumas brillaban bajo el sol como si estuvieran hechas de gotas de lluvia y arcoíris. Los hombres, al verlo, quisieron atraparlo para adornarse con sus hermosos colores, pero los dioses se enojaron y dijeron: 'Si alguien se atreve a capturar un colibrí, el ave morirá'. Por eso, nadie ha visto jamás a un colibrí en una jaula. Se dice que si ves un colibrí pasar cerca de ti, es porque alguien te está enviando buenos deseos y mucho cariño. Es el mensajero más veloz de la naturaleza.",
+    "glosario": [
+      { "palabra": "Jade", "definición": "Piedra preciosa de color verde muy valorada en la antigüedad." },
+      { "palabra": "Frágil", "definición": "Algo que es muy delicado y que puede romperse con facilidad." },
+      { "palabra": "Pétalo", "definición": "Cada una de las hojas de colores que forman la flor." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿De qué material crearon los dioses al colibrí?", "tipo": "test", "opciones": ["Barro", "Maíz", "Piedra de jade", "Madera"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué forma tenía el colibrí antes de cobrar vida?", "tipo": "test", "opciones": ["Una esfera", "Una flecha", "Un círculo", "Un cuadrado"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es la misión del colibrí según la leyenda?", "tipo": "test", "opciones": ["Buscar comida", "Llevar pensamientos y deseos", "Cantar por las mañanas", "Asustar a otros pájaros"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué advertencia dieron los dioses respecto a este pequeño pájaro?", "tipo": "test", "opciones": ["Que volara bajo", "Que comiera flores", "Que ningún hombre pudiera atraparlo", "Que viviera en los árboles"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué se compara al colibrí con una flecha?", "tipo": "test", "opciones": ["Porque es peligroso", "Por su forma puntiaguda y su gran velocidad al volar", "Porque vive en el bosque", "Porque es de color verde"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué significa ver un colibrí según la creencia popular?", "tipo": "test", "opciones": ["Que va a llover", "Que alguien te envía buenos deseos", "Que es hora de dormir", "Que el invierno está cerca"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué valor resalta el final del relato?", "tipo": "test", "opciones": ["La importancia del tamaño", "Que los seres pequeños tienen grandes misiones", "La fuerza física", "El color de las plumas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El Castigo del Baobab",
+    "tema": "leyendas",
+    "texto": "Hace mucho tiempo, en el corazón de la cálida sabana africana, existía un árbol que era el más hermoso de todos: el Baobab. Sus flores eran brillantes como el sol y sus hojas suaves como la seda. El Baobab se sentía tan especial que empezó a volverse muy presumido y vanidoso con el resto de las plantas. Cada mañana, presumía de su altura y de su belleza, burlándose de los arbustos pequeños y de las flores silvestres que crecían a sus pies. Los dioses, al observar su comportamiento tan orgulloso, decidieron darle una lección de humildad para que aprendiera a respetar a los demás seres vivos. Una noche de tormenta, mientras el Baobab dormía, los dioses lo sacaron de la tierra y lo volvieron a plantar al revés. Al despertar, el árbol descubrió con asombro que sus flores habían desaparecido y sus raíces ahora apuntaban hacia el cielo azul. Desde ese día, el Baobab luce un aspecto extraño, con ramas que parecen raíces desnudas buscando el suelo. Esta leyenda nos enseña que la belleza exterior no sirve de nada si no tenemos un corazón humilde y respetuoso con todos nuestros compañeros del mundo. Es un relato fantástico sobre un árbol.",
+    "glosario": [
+      { "palabra": "Sabana", "definición": "Gran llanura con pocos árboles situada en regiones de clima cálido." },
+      { "palabra": "Vanidoso", "definición": "Persona o ser que tiene un deseo excesivo de ser admirado por los demás." },
+      { "palabra": "Humildad", "definición": "Virtud de conocer las propias limitaciones y actuar sin orgullo." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué lugar se desarrolla esta leyenda?", "tipo": "test", "opciones": ["En la selva amazónica", "En la sabana africana", "En un bosque helado", "En el desierto"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo era el Baobab al principio de la historia?", "tipo": "test", "opciones": ["Feo y pequeño", "El más hermoso y orgulloso", "Un arbusto sin hojas", "Un árbol de chocolate"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál fue el error principal del Baobab?", "tipo": "test", "opciones": ["No dar sombra", "Ser presumido y burlarse de los demás", "Tener pocas flores", "Dormir mucho"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hicieron los dioses para darle una lección?", "tipo": "test", "opciones": ["Lo cortaron", "Lo plantaron al revés", "Le quitaron el agua", "Lo cambiaron de color"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué parecen las ramas del Baobab ahora?", "tipo": "test", "opciones": ["Brazos largos", "Raíces desnudas", "Hojas de cristal", "Serpientes"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es la enseñanza de esta leyenda?", "tipo": "test", "opciones": ["Que hay que ser el más alto", "La importancia de la humildad", "Que los árboles no deben dormir", "Que las flores son peligrosas"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué el Baobab es un relato fantástico?", "tipo": "test", "opciones": ["Porque ocurre en la realidad", "Porque los dioses intervienen mágicamente", "Porque no hay árboles", "Porque trata de animales"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "La Sabia Respuesta del Anciano",
+    "tema": "leyendas",
+    "texto": "En una aldea lejana vivían dos hermanas que eran extremadamente inteligentes y curiosas. Siempre hacían preguntas que nadie sabía responder. Un día, decidieron poner a prueba a un anciano sabio que vivía en la cima de la colina. Una de las niñas atrapó una hermosa mariposa azul y le dijo a su hermana: 'Esconderé la mariposa en mis manos y le preguntaré al sabio si está viva o muerta. Si dice que está muerta, abriré mis manos y la dejaré volar. Si dice que está viva, la apretaré un poquito para que muera. Así, siempre se equivocará'. Subieron la colina y la niña hizo la pregunta. El anciano la miró a los ojos con ternura y respondió suavemente: 'Todo depende de tus manos, pequeña'. Las niñas comprendieron que cada persona es responsable de sus propias decisiones y de la vida de los seres que le rodean. Bajaron la colina con un gran aprendizaje sobre la responsabilidad. La mariposa azul voló libre hacia el sol.",
+    "glosario": [
+      { "palabra": "Aldea", "definición": "Pueblo pequeño con pocos habitantes." },
+      { "palabra": "Sabio", "definición": "Persona que tiene muchos conocimientos y buen juicio." },
+      { "palabra": "Responsabilidad", "definición": "Capacidad de medir las consecuencias de nuestros actos." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué cualidad principal tenían las hermanas?", "tipo": "test", "opciones": ["Eran muy fuertes", "Eran miedosas", "Eran perezosas", "Eran muy inteligentes"], "correctaIdx": 3 },
+      { "enunciado": "¿Qué animal atrapó la niña para probar al sabio?", "tipo": "test", "opciones": ["Un pájaro", "Una mariposa azul", "Un grillo", "Una abeja"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde vivía el anciano sabio?", "tipo": "test", "opciones": ["En el fondo de un valle", "En la cima de la colina", "Cerca del río", "En un desierto"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál era la verdadera intención de la niña al hacer la pregunta?", "tipo": "test", "opciones": ["Aprender sobre insectos", "Engañar al sabio para probarlo", "Ayudar a su hermana", "Saber la verdad"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué quiso decir el sabio con la frase 'Todo depende de tus manos'?", "tipo": "test", "opciones": ["Que ella tenía la decisión final", "Que sus manos estaban sucias", "Que la mariposa era suya", "Que el sabio no sabía"], "correctaIdx": 0 },
+      { "enunciado": "¿Cómo se sintió la niña tras la respuesta del anciano?", "tipo": "test", "opciones": ["Enojada y furiosa", "Muy divertida", "Arrepentida y comprendida", "Aburrida"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué pasó con la mariposa al final de la historia?", "tipo": "test", "opciones": ["Se quedó con las niñas", "Se la dieron al sabio", "Voló libre hacia el sol", "Se perdió en el bosque"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "Grog y las Montañas de Sal",
+    "tema": "leyendas",
+    "texto": "Hace mucho tiempo, en una tierra lejana, vivía un gigante llamado Grog. Grog no era un gigante malvado, sino el guardián de las Montañas de Sal. Estas montañas brillaban bajo el sol como si estuvieran hechas de diamantes puros. Los habitantes de la aldea cercana necesitaban la sal para cocinar y conservar sus alimentos, pero tenían miedo de acercarse. Grog se sentía muy solo en su alta cumbre fría. Un día, una niña valiente llamada Lucía decidió subir a la montaña con un regalo: una cesta de manzanas dulces y frescas. Al llegar, encontró a Grog llorando. Sus lágrimas eran tan grandes que formaban pequeños charcos salados en el suelo de piedra. Lucía le entregó las manzanas y el gigante, sorprendido, sonrió por primera vez en siglos. Grog explicó que solo quería amigos con quienes hablar. Lucía y Grog hicieron un pacto de amistad. El gigante permitiría a los aldeanos recoger sal y, a cambio, ellos subirían cada semana a contarle historias y traerle frutas del valle. Desde aquel día, la aldea nunca tuvo hambre y Grog nunca volvió a estar solo. La montaña de sal brilló más que nunca, reflejando la felicidad de una amistad verdadera y duradera finalmente.",
+    "glosario": [
+      { "palabra": "Guardián", "definición": "Persona que tiene el deber de vigilar y proteger algo con cuidado." },
+      { "palabra": "Cumbre", "definición": "La parte más alta de una montaña o un terreno elevado." },
+      { "palabra": "Pacto", "definición": "Acuerdo entre dos o más personas que se comprometen a cumplir algo." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué protegía el gigante Grog?", "tipo": "test", "opciones": ["Un bosque mágico", "Las Montañas de Sal", "Un cofre de oro", "Un río de chocolate"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué tenían miedo los habitantes de la aldea?", "tipo": "test", "opciones": ["Por el frío de la montaña", "Porque pensaban que Grog era malvado", "Porque la sal quemaba", "Porque no tenían zapatos"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué regalo llevó Lucía a la montaña?", "tipo": "test", "opciones": ["Una cesta de manzanas", "Un abrigo de lana", "Un libro de cuentos", "Una bolsa de pan"], "correctaIdx": 0 },
+      { "enunciado": "¿Por qué lloraba el gigante cuando Lucía lo encontró?", "tipo": "test", "opciones": ["Porque tenía hambre", "Porque se sentía solo", "Porque le dolía un pie", "Porque no le gustaba la sal"], "correctaIdx": 1 },
+      { "enunciado": "¿De qué se llenaron los charcos en el suelo?", "tipo": "test", "opciones": ["De agua dulce", "De lágrimas saladas", "De nieve", "De zumo de manzana"], "correctaIdx": 1 },
+      { "enunciado": "¿A qué acuerdo llegaron Lucía y Grog?", "tipo": "test", "opciones": ["A no verse nunca más", "A intercambiar sal por historias y frutas", "A bajar el gigante a la aldea", "A pintar las montañas de colores"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es el mensaje principal de esta leyenda?", "tipo": "test", "opciones": ["La importancia de la sal", "Que la amistad vence al miedo y a la soledad", "Que los gigantes son muy altos", "Que hay que comer mucha fruta"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El Bosque de los Susurros",
+    "tema": "leyendas",
+    "texto": "Dicen los ancianos que en el corazón del bosque vive un espíritu que protege el silencio. Hace muchos años, el bosque era ruidoso y los animales estaban estresados. Un grupo de escolares decidió plantar árboles mágicos que crecían con el respeto. Cada vez que alguien hablaba bajo o caminaba con cuidado, una hoja nueva nacía. Los pájaros regresaron y la paz volvió al lugar. Ahora, el bosque se llama el Bosque de los Susurros porque si te quedas muy quieto, puedes oír el agradecimiento de la naturaleza en el viento. Los niños de la aldea son los guardianes de este lugar y enseñan a todos que el silencio es un regalo precioso. Se dice que si cuidas el bosque, él te regalará una nube blanca para tus sueños hoy mismo.",
+    "glosario": [
+      { "palabra": "Estresados", "definición": "Estado de cansancio mental provocado por el ruido o la prisa." },
+      { "palabra": "Escolares", "definición": "Niños y niñas que van a la escuela a aprender." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Qué protege el espíritu del bosque?", "tipo": "test", "opciones": ["El oro", "El silencio", "La comida", "Los caminos"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo crecían los árboles mágicos?", "tipo": "test", "opciones": ["Con mucha agua", "Con el respeto de las personas", "Con música alta", "Con el sol de noche"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué recompensa recibe quien cuida el bosque?", "tipo": "test", "opciones": ["Una medalla", "Un helado", "Una nube blanca para sus sueños", "Un paraguas"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué los pájaros dejaron de hacer nidos en el bosque?", "tipo": "test", "opciones": ["Tenían frío", "Ya no era un lugar alegre", "No había árboles", "Los escolares los asustaron"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué importancia tiene el silencio en esta leyenda?", "tipo": "test", "opciones": ["No sirve para nada", "Es aburrido para los niños", "Es una forma de escuchar la música natural", "Sirve para dormir mejor"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué se llama a los niños 'pequeños héroes'?", "tipo": "test", "opciones": ["Porque tienen superpoderes", "Porque salvaron el bosque con sus acciones", "Porque son muy altos", "Porque saben volar"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué significa que los visitantes caminen 'de puntillas'?", "tipo": "test", "opciones": ["Que tienen prisa", "Que no quieren ensuciar", "Que respetan el silencio del bosque", "Que les duelen los pies"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "La leyenda del Arcoíris Escondido",
+    "tema": "leyendas",
+    "texto": "En el principio de los tiempos, los colores no vivían en el cielo, sino que descansaban dentro de una cueva mágica bajo tierra. Solo salían cuando el Sol y la Lluvia se daban un abrazo especial. El Guardián de los Colores, un duende llamado Crispín, cuidaba que nadie robara el brillo de los tarros de pintura natural. Un día, una sombra traviesa entró en la cueva y mezcló todos los colores. El rojo se juntó con el azul y el amarillo se perdió en un rincón oscuro. El mundo se volvió gris y triste. Crispín, muy preocupado, pidió ayuda a las mariposas del bosque. Ellas volaron alto y llamaron al viento del norte. El viento sopló con tanta fuerza que limpió la cueva y llevó los colores hacia las nubes blancas. Desde ese momento, los colores decidieron que el cielo era el lugar más seguro para mostrarse juntos. Así nació el arcoíris que vemos tras la tormenta. Crispín ahora observa desde la montaña, feliz de ver que su trabajo de protección ya no es necesario en la tierra. Esta leyenda nos recuerda que la unión hace la fuerza y que después de la oscuridad vuelve siempre el color brillante hoy.",
+    "glosario": [
+      { "palabra": "Guardián", "definición": "Persona encargada de cuidar o proteger algo muy valioso e importante." },
+      { "palabra": "Traviesa", "definición": "Dícese de alguien que hace bromas o causa pequeños líos por diversión." },
+      { "palabra": "Arcoíris", "definición": "Arco de colores que aparece en el cielo cuando llueve y hace sol." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Dónde vivían los colores al principio de los tiempos?", "tipo": "test", "opciones": ["En el mar", "En una cueva mágica bajo tierra", "En las nubes", "En los árboles"], "correctaIdx": 1 },
+      { "enunciado": "¿Quién era el encargado de cuidar los colores?", "tipo": "test", "opciones": ["Un gigante", "Un duende llamado Crispín", "Un hada", "Un pájaro"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué causó que el mundo se volviera gris y triste?", "tipo": "test", "opciones": ["La lluvia fuerte", "Una sombra traviesa que mezcló los colores", "Que el sol se apagó", "Que los colores se fueron de vacaciones"], "correctaIdx": 1 },
+      { "enunciado": "¿A quién pidió ayuda Crispín primero?", "tipo": "test", "opciones": ["Al sol", "A las mariposas del bosque", "A los humanos", "A las hormigas"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo llegaron los colores al cielo?", "tipo": "test", "opciones": ["Caminando", "Llevados por el viento del norte", "En un avión", "Saltando"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuándo aparece el arcoíris según la leyenda?", "tipo": "test", "opciones": ["Cuando es de noche", "Tras la tormenta", "Cuando hace mucho frío", "Solo los domingos"], "correctaIdx": 1 },
+      { "enunciado": "¿Cuál es la enseñanza principal de esta historia?", "tipo": "test", "opciones": ["Que los duendes son pequeños", "Que la unión hace la fuerza y el color vuelve siempre", "Que las sombras son buenas", "Que no debemos entrar en cuevas"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El Cóndor y el Pastor",
+    "tema": "leyendas",
+    "texto": "Hace siglos, en las altas cumbres de los Andes, vivía un joven pastor llamado Inti. Inti cuidaba sus ovejas con mucho cariño, pero un día una tormenta de nieve lo separó de su rebaño. Mientras buscaba refugio, encontró a un gran cóndor atrapado entre unas rocas de granito. El ave tenía un ala lastimada y no podía volar. Inti, a pesar del frío intenso, usó su manta para darle calor y compartió su poca comida con el gigante de los cielos. Durante tres días, el pastor curó las heridas del cóndor con hierbas medicinales que su abuela le había enseñado a reconocer. Una noche, el cóndor habló con voz profunda: 'Gracias por tu bondad, humano. Ahora, sube a mi espalda'. El ave había recuperado sus fuerzas mágicamente. Volaron sobre las nubes hasta que Inti pudo ver a sus ovejas sanas y salvas en el valle. El cóndor le regaló una pluma de plata que siempre brillaba en la oscuridad. Desde entonces, se dice que los cóndores protegen a los caminantes que tienen un corazón noble y generoso. La amistad entre el hombre y el ave se convirtió en un símbolo de paz en las montañas nevadas hoy.",
+    "glosario": [
+      { "palabra": "Cumbres", "definición": "Las partes más altas de las montañas." },
+      { "palabra": "Lastimada", "definición": "Que tiene una herida o un daño físico." },
+      { "palabra": "Refugio", "definición": "Lugar que sirve para protegerse de un peligro o del mal tiempo." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué cordillera ocurre esta historia?", "tipo": "test", "opciones": ["Los Alpes", "Los Andes", "El Himalaya", "Los Pirineos"], "correctaIdx": 1 },
+      { "enunciado": "¿A qué animal ayudó el pastor Inti?", "tipo": "test", "opciones": ["A un águila", "A un cóndor", "A un halcón", "A un búho"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué regalo recibió Inti del cóndor?", "tipo": "test", "opciones": ["Una moneda de oro", "Una pluma de plata", "Un saco de lana", "Un collar"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué Inti subió al nevado más alto?", "tipo": "test", "opciones": ["Para jugar con la nieve", "Porque era su deber encontrar a Lucero", "Para escapar del frío", "Porque quería volar"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué problema tenía el cóndor al inicio?", "tipo": "test", "opciones": ["Tenía hambre", "No podía volar sin luz para ver el camino", "Había perdido sus plumas", "No le gustaban las estrellas"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo demostró Inti que era una persona bondadosa?", "tipo": "test", "opciones": ["Contando muy rápido", "Ayudando al cóndor con mucho cuidado", "Subiendo la montaña corriendo", "Lanzando piedras al cielo"], "correctaIdx": 1 },
+      { "enunciado": "¿Para qué le serviría a Inti la pluma mágica?", "tipo": "test", "opciones": ["Para escribir", "Para volar", "Para iluminar su camino en la oscuridad", "Para llamar a las ovejas"], "correctaIdx": 2 }
+    ]
+  },
+  {
+    "titulo": "La leyenda del Eco en la Montaña",
+    "tema": "leyendas",
+    "texto": "Hace muchos años, en un valle rodeado de montañas altísimas, vivía un gigante muy tímido llamado Eco. A diferencia de otros gigantes, Eco no quería asustar a nadie; solo deseaba conversar con los viajeros que cruzaban el desfiladero. Sin embargo, su voz era tan potente que, al hablar, las piedras temblaban y la gente huía despavorida pensando que era un terremoto. Triste y solo, Eco se escondió en la cueva más profunda del bosque. Un día, una sabia anciana llamada Elara llegó a la entrada de su refugio. En lugar de gritar, ella susurró una melodía suave. Eco, emocionado, intentó responder, pero recordó su fuerza y decidió solo repetir las últimas palabras de la mujer para no asustarla. Elara sonrió al escuchar la repetición y comprendió que el gigante solo buscaba compañía. Desde aquel momento, nació la leyenda del eco de la montaña. Ahora, cuando alguien grita en las cuevas, el gigante responde con amabilidad repitiendo los sonidos, recordándonos que siempre hay alguien dispuesto a escucharnos si sabemos hablar con el corazón. Así, Eco encontró su propósito protegiendo el silencio y devolviendo palabras amables a todos los que visitan su hogar en la piedra hoy para ser muy feliz siempre.",
+    "glosario": [
+      { "palabra": "Desfiladero", "definición": "Paso estrecho entre montañas altas con paredes de piedra." },
+      { "palabra": "Despavorida", "definición": "Persona que tiene mucho miedo y huye con espanto." },
+      { "palabra": "Melodía", "definición": "Sucesión de sonidos musicales que resultan agradables de oír." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿Cómo era el gigante Eco al principio?", "tipo": "test", "opciones": ["Muy malvado", "Tímido y deseaba conversar", "Ruidoso y juguetón", "Egoísta"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué la gente huía cuando Eco hablaba?", "tipo": "test", "opciones": ["Porque era feo", "Porque su voz potente parecía un terremoto", "Porque no entendían su idioma", "Porque era muy rápido"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué hizo la anciana Elara para no asustarse?", "tipo": "test", "opciones": ["Gritó muy fuerte", "Susurró una melodía suave", "Se escondió tras un árbol", "Llamó a los soldados"], "correctaIdx": 1 },
+      { "enunciado": "¿Cómo decidió responder el gigante para no asustar a Elara?", "tipo": "test", "opciones": ["Escribiendo una nota", "Repitiendo solo las últimas palabras", "Haciendo señas con las manos", "Cantando ópera"], "correctaIdx": 1 },
+      { "enunciado": "¿Dónde se escondió Eco cuando estaba triste?", "tipo": "test", "opciones": ["En el fondo del mar", "En la cueva más profunda del bosque", "En un castillo", "Bajo un puente"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué nos recuerda la leyenda del eco hoy?", "tipo": "test", "opciones": ["Que las cuevas son peligrosas", "Que siempre hay alguien dispuesto a escucharnos", "Que los gigantes no existen", "Que debemos gritar fuerte"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué cualidad de Elara fue fundamental en la historia?", "tipo": "test", "opciones": ["Su gran fuerza física", "Su sabiduría y amabilidad", "Su velocidad al correr", "Su ropa de colores"], "correctaIdx": 1 }
+    ]
+  },
+  {
+    "titulo": "El Conejo de la Luna",
+    "tema": "leyendas",
+    "texto": "Cuenta una antigua leyenda que un día, un gran dios decidió bajar a la Tierra en forma de hombre. Caminó por campos y montañas durante mucho tiempo hasta que se sintió muy cansado y hambriento. Al caer la noche, se sentó a la orilla del camino bajo la luz de las estrellas. De repente, un pequeño conejo salió a cenar un poco de hierba fresca. El dios le preguntó: '¿Qué estás comiendo?'. El conejo respondió: 'Hierba fresca, ¿quieres un poco?'. El hombre contestó tristemente que él no comía hierba y que quizá moriría de hambre. El pequeño conejo, con un corazón lleno de generosidad, le dijo: 'No tengo nada más que ofrecerte, pero si tienes mucha hambre, cómeme a mí para que puedas seguir tu camino'. El dios, conmovido por tan noble gesto, tomó al conejo entre sus manos y lo elevó muy alto, hasta la superficie de la Luna. Allí, la imagen del valiente conejo quedó grabada para siempre en la luz plateada. 'Para que todos recuerden tu bondad', dijo el dios. Por eso, en las noches claras, los niños pueden ver la silueta de un conejo en la Luna llena, recordándonos que la generosidad es la luz más brillante del universo hoy mismo.",
+    "glosario": [
+      { "palabra": "Generosidad", "definición": "Cualidad de ayudar a los demás sin esperar nada a cambio." },
+      { "palabra": "Silueta", "definición": "Dibujo o forma que representa el contorno de un objeto o persona." },
+      { "palabra": "Conmovido", "definición": "Sentir una emoción fuerte ante un acto de bondad o tristeza." }
+    ],
+    "preguntas": [
+      { "enunciado": "¿En qué se transformó el dios para bajar a la Tierra?", "tipo": "test", "opciones": ["En un conejo", "En un hombre", "En una estrella", "En un árbol"], "correctaIdx": 1 },
+      { "enunciado": "¿Quiénes pueden recordar la bondad del conejo al mirar al cielo?", "tipo": "test", "opciones": ["Los gigantes", "Los niños", "Los dioses", "Los pastores"], "correctaIdx": 1 },
+      { "enunciado": "¿Por qué el dios se sentía tan mal al inicio?", "tipo": "test", "opciones": ["Tenía miedo", "Estaba perdido", "Tenía hambre y agotamiento", "Estaba enfadado"], "correctaIdx": 2 },
+      { "enunciado": "¿Qué demuestra la oferta que hizo el conejo?", "tipo": "test", "opciones": ["Que era distraído", "Que era muy egoísta", "Su inmensa generosidad", "Que no le gustaba la hierba"], "correctaIdx": 2 },
+      { "enunciado": "¿Por qué el dios decidió poner al conejo en la Luna?", "tipo": "test", "opciones": ["Para castigarlo", "Para que todos vieran su ejemplo", "Porque pesaba poco", "Para que no tuviera frío"], "correctaIdx": 1 },
+      { "enunciado": "¿Qué valor es el más importante en esta historia?", "tipo": "test", "opciones": ["La inteligencia", "La rapidez", "La bondad desinteresada", "La fuerza"], "correctaIdx": 2 },
+      { "enunciado": "¿Cuándo se puede ver la silueta del conejo?", "tipo": "test", "opciones": ["Solo al amanecer", "En las noches claras de Luna llena", "Cuando llueve mucho", "Solo en invierno"], "correctaIdx": 1 }
+    ]
+  }
+]

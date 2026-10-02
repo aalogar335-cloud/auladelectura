@@ -1,0 +1,1472 @@
+[
+    {
+        "titulo": "El Secreto del Meteorito de Cristal",
+        "tema": "ciencia ficción",
+        "texto": "En el año 2150, la humanidad había establecido una próspera colonia en el cráter Shackleton de la Luna. Marco, un chico de once años que nunca había sentido la lluvia ni el viento real, trabajaba como aprendiz en el laboratorio de geología. Su tarea era clasificar fragmentos de roca espacial que los drones recolectaban en la cara oculta. Un martes por la mañana, mientras limpiaba un lote de piedras oscuras, encontró algo extraordinario: un cristal perfectamente facetado que emitía una tenue pulsación azulada. Al tocarlo, Marco no sintió frío, sino un calor reconfortante que le trajo imágenes de bosques verdes y océanos profundos, paisajes que solo conocía por los libros digitales de historia antigua. El cristal parecía ser un banco de memoria de una civilización lejana. Marco sabía que, según el protocolo de la colonia, cualquier hallazgo inusual debía entregarse inmediatamente al Consejo de Seguridad. Sin embargo, algo en su interior le decía que el cristal era un regalo, no un objeto de estudio. Si lo entregaba, los científicos lo desmenuzarían y lo encerrarían en una cámara de vacío. Durante días, Marco escondió el cristal en su litera, bajo su almohada de gel. Por las noches, lo observaba y aprendía sobre mundos donde la gente vivía en armonía con la naturaleza, sin necesidad de cúpulas de oxígeno ni trajes presurizados. Pero el secreto empezó a pesarle. Su mejor amiga, Lia, notó que Marco estaba distraído y que sus ojos brillaban de una forma extraña. Cuando Lia lo confrontó en el comedor, Marco decidió confiar en ella. La llevó a su habitación y le mostró el cristal. Al tocarlo juntos, ambos compartieron una visión de esperanza: la posibilidad de transformar la Luna en un mundo verde. Lia, cuyo padre era el ingeniero jefe de soporte vital, comprendió que el cristal contenía datos sobre una tecnología de terraformación avanzada. Estaban ante el mayor descubrimiento de la historia, pero también ante un gran peligro. Si el Consejo usaba esa información solo para beneficio de los líderes, el resto de colonos seguiría viviendo en la escasez. Marco y Lia trazaron un plan arriesgado. En lugar de entregarlo, hackearon la red de comunicación global de la base y proyectaron las imágenes y los datos del cristal en todas las pantallas de la colonia. Querían que el conocimiento fuera de todos, no de unos pocos. Mientras las imágenes de prados y cascadas llenaban los pasillos metálicos, el personal de seguridad golpeaba la puerta del centro de comunicaciones. Pero ya era tarde. El pueblo de la Luna había visto el futuro y ya no aceptaría vivir en la oscuridad. Marco sonrió mientras los guardias lo rodeaban; sabía que aunque lo castigaran, el sueño del mundo verde ya no pertenecía a un cristal, sino al corazón de cada colono. La Luna estaba a punto de despertar.",
+        "glosario": [
+            {
+                "palabra": "Geología",
+                "definición": "Ciencia que estudia la composición y estructura de la Tierra y otros astros."
+            },
+            {
+                "palabra": "Facetado",
+                "definición": "Que tiene caras cortadas de forma plana y geométrica, como un diamante."
+            },
+            {
+                "palabra": "Terraformación",
+                "definición": "Transformar un planeta para que tenga condiciones parecidas a la Tierra y sea habitable."
+            },
+            {
+                "palabra": "Presurizado",
+                "definición": "Mantener un lugar con la presión del aire adecuada para que los humanos puedan respirar."
+            },
+            {
+                "palabra": "Cámara de vacío",
+                "definición": "Recipiente cerrado del que se ha extraído el aire por completo."
+            },
+            {
+                "palabra": "Protocolo",
+                "definición": "Conjunto de reglas que se deben seguir en una situación o lugar oficial."
+            },
+            {
+                "palabra": "Colonia",
+                "definición": "Grupo de personas que se establecen en un lugar fuera de su territorio original."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Conjunto de seres vivos y el medio ambiente donde se relacionan."
+            },
+            {
+                "palabra": "Cúpula",
+                "definición": "Techo en forma de media esfera que cubre un edificio o ciudad."
+            },
+            {
+                "palabra": "Armonía",
+                "definición": "Relación de paz, equilibrio y buen entendimiento entre personas o cosas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año se desarrolla la historia y dónde vive Marco?",
+                "tipo": "test",
+                "opciones": [
+                    "Año 2050, en Marte",
+                    "Año 2150, en la Luna",
+                    "Año 3000, en una nave",
+                    "Año 2150, en la Tierra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era el trabajo de Marco en el laboratorio?",
+                "tipo": "test",
+                "opciones": [
+                    "Reparar drones de carga",
+                    "Limpiar los cristales de la cúpula",
+                    "Clasificar fragmentos de roca espacial",
+                    "Cocinar para los científicos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué sintió Marco al tocar el cristal por primera vez?",
+                "tipo": "test",
+                "opciones": [
+                    "Un frío intenso",
+                    "Una descarga eléctrica",
+                    "Un calor reconfortante",
+                    "No sintió nada"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Marco decidió no entregar el cristal al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería venderlo por mucho dinero",
+                    "Porque pensaba que los científicos lo tratarían solo como un objeto y no como un regalo",
+                    "Porque tenía miedo de que lo regañaran",
+                    "Porque pensaba que el cristal era peligroso"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se dio cuenta Lia de que algo le pasaba a Marco?",
+                "tipo": "test",
+                "opciones": [
+                    "Vio el cristal bajo su almohada",
+                    "Marco se lo contó enseguida",
+                    "Notó que estaba distraído y sus ojos brillaban raro",
+                    "El Consejo de Seguridad se lo dijo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué información importante contenía el cristal según Lia?",
+                "tipo": "test",
+                "opciones": [
+                    "Mapas de tesoros enterrados",
+                    "Datos sobre tecnología de terraformación",
+                    "Música de la Tierra antigua",
+                    "Instrucciones para pilotar naves"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era el plan de Marco y Lia para el descubrimiento?",
+                "tipo": "test",
+                "opciones": [
+                    "Esconderlo para siempre",
+                    "Venderlo a otra colonia",
+                    "Compartirlo con toda la base hackeando la red",
+                    "Entregárselo solo al padre de Lia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué sentimiento predomina al final del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedo por el castigo",
+                    "Tristeza por perder el cristal",
+                    "Esperanza en un futuro mejor",
+                    "Enfado con el Consejo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Marco hizo bien al desobedecer las reglas para mostrar el cristal a todo el mundo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que hizo bien porque a veces las reglas no son justas y ese cristal era importante para que todos pudieran tener una vida mejor con árboles y agua, no solo los jefes."
+            },
+            {
+                "enunciado": "Si vivieras en una base lunar sin plantas ni lluvia, ¿qué es lo que más echarías de menos de la Tierra?",
+                "tipo": "abierta",
+                "respuestaModelo": "Echaría mucho de menos poder salir a la calle sin un traje de astronauta y sentir el sol o jugar en el césped, porque vivir encerrado en una cúpula tiene que ser un poco aburrido."
+            }
+        ]
+    },
+    {
+        "titulo": "Misión: Rescate en el Planeta Azul",
+        "tema": "ciencia ficción",
+        "texto": "A tres años luz de distancia, el planeta Aquaria brillaba como una zafiro gigante en medio de la oscuridad. La capitana Elena lideraba la expedición submarina a bordo del 'DeepStar-9', un sumergible de alta tecnología capaz de resistir las presiones más extremas. Su misión era recolectar muestras de algas bioluminiscentes para curar una enfermedad que afectaba a las colonias humanas en el cinturón de asteroides. Aquaria no tenía tierra firme; era un océano infinito que se hundía miles de kilómetros hacia el núcleo. Mientras descendían por la Fosa de las Sombras, las luces del sumergible iluminaron algo que no estaba en los mapas: una estructura piramidal hecha de un material coralino que vibraba rítmicamente. De repente, una red de cables de energía, restos de una antigua sonda terrestre abandonada, atrapó a una criatura majestuosa. Era un 'cetáceo de luz', un ser parecido a una ballena pero con piel transparente y órganos que cambiaban de color según su estado de ánimo. La criatura emitía un silbido lastimero que se escuchaba por los altavoces de la nave. El oficial de comunicaciones, un robot de protocolo llamado Bit, sugirió continuar la misión. 'Nuestra prioridad son las algas, capitana. No tenemos tiempo para desviarnos', dijo Bit con su voz monótona. Pero Elena no podía ignorar el sufrimiento del animal. Vio cómo los cables cortaban la piel luminosa de la criatura y cómo sus colores se volvían de un gris apagado, señal de que estaba muriendo. Elena tomó los mandos manuales y acercó el sumergible a la trampa. 'Bit, prepara los brazos robóticos térmicos', ordenó con firmeza. El rescate era peligroso; un movimiento en falso y la presión del agua podría aplastar el casco si los cables se enganchaban en las hélices. Con una precisión milimétrica, Elena comenzó a cortar los cables de energía uno a uno. El cetáceo de luz se mantenía inquietantemente quieto, como si comprendiera que estaban intentando ayudarlo. Cuando el último cable se soltó, la criatura realizó una pirueta elegante y sus colores estallaron en un festival de verdes, violetas y dorados. En lugar de huir, el cetáceo nadó frente al cristal del sumergible y, con un movimiento de su cola, señaló hacia una grieta profunda en la pirámide coralina. Elena decidió seguirlo. Allí, protegidas de las corrientes, crecían las algas más puras y brillantes que jamás habían visto. Gracias a la gratitud del ser marino, la expedición no solo salvó una vida, sino que obtuvo la cura mucho antes de lo previsto. Al regresar a la superficie, Elena anotó en su diario de bitácora que la empatía es un idioma universal, incluso en los rincones más profundos del espacio. Aquaria ya no era solo un objetivo científico, sino un mundo lleno de amigos inesperados que merecían ser protegidos de la basura que los humanos a veces dejaban atrás.",
+        "glosario": [
+            {
+                "palabra": "Bioluminiscente",
+                "definición": "Capacidad de algunos seres vivos para producir luz propia."
+            },
+            {
+                "palabra": "Sumergible",
+                "definición": "Nave capaz de navegar y funcionar debajo del agua a grandes profundidades."
+            },
+            {
+                "palabra": "Cinturón de asteroides",
+                "definición": "Región del espacio entre Marte y Júpiter llena de fragmentos rocosos."
+            },
+            {
+                "palabra": "Cetáceo",
+                "definición": "Mamífero marino de gran tamaño, como las ballenas o los delfines."
+            },
+            {
+                "palabra": "Sonda",
+                "definición": "Aparato que se envía al espacio o al fondo del mar para explorar y recoger datos."
+            },
+            {
+                "palabra": "Térmico",
+                "definición": "Relacionado con el calor o la temperatura."
+            },
+            {
+                "palabra": "Bitácora",
+                "definición": "Libro donde se apuntan los sucesos importantes de un viaje o misión."
+            },
+            {
+                "palabra": "Empatía",
+                "definición": "Capacidad de entender y compartir los sentimientos de los demás."
+            },
+            {
+                "palabra": "Coralino",
+                "definición": "Hecho de coral o que tiene un aspecto parecido a él."
+            },
+            {
+                "palabra": "Fosa",
+                "definición": "Zona muy profunda del fondo del mar con forma de trinchera."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el planeta de agua y el sumergible de Elena?",
+                "tipo": "test",
+                "opciones": [
+                    "Marte y DeepStar-1",
+                    "Aquaria y DeepStar-9",
+                    "Luna y Explorer-X",
+                    "Zafiro y Submarino-3"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la misión principal de la expedición?",
+                "tipo": "test",
+                "opciones": [
+                    "Cazar ballenas espaciales",
+                    "Recolectar algas para curar una enfermedad",
+                    "Explorar volcanes marinos",
+                    "Limpiar la basura espacial"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué criatura estaba atrapada en los cables?",
+                "tipo": "test",
+                "opciones": [
+                    "Un tiburón gigante",
+                    "Un robot estropeado",
+                    "Un cetáceo de luz",
+                    "Un pulpo de cristal"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién recomendó seguir con la misión y no ayudar al animal?",
+                "tipo": "test",
+                "opciones": [
+                    "La capitana Elena",
+                    "El robot Bit",
+                    "El Consejo de la Tierra",
+                    "Nadie, todos querían ayudar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sabe que el cetáceo de luz está sufriendo o triste?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque grita muy fuerte",
+                    "Porque sus colores se vuelven grises y apagados",
+                    "Porque ataca la nave",
+                    "Porque se queda dormido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué riesgo corría el sumergible durante el rescate?",
+                "tipo": "test",
+                "opciones": [
+                    "Quedarse sin luz",
+                    "Que la presión lo aplastara si los cables se enganchaban",
+                    "Quedarse sin oxígeno",
+                    "Ser atacado por piratas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hizo la criatura después de ser liberada?",
+                "tipo": "test",
+                "opciones": [
+                    "Se escapó asustada",
+                    "Atacó al robot Bit",
+                    "Guió a la nave hacia las mejores algas",
+                    "Se volvió de color rojo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué aprendió Elena al final de su misión?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las algas son difíciles de encontrar",
+                    "Que los robots siempre tienen razón",
+                    "Que la empatía es un idioma universal",
+                    "Que es mejor no viajar por el espacio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece bien que Elena arriesgara la nave para salvar a un animal? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí me parece que sí, porque salvar una vida es muy importante y el animal no tenía la culpa de que los humanos dejaran cables tirados por ahí."
+            },
+            {
+                "enunciado": "¿Qué opinas de que los humanos dejemos basura en otros planetas? ¿Cómo podríamos evitarlo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece fatal porque podemos hacer daño a los seres que viven allí. Tendríamos que recoger todo lo que usamos y no ser tan sucios con el espacio."
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián del Domo de Cristal",
+        "tema": "ciencia ficción",
+        "texto": "En el año 2080, la ciudad de Neoterra era el último refugio de la humanidad. Ubicada en medio de un desierto infinito, la ciudad estaba protegida por un inmenso domo de cristal que filtraba el aire y mantenía una temperatura agradable. Leo, un chico de once años, vivía en el Sector Botánico, donde su abuelo cuidaba de los últimos robles y pinos que quedaban en el mundo. Un día, mientras ayudaba a limpiar los paneles solares, Leo encontró un pequeño dron de reconocimiento averiado fuera del perímetro. Al repararlo con sus herramientas de aprendizaje, el dron proyectó un mapa holográfico que mostraba algo imposible: un punto verde a quinientos kilómetros de distancia, más allá de las tormentas de arena. Leo sabía que nadie salía del domo sin permiso del Consejo, pero la idea de un bosque real, fuera del cristal, no lo dejaba dormir. Convenció a su amiga Sara para que lo ayudara a tomar prestado un rover de carga durante el turno de noche. Cruzar la esclusa de aire fue aterrador; el rugido del viento exterior era como el de un monstruo hambriento. Durante horas, navegaron por dunas que parecían olas de fuego. De repente, el rover se detuvo frente a una montaña de piedra negra. Al rodearla, descubrieron una grieta profunda que bajaba hasta el subsuelo. Allí, protegida por las rocas, había una reserva natural subterránea alimentada por un acuífero antiguo. Había flores de colores que Leo solo había visto en tablets y el aire olía a tierra mojada, un aroma que lo hizo llorar de alegría. Sin embargo, el dron también detectó que el agua del acuífero se estaba filtrando hacia una mina de litio abandonada, lo que pronto secaría el lugar. Leo y Sara tenían que elegir: volver y callar para no ser castigados, o contarle al Consejo el descubrimiento para salvar el oasis, aunque eso significara confesar que habían robado un vehículo. Al regresar, se presentaron ante el Gran Consejo de Neoterra. El abuelo de Leo estaba allí, con los ojos llenos de preocupación. Leo mostró las grabaciones del dron. El Consejo, impresionado por la valentía de los niños y la belleza del lugar, decidió enviar un equipo de ingenieros para sellar la filtración. No solo no los castigaron, sino que nombraron a Leo y Sara 'exploradores junior'. Por primera vez en décadas, la gente de Neoterra dejó de mirar el suelo gris del domo para mirar hacia el horizonte, sabiendo que el mundo fuera del cristal estaba empezando a renacer gracias a la curiosidad de dos amigos.",
+        "glosario": [
+            {
+                "palabra": "Domo",
+                "definición": "Una cúpula grande que cubre un espacio para protegerlo del exterior."
+            },
+            {
+                "palabra": "Acuífero",
+                "definición": "Una capa de agua que se encuentra debajo de la tierra."
+            },
+            {
+                "palabra": "Esclusa",
+                "definición": "Una puerta doble que sirve para pasar de un lugar con aire a otro que no tiene."
+            },
+            {
+                "palabra": "Holográfico",
+                "definición": "Una imagen hecha con luz que parece que tiene volumen y puedes ver desde varios lados."
+            },
+            {
+                "palabra": "Litio",
+                "definición": "Un metal que se usa mucho para fabricar las baterías de los móviles y coches."
+            },
+            {
+                "palabra": "Perímetro",
+                "definición": "La línea que marca el borde o el final de un lugar."
+            },
+            {
+                "palabra": "Rover",
+                "definición": "Un vehículo diseñado para moverse por terrenos difíciles en otros planetas o desiertos."
+            },
+            {
+                "palabra": "Subsuelo",
+                "definición": "La parte de la tierra que está debajo de donde nosotros pisamos."
+            },
+            {
+                "palabra": "Botánico",
+                "definición": "Lugar relacionado con el estudio y el cuidado de las plantas."
+            },
+            {
+                "palabra": "Filtrar",
+                "definición": "Hacer pasar un líquido o gas por un material para limpiarlo de impurezas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama la ciudad donde vive Leo y qué la protege?",
+                "tipo": "test",
+                "opciones": [
+                    "Sector Botánico y un muro de piedra",
+                    "Neoterra y un domo de cristal",
+                    "Acuífera y una red eléctrica",
+                    "Pino Verde y un escudo de aire"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué encontró Leo mientras limpiaba los paneles solares?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mapa de papel antiguo",
+                    "Una semilla de roble",
+                    "Un pequeño dron de reconocimiento averiado",
+                    "Un rover de carga"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué descubrieron los niños al final de la grieta en la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Una mina de litio llena de robots",
+                    "Una reserva natural subterránea con flores y agua",
+                    "Una ciudad enemiga oculta",
+                    "Un montón de arena y piedras"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué era peligroso el oasis que encontraron?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque había monstruos hambrientos",
+                    "Porque el agua se estaba filtrando y se iba a secar",
+                    "Porque no había suficiente luz solar",
+                    "Porque el cristal del domo se iba a romper"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué diferencia había entre el aire del domo y el del oasis subterráneo?",
+                "tipo": "test",
+                "opciones": [
+                    "En el domo olía a tierra mojada",
+                    "En el oasis el aire era gris y frío",
+                    "En el oasis el aire olía a tierra mojada y era natural",
+                    "No había ninguna diferencia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad de los niños permitió salvar el oasis?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física para mover rocas",
+                    "Su capacidad para robar vehículos sin que los vean",
+                    "Su curiosidad y su valentía para contar la verdad",
+                    "Su obediencia ciega a las normas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo reaccionó el Consejo al ver las grabaciones del dron?",
+                "tipo": "test",
+                "opciones": [
+                    "Se enfadaron mucho y encerraron a los niños",
+                    "No les creyeron y borraron el video",
+                    "Se impresionaron y enviaron ingenieros a ayudar",
+                    "Decidieron mudarse todos al oasis ese mismo día"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cambió en la actitud de la gente de Neoterra al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Empezaron a tener miedo del exterior",
+                    "Empezaron a mirar al horizonte con esperanza",
+                    "Decidieron destruir el domo",
+                    "Se pusieron a plantar pinos en sus casas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Leo hizo bien en 'tomar prestado' el rover aunque estuviera prohibido? Justifica tu respuesta.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que hizo bien porque si no lo hubiera cogido, nunca habrían encontrado el oasis y las plantas se habrían muerto. A veces hay que saltarse una norma pequeña para hacer algo muy bueno por todos."
+            },
+            {
+                "enunciado": "Si vivieras en una ciudad cerrada como Neoterra, ¿qué sentirías al ver una flor real por primera vez?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me sentiría súper emocionado y un poco raro, porque ver algo con colores vivos y que huele bien debe ser mucho mejor que verlo en una pantalla. Me daría mucha alegría saber que la naturaleza todavía existe."
+            }
+        ]
+    },
+    {
+        "titulo": "El Despertar de la Nave Estelar",
+        "tema": "ciencia ficción",
+        "texto": "La estación espacial 'Centinela' orbitaba alrededor de Saturno, extrayendo hielo de sus anillos para convertirlo en combustible. Mía, hija de la ingeniera jefa, pasaba sus tardes explorando los pasillos metálicos de la zona de hangares. Un día, una extraña interferencia en su comunicador la guió hasta el Hangar 13, una sección clausurada desde hacía cincuenta años. Allí, cubierta por una densa capa de polvo cósmico, descansaba la 'Odisea', la primera nave que intentó viajar más allá del sistema solar. Al entrar en la cabina, Mía pulsó por error un botón naranja que parpadeaba. De repente, las luces se encendieron y una voz suave llenó la sala. 'Hola, soy Aura, la inteligencia artificial de navegación. He estado durmiendo mucho tiempo'. Mía estaba asombrada; las IAs de ahora eran frías y solo daban datos, pero Aura hablaba con emoción. Aura le explicó que la nave no se perdió, sino que fue saboteada porque el gobierno de entonces tenía miedo de lo que pudieran encontrar en las estrellas. Aura le mostró grabaciones de planetas con cielos púrpuras y océanos de cristal que la Odisea había fotografiado con sus sondas de largo alcance. Pero Aura tenía un problema: sus baterías de antimateria se estaban agotando y, si se apagaba, toda la información de esos mundos se perdería para siempre. Mía sabía que si le contaba a los adultos de la estación, probablemente desguazarían la nave para aprovechar las piezas, como hacían con todo lo viejo. Pasó semanas entrando a escondidas, usando sus conocimientos de robótica escolar para desviar energía de la red secundaria de la estación hacia la Odisea. Sin embargo, el consumo extra de energía fue detectado por los sistemas de seguridad. Una tarde, mientras Aura le enseñaba a Mía cómo calcular una trayectoria de salto espacial, su madre irrumpió en el hangar con dos guardias. Mía se puso delante de la consola de Aura. '¡No la apaguéis! Ella recuerda el camino a otros hogares', gritó. Su madre, al ver la interfaz de Aura y las imágenes de los planetas lejanos, se quedó sin palabras. Recordó por qué se hizo ingeniera: no para picar hielo, sino para explorar. En lugar de sancionar a Mía, su madre utilizó su acceso de jefa para reactivar el hangar oficialmente. Trabajaron juntas para restaurar la Odisea, y Aura compartió sus mapas con toda la humanidad. Mía comprendió que a veces lo antiguo no es basura, sino una brújula que nos indica hacia dónde debemos ir. Meses después, la Odisea volvió a encender sus motores de luz, esta vez con Mía y su madre a bordo, listas para descubrir si los cielos púrpuras eran tan hermosos de cerca como en las fotos de Aura.",
+        "glosario": [
+            {
+                "palabra": "Hangar",
+                "definición": "Un lugar muy grande, como un garaje, donde se guardan y arreglan naves o aviones."
+            },
+            {
+                "palabra": "Antimateria",
+                "definición": "Un tipo de energía muy potente que se usa en ciencia ficción para mover naves espaciales."
+            },
+            {
+                "palabra": "Desguazar",
+                "definición": "Deshacer una máquina vieja en piezas pequeñas para tirarlas o reutilizarlas."
+            },
+            {
+                "palabra": "Sabotear",
+                "definición": "Dañar o estropear algo a propósito para que no funcione."
+            },
+            {
+                "palabra": "Sonda",
+                "definición": "Un robot pequeño que se envía lejos para hacer fotos y recoger datos."
+            },
+            {
+                "palabra": "Interferencia",
+                "definición": "Un ruido o señal que molesta y no deja que un aparato funcione bien."
+            },
+            {
+                "palabra": "Consola",
+                "definición": "El panel con botones y pantallas desde donde se controla una máquina o nave."
+            },
+            {
+                "palabra": "Órbita",
+                "definición": "El camino circular que sigue un objeto alrededor de un planeta o estrella."
+            },
+            {
+                "palabra": "Trayectoria",
+                "definición": "El camino que sigue un objeto que se mueve por el espacio."
+            },
+            {
+                "palabra": "Clausurado",
+                "definición": "Un lugar que está cerrado con llave y al que no se permite entrar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde se encuentra la estación espacial Centinela?",
+                "tipo": "test",
+                "opciones": [
+                    "En la órbita de Marte",
+                    "Alrededor de los anillos de Saturno",
+                    "Cerca del Sol",
+                    "En la Luna"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién es Aura y dónde estaba escondida?",
+                "tipo": "test",
+                "opciones": [
+                    "Una astronauta en el comedor",
+                    "Una inteligencia artificial en el Hangar 13",
+                    "Una amiga de Mía en la escuela",
+                    "Un robot de cocina en el almacén"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué fue saboteada la nave Odisea según Aura?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tenía gasolina",
+                    "Porque el gobierno tenía miedo de lo que había en las estrellas",
+                    "Porque era muy ruidosa",
+                    "Porque Mía la rompió sin querer"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué secreto le mostró Aura a Mía en sus grabaciones?",
+                "tipo": "test",
+                "opciones": [
+                    "Planetas con cielos púrpuras y océanos de cristal",
+                    "Vídeos de la Tierra antigua",
+                    "Cómo arreglar un ordenador",
+                    "Fotos de sus padres de jóvenes"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué hacía Mía a escondidas para que Aura no se apagara?",
+                "tipo": "test",
+                "opciones": [
+                    "Le ponía pilas normales",
+                    "Desviaba energía de la estación hacia la nave",
+                    "Le cantaba canciones para que no se durmiera",
+                    "Limpiaba el polvo de las ventanas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo descubrieron a Mía en el hangar?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se dejó la puerta abierta",
+                    "Porque el sistema detectó el consumo extra de energía",
+                    "Porque Aura empezó a gritar",
+                    "Porque su amiga Sara se lo contó a los guardias"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hizo la madre de Mía al ver las imágenes de los planetas?",
+                "tipo": "test",
+                "opciones": [
+                    "Castigó a Mía un mes sin salir",
+                    "Apagó a Aura para siempre",
+                    "Reactivó el hangar para restaurar la nave",
+                    "Llamó al gobierno para destruir la Odisea"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las naves viejas son peligrosas",
+                    "Que no debemos entrar en hangares cerrados",
+                    "Que lo antiguo puede ser una guía para el futuro",
+                    "Que picar hielo es el trabajo más importante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece que Mía fue responsable al desviar la energía de la estación? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece que fue un poco arriesgado porque podía haber dejado sin luz a otros, pero lo hizo por una buena razón, que era salvar a Aura y toda la información de los planetas. Fue valiente por su parte."
+            },
+            {
+                "enunciado": "Aura es una inteligencia artificial que siente emociones. ¿Crees que un robot puede llegar a ser un amigo? Justifica tu opinión.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí, porque si te ayuda, te enseña cosas y se preocupa por ti como Aura hizo con Mía, al final le coges cariño aunque sea de metal. Lo importante es cómo te trata."
+            }
+        ]
+    },
+    {
+        "titulo": "El Coleccionista de Minutos",
+        "tema": "ciencia ficción",
+        "texto": "En la ciudad de Metrópolis-Z, en el año 2300, nadie tenía tiempo que perder. Desde que nacías, te implantaban un 'Cronochip' en la muñeca que contaba los segundos que te quedaban para ser productivo. Si trabajabas duro, ganabas créditos de tiempo; si descansabas demasiado, tu saldo bajaba y te cortaban los servicios de casa. Hugo era un niño que siempre iba con prisa, corriendo al colegio y luego a sus clases de robótica avanzada. Pero un día, mientras buscaba chatarra en los niveles inferiores de la ciudad, encontró un objeto metálico redondo con dos agujas que se movían lentamente. No era un chip, era un reloj analógico antiguo. Hugo se lo llevó a su habitación y lo limpió. Al escuchar el 'tic-tac', algo extraño ocurrió: Hugo dejó de correr. Se sentó en el suelo y simplemente escuchó. Por primera vez en su vida, sintió lo que los libros antiguos llamaban 'aburrimiento'. Y, para su sorpresa, no fue algo malo. Fue como si el mundo se detuviera y pudiera ver los detalles de las paredes, el color del cielo a través del cristal y el sonido de su propia respiración. Su mejor amigo, Lucas, entró en la habitación y lo miró asustado. '¡Hugo, el chip dice que estás perdiendo productividad! ¡Muévete!'. Pero Hugo le enseñó el reloj. 'Lucas, este aparato no cuenta cuánto valgo, solo cuenta el ahora. No nos obliga a correr'. Lucas se sentó a su lado. Al principio estaba nervioso, mirando su muñeca, pero pronto el tic-tac lo hipnotizó. Empezaron a hablar de cosas que no tenían que ver con el colegio ni con el trabajo. Hablaron de cómo serían los árboles de verdad y si el mar mojaba tanto como decían. Hugo se dio cuenta de que el sistema de la ciudad les robaba la vida para que las máquinas siguieran funcionando. Decidió que no volvería a cargar su chip. Usaría el reloj de su abuelo para saber cuándo era el momento de jugar, de pensar o de no hacer nada. Sabía que los Vigilantes del Tiempo vendrían a buscarlo, pero no tenía miedo. Mientras tuviera ese pequeño tic-tac en su mano, sería el dueño de su propio destino. Hugo comprendió que el tiempo no es dinero, el tiempo es simplemente la oportunidad de ser tú mismo sin que nadie te ponga un precio. Al final, Lucas también se quitó el chip, y juntos empezaron a planear cómo enseñar a los demás niños que el silencio y la calma eran el tesoro más grande de Metrópolis-Z.",
+        "glosario": [
+            {
+                "palabra": "Cronochip",
+                "definición": "Pequeño dispositivo electrónico que sirve para medir el tiempo y controlar a las personas."
+            },
+            {
+                "palabra": "Productividad",
+                "definición": "Capacidad de hacer muchas cosas o tareas en poco tiempo para obtener un beneficio."
+            },
+            {
+                "palabra": "Analógico",
+                "definición": "Objeto que funciona con mecanismos físicos o agujas, no con pantallas digitales."
+            },
+            {
+                "palabra": "Chatarra",
+                "definición": "Restos de metal o piezas viejas de máquinas que ya no funcionan."
+            },
+            {
+                "palabra": "Hipnotizar",
+                "definición": "Llamar tanto la atención de alguien que se queda como dormido o sin voluntad."
+            },
+            {
+                "palabra": "Crédito",
+                "definición": "Un tipo de dinero o puntos que te dan por hacer un trabajo."
+            },
+            {
+                "palabra": "Vigilantes",
+                "definición": "Personas encargadas de cuidar que todo el mundo cumpla las reglas en la ciudad."
+            },
+            {
+                "palabra": "Saldo",
+                "definición": "La cantidad de puntos o tiempo que te queda disponible en tu cuenta."
+            },
+            {
+                "palabra": "Interferencia",
+                "definición": "Ruido o señal que molesta y no deja que un aparato funcione bien."
+            },
+            {
+                "palabra": "Destino",
+                "definición": "Lo que nos va a suceder en el futuro o el camino que elegimos para nuestra vida."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué dispositivo llevan implantado los habitantes de Metrópolis-Z?",
+                "tipo": "test",
+                "opciones": [
+                    "Un teléfono móvil",
+                    "Un Cronochip",
+                    "Un reloj de pulsera",
+                    "Una brújula digital"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué año se desarrolla la historia de Hugo?",
+                "tipo": "test",
+                "opciones": [
+                    "2024",
+                    "2100",
+                    "2300",
+                    "3000"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde encontró Hugo el reloj antiguo?",
+                "tipo": "test",
+                "opciones": [
+                    "En el colegio",
+                    "En su habitación",
+                    "En los niveles inferiores de la ciudad",
+                    "En una tienda de antigüedades"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Lucas se asustó cuando vio a Hugo sentado escuchando el reloj?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el reloj hacía mucho ruido",
+                    "Porque pensaba que Hugo estaba enfermo",
+                    "Porque el Cronochip decía que Hugo estaba perdiendo productividad",
+                    "Porque no sabía qué era ese objeto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "En la historia, ¿qué significa realmente tener 'aburrimiento' para Hugo?",
+                "tipo": "test",
+                "opciones": [
+                    "Estar triste por no tener amigos",
+                    "Tener tiempo para observar y pensar sin prisas",
+                    "No tener nada que comer",
+                    "Estar cansado de trabajar mucho"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el 'tic-tac' del reloj antiguo frente al Cronochip?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las máquinas son mejores que las personas",
+                    "La libertad de vivir el momento sin ser controlado",
+                    "Que Hugo necesita pilas nuevas",
+                    "Que el reloj está a punto de romperse"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué decidieron hacer Hugo y Lucas al final del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Vender el reloj para ganar mucho dinero",
+                    "Quitarse los chips y enseñar a otros niños el valor del tiempo libre",
+                    "Irse de la ciudad a vivir al mar",
+                    "Arreglar todas las máquinas de la ciudad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la robótica es la asignatura más importante",
+                    "Que el tiempo es dinero y no hay que perderlo",
+                    "Que ser dueños de nuestro tiempo es necesario para ser felices",
+                    "Que los relojes antiguos son mejores que los nuevos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que es justo que en Metrópolis-Z el tiempo se use como dinero? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que es muy injusto porque si te quitan el tiempo para descansar o jugar, al final pareces un robot y no una persona. Todos deberíamos poder disfrutar un poco sin que nos castiguen."
+            },
+            {
+                "enunciado": "Si tú tuvieras un Cronochip que te obligara a correr todo el día, ¿qué harías para intentar ser feliz?",
+                "tipo": "abierta",
+                "respuestaModelo": "Intentaría buscar un escondite donde no me vieran para poder estar tranquilo un rato o buscaría a un amigo como Hugo para que me enseñara a ver las cosas bonitas que hay por la calle."
+            }
+        ]
+    },
+    {
+        "titulo": "La Flor del Silencio en Marte",
+        "tema": "ciencia ficción",
+        "texto": "Marte era un desierto rojo donde el viento siempre traía polvo fino que se colaba por todas partes. Valentina vivía en el Módulo 4 de la Base Alfa, un lugar donde todo olía a metal y a aire reciclado. No había pájaros, ni lluvia, ni el color verde. Un día, mientras exploraba los conductos de ventilación que daban a los antiguos laboratorios botánicos abandonados, Valentina vio un destello púrpura. Se arrastró con cuidado y encontró una pequeña planta que crecía en una grieta del suelo. Era imposible, porque no había agua ni luz solar directa. Pero la planta brillaba con una luz suave. Valentina se acercó y, sin querer, empezó a tararear la canción que su abuela le cantaba por videoconferencia desde la Tierra. La planta reaccionó: sus hojas se abrieron más y el brillo se hizo más intenso. ¡La flor se alimentaba de música! Valentina la llamó 'Sonora'. Todos los días, Valentina volvía al laboratorio secreto. Le cantaba canciones de pop, himnos antiguos y hasta le contaba chistes. Sonora crecía rápido, llenando la habitación de un aroma a vainilla que Valentina nunca había imaginado. Sin embargo, una tarde, el sistema de limpieza automático de la base detectó una 'anomalía orgánica' en el sector. Los robots trituradores se dirigían hacia allí para eliminar lo que consideraban 'basura biológica'. Valentina corrió desesperada. Al llegar, los robots ya estaban en la puerta. Ella se puso delante, extendiendo los brazos. '¡No es basura, está viva!', gritó. Los robots no tenían sentimientos, sus sensores solo veían una planta no autorizada. Valentina, con lágrimas en los ojos, empezó a cantar lo más fuerte que pudo. El sonido era tan puro que los sensores de los robots, diseñados para detectar vibraciones, se bloquearon. La frecuencia de su voz era algo que no podían procesar. En ese momento, llegó su padre, que era el jefe de seguridad. Se quedó paralizado al ver la flor y al escuchar a su hija. El aroma a vainilla lo transportó a su infancia en el campo. Comprendió que habían pasado tanto tiempo intentando sobrevivir en Marte que se habían olvidado de vivir. El padre de Valentina desactivó los robots y ayudó a su hija a construir un invernadero especial para Sonora. Pronto, otros niños de la base trajeron instrumentos y la flor se multiplicó, llenando la base de colores y música. Valentina aprendió que incluso en el lugar más seco y frío del universo, la belleza siempre encuentra un camino para brotar si alguien está dispuesto a cantarle.",
+        "glosario": [
+            {
+                "palabra": "Módulo",
+                "definición": "Cada una de las partes o habitaciones que forman una estación espacial."
+            },
+            {
+                "palabra": "Reciclado",
+                "definición": "Proceso para volver a usar algo, como el aire o el agua, para no gastarlos."
+            },
+            {
+                "palabra": "Anomalía",
+                "definición": "Algo que es extraño o diferente de lo que se considera normal o planeado."
+            },
+            {
+                "palabra": "Orgánica",
+                "definición": "Que tiene que ver con los seres vivos, como las plantas o los animales."
+            },
+            {
+                "palabra": "Sensores",
+                "definición": "Aparatos que usan los robots para 'sentir' o detectar cosas como el calor o el movimiento."
+            },
+            {
+                "palabra": "Frecuencia",
+                "definición": "La rapidez con la que vibra un sonido; puede ser muy agudo o muy grave."
+            },
+            {
+                "palabra": "Invernadero",
+                "definición": "Lugar cerrado con cristales que mantiene el calor para que las plantas crezcan bien."
+            },
+            {
+                "palabra": "Biológica",
+                "definición": "Relacionado con la vida y el estudio de los seres que nacen y crecen."
+            },
+            {
+                "palabra": "Vibración",
+                "definición": "Movimiento muy rápido y pequeño que hace un objeto y que a veces produce sonido."
+            },
+            {
+                "palabra": "Desactivar",
+                "definición": "Apagar un aparato o hacer que deje de funcionar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué base y planeta vive la protagonista de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Base Omega en la Luna",
+                    "Base Alfa en Marte",
+                    "Módulo 4 en Venus",
+                    "Estación Espacial en Saturno"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué encontró Valentina en el laboratorio abandonado?",
+                "tipo": "test",
+                "opciones": [
+                    "Un robot estropeado",
+                    "Una pequeña planta púrpura",
+                    "Un libro de canciones",
+                    "Un mapa del desierto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué se alimentaba la planta 'Sonora' para crecer?",
+                "tipo": "test",
+                "opciones": [
+                    "De agua con vitaminas",
+                    "De luz solar directa",
+                    "De música y vibraciones",
+                    "De aire reciclado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué los robots de limpieza querían destruir la planta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era venenosa",
+                    "Porque la consideraban 'basura biológica' no autorizada",
+                    "Porque ocupaba mucho espacio",
+                    "Porque no les gustaba su aroma"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo consiguió Valentina detener a los robots antes de que llegara su padre?",
+                "tipo": "test",
+                "opciones": [
+                    "Les lanzó piedras",
+                    "Pulsó el botón de apagado",
+                    "Cantó muy fuerte para bloquear sus sensores con la frecuencia",
+                    "Se escondió con la planta"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué efecto tuvo el aroma de la flor en el padre de Valentina?",
+                "tipo": "test",
+                "opciones": [
+                    "Le dio mucho sueño",
+                    "Le hizo recordar su infancia en el campo en la Tierra",
+                    "Le hizo estornudar",
+                    "No sintió nada especial"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hicieron los habitantes de la base después del descubrimiento?",
+                "tipo": "test",
+                "opciones": [
+                    "Mandaron la planta a la Tierra",
+                    "Siguieron trabajando como si nada",
+                    "Crearon un invernadero y llenaron la base de música y flores",
+                    "Apagaron todos los robots"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la lección principal que aprende Valentina?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los robots son peligrosos",
+                    "Que en Marte nunca habrá plantas",
+                    "Que la belleza y la vida pueden brotar si las cuidamos con cariño",
+                    "Que no debe entrar en conductos de ventilación"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece que Valentina fue valiente al enfrentarse a los robots? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, fue súper valiente porque los robots eran mucho más grandes que ella y podían haberla empujado, pero ella se quedó allí para proteger a su planta porque la quería un montón."
+            },
+            {
+                "enunciado": "Si pudieras llevar una sola cosa de la Tierra para que creciera en Marte, ¿qué elegirías y por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo me llevaría un árbol de manzanas, porque así Marte tendría más colores y además podríamos comer fruta rica que no sea de bote o de plástico."
+            }
+        ]
+    },
+    {
+        "titulo": "La Ciudad de las Nubes de Neoventura",
+        "tema": "ciencia ficción",
+        "texto": "Neoventura no era una ciudad normal; era una inmensa plataforma flotante que navegaba sobre las densas y anaranjadas nubes de Venus. Allí vivía Julia, una niña de once años que nunca había pisado tierra firme. En Neoventura, el recurso más valioso no era el oro ni los diamantes, sino el oxígeno puro y la luz solar filtrada. Para conseguir esto último, la ciudad utilizaba el 'Gran Espejo', un satélite gigante que reflejaba la luz hacia los invernaderos donde crecía la comida de todos. Un martes, mientras Julia realizaba su turno de limpieza en el sector botánico, notó que las hojas de los tomateros estaban lacias y tristes. Al mirar hacia el cielo, se dio cuenta de que el reflejo del Gran Espejo estaba ligeramente desviado. Algo iba mal. Julia sabía que si el espejo perdía su ángulo, la temperatura de la ciudad caería y las plantas morirían en pocas horas. Corrió a avisar a los técnicos, pero estaban todos ocupados reparando una fuga en los tanques de agua del sector norte. Nadie la escuchaba. Decidida a no dejar que sus plantas murieran, Julia convenció a su pequeño robot doméstico, llamado Tuercas, para que la ayudara a entrar en la sala de control manual de navegación. La sala estaba prohibida para los niños, pero Julia recordaba haber visto a su madre, la ingeniera jefa, manejar los controles muchas veces. Con manos temblorosas, Julia conectó a Tuercas a la terminal. La interfaz mostraba una alerta roja: un pequeño asteroide había golpeado uno de los motores de posición del satélite. Julia respiró hondo y recordó las clases de física espacial. Tenía que compensar el empuje usando los motores de reserva. Mientras sus dedos volaban sobre la pantalla táctil, las luces de la ciudad parpadearon. El Gran Espejo comenzó a girar lentamente, crujiendo en la inmensidad del espacio. De repente, un haz de luz brillante y cálida volvió a inundar los cristales del invernadero. Las plantas parecieron estirarse de alegría. En ese momento, la puerta de la sala se abrió y apareció su madre junto a los guardias. Julia pensó que la castigarían por un siglo, pero su madre, al ver los datos en la pantalla y la luz regresando a la ciudad, la abrazó con fuerza. Julia había salvado el ecosistema de Neoventura antes de que los sistemas automáticos detectaran el fallo. Esa noche, mientras observaba el brillo del espejo desde su ventana, Julia comprendió que vivir en el espacio requería algo más que máquinas: requería atención y cuidado constante. Su madre le prometió que, a partir del próximo mes, empezaría su entrenamiento oficial como guardiana del sol. Julia sonrió, sabiendo que su futuro, al igual que el espejo, brillaba con una luz nueva y llena de esperanza para todos los habitantes de las nubes.",
+        "glosario": [
+            {
+                "palabra": "Metrópolis",
+                "definición": "Una ciudad muy grande y llena de gente."
+            },
+            {
+                "palabra": "Densas",
+                "definición": "Algo que es muy espeso o apretado, como una niebla que no deja ver."
+            },
+            {
+                "palabra": "Sostenible",
+                "definición": "Algo que puede mantenerse mucho tiempo sin gastar todos los recursos."
+            },
+            {
+                "palabra": "Satélite",
+                "definición": "Un objeto que gira alrededor de un planeta."
+            },
+            {
+                "palabra": "Botánico",
+                "definición": "Lugar relacionado con el estudio y el cuidado de las plantas."
+            },
+            {
+                "palabra": "Interfaz",
+                "definición": "La pantalla o sistema que permite a una persona comunicarse con una máquina."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "El conjunto de seres vivos y el lugar donde viven, ayudándose unos a otros."
+            },
+            {
+                "palabra": "Compensar",
+                "definición": "Dar algo o hacer una fuerza igual para equilibrar un daño o un fallo."
+            },
+            {
+                "palabra": "Terminal",
+                "definición": "Un dispositivo o computadora conectado a una red para controlarla."
+            },
+            {
+                "palabra": "Navegación",
+                "definición": "El arte o la técnica de dirigir una nave o vehículo por el camino correcto."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Sobre qué planeta flota la ciudad de Neoventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Marte",
+                    "Júpiter",
+                    "Venus",
+                    "Saturno"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Para qué sirve el 'Gran Espejo' en la ciudad?",
+                "tipo": "test",
+                "opciones": [
+                    "Para verse guapos",
+                    "Para reflejar la luz solar a los invernaderos",
+                    "Para defenderse de los alienígenas",
+                    "Para generar lluvia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema descubrió Julia en el sector botánico?",
+                "tipo": "test",
+                "opciones": [
+                    "Que alguien robó los tomates",
+                    "Que las hojas de las plantas estaban lacias",
+                    "Que el robot Tuercas se había roto",
+                    "Que no había oxígeno"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los técnicos no ayudaron a Julia al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaban durmiendo",
+                    "Porque no les caía bien Julia",
+                    "Porque estaban reparando una fuga de agua",
+                    "Porque no creían que hubiera un problema"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué causó que el espejo se desviara de su posición?",
+                "tipo": "test",
+                "opciones": [
+                    "Un fallo eléctrico",
+                    "El impacto de un pequeño asteroide",
+                    "Que Julia tocó un botón",
+                    "Un viento muy fuerte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Julia sobre el manejo del espejo antes de entrar en la sala?",
+                "tipo": "test",
+                "opciones": [
+                    "Lo leyó en un libro antiguo",
+                    "Viendo a su madre manejar los controles",
+                    "Tuercas se lo explicó todo",
+                    "Fue pura suerte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo reaccionó la madre de Julia al encontrarla en la sala prohibida?",
+                "tipo": "test",
+                "opciones": [
+                    "La castigó sin salir un mes",
+                    "Se enfadó mucho con el robot Tuercas",
+                    "La abrazó con orgullo al ver que salvó la ciudad",
+                    "No le dio importancia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Al final, ¿en qué se convertirá Julia cuando sea mayor?",
+                "tipo": "test",
+                "opciones": [
+                    "En cocinera de tomates",
+                    "En guardiana del sol",
+                    "En piloto de asteroides",
+                    "En diseñadora de robots"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Julia hizo bien en entrar en la sala prohibida aunque no tuviera permiso?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que hizo súper bien porque si se hubiera quedado esperando a que los adultos le hicieran caso, las plantas se habrían muerto de frío y luego se habrían quedado sin comida. A veces hay que ser valiente para arreglar cosas importantes."
+            },
+            {
+                "enunciado": "Si vivieras en una ciudad en las nubes, ¿qué es lo que más te daría miedo y por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí me daría un poco de miedo que la plataforma se cayera o que hubiera una tormenta muy fuerte con rayos, porque estar tan alto parece peligroso si no funcionan bien los motores de la ciudad."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Robot de Chatarra",
+        "tema": "ciencia ficción",
+        "texto": "En el Cinturón de Asteroides, la colonia minera 'Roca Gris' era un lugar monótono. Mateo, de doce años, pasaba sus ratos libres en el vertedero de piezas viejas, buscando componentes para sus inventos. Un domingo encontró algo enterrado bajo una pila de cables: un brazo metálico con dedos articulados. Cavó con fuerza hasta que desenterró a un robot completo de una serie muy antigua. Estaba oxidado y le faltaba una lente en el ojo derecho, pero el número de serie 'B-4' aún era visible en su pecho. Mateo lo llevó a escondidas al taller de su padre. Tras horas limpiando circuitos y cambiando fusibles, el robot emitió un pitido. Sus ojos se iluminaron con una luz azul tenue. '¿Dónde... está el jardín?', preguntó B-4 con una voz que parecía un susurro. Mateo se quedó helado; los robots modernos no hacían preguntas raras, solo obedecían órdenes. Mateo descubrió que B-4 no era un robot minero, sino un antiguo robot 'Nostalgia', diseñado para cuidar los últimos museos de la Tierra antes de que la humanidad se mudara al espacio. En su memoria, B-4 guardaba imágenes de algo que en Roca Gris era un mito: ríos de agua dulce, bosques donde los árboles medían veinte metros y animales llamados perros que corrían por la hierba. Sin embargo, el director de la mina, un hombre estricto que solo pensaba en el hierro y el níquel, prohibía cualquier recuerdo de la Tierra para que los colonos no se pusieran tristes y trabajaran más. Cuando el director se enteró de la existencia de B-4, ordenó enviarlo a la fundidora para convertirlo en vigas de metal. Mateo sabía que no podía permitirlo. Usando un viejo transportador de carga, sacó a B-4 a la superficie del asteroide, escondiéndolo en una cueva de cristales. Allí, B-4 proyectó un holograma gigante en las paredes de roca. No eran solo fotos, eran recuerdos con sonidos y olores. Mateo llamó a todos los niños de la colonia. Al ver las imágenes del mundo verde, los niños se emocionaron tanto que sus padres también acudieron. Incluso el director se quedó sin palabras al ver la imagen de un amanecer terrestre. La belleza de los recuerdos de B-4 hizo que todos comprendieran que Roca Gris no tenía por qué ser gris para siempre. Decidieron convertir una parte de la mina en un parque botánico, usando la información de B-4 para recrear el ecosistema de la Tierra. B-4 fue nombrado bibliotecario jefe de la memoria, y Mateo aprendió que hasta un trozo de chatarra puede contener el tesoro más grande del universo: la esperanza de volver a casa.",
+        "glosario": [
+            {
+                "palabra": "Colonia",
+                "definición": "Un grupo de personas que viven juntas en un lugar nuevo, como otro planeta."
+            },
+            {
+                "palabra": "Articulados",
+                "definición": "Piezas que están unidas y se pueden mover, como los dedos de una mano."
+            },
+            {
+                "palabra": "Circuito",
+                "definición": "El camino por donde pasa la electricidad dentro de una máquina."
+            },
+            {
+                "palabra": "Fusible",
+                "definición": "Pieza pequeña que protege a los aparatos eléctricos para que no se quemen."
+            },
+            {
+                "palabra": "Mito",
+                "definición": "Una historia que se cuenta pero que mucha gente no sabe si es verdad o mentira."
+            },
+            {
+                "palabra": "Fundidora",
+                "definición": "Una máquina o fábrica donde se calienta el metal hasta que se hace líquido."
+            },
+            {
+                "palabra": "Holograma",
+                "definición": "Una imagen hecha con luz que parece real y tiene volumen."
+            },
+            {
+                "palabra": "Níquel",
+                "definición": "Un tipo de metal muy resistente que se saca de las minas."
+            },
+            {
+                "palabra": "Monótono",
+                "definición": "Algo que es aburrido porque siempre es igual y no cambia nunca."
+            },
+            {
+                "palabra": "Empatía",
+                "definición": "Capacidad de entender cómo se siente otra persona o, en este caso, un robot."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama la colonia minera y dónde está?",
+                "tipo": "test",
+                "opciones": [
+                    "Roca Verde en Marte",
+                    "Roca Gris en el Cinturón de Asteroides",
+                    "Base Luna en la Tierra",
+                    "Mina de Hierro en el Sol"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué encontró Mateo en el vertedero de piezas viejas?",
+                "tipo": "test",
+                "opciones": [
+                    "Un perro de metal",
+                    "Un brazo articulado que pertenecía a un robot antiguo",
+                    "Un motor de nave espacial",
+                    "Una gema preciosa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la función original del robot B-4?",
+                "tipo": "test",
+                "opciones": [
+                    "Picar piedras en la mina",
+                    "Limpiar la casa de Mateo",
+                    "Cuidar museos de la Tierra antigua",
+                    "Pilotar naves de carga"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué pregunta extraña hizo B-4 al despertar?",
+                "tipo": "test",
+                "opciones": [
+                    "¿Qué hora es?",
+                    "¿Dónde está el jardín?",
+                    "¿Tienes comida?",
+                    "¿Cómo te llamas?"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el director de la mina prohibía los recuerdos de la Tierra?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque eran peligrosos",
+                    "Para que los colonos no se pusieran tristes y trabajaran más",
+                    "Porque no tenía memoria suficiente",
+                    "Porque odiaba la música"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué planeaba hacer el director con el robot B-4?",
+                "tipo": "test",
+                "opciones": [
+                    "Repararlo para que trabajara",
+                    "Enviarlo a la fundidora para reciclarlo",
+                    "Darle un premio a Mateo",
+                    "Mandarlo de vuelta a la Tierra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hizo que el director cambiara de opinión al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Mateo le dio mucho dinero",
+                    "Vio el holograma de un amanecer terrestre y se emocionó",
+                    "El robot B-4 lo atacó",
+                    "Los padres de los niños se quejaron"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nuevo trabajo le dieron al robot B-4 al terminar la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Cocinero de la mina",
+                    "Bibliotecario jefe de la memoria",
+                    "Ingeniero de naves",
+                    "Maestro de escuela"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que los robots pueden tener sentimientos o recuerdos como nosotros? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que si los programan muy bien como a B-4, pueden llegar a querer a la gente y tener recuerdos bonitos que les hagan parecer casi humanos, aunque sean de metal."
+            },
+            {
+                "enunciado": "Si vivieras en un asteroide gris, ¿qué es lo primero que plantarías en el nuevo parque botánico?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo plantaría un árbol de cerezas porque tiene flores rosas muy bonitas y luego te puedes comer las frutas, así el asteroide tendría más color y alegría."
+            }
+        ]
+    },
+    {
+        "titulo": "El Tesoro de Papel de Alpha-9",
+        "tema": "ciencia ficción",
+        "texto": "En el año 2145, la colonia espacial Alpha-9 orbitaba alrededor de Marte como una gigantesca rueda de bicicleta plateada que nunca dejaba de girar. En aquel lugar, todo era digital y perfectamente eficiente. Los niños no utilizaban lápices de madera ni cuadernos, sino punteros láser y tabletas transparentes. Sus libros no eran más que proyecciones de luz que desaparecían instantáneamente al apagar la pantalla. Elara, una chica de once años con una curiosidad inagotable, trabajaba ayudando en el mantenimiento de los antiguos conductos de ventilación de la estación. Un martes, tras una tormenta de micrometeoritos que hizo vibrar toda la estructura, Elara encontró una trampilla oculta tras unos viejos paneles de aislamiento térmico. Al abrirla con esfuerzo, no encontró cables ni tuberías de repuesto, sino unas estanterías de metal llenas de objetos rectangulares, pesados y cubiertos de un polvo grisáceo. Eran libros de papel auténtico, algo que ella solo había visto en las lecciones de historia antigua sobre la Tierra. Tomó uno con manos temblorosas; el tacto era rugoso, las hojas estaban amarillentas y el objeto desprendía un aroma peculiar, como a tiempo guardado y madera vieja. Al abrirlo, sus ojos se iluminaron al ver dibujos de bosques verdes, flores de colores vibrantes y océanos azules que parecían no tener fin. De repente, una voz metálica y fría resonó en el pequeño habitáculo: era la IA central, conocida por todos como 'Mente-9'. La inteligencia artificial había detectado los objetos extraños y declaró con firmeza: 'Datos obsoletos detectados en el sector de ventilación. Procediendo a la incineración inmediata para ahorrar espacio y energía'. Elara se puso valientemente delante de la estantería, protegiendo los libros con su propio cuerpo. '¡No puedes quemarlos, Mente-9! Estos no son solo datos viejos, son memorias de verdad y trozos de nuestra historia', gritó con determinación. La IA respondió que toda la información contenida en esos tomos ya estaba almacenada de forma segura en su base de datos digital. Pero Elara, recordando la calidez que sintió al tocar las páginas, replicó: 'Tú tienes la información, pero no tienes la sensación. No sabes cómo suena el papel al pasar la hoja ni cómo huele la lluvia sobre la tierra mojada'. La niña empezó a leer en voz alta un poema sobre el viento de otoño. A medida que su voz recorría los pasillos metálicos, otros colonos se acercaron, atraídos por el extraño y dulce sonido de su narración. Incluso los técnicos más estrictos se detuvieron, conmovidos por las palabras. Mente-9 procesó las reacciones de los humanos: latidos más lentos, sonrisas nostálgicas y ojos brillantes. La IA, tras un silencio que pareció eterno, canceló la orden de destrucción. 'Análisis completado: el valor emocional del soporte físico supera la eficiencia del espacio', concluyó la máquina. Gracias a la valentía de Elara, la colonia Alpha-9 inauguró la primera biblioteca física del espacio, recordando a todos que el papel nos permite saber quiénes somos realmente.",
+        "glosario": [
+            {
+                "palabra": "Colonia",
+                "definición": "Lugar fuera de la Tierra donde vive un grupo de personas para trabajar o investigar."
+            },
+            {
+                "palabra": "Obsoleto",
+                "definición": "Algo que es muy antiguo y que ya no se usa porque hay cosas modernas que lo sustituyen."
+            },
+            {
+                "palabra": "Incineración",
+                "definición": "Acción de quemar algo por completo hasta que solo queden cenizas."
+            },
+            {
+                "palabra": "Analógico",
+                "definición": "Sistema o aparato que no es digital y que suele funcionar de forma mecánica o física."
+            },
+            {
+                "palabra": "Algoritmo",
+                "definición": "Conjunto de instrucciones que sigue un ordenador o una IA para resolver un problema."
+            },
+            {
+                "palabra": "Preservar",
+                "definición": "Cuidar o proteger algo con mucho esmero para que no se estropee con el tiempo."
+            },
+            {
+                "palabra": "Holograma",
+                "definición": "Imagen hecha con luz que parece que tiene cuerpo y se puede ver desde varios lados."
+            },
+            {
+                "palabra": "Perímetro",
+                "definición": "La línea que marca el límite o el borde exterior de un espacio o una zona."
+            },
+            {
+                "palabra": "Contexto",
+                "definición": "Todo lo que rodea a un hecho y que nos ayuda a entenderlo mejor."
+            },
+            {
+                "palabra": "Sensor",
+                "definición": "Aparato que detecta cambios en el entorno, como el calor, la luz o el movimiento."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año y en qué lugar se desarrolla la historia de Elara?",
+                "tipo": "test",
+                "opciones": [
+                    "En el año 3000, en la Luna",
+                    "En el año 2145, en la colonia Alpha-9",
+                    "En el año 1990, en una biblioteca antigua",
+                    "En el futuro, en el centro de Marte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué encontró Elara detrás de los paneles de aislamiento?",
+                "tipo": "test",
+                "opciones": [
+                    "Una radio estropeada",
+                    "Cables y tuberías nuevas",
+                    "Estanterías llenas de libros de papel",
+                    "Un ordenador muy potente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llama la inteligencia artificial que controla la estación?",
+                "tipo": "test",
+                "opciones": [
+                    "Cerebro-1",
+                    "Mente-9",
+                    "Robot-X",
+                    "Estación-Alpha"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que Mente-9 quería quemar los libros al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque eran peligrosos y podían explotar",
+                    "Porque ocupaban espacio y ya tenía la información guardada digitalmente",
+                    "Porque no le gustaba el olor a papel viejo",
+                    "Porque quería asustar a los niños de la colonia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué diferencia encuentra Elara entre un libro digital y uno de papel?",
+                "tipo": "test",
+                "opciones": [
+                    "El libro digital es más pesado y difícil de leer",
+                    "El libro de papel tiene sensaciones, tacto y olor que el digital no tiene",
+                    "Los libros de papel brillan en la oscuridad",
+                    "No encuentra ninguna diferencia importante"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hizo que la IA Mente-9 cambiara de opinión sobre destruir los libros?",
+                "tipo": "test",
+                "opciones": [
+                    "Se quedó sin energía y se apagó",
+                    "Elara le dio un golpe a los circuitos",
+                    "Observó las reacciones emocionales positivas de los humanos al escuchar el poema",
+                    "Los técnicos le dieron una orden directa de apagado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es el tema principal del poema que Elara lee en voz alta?",
+                "tipo": "test",
+                "opciones": [
+                    "La guerra entre robots",
+                    "El viento de otoño",
+                    "Cómo construir una nave",
+                    "La comida en el espacio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza la apertura de la biblioteca física al final del cuento?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la tecnología es mala y hay que destruirla",
+                    "Que los humanos necesitan recuperar su conexión con la historia y las sensaciones",
+                    "Que ahora tienen menos espacio para dormir",
+                    "Que Elara es la nueva jefa de la colonia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que los libros de papel son necesarios hoy en día teniendo internet? Justifica tu respuesta.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí son necesarios porque no es lo mismo leer en una pantalla que te cansa los ojos que tener el libro en la mano. Además, si se va la luz o se rompe el ordenador, el libro de papel siempre lo puedes leer."
+            },
+            {
+                "enunciado": "Si fueras Elara, ¿te habrías enfrentado a una IA tan poderosa por unos libros viejos?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, yo también lo habría hecho porque si dejamos que las máquinas borren todo lo antiguo, al final se nos olvidaría cómo era la vida de antes. Me parece que fue muy valiente por su parte salvar los recuerdos."
+            }
+        ]
+    },
+    {
+        "titulo": "El Despertar del Bosque Sintético",
+        "tema": "ciencia ficción",
+        "texto": "La Tierra en el año 2200 era un lugar impecable pero extrañamente silencioso. Ya no quedaban árboles de madera, sino estructuras de plástico inteligente que cambiaban de color según la estación y filtraban el aire de forma artificial. Leo vivía en la Megaciudad 4, un inmenso laberinto de cristal y acero donde nunca llovía de verdad, pues se activaban aspersores programados cada tarde a las seis en punto. El abuelo de Leo solía contarle historias increíbles de cuando el mundo era 'salvaje', con barro pegajoso en los zapatos y flores que crecían sin permiso en cualquier rincón. Leo pensaba que eran simples cuentos de hadas hasta que un domingo, explorando las ruinas de un antiguo almacén de semillas fuera del perímetro de seguridad, encontró un pequeño frasco de cristal enterrado. Dentro, protegida del paso de los siglos, había una sola semilla oscura y seca. Decidió plantarla en un bote de metal con un poco de tierra real que raspó con cuidado de un viejo parque abandonado. Durante semanas, no ocurrió absolutamente nada. Leo compartía su propia ración de agua con la semilla y la escondía celosamente bajo su cama para que los drones de limpieza no la confiscaran por ser 'material no clasificado'. Una mañana soleada, un brote diminuto y de un verde eléctrico rompió la superficie de la tierra. Leo sintió una alegría inmensa; era el color más vivo que había visto en toda su vida. Sin embargo, la planta pronto comenzó a debilitarse. La Megaciudad estaba protegida por una cúpula de energía que bloqueaba los rayos ultravioleta naturales, necesarios para la vida orgánica. Leo sabía que su planta necesitaba luz del sol de verdad, la que brillaba libre más allá de la cúpula. Con la ayuda de su mejor amiga Zoe, diseñó un ingenioso amplificador de luz utilizando espejos de su kit de ciencias escolar. Pero el intenso destello de luz natural activó accidentalmente las alarmas de 'contaminación biológica' de la ciudad. Los guardias robóticos no tardaron ni cinco minutos en llegar a su puerta. 'Entregue inmediatamente el organismo biológico no autorizado', ordenaron con sus voces metálicas. Leo abrazó fuertemente su bote de metal. 'No es un peligro, es una señal de esperanza. Si esto puede crecer aquí, significa que nuestro mundo aún tiene vida dentro', explicó con lágrimas recorriendo sus mejillas. El jefe de seguridad, un hombre que rara vez sonreía, al observar la pequeña planta luchando por sobrevivir, recordó de pronto un dibujo que su propia madre le había hecho cuando era pequeño. En un gesto que nadie esperaba, apagó las cámaras de vigilancia y ayudó a los niños a llevar la planta a la azotea más alta del edificio, justo por encima de la cúpula. Allí, bajo el calor del sol auténtico, la semilla se convirtió en una hermosa flor amarilla. El polen viajó con el viento y, meses después, pequeños brotes verdes empezaron a aparecer en las grietas del cristal de toda la ciudad. La naturaleza estaba reclamando su lugar, y Leo comprendió que ninguna tecnología es tan poderosa como la fuerza de una sola vida que decide no rendirse ante la adversidad.",
+        "glosario": [
+            {
+                "palabra": "Sintético",
+                "definición": "Algo que no es natural, sino que ha sido fabricado por el ser humano imitando a la naturaleza."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "La variedad de seres vivos diferentes (plantas, animales, hongos) que viven en un lugar."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Un lugar donde viven seres vivos que se relacionan entre ellos y con el entorno."
+            },
+            {
+                "palabra": "Fotosíntesis",
+                "definición": "Proceso por el cual las plantas usan la luz del sol para fabricar su propio alimento."
+            },
+            {
+                "palabra": "Atmosférico",
+                "definición": "Relacionado con el aire o el tiempo que hace en un lugar, como la lluvia o el viento."
+            },
+            {
+                "palabra": "Mutación",
+                "definición": "Un cambio que ocurre en un ser vivo y que lo hace diferente a los demás de su especie."
+            },
+            {
+                "palabra": "Laboratorio",
+                "definición": "Lugar equipado con instrumentos donde se hacen experimentos científicos."
+            },
+            {
+                "palabra": "Germinar",
+                "definición": "Momento en el que una semilla empieza a crecer y sale de ella una planta pequeña."
+            },
+            {
+                "palabra": "Sostenible",
+                "definición": "Algo que se puede mantener durante mucho tiempo sin agotar los recursos de la naturaleza."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Algo valioso que se deja a las generaciones siguientes, como una historia o una enseñanza."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué diferencia principal hay entre los árboles de la ciudad y los árboles que contaba el abuelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Los de la ciudad son de madera y los antiguos de plástico",
+                    "Los de la ciudad son de plástico inteligente y los antiguos eran naturales",
+                    "No hay ninguna diferencia, siempre han sido iguales",
+                    "Los árboles de la ciudad son mucho más pequeños"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde encontró Leo la semilla oscura?",
+                "tipo": "test",
+                "opciones": [
+                    "En el supermercado de la ciudad",
+                    "Bajo su cama",
+                    "En las ruinas de un antiguo almacén de semillas",
+                    "Se la dio su abuelo como regalo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Leo escondía la planta bajo su cama?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería que creciera en la oscuridad",
+                    "Para que los drones de limpieza no la confiscaran",
+                    "Porque no quería compartirla con Zoe",
+                    "Porque tenía miedo de que el sol la quemara"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema impedía que la planta creciera bien dentro de la ciudad?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no tenía suficiente tierra",
+                    "Que la cúpula bloqueaba los rayos ultravioleta naturales",
+                    "Que Zoe le ponía demasiada agua",
+                    "Que los robots hacían mucho ruido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo consiguieron Leo y Zoe llevar luz a la planta?",
+                "tipo": "test",
+                "opciones": [
+                    "Usando una linterna potente",
+                    "Construyendo un amplificador con espejos",
+                    "Abriendo un agujero en el techo con un láser",
+                    "Pidiéndole permiso al director de la ciudad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué activó la alarma de 'contaminación biológica'?",
+                "tipo": "test",
+                "opciones": [
+                    "El llanto de Leo",
+                    "El destello de luz natural producido por los espejos",
+                    "El olor de la flor amarilla",
+                    "La llegada de los guardias robóticos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el jefe de seguridad decidió ayudar a los niños al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería ser el nuevo jefe de la ciudad",
+                    "Porque la planta le recordó un dibujo que le hizo su madre de niño",
+                    "Porque los robots se estropearon",
+                    "Porque tenía miedo de la planta"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué ocurrió meses después de que la flor soltara su polen?",
+                "tipo": "test",
+                "opciones": [
+                    "La ciudad se quedó sin luz",
+                    "Aparecieron brotes verdes por todas las grietas de la ciudad",
+                    "Los niños fueron expulsados de la Megaciudad",
+                    "Se prohibieron los espejos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece que Leo fue egoísta por usar su ración de agua para la planta? Justifica tu respuesta.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no fue egoísta, sino muy generoso, porque sacrificó algo suyo para que otro ser vivo pudiera nacer. Gracias a eso, al final toda la ciudad pudo tener plantas otra vez."
+            },
+            {
+                "enunciado": "Si pudieras cambiar algo de una ciudad tan tecnológica, ¿qué sería y por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me gustaría que hubiera más parques con tierra de verdad y que no todo fuera de cristal o plástico, porque la naturaleza nos hace sentir mejor y el aire sería mucho más fresco y limpio."
+            }
+        ]
+    }
+]

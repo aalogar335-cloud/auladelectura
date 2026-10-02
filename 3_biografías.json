@@ -1,0 +1,1392 @@
+[
+    {
+        "titulo": "Marie Curie: La científica radiante",
+        "tema": "Biografías",
+        "texto": "Marie Curie fue una mujer extraordinaria que amaba la ciencia desde muy pequeña. Nació en Polonia, donde tuvo que estudiar en secreto porque las mujeres no podían ir a la universidad. Decidió viajar a París para cumplir su gran sueño. Estudiaba muchísimo y a veces olvidaba comer porque estaba totalmente concentrada en sus libros.\nEn su laboratorio, investigó sobre materiales misteriosos que brillaban en la oscuridad. Junto a su esposo Pierre, descubrió dos elementos nuevos: el polonio y el radio. Llamó polonio a uno de ellos en honor a su país natal. Gracias a su enorme esfuerzo, ganó el Premio Nobel dos veces, algo que nadie había logrado antes. También inventó unas máquinas de rayos X móviles que ayudaron a curar soldados heridos en la guerra.\nMarie nos enseñó que la curiosidad es muy poderosa. Aunque trabajar con radiación era peligroso y le causó enfermedades, ella nunca se rindió. Hoy la recordamos como la madre de la física moderna. Su vida nos demuestra que con valentía y estudio podemos descubrir grandes secretos del universo. Ella abrió el camino para que muchas otras científicas pudieran investigar sin miedo. Marie es un verdadero ejemplo de inteligencia, constancia y amor por descubrir el mundo.",
+        "glosario": [
+            {
+                "palabra": "Universidad",
+                "definición": "Lugar donde las personas adultas estudian carreras superiores para aprender una profesión."
+            },
+            {
+                "palabra": "Laboratorio",
+                "definición": "Habitación equipada con instrumentos especiales para hacer experimentos científicos."
+            },
+            {
+                "palabra": "Elementos",
+                "definición": "Sustancias básicas que forman toda la materia que existe en el universo."
+            },
+            {
+                "palabra": "Radiación",
+                "definición": "Energía que desprenden ciertos materiales y que puede atravesar cuerpos sólidos."
+            },
+            {
+                "palabra": "Constancia",
+                "definición": "Valor que consiste en esforzarse continuamente y no rendirse hasta lograr una meta."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde nació Marie Curie?",
+                "tipo": "test",
+                "opciones": [
+                    "En Polonia",
+                    "En París",
+                    "En España",
+                    "En Inglaterra"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué descubrió junto a su esposo Pierre?",
+                "tipo": "test",
+                "opciones": [
+                    "La electricidad",
+                    "El polonio y el radio",
+                    "La gravedad",
+                    "El microscopio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuántas veces ganó el Premio Nobel?",
+                "tipo": "test",
+                "opciones": [
+                    "Una vez",
+                    "Tres veces",
+                    "Ninguna vez",
+                    "Dos veces"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Qué invento de Marie ayudó a los soldados heridos?",
+                "tipo": "test",
+                "opciones": [
+                    "Medicinas nuevas",
+                    "Máquinas de rayos X móviles",
+                    "Vendas especiales",
+                    "Teléfonos rápidos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿A qué ciudad viajó para poder estudiar?",
+                "tipo": "test",
+                "opciones": [
+                    "A Londres",
+                    "A Roma",
+                    "A Berlín",
+                    "A París"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Por qué estudiaba Marie en secreto en Polonia?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era muy tímida",
+                    "Porque las mujeres no podían ir a la universidad",
+                    "Porque no tenía libros",
+                    "Porque sus padres no la dejaban"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué le puso el nombre 'polonio' a uno de los elementos?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque le gustaba el nombre Polo",
+                    "En honor a su esposo Pierre",
+                    "En honor a su país natal, Polonia",
+                    "Porque sonaba científico"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué demuestra la vida de Marie Curie según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que estudiar es aburrido",
+                    "Que es mejor no viajar lejos",
+                    "Que con valentía y estudio se logran cosas grandes",
+                    "Que los premios son lo más importante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se dice que 'abrió el camino' a otras científicas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque construyó carreteras",
+                    "Porque fue un ejemplo que inspiró a otras mujeres",
+                    "Porque escribió mapas",
+                    "Porque fue profesora de muchas alumnas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál de estas palabras describe mejor a Marie Curie?",
+                "tipo": "test",
+                "opciones": [
+                    "Perezosa",
+                    "Miedosa",
+                    "Perseverante",
+                    "Distraída"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Martin Luther King Jr.: Un sueño de paz",
+        "tema": "Biografías",
+        "texto": "Martin Luther King Jr. soñaba con un mundo donde todas las personas fueran tratadas igual, sin importar el color de su piel. Nació en Estados Unidos en una época muy difícil. Había leyes injustas que separaban a las personas blancas de las negras en autobuses, escuelas y restaurantes. Martin pensaba que esto estaba mal y decidió cambiarlo usando solo palabras pacíficas.\nÉl organizó marchas enormes donde la gente caminaba unida pidiendo justicia. Nunca usó la violencia, porque creía firmemente en el poder del amor y el diálogo. Su discurso más famoso se llamó 'Tengo un sueño'. En él, imaginaba un futuro donde los niños de todas las razas jugaran juntos como hermanos. Muchas personas lo escucharon y empezaron a pedir cambios reales en las leyes.\nGracias a su liderazgo, se lograron reglas nuevas que prohibían la discriminación. Martin ganó el Premio Nobel de la Paz por su lucha tranquila pero firme. Aunque algunas personas no lo querían, él siguió adelante con valentía. Hoy celebramos su vida porque nos enseñó que debemos levantar la voz ante las injusticias. Su mensaje sigue vivo en nosotros: todos somos iguales y merecemos respeto, libertad y muchas oportunidades para ser muy felices.",
+        "glosario": [
+            {
+                "palabra": "Injustas",
+                "definición": "Cosas que no son correctas o que no tratan a las personas como se merecen."
+            },
+            {
+                "palabra": "Pacíficas",
+                "definición": "Que están tranquilas, sin peleas y sin usar la violencia."
+            },
+            {
+                "palabra": "Diálogo",
+                "definición": "Conversación entre personas para solucionar problemas hablando."
+            },
+            {
+                "palabra": "Discriminación",
+                "definición": "Tratar mal a alguien o dejarlo fuera por ser diferente a los demás."
+            },
+            {
+                "palabra": "Liderazgo",
+                "definición": "Capacidad de guiar y animar a un grupo de personas hacia una meta común."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué país nació Martin Luther King Jr.?",
+                "tipo": "test",
+                "opciones": [
+                    "En Francia",
+                    "En Estados Unidos",
+                    "En Sudáfrica",
+                    "En Canadá"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué separaban las leyes injustas de su época?",
+                "tipo": "test",
+                "opciones": [
+                    "A hombres y mujeres",
+                    "A niños y adultos",
+                    "A personas blancas y negras",
+                    "A ricos y pobres"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llamó su discurso más famoso?",
+                "tipo": "test",
+                "opciones": [
+                    "Tengo una idea",
+                    "El mundo feliz",
+                    "Tengo un sueño",
+                    "Caminemos juntos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué premio ganó Martin Luther King Jr.?",
+                "tipo": "test",
+                "opciones": [
+                    "El Premio Nobel de Física",
+                    "El Premio Nobel de la Paz",
+                    "Una medalla de oro olímpica",
+                    "El premio al mejor escritor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué usó Martin para intentar cambiar el mundo?",
+                "tipo": "test",
+                "opciones": [
+                    "Armas y soldados",
+                    "Mucho dinero",
+                    "Palabras pacíficas",
+                    "Magia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Martin no usaba la violencia?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tenía fuerza",
+                    "Porque creía en el amor y el diálogo",
+                    "Porque le daba miedo",
+                    "Porque estaba prohibido hablar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que 'levantemos la voz ante las injusticias'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que gritemos muy fuerte siempre",
+                    "Que cantemos canciones",
+                    "Que protestemos cuando algo está mal",
+                    "Que hablemos bajito"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era el deseo principal de Martin Luther King Jr.?",
+                "tipo": "test",
+                "opciones": [
+                    "Ser famoso en televisión",
+                    "Que todos fueran tratados igual",
+                    "Viajar por todo el mundo",
+                    "Escribir muchos libros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "En su sueño, ¿cómo imaginaba que jugarían los niños?",
+                "tipo": "test",
+                "opciones": [
+                    "Cada uno en su casa",
+                    "Compitiendo para ganar",
+                    "Separados por colores",
+                    "Juntos como hermanos"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Qué nos enseña la historia de Martin hoy en día?",
+                "tipo": "test",
+                "opciones": [
+                    "Que merecemos respeto y libertad",
+                    "Que las marchas son cansadas",
+                    "Que el pasado no importa",
+                    "Que es mejor no hacer nada"
+                ],
+                "correctaIdx": 0
+            }
+        ]
+    },
+    {
+        "titulo": "Frida Kahlo: Pintando el Dolor y la Alegría",
+        "tema": "Biografías",
+        "texto": "Frida Kahlo fue una pintora mexicana conocida mundialmente por sus cuadros llenos de color y emoción. Nació en Coyoacán, en una hermosa casa azul que hoy es un museo visitado por muchos. Desde niña, Frida tuvo problemas de salud, pero su espíritu siempre fue fuerte y muy alegre. Un día, sufrió un accidente muy grave que la obligó a permanecer en cama durante largos meses sin poder moverse. Sus padres, queriendo animarla, le regalaron pinceles y un espejo especial que colocaron en el techo. Mirándose allí, Frida comenzó a pintar autorretratos maravillosos que contaban su historia. Ella amaba profundamente a México y sus tradiciones antiguas. Por eso, vestía ropa típica indígena y pintaba animales como monos y loros que vivían con ella. Su arte no mostraba solo la realidad, sino también sus sueños y dolores más profundos. Viajó a lugares lejanos como París y Nueva York, donde todos admiraban su estilo único. A pesar de sufrir mucho dolor en su espalda, nunca se rindió. Frida transformó su sufrimiento en obras maestras que hoy inspiran a millones de personas. Ella nos demostró que la creatividad es una medicina poderosa y que, con valentía, podemos superar cualquier gran obstáculo difícil de vencer.",
+        "glosario": [
+            {
+                "palabra": "Autorretratos",
+                "definición": "Pinturas o dibujos que un artista hace de sí mismo."
+            },
+            {
+                "palabra": "Indígena",
+                "definición": "Persona o costumbre originaria de un lugar, que ha vivido allí desde tiempos muy antiguos."
+            },
+            {
+                "palabra": "Tradiciones",
+                "definición": "Costumbres, fiestas o formas de hacer las cosas que se pasan de padres a hijos."
+            },
+            {
+                "palabra": "Creatividad",
+                "definición": "Capacidad o facilidad para inventar o crear cosas nuevas y originales."
+            },
+            {
+                "palabra": "Obstáculo",
+                "definición": "Problema o dificultad que se pone en medio y nos impide avanzar o lograr algo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué país nació Frida Kahlo?",
+                "tipo": "test",
+                "opciones": [
+                    "España",
+                    "México",
+                    "Francia",
+                    "Estados Unidos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué color era la casa donde nació?",
+                "tipo": "test",
+                "opciones": [
+                    "Roja",
+                    "Verde",
+                    "Azul",
+                    "Amarilla"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué le regalaron sus padres cuando tuvo el accidente?",
+                "tipo": "test",
+                "opciones": [
+                    "Un libro",
+                    "Un perro",
+                    "Pinceles y un espejo",
+                    "Una silla de ruedas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde colocaron el espejo para que ella pudiera verse?",
+                "tipo": "test",
+                "opciones": [
+                    "En la pared",
+                    "En el techo",
+                    "En el suelo",
+                    "En el jardín"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué animales pintaba frecuentemente en sus obras?",
+                "tipo": "test",
+                "opciones": [
+                    "Gatos y peces",
+                    "Monos y loros",
+                    "Leones y tigres",
+                    "Caballos y vacas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Frida empezó a pintar autorretratos?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no tenía amigos",
+                    "Porque se miraba en el espejo en la cama",
+                    "Porque era lo más fácil",
+                    "Porque no le gustaban los paisajes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué vestía ropa típica indígena?",
+                "tipo": "test",
+                "opciones": [
+                    "Para ocultar sus heridas",
+                    "Porque era más barata",
+                    "Porque amaba las tradiciones de México",
+                    "Porque tenía frío"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿qué significa que 'la creatividad es una medicina'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la pintura se vende en farmacias",
+                    "Que el arte ayuda a sanar el dolor del alma",
+                    "Que los pinceles curan huesos",
+                    "Que los doctores deben ser artistas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña principalmente la vida de Frida?",
+                "tipo": "test",
+                "opciones": [
+                    "Que debemos viajar a París",
+                    "Que los espejos son peligrosos",
+                    "Que podemos superar obstáculos con valentía",
+                    "Que hay que tener muchos animales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo transformó Frida su sufrimiento?",
+                "tipo": "test",
+                "opciones": [
+                    "Llorando todo el día",
+                    "Creando obras maestras",
+                    "Durmiendo mucho",
+                    "Enfadándose con todos"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Nelson Mandela: Un Luchador por la Paz",
+        "tema": "Biografías",
+        "texto": "Nelson Mandela fue un líder sudafricano que dedicó toda su vida a luchar por la libertad. Nació en una pequeña aldea y desde joven notó que su país era muy injusto. Existía un sistema llamado 'apartheid' que separaba a las personas por el color de su piel. Los ciudadanos negros no podían ir a los mismos lugares que los blancos ni votar. Nelson decidió protestar contra estas reglas crueles para defender los derechos de su pueblo. Debido a sus ideas revolucionarias, el gobierno lo encarceló durante veintisiete largos años. En la prisión, vivió en una celda diminuta y realizó trabajos muy duros picando piedra. Sin embargo, nunca perdió la esperanza ni el deseo de paz. Aprendió el idioma de sus enemigos para poder hablar con ellos y perdonarlos. Cuando finalmente salió libre, el mundo entero celebró con alegría. Poco después, se convirtió en el primer presidente negro de Sudáfrica elegido democráticamente. En lugar de buscar venganza, pidió unión y respeto entre todos los colores. Mandela nos enseñó que el coraje no es la ausencia de miedo, sino el triunfo sobre él. Su legado nos recuerda que el perdón es el arma más fuerte para cambiar el mundo hoy y siempre.",
+        "glosario": [
+            {
+                "palabra": "Apartheid",
+                "definición": "Antiguo sistema de leyes en Sudáfrica que separaba injustamente a las personas negras de las blancas."
+            },
+            {
+                "palabra": "Derechos",
+                "definición": "Cosas que todas las personas deben poder hacer o tener, como ser libres o recibir educación."
+            },
+            {
+                "palabra": "Revolucionarias",
+                "definición": "Ideas que buscan cambiar por completo algo que está establecido o que es injusto."
+            },
+            {
+                "palabra": "Democráticamente",
+                "definición": "Elegido mediante la votación de todos los ciudadanos, respetando la opinión de la mayoría."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Lo que una persona deja a los demás para ser recordada, como sus enseñanzas o ejemplo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué sistema separaba a las personas en Sudáfrica?",
+                "tipo": "test",
+                "opciones": [
+                    "La democracia",
+                    "El apartheid",
+                    "La monarquía",
+                    "El comunismo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuántos años pasó Nelson Mandela en prisión?",
+                "tipo": "test",
+                "opciones": [
+                    "Diez años",
+                    "Un año",
+                    "Veintisiete años",
+                    "Cinco años"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué trabajo duro tuvo que hacer en la cárcel?",
+                "tipo": "test",
+                "opciones": [
+                    "Cocinar",
+                    "Picar piedra",
+                    "Limpiar coches",
+                    "Escribir libros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cargo ocupó Mandela después de salir libre?",
+                "tipo": "test",
+                "opciones": [
+                    "Profesor",
+                    "Médico",
+                    "Rey",
+                    "Presidente"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Qué no podían hacer los ciudadanos negros durante el apartheid?",
+                "tipo": "test",
+                "opciones": [
+                    "Comer",
+                    "Votar",
+                    "Dormir",
+                    "Hablar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué aprendió el idioma de sus enemigos?",
+                "tipo": "test",
+                "opciones": [
+                    "Para insultarlos",
+                    "Para escapar",
+                    "Para hablar con ellos y perdonar",
+                    "Porque le obligaron"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué hizo Mandela en lugar de buscar venganza?",
+                "tipo": "test",
+                "opciones": [
+                    "Pidió unión y respeto",
+                    "Castigó a los culpables",
+                    "Se fue del país",
+                    "Volvió a la cárcel"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Según el texto, ¿qué es el coraje?",
+                "tipo": "test",
+                "opciones": [
+                    "No tener miedo nunca",
+                    "El triunfo sobre el miedo",
+                    "Ser muy fuerte físicamente",
+                    "Gritar muy alto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el 'arma' más fuerte de Mandela según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "La espada",
+                    "El dinero",
+                    "El perdón",
+                    "La fuerza"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se dice que el mundo celebró con alegría cuando salió libre?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era su cumpleaños",
+                    "Porque representaba la libertad y la justicia",
+                    "Porque iban a dar una fiesta",
+                    "Porque era famoso"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Leonardo da Vinci: El Genio Curioso",
+        "tema": "Biografías",
+        "texto": "Leonardo da Vinci nació en una pequeña villa de Italia y fue un hombre extremadamente curioso. Desde niño, observaba atentamente los pájaros y dibujaba todo lo que veía en la hermosa naturaleza. No solo fue un gran pintor, sino también un ingenioso inventor, científico y músico talentoso. Llenó muchísimos cuadernos con ideas increíbles, escribiendo a veces de derecha a izquierda para proteger sus secretos. Diseñó máquinas para volar, trajes de buzo y puentes resistentes mucho antes de que existieran realmente. Su cuadro más famoso es la Mona Lisa, conocida mundialmente por su misteriosa sonrisa que parece cambiar si la miras fijamente. Leonardo creía firmemente que la vista era el sentido más importante para entender el mundo. Pasaba horas estudiando cómo funcionaba el cuerpo humano y el movimiento del agua en los ríos. Aunque muchas de sus máquinas no se construyeron en su época, sus dibujos inspiraron a futuros ingenieros modernos. Nos enseñó que nunca debemos dejar de aprender y que la imaginación humana no tiene límites. Leonardo es considerado un genio universal porque dominó muchas artes y ciencias diferentes con gran maestría. Su vida nos demuestra que observar con atención nos ayuda a descubrir grandes maravillas ocultas en nuestro entorno.",
+        "glosario": [
+            {
+                "palabra": "Ingenioso",
+                "definición": "Persona que tiene mucha capacidad para inventar cosas nuevas o solucionar problemas."
+            },
+            {
+                "palabra": "Universal",
+                "definición": "Que sabe de todo o que abarca muchos conocimientos diferentes al mismo tiempo."
+            },
+            {
+                "palabra": "Maestría",
+                "definición": "Gran habilidad y perfección al hacer algo, demostrando que se es un experto."
+            },
+            {
+                "palabra": "Inspiraron",
+                "definición": "Dieron ideas o ánimos a otras personas para crear cosas nuevas."
+            },
+            {
+                "palabra": "Ocultas",
+                "definición": "Cosas que están escondidas o que no se ven a simple vista."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué país nació Leonardo da Vinci?",
+                "tipo": "test",
+                "opciones": [
+                    "Francia",
+                    "Italia",
+                    "España",
+                    "Alemania"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es su cuadro más famoso según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "La Noche Estrellada",
+                    "El Grito",
+                    "La Mona Lisa",
+                    "Las Meninas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué sentido consideraba el más importante?",
+                "tipo": "test",
+                "opciones": [
+                    "El oído",
+                    "El tacto",
+                    "La vista",
+                    "El olfato"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué diseñó Leonardo antes de que existiera?",
+                "tipo": "test",
+                "opciones": [
+                    "Teléfonos móviles",
+                    "Máquinas para volar",
+                    "Coches eléctricos",
+                    "Ordenadores"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo escribía a veces en sus cuadernos?",
+                "tipo": "test",
+                "opciones": [
+                    "En letras mayúsculas",
+                    "De derecha a izquierda",
+                    "Con tinta invisible",
+                    "En otro idioma"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué escribía de derecha a izquierda?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era zurdo y no quería mancharse",
+                    "Para proteger sus secretos",
+                    "Porque no sabía escribir bien",
+                    "Porque era una broma"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se le considera un 'genio universal'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque viajó por todo el universo",
+                    "Porque dominó muchas artes y ciencias",
+                    "Porque tenía muchos amigos",
+                    "Porque vivió muchos años"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra el hecho de que observara pájaros?",
+                "tipo": "test",
+                "opciones": [
+                    "Que quería tener una mascota",
+                    "Su curiosidad por aprender a volar",
+                    "Que se aburría mucho",
+                    "Que le gustaba cazar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que la imaginación 'no tiene límites'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que podemos pensar e inventar cualquier cosa",
+                    "Que la imaginación es pequeña",
+                    "Que está prohibido imaginar",
+                    "Que pensar cuesta dinero"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de su vida según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que pintar siempre",
+                    "Que observar nos ayuda a descubrir maravillas",
+                    "Que no hay que escribir libros",
+                    "Que los museos son aburridos"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Amelia Earhart: Conquistando el Cielo",
+        "tema": "Biografías",
+        "texto": "Amelia Earhart fue una niña muy valiente que soñaba con tocar las nubes. Nació en Estados Unidos y, desde pequeña, le encantaban las aventuras peligrosas. Un día vio un avión y supo inmediatamente que quería volar. Trabajó muy duro para comprar su propia avioneta, a la que llamó 'El Canario' por su brillante color amarillo. Amelia se hizo famosa por ser la primera mujer en cruzar sola el inmenso Océano Atlántico en avión. Durante el vuelo, enfrentó tormentas fuertes y mucho cansancio, pero nunca tuvo miedo. Escribió libros sobre sus emocionantes viajes y animó a otras mujeres a perseguir sus sueños, aunque parecieran imposibles. Quería dar la vuelta al mundo volando por la línea del ecuador, el viaje más largo de todos. Lamentablemente, su avión desapareció en el mar y nadie supo qué pasó. Aunque no terminó ese viaje, su valentía la convirtió en una leyenda inolvidable. Amelia nos enseñó que las niñas pueden hacer cualquier cosa que se propongan, incluso conquistar el cielo azul. Su espíritu aventurero sigue vivo hoy en cada persona que decide romper barreras y volar alto. Ella demostró que el verdadero éxito es intentarlo con todo el corazón sin importar lo difícil que esto sea.",
+        "glosario": [
+            {
+                "palabra": "Inolvidable",
+                "definición": "Algo tan especial o importante que se recuerda para siempre y no se puede olvidar."
+            },
+            {
+                "palabra": "Ecuador",
+                "definición": "Línea imaginaria que rodea el centro de la Tierra y la divide en dos mitades."
+            },
+            {
+                "palabra": "Barreras",
+                "definición": "Obstáculos o dificultades que nos impiden avanzar o hacer lo que queremos."
+            },
+            {
+                "palabra": "Leyenda",
+                "definición": "Persona o historia muy admirada que se hace famosa y se recuerda durante mucho tiempo."
+            },
+            {
+                "palabra": "Conquistar",
+                "definición": "Lograr algo difícil con esfuerzo, como llegar a una meta o ganar un lugar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo llamó Amelia a su primera avioneta?",
+                "tipo": "test",
+                "opciones": [
+                    "El Águila",
+                    "El Canario",
+                    "La Nube",
+                    "El Rayo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué océano cruzó ella sola?",
+                "tipo": "test",
+                "opciones": [
+                    "El Océano Pacífico",
+                    "El Océano Índico",
+                    "El Océano Atlántico",
+                    "El Mar Mediterráneo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde nació Amelia Earhart?",
+                "tipo": "test",
+                "opciones": [
+                    "En Inglaterra",
+                    "En Estados Unidos",
+                    "En Australia",
+                    "En Canadá"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué viaje intentaba hacer cuando desapareció?",
+                "tipo": "test",
+                "opciones": [
+                    "Ir a la Luna",
+                    "Dar la vuelta al mundo por el ecuador",
+                    "Viajar al Polo Norte",
+                    "Cruzar Estados Unidos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué enfrentó durante su vuelo sobre el océano?",
+                "tipo": "test",
+                "opciones": [
+                    "Dragones",
+                    "Tormentas fuertes y cansancio",
+                    "Falta de gasolina",
+                    "Mucho calor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué le puso de nombre 'El Canario' a su avión?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque cantaba",
+                    "Por su brillante color amarillo",
+                    "Porque era pequeño",
+                    "Porque se lo regalaron"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa en el texto 'romper barreras'?",
+                "tipo": "test",
+                "opciones": [
+                    "Romper paredes con un martillo",
+                    "Hacer cosas que antes se pensaba que no se podían hacer",
+                    "Saltar vallas de atletismo",
+                    "Chocar con el avión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué se convirtió en una leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Por su valentía y logros",
+                    "Por desaparecer misteriosamente",
+                    "Por escribir libros",
+                    "Por tener un avión amarillo"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Según el texto, ¿qué es el verdadero éxito?",
+                "tipo": "test",
+                "opciones": [
+                    "Ganar mucho dinero",
+                    "Llegar siempre el primero",
+                    "Intentarlo con todo el corazón",
+                    "No tener miedo nunca"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué mensaje principal dejó Amelia para las niñas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no vuelen en avión",
+                    "Que se queden en casa",
+                    "Que pueden hacer cualquier cosa que se propongan",
+                    "Que solo los chicos pueden ser pilotos"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Jane Goodall: La Amiga de los Chimpancés",
+        "tema": "Biografías",
+        "texto": "Jane Goodall amaba a los animales desde que era una niña pequeña en Inglaterra. Su juguete favorito no era una muñeca, sino un chimpancé de peluche llamado Jubilee. Cuando creció, viajó a África para cumplir su gran sueño de vivir en la selva. Allí, en un lugar llamado Gombe, pasó muchos años observando a los chimpancés salvajes. Al principio, los animales le tenían miedo y huían, pero ella tuvo mucha paciencia. Se sentaba quieta durante horas hasta que confiaron en ella. Jane descubrió cosas increíbles que nadie sabía. Vio que los chimpancés usaban ramitas como herramientas para pescar termitas y comérselas. También notó que tenían familia, amigos y emociones como nosotros: se abrazaban, jugaban y a veces se peleaban. Su trabajo cambió la forma en que los científicos entienden a los animales. Jane nos enseñó que no somos los únicos seres inteligentes en el planeta. Hoy viaja por todo el mundo pidiendo a los niños y adultos que protejan la naturaleza. Su mensaje es claro: cada pequeño gesto cuenta para salvar nuestro hermoso hogar. Ella inspira a miles de personas a respetar y cuidar a todos los seres vivos maravillosos que comparten la Tierra con nosotros. Su legado es eterno.",
+        "glosario": [
+            {
+                "palabra": "Salvajes",
+                "definición": "Animales que viven libres en la naturaleza y no están domesticados por las personas."
+            },
+            {
+                "palabra": "Paciencia",
+                "definición": "Capacidad de esperar con tranquilidad sin ponerse nervioso ni enfadarse."
+            },
+            {
+                "palabra": "Herramientas",
+                "definición": "Objetos que se utilizan para facilitar una tarea o trabajo difícil."
+            },
+            {
+                "palabra": "Inteligentes",
+                "definición": "Que tienen la capacidad de pensar, entender y resolver problemas."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Lo importante que una persona deja al mundo para que los demás lo recuerden."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cuál era el juguete favorito de Jane cuando era niña?",
+                "tipo": "test",
+                "opciones": [
+                    "Una muñeca",
+                    "Un oso",
+                    "Un chimpancé de peluche",
+                    "Un coche"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿A qué continente viajó para cumplir su sueño?",
+                "tipo": "test",
+                "opciones": [
+                    "A Asia",
+                    "A América",
+                    "A África",
+                    "A Europa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué usaban los chimpancés para pescar termitas?",
+                "tipo": "test",
+                "opciones": [
+                    "Redes",
+                    "Ramitas",
+                    "Cucharas",
+                    "Piedras"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba el lugar donde estudió a los animales?",
+                "tipo": "test",
+                "opciones": [
+                    "Londres",
+                    "París",
+                    "Gombe",
+                    "Selva Negra"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué hacían los chimpancés al principio cuando veían a Jane?",
+                "tipo": "test",
+                "opciones": [
+                    "Le daban comida",
+                    "Jugaban con ella",
+                    "Huían por miedo",
+                    "Dormían"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Jane tenía que estar quieta durante horas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba cansada",
+                    "Para ganarse la confianza de los chimpancés",
+                    "Porque no sabía caminar",
+                    "Porque estaba castigada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demostró el uso de herramientas por parte de los chimpancés?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenían hambre",
+                    "Que eran seres inteligentes",
+                    "Que les gustaban los palos",
+                    "Que sabían pescar peces"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué dice el texto que los chimpancés tienen emociones como nosotros?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se abrazan, juegan y pelean",
+                    "Porque van al colegio",
+                    "Porque ven la televisión",
+                    "Porque usan ropa"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué significa 'salvar nuestro hermoso hogar' en el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Limpiar nuestra casa",
+                    "Proteger el planeta Tierra",
+                    "Construir una cabaña",
+                    "Pintar las paredes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la principal enseñanza de Jane Goodall?",
+                "tipo": "test",
+                "opciones": [
+                    "Que debemos viajar mucho",
+                    "Que los peluches son importantes",
+                    "Que debemos respetar a todos los seres vivos",
+                    "Que hay que comer termitas"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Neil Armstrong: Pisando la Luna",
+        "tema": "Biografías",
+        "texto": "Neil Armstrong fue un niño que siempre miraba al cielo soñando con volar muy alto. Desde joven le fascinaban los aviones y aprendió a pilotarlos incluso antes de aprender a conducir un coche. Se convirtió en astronauta y fue elegido para una misión histórica llamada Apolo 11. Junto a sus valientes compañeros, viajó en un cohete gigante hacia la Luna, un lugar donde nadie había estado jamás. El viaje fue peligroso y largo, pero ellos mantuvieron la calma. Cuando el módulo lunar aterrizó, el mundo entero contuvo la respiración frente al televisor. Neil bajó lentamente la escalera y pisó el suelo gris y polvoriento. En ese momento mágico dijo una frase famosa: \"Es un pequeño paso para el hombre, pero un gran salto para la humanidad\". Neil y su compañero Buzz Aldrin caminaron por la superficie lunar, recogieron rocas extrañas y clavaron una bandera. Demostraron que con estudio, valentía y trabajo en equipo, los seres humanos pueden lograr metas que parecen imposibles. Aunque ya no está, su huella sigue marcada en la Luna porque allí no hay viento que la borre. Neil siempre será recordado como el primer explorador espacial que tocó las estrellas. Su viaje cambió nuestra historia para siempre.",
+        "glosario": [
+            {
+                "palabra": "Fascinaban",
+                "definición": "Que le gustaban muchísimo y le llamaban mucho la atención."
+            },
+            {
+                "palabra": "Histórica",
+                "definición": "Que es muy importante y se recordará durante mucho tiempo en los libros de historia."
+            },
+            {
+                "palabra": "Humanidad",
+                "definición": "Conjunto formado por todos los seres humanos del mundo."
+            },
+            {
+                "palabra": "Superficie",
+                "definición": "La parte exterior o de arriba de algo, como el suelo que pisamos."
+            },
+            {
+                "palabra": "Explorador",
+                "definición": "Persona que viaja a lugares desconocidos para descubrir cómo son."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué le gustaba mirar a Neil cuando era niño?",
+                "tipo": "test",
+                "opciones": [
+                    "El mar",
+                    "La televisión",
+                    "El cielo",
+                    "Los bosques"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llamaba la misión espacial?",
+                "tipo": "test",
+                "opciones": [
+                    "Apolo 11",
+                    "Estrella 1",
+                    "Luna Nueva",
+                    "Cohete Rápido"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué aprendió a manejar antes que un coche?",
+                "tipo": "test",
+                "opciones": [
+                    "Una bicicleta",
+                    "Un avión",
+                    "Un barco",
+                    "Un tren"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo era el suelo de la Luna?",
+                "tipo": "test",
+                "opciones": [
+                    "Verde y suave",
+                    "Mojado y azul",
+                    "Gris y polvoriento",
+                    "Rojo y caliente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué clavaron en la superficie lunar?",
+                "tipo": "test",
+                "opciones": [
+                    "Una señal de tráfico",
+                    "Un árbol",
+                    "Una bandera",
+                    "Una tienda de campaña"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué la gente 'contuvo la respiración' frente al televisor?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se fue la luz",
+                    "Porque estaban nerviosos y emocionados",
+                    "Porque no querían hacer ruido",
+                    "Porque estaban buceando"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'un gran salto para la humanidad'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que saltaron muy alto",
+                    "Que fue un avance enorme para todas las personas",
+                    "Que había poca gravedad",
+                    "Que la Luna es un trampolín"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué sigue marcada su huella en la Luna?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque usó pegamento",
+                    "Porque no hay viento que la borre",
+                    "Porque nadie limpia allí",
+                    "Porque era muy pesado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué valores ayudaron a los astronautas a lograr la meta?",
+                "tipo": "test",
+                "opciones": [
+                    "El miedo y la duda",
+                    "La prisa y el sueño",
+                    "El estudio, la valentía y el trabajo en equipo",
+                    "La suerte y el azar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se dice que tocó las estrellas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque las cogió con la mano",
+                    "Porque viajó al espacio exterior",
+                    "Porque era muy alto",
+                    "Porque se quemó los dedos"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Albert Einstein: El Genio Distraído",
+        "tema": "Biografías",
+        "texto": "Albert Einstein nació en Alemania y fue un niño muy quieto que tardó en empezar a hablar. Sus padres estaban preocupados, pero él solo observaba el mundo con gran atención. Un día, su padre le regaló una brújula y Albert quedó fascinado porque la aguja siempre señalaba al norte. En el colegio se aburría memorizando lecciones que no le interesaban nada. Prefería imaginar viajes veloces por el espacio montado en un rayo de luz. Trabajó en una oficina de patentes revisando inventos curiosos de otras personas. En sus ratos libres, escribía sus propias ideas científicas revolucionarias. Así descubrió que el tiempo y el espacio no son fijos, cambiando la física moderna para siempre. Ganó el Premio Nobel por su genialidad, aunque siempre fue una persona sencilla. Se hizo muy famoso por su pelo alborotado y por no usar calcetines, pues le parecían prendas innecesarias y molestas. Albert nos enseñó que la imaginación es más importante que el conocimiento, ya que el conocimiento tiene límites pero la imaginación rodea al mundo entero. Su mente brillante nos regaló una nueva forma de ver el universo. Hoy recordamos a Einstein como el científico más famoso, simpático y querido de toda la historia humana.",
+        "glosario": [
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento con una aguja imantada que sirve para orientarse señalando siempre al norte."
+            },
+            {
+                "palabra": "Patentes",
+                "definición": "Documentos oficiales que protegen un invento para que nadie más pueda copiarlo."
+            },
+            {
+                "palabra": "Genialidad",
+                "definición": "Capacidad extraordinaria que tiene una persona para crear cosas nuevas y admirables."
+            },
+            {
+                "palabra": "Física",
+                "definición": "Ciencia que estudia cómo funciona el universo, la energía, el tiempo y el movimiento."
+            },
+            {
+                "palabra": "Límites",
+                "definición": "Puntos donde algo termina y no se puede ir más allá."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué país nació Albert Einstein?",
+                "tipo": "test",
+                "opciones": [
+                    "Francia",
+                    "Alemania",
+                    "Italia",
+                    "Estados Unidos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto le regaló su padre que le fascinó?",
+                "tipo": "test",
+                "opciones": [
+                    "Un telescopio",
+                    "Un reloj",
+                    "Una brújula",
+                    "Un tren de juguete"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde trabajó revisando inventos?",
+                "tipo": "test",
+                "opciones": [
+                    "En una universidad",
+                    "En una oficina de patentes",
+                    "En un laboratorio",
+                    "En una biblioteca"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué prenda de ropa no le gustaba usar?",
+                "tipo": "test",
+                "opciones": [
+                    "Sombreros",
+                    "Corbatas",
+                    "Calcetines",
+                    "Guantes"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué premio importante ganó?",
+                "tipo": "test",
+                "opciones": [
+                    "La Copa del Mundo",
+                    "El Premio Nobel",
+                    "Una medalla de oro",
+                    "El Oscar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué no era el mejor alumno en el colegio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no estudiaba nada",
+                    "Porque se aburría memorizando sin sentido",
+                    "Porque siempre llegaba tarde",
+                    "Porque no tenía libros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué demuestra que observara el mundo con atención de niño?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era muy tímido",
+                    "Que tenía mucha curiosidad",
+                    "Que estaba enfadado",
+                    "Que tenía sueño"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué decía que la imaginación es más importante que el conocimiento?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque es más divertido jugar",
+                    "Porque el conocimiento tiene límites y la imaginación no",
+                    "Porque no le gustaba leer",
+                    "Porque imaginar es fácil"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo era la personalidad de Einstein según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Seria y aburrida",
+                    "Orgullosa y distante",
+                    "Sencilla y simpática",
+                    "Miedosa y triste"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de su vida?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que peinarse bien",
+                    "Que las oficinas son aburridas",
+                    "Que debemos memorizar todo",
+                    "Que mirar el mundo con curiosidad es valioso"
+                ],
+                "correctaIdx": 3
+            }
+        ]
+    },
+    {
+        "titulo": "Malala Yousafzai: La Voz de las Niñas",
+        "tema": "Biografías",
+        "texto": "Malala Yousafzai es una joven muy valiente que nació en un hermoso valle de Pakistán. Desde pequeña le encantaba ir a la escuela y aprender cosas nuevas cada día. Sin embargo, un grupo de hombres violentos prohibió que las niñas estudiaran porque pensaban que no era necesario. Malala no tuvo miedo y comenzó a escribir un blog contando lo que pasaba en su ciudad. Decía en voz alta que la educación es un derecho para todos, tanto niños como niñas. Por defender estas ideas, sufrió un ataque terrible que casi le cuesta la vida, pero sobrevivió milagrosamente. En lugar de esconderse, alzó su voz con más fuerza para que el mundo la escuchara. Se convirtió en la persona más joven de la historia en ganar el Premio Nobel de la Paz. Ahora viaja por muchos países ayudando a construir escuelas para quienes no tienen recursos. Malala nos enseña que un lápiz, un libro y un maestro pueden cambiar el mundo. Su historia nos demuestra que no importa la edad que tengas, siempre puedes luchar contra las injusticias. Ella es un símbolo de esperanza y coraje, recordándonos que la educación es el arma más poderosa para conseguir la paz mundial duradera.",
+        "glosario": [
+            {
+                "palabra": "Derecho",
+                "definición": "Algo que todas las personas deben tener o poder hacer por ley y justicia."
+            },
+            {
+                "palabra": "Injusticias",
+                "definición": "Acciones malas o incorrectas que no respetan lo que es justo para las personas."
+            },
+            {
+                "palabra": "Recursos",
+                "definición": "Medios, como el dinero o los materiales, necesarios para poder hacer algo."
+            },
+            {
+                "palabra": "Coraje",
+                "definición": "Valor y fuerza de voluntad para enfrentarse a situaciones difíciles o peligrosas."
+            },
+            {
+                "palabra": "Símbolo",
+                "definición": "Persona u objeto que representa una idea o sentimiento importante para muchos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué país nació Malala?",
+                "tipo": "test",
+                "opciones": [
+                    "India",
+                    "Pakistán",
+                    "Afganistán",
+                    "China"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué le gustaba hacer desde pequeña?",
+                "tipo": "test",
+                "opciones": [
+                    "Jugar al fútbol",
+                    "Ir a la escuela",
+                    "Cocinar pasteles",
+                    "Ver la televisión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué prohibió el grupo de hombres violentos?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las niñas estudiaran",
+                    "Que la gente cantara",
+                    "Que se usaran coches",
+                    "Que se comieran dulces"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué premio importante ganó Malala?",
+                "tipo": "test",
+                "opciones": [
+                    "El Premio Nobel de Física",
+                    "El Premio Nobel de la Paz",
+                    "Una medalla olímpica",
+                    "El premio a la mejor escritora"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué construye ahora en otros países?",
+                "tipo": "test",
+                "opciones": [
+                    "Hospitales",
+                    "Parques",
+                    "Escuelas",
+                    "Bibliotecas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Malala escribió un blog?",
+                "tipo": "test",
+                "opciones": [
+                    "Para contar recetas de cocina",
+                    "Para denunciar lo que pasaba en su ciudad",
+                    "Para hacerse famosa",
+                    "Para practicar escritura"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que 'un lápiz puede cambiar el mundo'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los lápices son mágicos",
+                    "Que hay que escribir mucho",
+                    "Que la educación es poderosa para mejorar la vida",
+                    "Que debemos dibujar el mundo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad demuestra Malala al no esconderse tras el ataque?",
+                "tipo": "test",
+                "opciones": [
+                    "Timidez",
+                    "Valentía y coraje",
+                    "Curiosidad",
+                    "Prisa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es Malala un 'símbolo de esperanza'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque viste de verde",
+                    "Porque inspira a otros a luchar por un mundo mejor",
+                    "Porque tiene mucho dinero",
+                    "Porque viaja en avión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de la lectura?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no hay que ir al colegio",
+                    "Que viajar es peligroso",
+                    "Que todos tenemos derecho a la educación",
+                    "Que los blogs son divertidos"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    }
+]

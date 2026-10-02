@@ -1,0 +1,1592 @@
+[
+    {
+        "titulo": "Thomas Edison: El Mago de Menlo Park",
+        "tema": "biografías",
+        "texto": "Thomas Alva Edison es uno de los inventores más famosos de la historia, pero su camino hacia el éxito no fue nada fácil. De niño, sus profesores pensaban que no era un buen estudiante porque se distraía con facilidad y hacía demasiadas preguntas que ellos no sabían responder. Su madre, que era maestra, decidió sacarlo del colegio y educarlo en casa. Ella le enseñó que la curiosidad era un superpoder, no un problema. A medida que crecía, Thomas empezó a perder el oído hasta quedarse casi sordo, pero él nunca lo vio como una desventaja; decía que el silencio le ayudaba a concentrarse mejor en sus experimentos sin distracciones.\n\nCuando se hizo adulto, construyó un enorme laboratorio en Menlo Park, Nueva Jersey. Allí no trabajaba solo, sino con un equipo de ayudantes, creando lo que llamaron la «fábrica de inventos». Su reto más grande fue crear una bombilla eléctrica que fuera segura y barata para que todo el mundo pudiera tener luz en sus casas. Probó más de mil materiales diferentes para el filamento, desde hilos de coser hasta pelos de barba, pero todos se quemaban demasiado rápido. La gente comenzó a decirle que había fracasado mil veces. Sin embargo, Edison respondió con una frase célebre: «No he fracasado. Solo he encontrado mil formas que no funcionan». Finalmente, descubrió que una tira de bambú carbonizado podía brillar durante muchas horas.\n\nAdemás de la bombilla, inventó el fonógrafo, una máquina mágica capaz de grabar y reproducir la voz humana, algo que parecía brujería en aquella época. También ayudó a crear las primeras cámaras de cine. Gracias a su increíble perseverancia, Thomas Edison registró más de mil patentes a lo largo de su vida. Él transformó la oscuridad de la noche en día y nos regaló la posibilidad de escuchar música grabada. Su historia nos enseña que el genio es un uno por ciento de inspiración y un noventa y nueve por ciento de transpiración, es decir, de mucho esfuerzo y trabajo duro constante.",
+        "glosario": [
+            {
+                "palabra": "Filamento",
+                "definición": "Hilo muy fino que va dentro de las bombillas y que se ilumina al calentarse."
+            },
+            {
+                "palabra": "Patentes",
+                "definición": "Documentos oficiales que reconocen que un invento es tuyo y nadie puede copiarlo sin permiso."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Capacidad de seguir intentando algo difícil sin rendirse, aunque falles muchas veces."
+            },
+            {
+                "palabra": "Fonógrafo",
+                "definición": "Aparato antiguo inventado para grabar y reproducir sonidos y música."
+            },
+            {
+                "palabra": "Laboratorio",
+                "definición": "Lugar equipado con instrumentos especiales donde los científicos hacen experimentos."
+            },
+            {
+                "palabra": "Inspiración",
+                "definición": "Momento en el que se te ocurre una idea brillante o creativa de repente."
+            },
+            {
+                "palabra": "Transpiración",
+                "definición": "Sudar debido al esfuerzo físico o al trabajo duro; en el texto significa esforzarse mucho."
+            },
+            {
+                "palabra": "Carbonizado",
+                "definición": "Algo que ha sido quemado hasta convertirse en carbón."
+            },
+            {
+                "palabra": "Célebre",
+                "definición": "Que es muy famoso y conocido por mucha gente."
+            },
+            {
+                "palabra": "Desventaja",
+                "definición": "Circunstancia o condición que te hace estar en peor situación que los demás."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué lugar construyó Thomas Edison su famoso laboratorio?",
+                "tipo": "test",
+                "opciones": [
+                    "En Nueva York",
+                    "En Menlo Park",
+                    "En Chicago",
+                    "En Londres"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué material funcionó finalmente para el filamento de la bombilla?",
+                "tipo": "test",
+                "opciones": [
+                    "Un hilo de cobre",
+                    "Pelo de barba",
+                    "Bambú carbonizado",
+                    "Algodón"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién se encargó de la educación de Edison cuando era niño?",
+                "tipo": "test",
+                "opciones": [
+                    "Su padre",
+                    "Su madre",
+                    "Un tutor privado",
+                    "Sus abuelos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Edison consideraba que su sordera no era algo malo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaba la música",
+                    "Porque el silencio le ayudaba a concentrarse",
+                    "Porque así no tenía que escuchar a sus jefes",
+                    "Porque le gustaba estar solo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué quiso decir Edison con la frase sobre las 'mil formas que no funcionan'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que estaba cansado de fallar",
+                    "Que cada error le enseñaba cómo no hacerlo y lo acercaba al éxito",
+                    "Que era imposible inventar la bombilla",
+                    "Que necesitaba más dinero"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Edison decía que el genio es '99% transpiración', ¿qué valoraba más?",
+                "tipo": "test",
+                "opciones": [
+                    "La suerte",
+                    "La inteligencia natural",
+                    "El trabajo duro y el esfuerzo",
+                    "Tener buenos materiales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se compara el fonógrafo con la 'brujería' en el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque usaba magia real",
+                    "Porque asustaba a los niños",
+                    "Porque era algo tan nuevo e increíble que parecía imposible",
+                    "Porque lo inventó una bruja"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad de carácter destaca más en la historia de Edison?",
+                "tipo": "test",
+                "opciones": [
+                    "La impaciencia",
+                    "La timidez",
+                    "La perseverancia",
+                    "La fuerza física"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo cambió la vida de las personas el invento de la bombilla?",
+                "tipo": "test",
+                "opciones": [
+                    "Hizo que la gente durmiera más",
+                    "Permitió realizar actividades y trabajar durante la noche",
+                    "Hizo que las casas fueran más frías",
+                    "No cambió nada importante"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos sugiere el hecho de que su madre lo educara en casa?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el sistema escolar no supo entender su forma de aprender",
+                    "Que no había colegios cerca",
+                    "Que su madre no quería trabajar",
+                    "Que Edison era un niño maleducado"
+                ],
+                "correctaIdx": 0
+            }
+        ]
+    },
+    {
+        "titulo": "Rosa Parks: La Valentía de Permanecer Sentada",
+        "tema": "biografías",
+        "texto": "En la década de 1950, la ciudad de Montgomery, en Estados Unidos, era un lugar muy difícil para las personas afroamericanas. Existían leyes injustas llamadas de «segregación», que obligaban a las personas negras a vivir separadas de las blancas: no podían ir a las mismas escuelas, ni comer en los mismos restaurantes, e incluso debían usar fuentes de agua distintas. En los autobuses, la norma era aún más humillante: los afroamericanos debían sentarse en la parte de atrás y, si un pasajero blanco se quedaba sin sitio, tenían la obligación de levantarse y cederle su asiento.\n\nRosa Parks era una mujer tranquila que trabajaba muy duro como costurera. El 1 de diciembre de 1955, salió de su trabajo cansada y se subió al autobús para volver a casa. Se sentó en una fila permitida, pero cuando el autobús se llenó, el conductor le ordenó bruscamente que se levantara para que un hombre blanco pudiera sentarse. En ese momento, Rosa tomó una decisión histórica: dijo «no». No lo hizo porque le dolieran los pies, como muchos piensan, sino porque estaba cansada de ceder, cansada de ser tratada como si valiera menos que los demás. Su negativa provocó que la policía la detuviera y la llevara a la cárcel.\n\nEste acto de dignidad encendió una chispa. La comunidad negra, liderada por Martin Luther King Jr., decidió organizar un boicot. Durante 381 días, miles de personas se negaron a subir a los autobuses, caminando kilómetros bajo la lluvia y el sol para ir a trabajar. Fue una protesta pacífica pero muy poderosa. Finalmente, la Corte Suprema declaró que la segregación en los autobuses era ilegal. El gesto silencioso de Rosa Parks demostró que una sola persona, armada solo con su coraje y sus derechos, puede cambiar el mundo. Hoy la recordamos como la «madre del movimiento por los derechos civiles», un símbolo eterno de que la libertad y el respeto pertenecen a todos por igual.",
+        "glosario": [
+            {
+                "palabra": "Segregación",
+                "definición": "Sistema de leyes antiguas que separaba a las personas por su color de piel o raza."
+            },
+            {
+                "palabra": "Afroamericanas",
+                "definición": "Personas nacidas en América que tienen antepasados procedentes de África."
+            },
+            {
+                "palabra": "Boicot",
+                "definición": "Protesta que consiste en dejar de usar o comprar algo para presionar y lograr un cambio."
+            },
+            {
+                "palabra": "Dignidad",
+                "definición": "Cualidad de hacerse respetar y comportarse con decencia y orgullo hacia uno mismo."
+            },
+            {
+                "palabra": "Derechos Civiles",
+                "definición": "Leyes que protegen la libertad de las personas y aseguran que todos sean tratados igual."
+            },
+            {
+                "palabra": "Humillante",
+                "definición": "Algo que ofende el orgullo de una persona y la hace sentir vergüenza o inferioridad."
+            },
+            {
+                "palabra": "Costurera",
+                "definición": "Persona que tiene por oficio coser y confeccionar ropa."
+            },
+            {
+                "palabra": "Corte Suprema",
+                "definición": "El tribunal de jueces más importante de un país, que toma las decisiones finales sobre las leyes."
+            },
+            {
+                "palabra": "Pacífica",
+                "definición": "Que se realiza con tranquilidad, sin usar la violencia ni las peleas."
+            },
+            {
+                "palabra": "Ilegal",
+                "definición": "Algo que está prohibido por la ley y que, si se hace, puede tener un castigo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cuál era el trabajo de Rosa Parks?",
+                "tipo": "test",
+                "opciones": [
+                    "Profesora",
+                    "Conductora de autobús",
+                    "Costurera",
+                    "Abogada"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuántos días duró el boicot a los autobuses?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mes",
+                    "381 días",
+                    "Una semana",
+                    "100 días"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué ciudad sucedieron los hechos de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Washington",
+                    "Nueva York",
+                    "Montgomery",
+                    "Chicago"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue la verdadera razón por la que Rosa no se levantó?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque le dolían mucho los pies",
+                    "Porque estaba cansada de la injusticia",
+                    "Porque no escuchó al conductor",
+                    "Porque el asiento estaba roto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué consecuencia tuvo la negativa de Rosa Parks inmediatamente?",
+                "tipo": "test",
+                "opciones": [
+                    "El conductor le pidió perdón",
+                    "La policía la detuvo y la llevó a la cárcel",
+                    "Todos los pasajeros aplaudieron",
+                    "El autobús se averió"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el boicot a los autobuses fue una estrategia efectiva?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque los autobuses necesitaban el dinero de los pasajeros para funcionar",
+                    "Porque así hacían más ejercicio",
+                    "Porque compraron coches nuevos",
+                    "Porque no les gustaba ir en autobús"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué nos enseña la actitud de Rosa Parks sobre el liderazgo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que gritar mucho para ser líder",
+                    "Que se necesita un ejército",
+                    "Que un acto silencioso y firme puede iniciar un gran cambio",
+                    "Que solo los hombres pueden ser líderes"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que Rosa es la 'madre del movimiento por los derechos civiles'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenía muchos hijos",
+                    "Que fue la fundadora o la inspiración principal de esa lucha",
+                    "Que era la mujer más mayor del grupo",
+                    "Que cocinaba para todos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo demostró la comunidad su apoyo a Rosa Parks?",
+                "tipo": "test",
+                "opciones": [
+                    "Escribiendo cartas",
+                    "Caminando kilómetros en lugar de usar el autobús",
+                    "Pagando su billete",
+                    "Quedándose en casa sin salir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué valor defendía principalmente Rosa Parks con su acción?",
+                "tipo": "test",
+                "opciones": [
+                    "La puntualidad",
+                    "La riqueza",
+                    "La igualdad y la dignidad",
+                    "La comodidad"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Stephen Hawking: El Viajero del Universo",
+        "tema": "biografías",
+        "texto": "Stephen Hawking nació en Inglaterra un frío día de invierno, curiosamente en el aniversario de la muerte de Galileo. Desde pequeño, aunque no sacaba las mejores notas de su clase, tenía una mente brillante y muy curiosa. Le encantaba desmontar relojes y radios viejas para entender cómo funcionaban por dentro. Sus amigos del colegio le apodaron «Einstein» porque parecía comprender cosas que para los demás eran imposibles. Fue a la universidad para estudiar el universo, pero cuando tenía veintiún años, su vida cambió para siempre. Empezó a tropezarse y a tener dificultades para hablar. Los médicos le diagnosticaron una grave enfermedad llamada ELA y le dijeron que solo viviría unos pocos años más.\n\nSin embargo, Stephen era increíblemente testarudo y se negó a rendirse. Aunque sus músculos dejaron de obedecerle y acabó en una silla de ruedas, su mente volaba libre como un águila. Cuando perdió la voz, un ordenador le dio una nueva, robótica y metálica, que se hizo famosa en todo el mundo. Con ella, explicó los misterios más grandes del cosmos, como los agujeros negros, esos gigantes oscuros que se tragan la luz. Escribió un libro titulado «Breve historia del tiempo» para que cualquier persona, y no solo los científicos, pudiera entender el espacio. Se convirtió en una celebridad mundial, saliendo incluso en series de televisión.\n\nStephen nos enseñó que, por muy difícil que parezca la vida, siempre hay algo que puedes hacer y en lo que puedes tener éxito. Vivió hasta los setenta y seis años, demostrando que los médicos se equivocaron y que la fuerza de voluntad es poderosa. Nos pidió que mirásemos a las estrellas y no a nuestros pies, invitándonos a ser curiosos siempre. Su legado no son solo sus descubrimientos sobre el origen del universo, sino su ejemplo de superación. Demostró que ninguna silla de ruedas puede atrapar a una mente genial y que, con humor y esfuerzo, se pueden romper todas las barreras. Hoy, gracias a él, comprendemos mejor el infinito espacio que nos rodea.",
+        "glosario": [
+            {
+                "palabra": "Diagnosticar",
+                "definición": "Cuando un médico identifica qué enfermedad tiene una persona después de examinarla."
+            },
+            {
+                "palabra": "Cosmos",
+                "definición": "Todo lo que existe, incluyendo la Tierra, las estrellas, las galaxias y el espacio."
+            },
+            {
+                "palabra": "Agujeros negros",
+                "definición": "Lugares en el espacio con una fuerza de gravedad tan grande que nada puede escapar de ellos."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Lo que una persona deja al mundo para ser recordada, como sus ideas o su ejemplo."
+            },
+            {
+                "palabra": "Testarudo",
+                "definición": "Persona que se mantiene firme en sus ideas o propósitos y no cambia de opinión fácilmente."
+            },
+            {
+                "palabra": "Voluntad",
+                "definición": "La capacidad y fuerza interior para decidir hacer algo y esforzarse hasta conseguirlo."
+            },
+            {
+                "palabra": "Superación",
+                "definición": "Acción de vencer obstáculos o dificultades para ser mejor o lograr una meta."
+            },
+            {
+                "palabra": "Celebridad",
+                "definición": "Persona muy famosa que es conocida y admirada por mucha gente."
+            },
+            {
+                "palabra": "Barreras",
+                "definición": "Obstáculos o dificultades que nos impiden avanzar o hacer lo que queremos."
+            },
+            {
+                "palabra": "Infinito",
+                "definición": "Algo que no tiene fin, que es inmensamente grande y no se acaba nunca."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué apodo le pusieron sus amigos del colegio a Stephen?",
+                "tipo": "test",
+                "opciones": [
+                    "Galileo",
+                    "El Genio",
+                    "Einstein",
+                    "El Viajero"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se titulaba el libro famoso que escribió?",
+                "tipo": "test",
+                "opciones": [
+                    "El Universo Oscuro",
+                    "Breve historia del tiempo",
+                    "Mi vida en el espacio",
+                    "Los agujeros negros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué enfermedad le diagnosticaron a los veintiún años?",
+                "tipo": "test",
+                "opciones": [
+                    "Una gripe fuerte",
+                    "ELA",
+                    "Asma",
+                    "Problemas de visión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué quiere decir la frase 'su mente volaba libre como un águila'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que Stephen soñaba que era un pájaro",
+                    "Que, a pesar de no poder moverse, su imaginación y pensamientos no tenían límites",
+                    "Que tenía una mascota que era un águila",
+                    "Que le gustaba viajar en avión"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el texto dice que 'los médicos se equivocaron'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no sabían medicina",
+                    "Porque le dieron mal las pastillas",
+                    "Porque vivió muchos más años de lo que ellos predijeron",
+                    "Porque en realidad no estaba enfermo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal detrás de la frase 'mirar a las estrellas y no a los pies'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que debemos caminar con cuidado para no tropezar",
+                    "Que hay que estudiar astronomía obligatoriamente",
+                    "Que debemos tener esperanza, curiosidad y metas altas en vez de centrarnos en las limitaciones",
+                    "Que el suelo está sucio y el cielo es bonito"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué escribió su libro para 'gente normal' y no solo para científicos?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería ganar mucho dinero",
+                    "Porque quería compartir el conocimiento y que todos entendieran el universo",
+                    "Porque los científicos ya no leían libros",
+                    "Porque era más fácil de escribir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos sugiere el hecho de que saliera en series de televisión?",
+                "tipo": "test",
+                "opciones": [
+                    "Que quería ser actor de cine",
+                    "Que se convirtió en un icono de la cultura popular además de científico",
+                    "Que necesitaba dinero extra",
+                    "Que se aburría en su casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Stephen no hubiera sido 'testarudo', ¿qué habría pasado probablemente?",
+                "tipo": "test",
+                "opciones": [
+                    "Se habría curado antes",
+                    "Habría dejado de investigar al enfermarse y rendirse",
+                    "Habría sido un atleta olímpico",
+                    "Habría sido más feliz"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué valor representa mejor la vida de Stephen Hawking según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "La fuerza física",
+                    "La resiliencia y el poder de la mente",
+                    "La suerte",
+                    "La riqueza"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Wangari Maathai: La Mujer Árbol",
+        "tema": "biografías",
+        "texto": "Wangari Maathai creció en una aldea verde y hermosa de Kenia, en África. De niña, recogía leña y jugaba cerca de arroyos de agua cristalina donde vivían ranas y peces. Tuvo la gran suerte de poder ir a la escuela, algo que muchas niñas de su época no podían hacer. Estudió mucho y viajó a Estados Unidos para aprender biología, la ciencia de la vida. Pero cuando regresó a su hogar años después, se encontró con una triste sorpresa que le rompió el corazón. Los maravillosos bosques de su infancia habían desaparecido, cortados para hacer grandes granjas y edificios. Los arroyos se habían secado, la tierra estaba marrón y polvorienta, y las mujeres tenían que caminar kilómetros cada día para encontrar agua y madera para cocinar.\n\nWangari supo que tenía que actuar. No esperó a que el gobierno lo solucionara. Decidió plantar un árbol. Luego otro. Enseñó a las mujeres de las aldeas que, si plantaban árboles, la tierra volvería a ser fértil y el agua regresaría. Creó el «Movimiento Cinturón Verde». No fue fácil, pues muchos hombres se reían de ella y la policía llegó a arrestarla por protestar contra la tala de bosques. Le decían que una mujer no podía cambiar las cosas, pero ella se mantuvo firme y fuerte como un roble. Poco a poco, su idea creció y las mujeres plantaron millones de árboles.\n\nEl paisaje volvió a ser verde, los pájaros regresaron y los ríos fluyeron de nuevo. Wangari se dio cuenta de que cuidar el medioambiente también trae paz, porque cuando faltan recursos, la gente se pelea por ellos. En 2004, hizo historia al ser la primera mujer africana en recibir el Premio Nobel de la Paz. Su vida nos enseña que una semilla pequeña, plantada con amor y paciencia, puede convertirse en un bosque de esperanza. Ella nos demostró que cuidar de la naturaleza es cuidar de nosotros mismos y que nuestras acciones individuales importan.",
+        "glosario": [
+            {
+                "palabra": "Biología",
+                "definición": "Ciencia que estudia a los seres vivos, como las plantas, los animales y los humanos."
+            },
+            {
+                "palabra": "Fértil",
+                "definición": "Tierra que es buena y rica para que las plantas crezcan fuertes y sanas en ella."
+            },
+            {
+                "palabra": "Tala",
+                "definición": "Acción de cortar árboles por el tronco, provocando la desaparición de bosques."
+            },
+            {
+                "palabra": "Arrestar",
+                "definición": "Cuando la policía detiene a una persona y la lleva a comisaría o a la cárcel."
+            },
+            {
+                "palabra": "Medioambiente",
+                "definición": "Todo lo que nos rodea en la naturaleza: el aire, el agua, el suelo y los seres vivos."
+            },
+            {
+                "palabra": "Recursos",
+                "definición": "Cosas necesarias para vivir o funcionar, como el agua, la comida o la madera."
+            },
+            {
+                "palabra": "Nobel",
+                "definición": "Uno de los premios más importantes del mundo que se da a personas que hacen algo grandioso."
+            },
+            {
+                "palabra": "Protestar",
+                "definición": "Expresar públicamente que no se está de acuerdo con algo que se considera injusto."
+            },
+            {
+                "palabra": "Cristalina",
+                "definición": "Se dice del agua que está muy limpia, clara y transparente."
+            },
+            {
+                "palabra": "Individuales",
+                "definición": "Que hace una sola persona por su cuenta, pero que puede sumar al esfuerzo de todos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué país nació y creció Wangari Maathai?",
+                "tipo": "test",
+                "opciones": [
+                    "Estados Unidos",
+                    "Brasil",
+                    "Kenia",
+                    "Francia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nombre le puso a su organización?",
+                "tipo": "test",
+                "opciones": [
+                    "Mujeres por el Bosque",
+                    "Movimiento Cinturón Verde",
+                    "Amigos de la Tierra",
+                    "Semillas de Paz"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué premio histórico recibió en el año 2004?",
+                "tipo": "test",
+                "opciones": [
+                    "El Premio Nobel de la Paz",
+                    "El Oscar a la mejor película",
+                    "La Medalla Olímpica",
+                    "El Premio a la Mejor Bióloga"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Por qué las mujeres tenían que caminar kilómetros cuando Wangari regresó?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque les gustaba hacer deporte",
+                    "Porque los coches estaban estropeados",
+                    "Debido a la escasez de agua y leña cerca de sus casas",
+                    "Porque iban a visitar a sus familiares"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿cuál es la relación entre el medioambiente y la paz?",
+                "tipo": "test",
+                "opciones": [
+                    "No tienen ninguna relación",
+                    "Que plantar árboles es relajante",
+                    "Que cuando hay recursos para todos, se evitan las peleas y conflictos",
+                    "Que los pájaros traen mensajes de paz"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa la metáfora 'se mantuvo firme y fuerte como un roble'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se convirtió en un árbol de verdad",
+                    "Que era una mujer muy alta",
+                    "Que resistió las dificultades y críticas sin rendirse",
+                    "Que tenía la piel dura"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se reían los hombres de ella al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque contaba chistes muy buenos",
+                    "Porque no creían que una mujer pudiera cambiar las cosas",
+                    "Porque plantaba los árboles al revés",
+                    "Porque llevaba ropa graciosa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa la 'semilla pequeña' mencionada al final del texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Solo una semilla de un árbol frutal",
+                    "Una acción pequeña que puede iniciar un gran cambio",
+                    "Un regalo que le hicieron",
+                    "El dinero que costaba plantar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió el paisaje gracias al movimiento de Wangari?",
+                "tipo": "test",
+                "opciones": [
+                    "Se llenó de edificios modernos",
+                    "Se convirtió en un desierto",
+                    "Se recuperó la naturaleza, el agua y los animales",
+                    "Se construyeron muchas carreteras"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué lección principal nos deja la historia de Wangari sobre la responsabilidad?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el gobierno debe arreglarlo todo",
+                    "Que es mejor no volver a casa",
+                    "Que nuestras acciones individuales son importantes para sanar la tierra",
+                    "Que hay que estudiar en el extranjero para ser listo"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Roald Dahl: El Gigante de los Cuentos",
+        "tema": "biografías",
+        "texto": "Roald Dahl es uno de los escritores más queridos del mundo, famoso por crear historias mágicas donde los niños son los héroes y los adultos, a veces, son los villanos. Nació en Gales en 1916, hijo de padres noruegos. Desde pequeño fue un niño travieso que no disfrutaba mucho del colegio. Tuvo profesores muy severos y estrictos que le castigaban a menudo. Años más tarde, Roald usaría esos recuerdos amargos para inventar personajes terroríficos como la señorita Trunchbull de su libro «Matilda». Sin embargo, no siempre quiso ser escritor. De joven, su espíritu aventurero lo llevó a África para trabajar en una compañía petrolera y, cuando estalló la Segunda Guerra Mundial, se convirtió en piloto de combate. Sufrió un grave accidente de avión en el desierto, un suceso que le obligó a pasar meses en el hospital, donde empezó a escribir sus primeras anécdotas.\n\nCuando decidió dedicarse a la literatura infantil, creó un método de trabajo muy curioso. En el jardín de su casa tenía una pequeña cabaña, a la que llamaba su «nido». Allí se encerraba cada día, sentado en un sillón orejero viejo y desgastado, con una tabla de madera sobre las piernas que usaba como escritorio. Escribía siempre con lápices de color amarillo y en cuadernos de hojas amarillas también. En ese lugar silencioso nacieron clásicos como «Charlie y la fábrica de chocolate» o «Las Brujas». A Dahl le encantaba inventar palabras nuevas, creando un lenguaje propio que él llamaba «gobblefunk», para que los niños se divirtieran al leer. Aunque sus cuentos tienen momentos un poco oscuros o de miedo, siempre terminan demostrando que la bondad y la valentía de los pequeños pueden vencer a la maldad de los grandes. Roald Dahl falleció en 1990, pero dejó un legado inmenso. Sus libros siguen enseñando a millones de niños que no importa lo pequeño que seas, si tienes imaginación y coraje, puedes hacer cosas gigantes.",
+        "glosario": [
+            {
+                "palabra": "Severos",
+                "definición": "Personas que son muy estrictas, duras y que no dejan pasar ninguna falta sin castigo."
+            },
+            {
+                "palabra": "Villanos",
+                "definición": "Los personajes malos de una historia que intentan hacer daño a los protagonistas."
+            },
+            {
+                "palabra": "Anécdotas",
+                "definición": "Historias cortas y curiosas sobre algo que le ha pasado a alguien en la vida real."
+            },
+            {
+                "palabra": "Combate",
+                "definición": "Lucha o pelea, en este caso se refiere a las batallas aéreas durante la guerra."
+            },
+            {
+                "palabra": "Cabaña",
+                "definición": "Casa pequeña y rústica, generalmente hecha de madera y situada en el campo o jardín."
+            },
+            {
+                "palabra": "Desgastado",
+                "definición": "Algo que está viejo y estropeado por haberlo usado muchísimo durante el tiempo."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Lo que una persona deja al mundo para que lo recordemos después de que ya no está."
+            },
+            {
+                "palabra": "Coraje",
+                "definición": "Valor y fuerza para enfrentarse a situaciones difíciles o que dan miedo."
+            },
+            {
+                "palabra": "Petrolera",
+                "definición": "Empresa que se dedica a buscar y sacar petróleo de la tierra."
+            },
+            {
+                "palabra": "Imaginación",
+                "definición": "Capacidad de la mente para inventar historias, ideas o cosas que no existen."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué lugar escribía Roald Dahl sus historias?",
+                "tipo": "test",
+                "opciones": [
+                    "En la cocina",
+                    "En una biblioteca pública",
+                    "En una cabaña en su jardín",
+                    "En un avión"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿De qué color eran los lápices que usaba para escribir?",
+                "tipo": "test",
+                "opciones": [
+                    "Rojos",
+                    "Azules",
+                    "Negros",
+                    "Amarillos"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Qué trabajo tuvo antes de ser escritor?",
+                "tipo": "test",
+                "opciones": [
+                    "Profesor",
+                    "Piloto de combate",
+                    "Médico",
+                    "Cocinero"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que Roald Dahl inventó a la señorita Trunchbull?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque le caían bien los profesores",
+                    "Para reflejar sus malos recuerdos de profesores estrictos",
+                    "Porque quería ser director de escuela",
+                    "Porque soñó con ella"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica el hecho de que escribiera en un sillón viejo y desgastado?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era muy pobre",
+                    "Que valoraba la comodidad y la rutina sobre el lujo",
+                    "Que no tenía muebles en casa",
+                    "Que le gustaba coleccionar basura"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de los libros de Dahl según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los adultos siempre tienen razón",
+                    "Que hay que comer mucho chocolate",
+                    "Que la bondad y valentía de los niños vencen a la maldad",
+                    "Que no hay que ir al colegio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Para qué inventó el lenguaje 'gobblefunk'?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que nadie entendiera sus libros",
+                    "Para divertir a los niños al leer",
+                    "Porque no sabía escribir bien",
+                    "Para ahorrar papel"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Roald Dahl no hubiera tenido el accidente de avión, ¿qué podría haber pasado?",
+                "tipo": "test",
+                "opciones": [
+                    "Nunca habría empezado a escribir anécdotas en el hospital",
+                    "Habría escrito más rápido",
+                    "Sería un famoso futbolista",
+                    "Habría vivido en África para siempre"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué relación hay entre su infancia y sus libros?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna relación",
+                    "Sus libros son copias de su diario",
+                    "Transformó sus experiencias difíciles en historias creativas",
+                    "Odiaba su infancia y la olvidó"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se le llama 'El Gigante de los Cuentos' en el título?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque medía tres metros",
+                    "Por su gran importancia y legado en la literatura infantil",
+                    "Porque escribía sobre gigantes",
+                    "Porque vivía en un castillo"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Katherine Johnson: La Calculadora Humana",
+        "tema": "biografías",
+        "texto": "Katherine Johnson fue una niña prodigio que amaba contar. Contaba los pasos hacia la iglesia, los platos que lavaba y las estrellas en el cielo. Nació en 1918 en Estados Unidos, una época en la que las personas de piel negra sufrían mucha discriminación y no tenían los mismos derechos que las blancas. A pesar de esto, Katherine era tan brillante en matemáticas que terminó la escuela secundaria a los 14 años. Su sueño era trabajar con números, y lo consiguió al entrar en la NASA, la agencia espacial. Al principio, trabajaba en una oficina con otras mujeres afroamericanas a las que llamaban «computadoras humanas», porque hacían todos los cálculos difíciles a mano, antes de que existieran los ordenadores potentes de hoy en día.\n\nSin embargo, Katherine no se conformó con quedarse en un segundo plano. Era tan buena en su trabajo que los ingenieros hombres empezaron a invitarla a sus reuniones importantes, algo muy raro en aquel tiempo. Su momento más famoso llegó en 1962, cuando el astronauta John Glenn iba a dar la vuelta a la Tierra en una nave. La NASA acababa de empezar a usar computadoras electrónicas, pero Glenn no se fiaba de las máquinas porque a veces fallaban. Él dijo: «Si Katherine verifica los números, entonces estoy listo para ir». Ella revisó las complejas ecuaciones una por una y el vuelo fue un éxito total. Años más tarde, sus cálculos también ayudaron a llevar al hombre a la Luna con la misión Apolo 11. Durante muchos años, su historia fue desconocida, pero hoy la celebramos como una heroína de la ciencia. Katherine nos enseñó que el talento no tiene color ni género, y que si amas lo que haces y trabajas duro, puedes derribar cualquier muro. Falleció con más de 100 años, habiendo visto cómo sus amados números ayudaron a la humanidad a tocar las estrellas.",
+        "glosario": [
+            {
+                "palabra": "Prodigio",
+                "definición": "Persona, especialmente un niño, que tiene una capacidad extraordinaria para hacer algo muy bien."
+            },
+            {
+                "palabra": "Discriminación",
+                "definición": "Trato injusto y diferente que se da a una persona por su color de piel, ideas u origen."
+            },
+            {
+                "palabra": "Ecuaciones",
+                "definición": "Operaciones matemáticas complejas que sirven para resolver problemas y averiguar datos desconocidos."
+            },
+            {
+                "palabra": "Verificar",
+                "definición": "Comprobar con mucho cuidado si algo es verdad o si está bien hecho."
+            },
+            {
+                "palabra": "Ingenieros",
+                "definición": "Personas que usan la ciencia y las matemáticas para diseñar y construir máquinas o estructuras."
+            },
+            {
+                "palabra": "Astronauta",
+                "definición": "Persona entrenada para viajar al espacio exterior en una nave espacial."
+            },
+            {
+                "palabra": "Género",
+                "definición": "Clasificación de las personas (hombre o mujer); en el texto se refiere a que el talento no depende de si eres niño o niña."
+            },
+            {
+                "palabra": "Agencia Espacial",
+                "definición": "Organización del gobierno, como la NASA, que se dedica a investigar y explorar el espacio."
+            },
+            {
+                "palabra": "Secundaria",
+                "definición": "Etapa de la escuela que va después de la primaria, donde estudian los adolescentes."
+            },
+            {
+                "palabra": "Humanidad",
+                "definición": "Conjunto formado por todos los seres humanos que habitan en el planeta."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué le gustaba hacer a Katherine desde muy pequeña?",
+                "tipo": "test",
+                "opciones": [
+                    "Cantar canciones",
+                    "Contar todo lo que veía",
+                    "Pintar cuadros",
+                    "Correr maratones"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo llamaban a las mujeres que hacían los cálculos en la NASA?",
+                "tipo": "test",
+                "opciones": [
+                    "Robots inteligentes",
+                    "Ayudantes espaciales",
+                    "Computadoras humanas",
+                    "Secretarias matemáticas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué astronauta pidió que Katherine revisara sus números?",
+                "tipo": "test",
+                "opciones": [
+                    "Neil Armstrong",
+                    "John Glenn",
+                    "Buzz Aldrin",
+                    "Yuri Gagarin"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el astronauta confiaba más en Katherine que en la máquina?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la máquina se rompía a menudo",
+                    "Porque Katherine era su hermana",
+                    "Porque confiaba en su precisión humana más que en la tecnología nueva",
+                    "Porque la máquina no sabía sumar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué obstáculo principal tuvo que superar Katherine en su carrera?",
+                "tipo": "test",
+                "opciones": [
+                    "No sabía matemáticas",
+                    "La discriminación por ser mujer y afroamericana",
+                    "Vivía muy lejos del trabajo",
+                    "No le gustaba el espacio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'el talento no tiene color ni género'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el talento es invisible",
+                    "Que cualquiera puede ser genial sin importar su raza o si es hombre o mujer",
+                    "Que hay que pintar dibujos en blanco y negro",
+                    "Que los genios no tienen piel"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que la invitaban a las reuniones de los ingenieros?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque llevaba café",
+                    "Porque sus conocimientos eran valiosos y necesarios",
+                    "Porque sobraban sillas",
+                    "Para que tomara notas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo contribuyó Katherine a la misión Apolo 11?",
+                "tipo": "test",
+                "opciones": [
+                    "Construyó el cohete con sus manos",
+                    "Pilotó la nave",
+                    "Sus cálculos ayudaron a llevar al hombre a la Luna",
+                    "Diseñó los trajes espaciales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad personal destaca más en Katherine según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "La fuerza física",
+                    "La inteligencia y la determinación",
+                    "La timidez",
+                    "El sentido del humor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si Katherine hubiera aceptado quedarse en 'segundo plano', ¿qué habría pasado?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría sido famosa antes",
+                    "El mundo se habría perdido su gran talento y aportación",
+                    "Habría ganado más dinero",
+                    "Nada habría cambiado"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Marie Curie: La Luz de la Ciencia",
+        "tema": "biografías",
+        "texto": "Maria Sklodowska, mundialmente conocida como Marie Curie, nació en Varsovia, Polonia, en una época en la que las mujeres tenían prohibido ir a la universidad. Sin embargo, ella poseía una curiosidad infinita y un deseo inquebrantable de aprender. Como no podía estudiar en su país, trabajó duro como institutriz para ahorrar dinero y viajar a París. Allí se matriculó en la famosa universidad de la Sorbona. Sus comienzos fueron muy difíciles; vivía en un ático helado y a menudo se olvidaba de comer porque estaba totalmente concentrada en sus libros de física y matemáticas.\n\nEn París conoció a Pierre Curie, otro científico brillante con quien se casó. Juntos formaron un equipo extraordinario. Pasaban días y noches en un laboratorio que parecía un cobertizo viejo, lleno de corrientes de aire. Allí, tras investigar toneladas de un mineral negro llamado pechblenda, descubrieron dos elementos nuevos: el polonio, llamado así en honor a su país, y el radio. Marie notó que el radio emitía una luz extraña y poderosa, a la que llamó radioactividad. Gracias a este hallazgo, se convirtió en la primera mujer en ganar un Premio Nobel y, años más tarde, la primera persona en la historia en ganar dos.\n\nPero Marie no solo amaba la ciencia, también amaba a la humanidad. Durante la Primera Guerra Mundial, se dio cuenta de que los médicos necesitaban ver las heridas de los soldados por dentro para curarlos mejor. Inventó unas ambulancias equipadas con máquinas de rayos X, conocidas cariñosamente como «las pequeñas Curie». Ella misma conducía estos vehículos hasta el frente de batalla, demostrando una valentía inmensa. A pesar de que la radiación dañó su salud con el tiempo, nunca se rindió. Marie Curie nos enseñó que la inteligencia y la perseverancia pueden derribar cualquier barrera. Su legado sigue vivo hoy en día, ayudando a curar enfermedades y recordándonos que el conocimiento es la herramienta más poderosa para mejorar el mundo.",
+        "glosario": [
+            {
+                "palabra": "Inquebrantable",
+                "definición": "Algo que es muy fuerte y firme, que no se puede romper ni cambiar fácilmente."
+            },
+            {
+                "palabra": "Institutriz",
+                "definición": "Maestra que antiguamente vivía en las casas de las familias ricas para enseñar a los niños."
+            },
+            {
+                "palabra": "Sorbona",
+                "definición": "Nombre de una universidad muy antigua y prestigiosa situada en París, Francia."
+            },
+            {
+                "palabra": "Cobertizo",
+                "definición": "Pequeña construcción de madera o techo ligero que sirve para guardar cosas o protegerse de la lluvia."
+            },
+            {
+                "palabra": "Radioactividad",
+                "definición": "Energía que emiten ciertos materiales, como el radio, y que puede atravesar objetos sólidos."
+            },
+            {
+                "palabra": "Pechblenda",
+                "definición": "Un mineral de color negro del que se extraen elementos como el uranio y el radio."
+            },
+            {
+                "palabra": "Nobel",
+                "definición": "Premio internacional muy importante que se da a personas que han hecho grandes descubrimientos o ayudas a la humanidad."
+            },
+            {
+                "palabra": "Humanidad",
+                "definición": "Conjunto formado por todos los seres humanos del mundo."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Lo que una persona deja para beneficiar a las generaciones futuras tras su muerte."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Esfuerzo continuo para conseguir una meta, sin rendirse ante las dificultades."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué ciudad nació Marie Curie?",
+                "tipo": "test",
+                "opciones": [
+                    "París",
+                    "Londres",
+                    "Varsovia",
+                    "Berlín"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué elementos químicos descubrieron Marie y Pierre?",
+                "tipo": "test",
+                "opciones": [
+                    "Oro y Plata",
+                    "Polonio y Radio",
+                    "Oxígeno y Carbono",
+                    "Hierro y Cobre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaban las ambulancias que inventó?",
+                "tipo": "test",
+                "opciones": [
+                    "Los rayos veloces",
+                    "Las salvadoras",
+                    "Las pequeñas Curie",
+                    "Los hospitales móviles"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Marie tuvo que irse a París para estudiar?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería aprender francés",
+                    "Porque en Polonia las mujeres no podían ir a la universidad",
+                    "Porque sus padres se mudaron allí",
+                    "Porque le gustaba viajar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos dice el texto sobre el carácter de Marie cuando vivía en el ático?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era muy desordenada",
+                    "Que le gustaba pasar frío",
+                    "Que tenía una gran capacidad de sacrificio por sus estudios",
+                    "Que no sabía cocinar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué le puso el nombre de 'Polonio' a uno de los elementos?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque sonaba bonito",
+                    "En honor a su esposo Pierre",
+                    "Para recordar a su país natal, Polonia",
+                    "Porque era de color blanco"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que su deseo de aprender era 'inquebrantable'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se rompía fácil",
+                    "Que a veces tenía ganas y a veces no",
+                    "Que nadie ni nada podía detener sus ganas de saber",
+                    "Que era muy frágil"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue la principal motivación de Marie para ir al frente de guerra?",
+                "tipo": "test",
+                "opciones": [
+                    "Ganar más medallas",
+                    "Ayudar a salvar vidas usando su ciencia",
+                    "Conocer soldados famosos",
+                    "Salir del laboratorio un rato"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si el laboratorio era como un 'cobertizo viejo', ¿qué podemos deducir?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenían mucho dinero",
+                    "Que no les importaba la limpieza",
+                    "Que lograron grandes cosas con pocos recursos materiales",
+                    "Que eran malos arquitectos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza más profunda de la historia de Marie Curie?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que abrigarse bien en invierno",
+                    "Que el conocimiento debe usarse para el bien de todos",
+                    "Que es mejor no tocar minerales negros",
+                    "Que estudiar en París es divertido"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Nelson Mandela: El Arquitecto de la Paz",
+        "tema": "biografías",
+        "texto": "Rolihlahla Mandela, conocido mundialmente como Nelson Mandela, nació en una pequeña aldea de Sudáfrica. Desde niño le gustaba escuchar las historias de sus antepasados, quienes habían defendido su tierra con valor. Al crecer, se dio cuenta de que su país sufría una gran enfermedad social llamada «apartheid». Este sistema separaba a las personas por el color de su piel: los blancos mandaban y tenían privilegios, mientras que los negros eran tratados injustamente y no tenían derechos. Nelson decidió que esto no podía continuar y se convirtió en abogado para luchar por la igualdad de su pueblo.\n\nDebido a sus protestas y a su liderazgo contra el gobierno injusto, fue arrestado y enviado a prisión. Pasó veintisiete largos años encerrado en una celda diminuta en la isla de Robben. Allí le obligaban a picar piedra bajo el sol abrasador. Cualquier persona se habría llenado de odio y deseos de venganza, pero Mandela era diferente. Aprovechó ese tiempo para leer, estudiar y aprender el idioma de sus carceleros. Entendió que, para ganar la paz, no necesitaba armas, sino palabras y comprensión. Nunca dejó que la cárcel atrapara su mente ni su corazón.\n\nCuando finalmente fue liberado en 1990, el mundo entero celebró. En lugar de llamar a la guerra contra quienes lo encerraron, Mandela pidió a todos los sudafricanos que se perdonaran y se unieran. Fue elegido presidente, convirtiéndose en el primer líder negro de su país. Trabajó incansablemente para crear la «Nación del Arcoíris», un lugar donde todas las razas pudieran vivir juntas en armonía. Utilizó incluso el deporte, como el rugby, para unir a blancos y negros bajo una misma bandera. Nelson Mandela falleció a los 95 años, dejándonos una lección eterna: el coraje no es la ausencia de miedo, sino el triunfo sobre él, y el perdón es el arma más poderosa para cambiar el futuro.",
+        "glosario": [
+            {
+                "palabra": "Apartheid",
+                "definición": "Antiguo sistema de leyes en Sudáfrica que separaba injustamente a las personas negras de las blancas."
+            },
+            {
+                "palabra": "Privilegios",
+                "definición": "Ventajas o beneficios especiales que tienen algunas personas y otras no."
+            },
+            {
+                "palabra": "Antepasados",
+                "definición": "Familiares lejanos que vivieron hace mucho tiempo, como bisabuelos o tatarabuelos."
+            },
+            {
+                "palabra": "Liderazgo",
+                "definición": "Capacidad de guiar, dirigir y animar a un grupo de personas hacia una meta."
+            },
+            {
+                "palabra": "Diminuta",
+                "definición": "Que es extremadamente pequeña."
+            },
+            {
+                "palabra": "Abrasador",
+                "definición": "Que quema mucho o produce mucho calor."
+            },
+            {
+                "palabra": "Venganza",
+                "definición": "Hacer daño a alguien como respuesta al daño que nos han hecho antes."
+            },
+            {
+                "palabra": "Incansablemente",
+                "definición": "Hacer algo con mucha energía y constancia sin parar ni mostrar cansancio."
+            },
+            {
+                "palabra": "Armonía",
+                "definición": "Amistad y buena relación entre personas, viviendo en paz y sin peleas."
+            },
+            {
+                "palabra": "Coraje",
+                "definición": "Valor y fuerza de voluntad para enfrentarse a situaciones difíciles o peligrosas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cuántos años pasó Nelson Mandela en prisión?",
+                "tipo": "test",
+                "opciones": [
+                    "10 años",
+                    "5 años",
+                    "27 años",
+                    "30 años"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué profesión estudió Mandela para defender a su pueblo?",
+                "tipo": "test",
+                "opciones": [
+                    "Médico",
+                    "Profesor",
+                    "Abogado",
+                    "Arquitecto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué isla estuvo encarcelado?",
+                "tipo": "test",
+                "opciones": [
+                    "Isla de Pascua",
+                    "Isla de Robben",
+                    "Isla del Tesoro",
+                    "Madagascar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué decidió aprender el idioma de sus carceleros?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se aburría mucho",
+                    "Para insultarlos sin que se enteraran",
+                    "Para entenderlos y poder dialogar en el futuro",
+                    "Porque le gustaban los idiomas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa la expresión 'Nación del Arcoíris'?",
+                "tipo": "test",
+                "opciones": [
+                    "Un país donde llueve mucho",
+                    "Un país donde conviven personas de todos los colores y razas en paz",
+                    "Un país pintado de colores",
+                    "Un lugar imaginario"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué actitud tomó Mandela al salir de la cárcel?",
+                "tipo": "test",
+                "opciones": [
+                    "Buscó vengarse de los que lo encerraron",
+                    "Se fue de vacaciones para siempre",
+                    "Promovió el perdón y la unión entre todos",
+                    "Se escondió en su casa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿qué es el verdadero coraje?",
+                "tipo": "test",
+                "opciones": [
+                    "No tener miedo nunca",
+                    "Ser muy fuerte físicamente",
+                    "El triunfo sobre el miedo",
+                    "Gritar más fuerte que los demás"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué se dice que el apartheid era una 'enfermedad social'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque causaba fiebre",
+                    "Porque era algo dañino y malo para la sociedad",
+                    "Porque se contagiaba por el aire",
+                    "Porque la gente iba al hospital"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña el hecho de que usara el deporte para unir al país?",
+                "tipo": "test",
+                "opciones": [
+                    "Que le gustaba jugar",
+                    "Que el deporte puede servir para crear lazos entre personas diferentes",
+                    "Que quería ganar la copa",
+                    "Que era un atleta olímpico"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el arma principal de Mandela para cambiar su país?",
+                "tipo": "test",
+                "opciones": [
+                    "Las armas de fuego",
+                    "El dinero",
+                    "El perdón y la palabra",
+                    "La fuerza bruta"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Walt Disney: El Creador de Sueños",
+        "tema": "biografías",
+        "texto": "Walt Disney nació en Chicago en 1901 y desde muy pequeño descubrió que su verdadera pasión era dibujar. Creció en una granja rodeado de animales, a los que observaba con atención para luego retratarlos en sus cuadernos. No tuvo una infancia fácil, pues su familia tenía poco dinero y él debía trabajar repartiendo periódicos antes de ir al colegio. Sin embargo, su imaginación era inmensa. Cuando creció, decidió que quería ganarse la vida haciendo dibujos animados, algo que en aquella época era muy novedoso y arriesgado.\n\nSus primeros intentos fracasaron estrepitosamente. Incluso creó un personaje llamado Oswald, el conejo afortunado, pero perdió los derechos legales sobre él por culpa de un contrato injusto. Lejos de rendirse, Walt viajó en tren de regreso a casa y, durante ese trayecto, esbozó un ratoncito de orejas redondas al que llamó Mickey. Este pequeño personaje cambiaría la historia del cine para siempre. Con mucho esfuerzo, Walt estrenó «Blancanieves y los siete enanitos», el primer largometraje de animación de la historia. Muchos en Hollywood le decían que estaba loco y que nadie pagaría por ver una película de dibujos tan larga, llamando al proyecto «la locura de Disney». Pero el público se enamoró de la historia y fue un éxito rotundo.\n\nWalt no se detuvo ahí. Soñaba con construir un lugar mágico donde padres e hijos pudieran divertirse juntos. Así nació Disneyland, un parque temático que parecía sacado de un cuento de hadas. Aunque enfrentó muchas críticas y dificultades financieras, su perseverancia lo llevó a crear un imperio de fantasía que hoy sigue vivo. Ganó más premios Oscar que nadie en la historia. Walt Disney siempre decía que «si puedes soñarlo, puedes hacerlo», una frase que nos recuerda que no importa cuántas veces caigas, lo importante es levantarse y seguir persiguiendo tus metas con ilusión. Su legado nos enseña que la creatividad, el trabajo duro y la fe en uno mismo son las llaves para convertir cualquier sueño en una maravillosa realidad.",
+        "glosario": [
+            {
+                "palabra": "Estrepitosamente",
+                "definición": "De una manera muy ruidosa, notable o escandalosa, especialmente al referirse a un fracaso."
+            },
+            {
+                "palabra": "Largometraje",
+                "definición": "Película que dura mucho tiempo, generalmente más de una hora, como las que vemos en el cine."
+            },
+            {
+                "palabra": "Imperio",
+                "definición": "En este caso, se refiere a una empresa muy grande, poderosa y con mucha influencia en el mundo."
+            },
+            {
+                "palabra": "Financieras",
+                "definición": "Relacionadas con el dinero, los negocios y la economía de una empresa o persona."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Capacidad de seguir esforzándose y no rendirse a pesar de los problemas o dificultades."
+            },
+            {
+                "palabra": "Legado",
+                "definición": "Lo que una persona deja al mundo después de morir, como su obra, sus ideas o su ejemplo."
+            },
+            {
+                "palabra": "Novedoso",
+                "definición": "Algo que es nuevo, original y que no se había visto o hecho antes."
+            },
+            {
+                "palabra": "Derechos legales",
+                "definición": "Leyes que dicen quién es el dueño verdadero de una creación, como un dibujo o un libro."
+            },
+            {
+                "palabra": "Rotundo",
+                "definición": "Que es total, completo y muy claro, sin que quede ninguna duda."
+            },
+            {
+                "palabra": "Ilusión",
+                "definición": "Esperanza y alegría con la que se espera o se hace algo que deseamos mucho."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué personaje creó Walt Disney durante un viaje en tren?",
+                "tipo": "test",
+                "opciones": [
+                    "Oswald, el conejo",
+                    "El Pato Donald",
+                    "Mickey Mouse",
+                    "Blancanieves"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue el primer largometraje de animación que estrenó?",
+                "tipo": "test",
+                "opciones": [
+                    "La Cenicienta",
+                    "El Rey León",
+                    "Blancanieves y los siete enanitos",
+                    "Pinocho"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué trabajo realizaba Walt antes de ir al colegio cuando era niño?",
+                "tipo": "test",
+                "opciones": [
+                    "Cuidaba animales",
+                    "Repartía periódicos",
+                    "Pintaba casas",
+                    "Vendía juguetes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que llamaban a su película 'la locura de Disney'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque pensaban que a nadie le gustaría ver dibujos durante tanto tiempo",
+                    "Porque era una película de terror",
+                    "Porque costaba poco dinero",
+                    "Porque Walt estaba enfermo"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué nos enseña la pérdida de los derechos del conejo Oswald sobre la actitud de Walt?",
+                "tipo": "test",
+                "opciones": [
+                    "Que se enfadó y dejó de dibujar",
+                    "Que era un mal negociante",
+                    "Que fue capaz de superar el fracaso y crear algo mejor inmediatamente",
+                    "Que no le importaban sus dibujos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál fue la motivación principal para crear Disneyland?",
+                "tipo": "test",
+                "opciones": [
+                    "Ganar mucho dinero rápidamente",
+                    "Tener un lugar donde vivir solo",
+                    "Crear un espacio donde padres e hijos pudieran divertirse juntos",
+                    "Guardar allí todos sus dibujos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿qué significa la frase 'si puedes soñarlo, puedes hacerlo'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que basta con dormir para lograr cosas",
+                    "Que los sueños se cumplen solos",
+                    "Que con imaginación y trabajo duro se pueden lograr las metas",
+                    "Que hay que soñar despierto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Si Walt se hubiera rendido tras las críticas a Blancanieves, ¿qué habría pasado probablemente?",
+                "tipo": "test",
+                "opciones": [
+                    "El cine de animación no habría avanzado tanto ni tan rápido",
+                    "Habría ganado más dinero",
+                    "Se habría hecho arquitecto",
+                    "Nada habría cambiado"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué relación hay entre su infancia en la granja y sus dibujos?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna relación",
+                    "Odiaba a los animales y no los dibujaba",
+                    "Su observación de los animales reales inspiró sus personajes",
+                    "Prefería dibujar edificios"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué valor demuestra Walt al seguir adelante a pesar de tener poco dinero al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "La codicia",
+                    "La pereza",
+                    "La determinación y el esfuerzo",
+                    "La suerte"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Hellen Keller: Ver con el Corazón",
+        "tema": "biografías",
+        "texto": "Hellen Keller nació en 1880 en Estados Unidos y fue una niña sana y feliz hasta que, poco antes de cumplir dos años, una grave enfermedad la dejó ciega y sorda. De repente, su mundo se volvió oscuro y silencioso. Como no podía ver ni oír, tampoco aprendió a hablar y se sentía muy frustrada. A menudo tenía rabietas terribles, rompiendo platos y golpeando cosas porque no podía comunicarse con su familia. Sus padres, desesperados y sin saber qué hacer, buscaron ayuda y encontraron a una maestra joven llamada Anne Sullivan, quien también tenía problemas de visión.\n\nAnne llegó a la casa de Hellen con un propósito firme: enseñarle que cada objeto tenía un nombre. El comienzo fue muy difícil, pues Hellen era rebelde y no entendía qué quería aquella extraña. Un día, mientras Anne bombeaba agua fría sobre una de las manos de la niña, deletreó la palabra «A-G-U-A» en la palma de su otra mano. En ese momento mágico, Hellen comprendió por fin que esos movimientos de los dedos significaban el líquido fresco que sentía. Fue como si una luz se encendiera en su mente. A partir de entonces, quiso aprender el nombre de todo lo que tocaba. Con una paciencia infinita, Anne le enseñó a leer en braille y a escribir.\n\nContra todo pronóstico, Hellen no solo aprendió a comunicarse, sino que fue a la universidad y se graduó con honores, siendo la primera persona sordociega en lograrlo. Aprendió a «escuchar» poniendo sus dedos en los labios de las personas para sentir las vibraciones de su voz. Dedicó toda su vida a viajar por el mundo dando conferencias para ayudar a otras personas con discapacidad. Escribió libros inspiradores y demostró que la verdadera visión no está en los ojos, sino en la mente y el corazón. Su historia es un ejemplo eterno de superación, enseñándonos que no existen barreras imposibles si tenemos coraje, ayuda y ganas de aprender.",
+        "glosario": [
+            {
+                "palabra": "Frustrada",
+                "definición": "Sentimiento de tristeza y enfado cuando no consigues hacer algo que quieres o esperas."
+            },
+            {
+                "palabra": "Rabietas",
+                "definición": "Enfados grandes y ruidosos, típicos de niños, con gritos y pataletas por no conseguir algo."
+            },
+            {
+                "palabra": "Propósito",
+                "definición": "Intención firme o determinación de hacer algo para conseguir un objetivo."
+            },
+            {
+                "palabra": "Pronóstico",
+                "definición": "Lo que se piensa que va a pasar en el futuro basándose en lo que sabemos ahora."
+            },
+            {
+                "palabra": "Braille",
+                "definición": "Sistema de lectura y escritura para ciegos que usa puntos en relieve que se leen con los dedos."
+            },
+            {
+                "palabra": "Conferencias",
+                "definición": "Charlas o discursos que da una persona experta ante un público para enseñar sobre un tema."
+            },
+            {
+                "palabra": "Discapacidad",
+                "definición": "Condición física o mental que hace que a una persona le cueste más hacer ciertas actividades."
+            },
+            {
+                "palabra": "Vibraciones",
+                "definición": "Movimientos rápidos y pequeños que se sienten al tocar algo que está produciendo sonido."
+            },
+            {
+                "palabra": "Superación",
+                "definición": "Acción de vencer obstáculos y dificultades para mejorar y lograr metas difíciles."
+            },
+            {
+                "palabra": "Sordociega",
+                "definición": "Persona que no puede ver ni oír al mismo tiempo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué palabra entendió Hellen bajo el chorro de la bomba?",
+                "tipo": "test",
+                "opciones": [
+                    "Muñeca",
+                    "Leche",
+                    "Agua",
+                    "Mano"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se llamaba la maestra que ayudó a Hellen?",
+                "tipo": "test",
+                "opciones": [
+                    "Marie Curie",
+                    "Anne Sullivan",
+                    "Rosa Parks",
+                    "Jane Goodall"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué le pasó a Hellen antes de cumplir los dos años?",
+                "tipo": "test",
+                "opciones": [
+                    "Se cayó de un árbol",
+                    "Aprendió a leer",
+                    "Una enfermedad la dejó ciega y sorda",
+                    "Se mudó de ciudad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué tenía Hellen rabietas terribles al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era una niña mala",
+                    "Porque sentía frustración al no poder comunicarse",
+                    "Porque no le gustaba la comida",
+                    "Porque quería juguetes nuevos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué importancia tuvo el momento del agua para su aprendizaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Ninguna, solo se mojó",
+                    "Fue el momento clave en que conectó las palabras con las cosas",
+                    "Aprendió a nadar",
+                    "Se enfadó porque estaba fría"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña el hecho de que Anne Sullivan tuviera también problemas de visión?",
+                "tipo": "test",
+                "opciones": [
+                    "Que podía entender mejor las dificultades de Hellen",
+                    "Que no podía ver nada",
+                    "Que era una mala profesora",
+                    "Que fue casualidad"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cómo lograba Hellen 'escuchar' a las personas?",
+                "tipo": "test",
+                "opciones": [
+                    "Usando un audífono especial",
+                    "Leyendo los labios con la vista",
+                    "Sintiendo las vibraciones en los labios con sus dedos",
+                    "Adivinando lo que decían"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué demostró Hellen al graduarse en la universidad?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la universidad era fácil",
+                    "Que las personas con discapacidad pueden lograr metas académicas altas",
+                    "Que tenía mucho dinero",
+                    "Que los profesores le regalaron las notas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'ver con el corazón' en el contexto del texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el corazón tiene ojos",
+                    "Que lo importante se siente y se entiende, no solo se ve con los ojos",
+                    "Que hay que ir al cardiólogo",
+                    "Que estaba enamorada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el papel principal de Anne Sullivan en la vida de Hellen?",
+                "tipo": "test",
+                "opciones": [
+                    "Ser su cocinera",
+                    "Ser su guía, maestra y puente hacia el mundo",
+                    "Ser su conductora",
+                    "Ser su enfermera"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    }
+]

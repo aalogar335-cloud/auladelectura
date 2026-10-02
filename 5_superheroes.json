@@ -1,0 +1,890 @@
+[
+    {
+        "titulo": "Spiderman y el Protocolo de Emergencia",
+        "tema": "superheroes",
+        "curso": 5,
+        "texto": "El sol de la tarde rebotaba en los rascacielos de Nueva York, creando un espectáculo de luces doradas. Para la mayoría de los ciudadanos, era un martes cualquiera. Pero para Peter Parker, un chico de Queens con un secreto extraordinario, era el momento de patrullar. Se ajustó la máscara roja y azul, lanzó una telaraña hacia una gárgola de piedra y se balanceó sobre el tráfico de la Quinta Avenida. *Thwip, thwip*. La sensación de caída libre seguida del tirón de la red era algo a lo que nunca se acostumbraría del todo; era una mezcla de terror y libertad absoluta.\n\nDe repente, su sentido arácnido comenzó a zumbar en la base de su cráneo como una abeja furiosa. ¡Peligro! Peter aterrizó con agilidad felina sobre una farola. A unas calles de distancia, cerca de la majestuosa Torre Stark, una columna de humo negro ascendía hacia el cielo. Las sirenas empezaron a aullar.\n\n—Parece que la tarea de matemáticas tendrá que esperar —murmuró Peter para sí mismo.\n\nAl llegar al lugar, se encontró con el caos. Un robot de construcción hackeado, enorme y con pinzas hidráulicas, estaba fuera de control. El robot, que parecía un cangrejo metálico gigante, golpeaba el asfalto y lanzaba coches aparcados por los aires. La policía intentaba mantener un perímetro, pero sus balas rebotaban inofensivamente contra la coraza de aleación de titanio.\n\n—¡Oye, hojalata! —gritó Spiderman, lanzando una red a los ojos sensores del robot—. ¿No sabes que está prohibido aparcar en doble fila?\n\nEl robot giró, arrancó la red de su cara mecánica y lanzó un rayo láser que chamuscó el poste donde estaba Peter. Spiderman saltó, esquivando escombros. Sabía que no podía vencerlo solo con fuerza bruta; necesitaba usar su ingenio científico. Observó las articulaciones del robot. Si lograba bloquear los servos de las rodillas, la gravedad haría el resto.\n\nJusto cuando el robot preparaba otro ataque, un sonido sónico rompió el aire. *Fiuuuuum*. Una figura roja y dorada descendió del cielo con los propulsores de sus botas brillando intensamente. Era Iron Man.\n\n—Niño, te ves en apuros —dijo la voz metálica de Tony Stark a través del comunicador—.\n\n—Sr. Stark, ¡qué sorpresa! —respondió Peter, aliviado—. Este cangrejo gigante está de muy mal humor.\n\n—Es un prototipo de limpieza de residuos que ha sido reprogramado —explicó Iron Man, disparando un rayo repulsor que hizo retroceder a la máquina—. Necesito que mantengas a los civiles alejados. Yo distraeré al grandullón.\n\nSpiderman asintió. «Un gran poder conlleva una gran responsabilidad», recordó las palabras de su tío Ben. Su prioridad era la gente. Vio un autobús escolar atrapado cerca de la zona de impacto. Usando sus telarañas, creó una barrera protectora para detener los escombros que caían y ayudó al conductor a sacar a los niños. \n\n—¡Capitán Araña! —gritó un niño emocionado.\n\n—Es Spiderman, pero gracias —corrigió Peter guiñando un ojo bajo la máscara.\n\nUna vez los civiles estuvieron a salvo, Peter vio que Iron Man estaba teniendo problemas. El robot absorbía la energía de los repulsores. \n\n—¡Sr. Stark! —gritó Peter—. ¡La fuente de energía está en la espalda! ¡Si usamos una sobrecarga eléctrica combinada con mis redes conductoras, podemos cortocircuitarlo!\n\n—¡Buena idea, chico! —exclamó Iron Man—. ¡Házlo!\n\nSpiderman disparó una telaraña especial modificada con filamentos de cobre hacia el núcleo del robot. Iron Man lanzó una descarga de baja intensidad a la red. La electricidad viajó por la telaraña y... *¡ZZZZZPT!* El robot se estremeció, sus luces se apagaron y cayó desplomado con un fuerte estruendo metálico.\n\nEl silencio volvió a la calle. Iron Man aterrizó junto a Spiderman y levantó la visera de su casco.\n\n—Buen trabajo, Peter. Tu rapidez mental salvó el día. No basta con tener el traje, hay que saber usar la cabeza.\n\n—Gracias, Sr. Stark. ¿Cree que esto cuenta como prácticas extracurriculares? —bromeó Peter.\n\nTony sonrió. Mientras la policía se hacía cargo, ambos héroes se elevaron hacia el cielo de Nueva York, sabiendo que, trabajando juntos, la ciudad siempre estaría segura.",
+        "glosario": [
+            {
+                "palabra": "Sentido arácnido",
+                "definición": "Habilidad especial de Spiderman que le avisa del peligro antes de que ocurra."
+            },
+            {
+                "palabra": "Repulsor",
+                "definición": "Tecnología de Iron Man ubicada en sus manos y botas que dispara energía para volar o atacar."
+            },
+            {
+                "palabra": "Aleación",
+                "definición": "Mezcla de dos o más metales para crear un material más fuerte y resistente."
+            },
+            {
+                "palabra": "Civil",
+                "definición": "Persona normal que no es militar, policía ni superhéroe, y que debe ser protegida."
+            },
+            {
+                "palabra": "Responsabilidad",
+                "definición": "El deber de cumplir con las obligaciones y cuidar de los demás, especialmente si tienes poder."
+            },
+            {
+                "palabra": "Mutación",
+                "definición": "Cambio en los genes de un ser vivo que puede darle características o poderes nuevos."
+            },
+            {
+                "palabra": "Prototipo",
+                "definición": "El primer modelo de un invento que sirve para hacer pruebas antes de fabricar los demás."
+            },
+            {
+                "palabra": "Torre Stark",
+                "definición": "El rascacielos de alta tecnología en Nueva York donde vive Tony Stark y se reúnen los Vengadores."
+            },
+            {
+                "palabra": "Queens",
+                "definición": "Un barrio muy famoso de la ciudad de Nueva York donde vive Peter Parker."
+            },
+            {
+                "palabra": "Ingenio",
+                "definición": "Capacidad para pensar rápido e inventar soluciones inteligentes a los problemas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué ciudad ocurre la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Gotham",
+                    "Metrópolis",
+                    "Nueva York",
+                    "Londres"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué estaba haciendo Peter Parker antes de ver el peligro?",
+                "tipo": "test",
+                "opciones": [
+                    "Estaba en clase de matemáticas",
+                    "Estaba patrullando la ciudad",
+                    "Estaba comiendo pizza",
+                    "Estaba durmiendo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era la amenaza que atacaba la ciudad?",
+                "tipo": "test",
+                "opciones": [
+                    "Un alienígena verde",
+                    "Un robot de construcción hackeado",
+                    "Un monstruo de barro",
+                    "Un ladrón de bancos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué superhéroe acudió a ayudar a Spiderman?",
+                "tipo": "test",
+                "opciones": [
+                    "Capitán América",
+                    "Thor",
+                    "Hulk",
+                    "Iron Man"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Qué misión le dio Iron Man a Spiderman al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Atacar al robot",
+                    "Irse a casa",
+                    "Proteger y alejar a los civiles",
+                    "Llamar a la policía"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo derrotaron finalmente al robot?",
+                "tipo": "test",
+                "opciones": [
+                    "Con un puñetazo muy fuerte",
+                    "Lanzándolo al río",
+                    "Provocando un cortocircuito con redes y electricidad",
+                    "Apagándolo con un botón"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad de Peter Parker elogió Tony Stark al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza bruta",
+                    "Su rapidez mental y uso de la cabeza",
+                    "Su traje colorido",
+                    "Sus chistes graciosos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "En la historia se menciona una frase famosa del tío Ben. ¿Cuál es?",
+                "tipo": "test",
+                "opciones": [
+                    "¡Vengadores, reuníos!",
+                    "Yo soy Iron Man",
+                    "Un gran poder conlleva una gran responsabilidad",
+                    "Es hora de las tortas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que Spiderman priorizó salvar a los niños del autobús antes que atacar al robot?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque un verdadero héroe sabe que lo más importante es que las personas no salgan heridas. Proteger a los inocentes es más importante que ganar la pelea rápidamente."
+            },
+            {
+                "enunciado": "Si tuvieras la inteligencia científica de Peter Parker, ¿qué inventarías para ayudar a tu colegio?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo inventaría una mochila antigravedad para que no pesen los libros, o quizás un sistema de reciclaje automático para que el patio esté siempre limpio."
+            }
+        ]
+    },
+    {
+        "titulo": "Sombras sobre Metrópolis: El Caso del Cristal",
+        "tema": "superheroes",
+        "curso": 5,
+        "texto": "La noche caía sobre Gotham City, oscura y lluviosa como siempre. En las profundidades de la Batcueva, Bruce Wayne, conocido por el mundo como Batman, analizaba datos en su ordenador central. Las pantallas gigantes iluminaban su máscara negra. Había detectado el robo de un dispositivo experimental de los Laboratorios Wayne: un 'Resonador Sónico'. Lo extraño era que el rastro del ladrón no se quedaba en Gotham, sino que se dirigía a gran velocidad hacia la brillante ciudad vecina: Metrópolis.\n\nBatman subió al Batmóvil, encendiendo los motores de turbina. Sabía que en Metrópolis operaba otro héroe, uno muy diferente a él. Mientras Batman era oscuridad y estrategia, el otro era luz y esperanza.\n\nAl llegar a Metrópolis, el contraste fue evidente. Incluso de noche, la ciudad brillaba con los carteles del 'Daily Planet'. Batman siguió la señal del dispositivo robado hasta una central eléctrica abandonada en las afueras. \n\nDe repente, una ráfaga de viento levantó el polvo. Una figura con capa roja y una 'S' en el pecho descendió flotando suavemente hasta el suelo. Superman cruzó los brazos, mirando al Caballero Oscuro.\n\n—Sabía que vendrías, Batman —dijo Superman con voz calmada—. Escuché el motor de tu coche desde kilómetros de distancia. ¿Qué te trae a mi ciudad?\n\n—Un ladrón ha robado tecnología peligrosa de mi empresa —respondió Batman con su voz grave, saliendo del vehículo—. Si activa el Resonador, podría causar un terremoto en toda la costa.\n\n—Entonces trabajaremos juntos —asintió el Hombre de Acero—. Yo usaré mi visión de rayos X para escanear el edificio.\n\nSuperman miró a través de las paredes de hormigón. \n\n—Veo a tres hombres dentro. Están conectando el dispositivo al generador principal. ¡Espera! El dispositivo está recubierto de plomo. No puedo ver su núcleo.\n\n—Es una trampa —dedujo Batman al instante—. Sabían que vendrías. El plomo bloquea tu visión, y probablemente esconden Kryptonita dentro para debilitarte si te acercas demasiado.\n\n—Entonces yo distraeré a los guardias desde el aire —dijo Superman—, tú eres el experto en desactivar trampas. Entra por las sombras.\n\nEl plan se puso en marcha. Superman voló hacia la entrada principal, rompiendo la puerta de acero como si fuera papel. Los ladrones, asustados, empezaron a disparar, pero las balas rebotaban en su pecho invulnerable. \n\n—Rendíos ahora y nadie saldrá herido —advirtió Superman.\n\nMientras los criminales estaban ocupados mirando al cielo, Batman se descolgó silenciosamente desde una claraboya usando su gancho. Aterrizó detrás de la máquina robada. Tal como sospechaba, al abrir el panel de control, un brillo verde iluminó su rostro: Kryptonita. Si Superman se hubiera acercado, habría perdido sus poderes.\n\nBatman usó sus guantes aislantes para cerrar la caja de plomo de la Kryptonita, sellando la radiación. Luego, sacó un pequeño gadget de su cinturón, un decodificador, y hackeó el Resonador para apagarlo. *Beep... Beep... Apagado*.\n\n—Está hecho —dijo Batman por el comunicador.\n\nSuperman, al ver que la amenaza había terminado, usó su supervelocidad para atar a los ladrones con unas barras de acero que encontró en el suelo antes de que pudieran parpadear. \n\nMinutos después, la policía de Metrópolis se llevaba a los criminales. Los dos héroes se encontraron en la azotea del edificio.\n\n—Gracias por cubrirme la espalda —dijo Superman—. Sin tu capacidad de deducción, habría caído en la trampa de la Kryptonita.\n\n—Y sin tu fuerza, no habríamos entrado a tiempo —admitió Batman. Le tendió la mano—. La justicia se ha cumplido hoy, Clark.\n\n—La verdad y la justicia siempre ganan, Bruce —respondió Superman estrechando su mano.\n\nBatman disparó su gancho y desapareció en la noche, regresando a las sombras de Gotham, mientras Superman se elevaba hacia las nubes para seguir vigilando el mundo bajo la luz del sol.",
+        "glosario": [
+            {
+                "palabra": "Batcueva",
+                "definición": "El cuartel secreto subterráneo de Batman, lleno de ordenadores y vehículos de alta tecnología."
+            },
+            {
+                "palabra": "Kryptonita",
+                "definición": "Un mineral radiactivo verde del planeta Krypton que es la única debilidad de Superman."
+            },
+            {
+                "palabra": "Gadget",
+                "definición": "Cualquier aparato tecnológico pequeño y útil que Batman lleva en su cinturón para luchar contra el crimen."
+            },
+            {
+                "palabra": "Deducción",
+                "definición": "La capacidad de usar pistas y la lógica para resolver un misterio, como hacen los detectives."
+            },
+            {
+                "palabra": "Invulnerable",
+                "definición": "Que no puede ser herido ni dañado por armas normales, como le pasa a Superman con las balas."
+            },
+            {
+                "palabra": "Identidad secreta",
+                "definición": "El nombre real de un superhéroe que oculta al mundo para proteger a sus seres queridos (ej: Bruce Wayne)."
+            },
+            {
+                "palabra": "Justicia",
+                "definición": "El principio de actuar correctamente, respetando la verdad y dando a cada uno lo que merece."
+            },
+            {
+                "palabra": "Aliado",
+                "definición": "Una persona que se une a otra para colaborar y conseguir un objetivo común."
+            },
+            {
+                "palabra": "Visión de rayos X",
+                "definición": "El poder de Superman para ver a través de objetos sólidos, excepto el plomo."
+            },
+            {
+                "palabra": "Daily Planet",
+                "definición": "El famoso periódico de la ciudad de Metrópolis donde trabaja Clark Kent (Superman)."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto había sido robado de los Laboratorios Wayne?",
+                "tipo": "test",
+                "opciones": [
+                    "Un Batmóvil",
+                    "Un traje espacial",
+                    "Un Resonador Sónico",
+                    "Un diamante gigante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿A qué ciudad tuvo que viajar Batman para buscar al ladrón?",
+                "tipo": "test",
+                "opciones": [
+                    "Gotham",
+                    "Nueva York",
+                    "Metrópolis",
+                    "Central City"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué poder usó Superman para revisar el edificio desde fuera?",
+                "tipo": "test",
+                "opciones": [
+                    "Su superoído",
+                    "Su visión de rayos X",
+                    "Su aliento de hielo",
+                    "Su visión calorífica"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Superman no podía ver el núcleo del dispositivo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba oscuro",
+                    "Porque estaba recubierto de plomo",
+                    "Porque llevaba gafas de sol",
+                    "Porque estaba muy lejos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué trampa peligrosa había escondida dentro de la máquina?",
+                "tipo": "test",
+                "opciones": [
+                    "Una bomba",
+                    "Kryptonita verde",
+                    "Gas de la risa",
+                    "Serpientes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo entró Batman en el edificio?",
+                "tipo": "test",
+                "opciones": [
+                    "Por la puerta principal golpeando",
+                    "Rompiendo una pared",
+                    "Silenciosamente por una claraboya del techo",
+                    "Disfrazado de guardia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la principal diferencia entre Batman y Superman según la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Batman usa magia y Superman tecnología",
+                    "Batman es oscuridad y estrategia, y Superman es luz y fuerza",
+                    "No tienen diferencias",
+                    "Batman vuela y Superman conduce coche"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué valores defienden estos héroes al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "El dinero y la fama",
+                    "La venganza y el miedo",
+                    "La verdad y la justicia",
+                    "La velocidad y la fuerza"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Batman no tiene superpoderes, pero es un gran héroe. ¿Qué habilidades usa él para resolver problemas que no requieran fuerza?",
+                "tipo": "abierta",
+                "respuestaModelo": "Batman usa su inteligencia, su capacidad para investigar como un detective y su tecnología (gadgets) para resolver problemas difíciles."
+            },
+            {
+                "enunciado": "¿Por qué crees que es importante decir la verdad, como defiende Superman?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es importante decir la verdad porque así la gente puede confiar en ti. Las mentiras suelen causar problemas y hacen daño a los demás, mientras que la verdad ayuda a hacer lo correcto."
+            }
+        ]
+    },
+    {
+        "titulo": "Pánico en el Puente de Brooklyn",
+        "tema": "superheroes",
+        "curso": 5,
+        "texto": "Era un viernes caluroso en Queens y Peter Parker acababa de salir del instituto. Con su mochila al hombro, buscaba un callejón solitario para ponerse su traje. «Ser un adolescente normal es difícil, pero ser un adolescente que trepa por las paredes es agotador», pensó Peter mientras se ajustaba la máscara. En cuanto lanzó su primera telaraña hacia una cornisa, su sentido arácnido se disparó con una intensidad que casi le provoca un mareo. No era una amenaza pequeña como un ladrón de bicicletas; era algo grande.\n\nA lo lejos, sobre el río East River, el Puente de Brooklyn se balanceaba peligrosamente. Unos extraños dispositivos de color verde brillante estaban adheridos a los cables de suspensión, emitiendo ondas sísmicas que hacían temblar el acero. Los coches resbalaban y la gente gritaba de pánico.\n\n—¡Aguantad! —gritó Spiderman, lanzándose hacia el puente. \n\nDisparó decenas de redes para pegar los neumáticos de los coches al asfalto y evitar que cayeran al agua. Vio un autobús escolar que colgaba peligrosamente del borde. Peter saltó y agarró el parachoques trasero con todas sus fuerzas. Sus músculos se tensaron al límite. El autobús pesaba toneladas. \n\n—No... puedo... aguantar... mucho más... —gruñó entre dientes.\n\nDe repente, un escudo circular con una estrella plateada voló por el aire, cortando uno de los cables del dispositivo sísmico. El escudo regresó como un bumerán a la mano de un hombre alto y fuerte vestido de azul, rojo y blanco. \n\n—¡Capitán América! —exclamó Peter, sintiendo un alivio inmediato.\n\n—Buen trabajo asegurando el perímetro, soldado —dijo el Capitán con voz firme y tranquilizadora—. Yo sujetaré el autobús. Tú eres el científico; averigua cómo apagar esos emisores sísmicos antes de que el puente colapse.\n\nEl Capitán América se colocó debajo del autobús y, con una fuerza sobrehumana, lo levantó lo suficiente para devolverlo a la carretera. Spiderman, libre de la carga, se acercó a uno de los dispositivos verdes. \n\n—Parece tecnología robada de Oscorp —analizó Peter rápidamente—. Están creando una resonancia destructiva. Si golpeo el núcleo, podría explotar. Necesito invertir la frecuencia.\n\n—¡Date prisa, Spiderman! —gritó el Capitán mientras desviaba unos escombros con su escudo de Vibranium—. ¡La estructura no aguantará otro minuto!\n\nPeter usó sus lanzarredes para conectar su comunicador al puerto de datos del dispositivo. Sus dedos se movían a toda velocidad sobre la pantalla holográfica de su muñeca. \n\n—Vamos, vamos... ¡Lo tengo! —Peter envió un código de desactivación. \n\nAl instante, las luces verdes de los aparatos se volvieron rojas y el zumbido cesó. El puente dejó de temblar. El silencio volvió al río, solo roto por las sirenas de policía que se acercaban.\n\nEl Capitán América se acercó a Peter y le puso una mano en el hombro.\n\n—Has mantenido la cabeza fría bajo presión, hijo. Muchos héroes solo saben golpear, pero tú has sabido pensar. Eso es lo que salva vidas.\n\n—Gracias, Capitán —respondió Peter, rascándose la nuca con timidez—. Aunque creo que he roto mi mochila con el esfuerzo. Tía May se va a enfadar.\n\n—El precio de hacer lo correcto a veces es alto —sonrió Steve Rogers—, pero siempre vale la pena. \n\nLos dos héroes se quedaron vigilando desde lo alto de una torre del puente, observando cómo la ciudad de Nueva York volvía a estar a salvo, sabiendo que, mientras trabajaran en equipo, ningún desastre podría con ellos.",
+        "glosario": [
+            {
+                "palabra": "Vibranium",
+                "definición": "Un metal ficticio extremadamente fuerte y raro con el que está hecho el escudo del Capitán América."
+            },
+            {
+                "palabra": "Sentido arácnido",
+                "definición": "El sexto sentido de Spiderman que le avisa del peligro antes de que ocurra."
+            },
+            {
+                "palabra": "Oscorp",
+                "definición": "Una gran empresa científica en el universo Marvel, a veces dirigida por villanos."
+            },
+            {
+                "palabra": "Resonancia",
+                "definición": "Vibración fuerte que se produce cuando un sonido o energía coincide con el movimiento de un objeto."
+            },
+            {
+                "palabra": "Perímetro",
+                "definición": "La zona o borde exterior de un lugar que se protege o vigila."
+            },
+            {
+                "palabra": "Identidad secreta",
+                "definición": "El nombre real de un superhéroe que mantiene oculto (como Peter Parker o Steve Rogers)."
+            },
+            {
+                "palabra": "Holográfica",
+                "definición": "Imagen hecha de luz que parece flotar en el aire en tres dimensiones."
+            },
+            {
+                "palabra": "Aliado",
+                "definición": "Compañero o amigo que se une a otro para luchar por un mismo objetivo."
+            },
+            {
+                "palabra": "Civil",
+                "definición": "Persona que no es militar ni superhéroe y a la que hay que proteger durante las batallas."
+            },
+            {
+                "palabra": "Lanzarredes",
+                "definición": "Dispositivo mecánico en las muñecas de Spiderman que dispara el fluido de telaraña."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué estaba haciendo Peter Parker al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Estaba en una excursión",
+                    "Acababa de salir del instituto",
+                    "Estaba durmiendo en su casa",
+                    "Estaba comprando pan"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué lugar de Nueva York estaba en peligro?",
+                "tipo": "test",
+                "opciones": [
+                    "La Torre Stark",
+                    "Central Park",
+                    "El Puente de Brooklyn",
+                    "El metro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué problema causaban los dispositivos verdes?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacían que lloviera ácido",
+                    "Congelaban el agua",
+                    "Emitían ondas sísmicas que hacían temblar el puente",
+                    "Atraían a pájaros gigantes"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué vehículo tuvo que sostener Spiderman para que no cayera?",
+                "tipo": "test",
+                "opciones": [
+                    "Un tanque",
+                    "Un autobús escolar",
+                    "Una moto",
+                    "Un camión de helados"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién apareció para ayudar a Spiderman?",
+                "tipo": "test",
+                "opciones": [
+                    "Iron Man",
+                    "Thor",
+                    "Capitán América",
+                    "Hulk"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué tarea le encargó el Capitán América a Peter?",
+                "tipo": "test",
+                "opciones": [
+                    "Que levantara el autobús él solo",
+                    "Que atacara a los villanos",
+                    "Que usara su ciencia para apagar los dispositivos",
+                    "Que se fuera a casa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿De qué material especial está hecho el escudo del Capitán?",
+                "tipo": "test",
+                "opciones": [
+                    "Acero normal",
+                    "Plástico duro",
+                    "Vibranium",
+                    "Oro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el Capitán felicitó a Spiderman al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Por ser muy fuerte",
+                    "Por mantener la cabeza fría y pensar bajo presión",
+                    "Por tener un traje bonito",
+                    "Por llegar puntual"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Spiderman se preocupa porque rompió su mochila. ¿Qué nos dice esto sobre su vida como adolescente normal?",
+                "tipo": "abierta",
+                "respuestaModelo": "Nos dice que, aunque es un superhéroe, sigue teniendo problemas normales como cualquier chico de su edad, como preocuparse por sus cosas o por lo que dirá su tía."
+            },
+            {
+                "enunciado": "El Capitán América actúa como un líder y protege a los demás. ¿Qué cualidades crees que debe tener un buen líder?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que un buen líder debe ser valiente, mantener la calma cuando hay problemas, saber escuchar a su equipo y preocuparse por la seguridad de todos, no solo por ganar."
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio de la Reliquia Perdida",
+        "tema": "superheroes",
+        "curso": 5,
+        "texto": "La alarma silenciosa del Museo de Antigüedades de Gotham parpadeó en el ordenador de la Batcueva. Bruce Wayne dejó su taza de café y se puso la máscara. En menos de cinco minutos, el Batmóvil rugía por las calles lluviosas de la ciudad. \n\nAl llegar al museo, Batman no entró por la puerta principal. Usó su pistola de gancho para acceder por una claraboya del techo. Aterrizó sin hacer ruido en la sala de Historia Griega. Allí, el cristal de una vitrina estaba intacto, pero la base estaba vacía. Habían robado la 'Corona de Hécate', una joya legendaria.\n\n—No hay cristales rotos, no hay huellas, y los sensores láser no se activaron —susurró Batman, activando el modo detective de su capucha. Sus lentes brillaron escaneando la habitación en busca de calor o pistas químicas.\n\n—Eso es porque no fue un robo común, Bruce —dijo una voz majestuosa a su espalda.\n\nBatman se giró, con la capa ondeando. Allí estaba Wonder Woman, la princesa Diana de las Amazonas. Llevaba su armadura dorada y roja, y el Lazo de la Verdad brillaba en su cintura.\n\n—Princesa Diana —saludó Batman con respeto—. ¿Qué hace una Amazona en Gotham?\n\n—Esa corona pertenece a mi pueblo —explicó ella—. Tiene propiedades mágicas. Si cae en malas manos, podría controlar la mente de las personas. Sentí su magia moverse.\n\nBatman asintió. \n\n—Si es magia, mi tecnología tiene límites. Pero encontré esto. —Batman señaló un rastro de polvo dorado casi invisible en el suelo—. Es arcilla encantada.\n\n—Alguien está usando ilusiones para ocultarse —dedujo Wonder Woman—. Todavía están aquí.\n\nDe repente, las sombras de la sala cobraron vida. Una figura oscura intentó correr hacia la salida. Batman lanzó un *Batarang* que bloqueó la puerta, pero la figura lo atravesó como si fuera humo. \n\n—¡Es intangible! —gritó Batman—.\n\n—¡Pero no puede esconderse de la verdad! —exclamó Wonder Woman.\n\nDiana desenrolló su Lazo de la Verdad. Con una precisión increíble, lo lanzó hacia la figura de humo. El lazo dorado brilló con una luz pura y cálida. Al tocar la sombra, la magia se rompió y la figura se volvió sólida. Era un ladrón mercenario equipado con un traje de camuflaje mágico.\n\nEl ladrón, atrapado por el lazo, no podía mentir ni escapar.\n\n—¿Quién te contrató? —preguntó Wonder Woman con autoridad.\n\n—Fue... fue Lex Luthor —confesó el ladrón contra su voluntad—. Quería la corona para sus experimentos mentales.\n\nBatman se acercó y recuperó la corona de la mochila del ladrón. \n\n—Luthor ha cometido un error al enviar a un aficionado a mi ciudad —dijo Batman, esposando al criminal a una columna.\n\nLa policía llegó poco después, alertada por Batman. Los dos héroes observaron desde una gárgola en el tejado.\n\n—Gracias por tu ayuda, Batman —dijo Wonder Woman, recuperando la corona—. Tu mente deductiva es tan afilada como cualquier espada.\n\n—Y tu lazo ha revelado lo que mis ordenadores no podían ver —admitió Batman—. La verdad es el arma más poderosa.\n\nWonder Woman alzó el vuelo hacia el cielo nocturno, llevándose la peligrosa reliquia a un lugar seguro, mientras Batman se fundía de nuevo con las sombras, el guardián silencioso de Gotham.",
+        "glosario": [
+            {
+                "palabra": "Batcueva",
+                "definición": "El cuartel secreto de Batman equipado con la tecnología más avanzada del mundo."
+            },
+            {
+                "palabra": "Lazo de la Verdad",
+                "definición": "Arma mágica de Wonder Woman que obliga a cualquiera que esté atrapado en él a decir la verdad."
+            },
+            {
+                "palabra": "Amazona",
+                "definición": "Raza de mujeres guerreras con fuerza sobrehumana a la que pertenece Wonder Woman."
+            },
+            {
+                "palabra": "Intangible",
+                "definición": "Que no se puede tocar, como un fantasma o el humo, porque las cosas lo atraviesan."
+            },
+            {
+                "palabra": "Deductiva",
+                "definición": "Capacidad de pensar lógicamente uniendo pistas para resolver un misterio."
+            },
+            {
+                "palabra": "Batarang",
+                "definición": "Arma arrojadiza de Batman con forma de murciélago, parecida a un bumerán."
+            },
+            {
+                "palabra": "Reliquia",
+                "definición": "Objeto antiguo y valioso, a veces con poderes o gran importancia histórica."
+            },
+            {
+                "palabra": "Mercenario",
+                "definición": "Soldado o ladrón que trabaja solo por dinero, sin importarle la causa."
+            },
+            {
+                "palabra": "Camuflaje",
+                "definición": "Técnica o traje usado para esconderse y no ser visto por los demás."
+            },
+            {
+                "palabra": "Gotham",
+                "definición": "La ciudad oscura y peligrosa protegida por Batman."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto robaron del Museo de Antigüedades?",
+                "tipo": "test",
+                "opciones": [
+                    "Un cuadro famoso",
+                    "La Corona de Hécate",
+                    "Una espada vikinga",
+                    "Un diamante azul"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo entró Batman al museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Por la puerta principal",
+                    "Rompiendo una ventana",
+                    "Por una claraboya del techo",
+                    "Disfrazado de guardia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué estaba Wonder Woman en Gotham?",
+                "tipo": "test",
+                "opciones": [
+                    "Estaba de vacaciones",
+                    "Quería visitar a Batman",
+                    "Para recuperar la corona mágica de su pueblo",
+                    "Para ir a una fiesta"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué pista encontró Batman en el suelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una huella de zapato",
+                    "Un rastro de polvo dorado de arcilla encantada",
+                    "Un guante perdido",
+                    "Una moneda"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Batman no podía atrapar al ladrón al principio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque corría muy rápido",
+                    "Porque era invisible e intangible como el humo",
+                    "Porque Batman estaba cansado",
+                    "Porque el ladrón volaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto usó Wonder Woman para atrapar al ladrón?",
+                "tipo": "test",
+                "opciones": [
+                    "Su espada",
+                    "Su escudo",
+                    "El Lazo de la Verdad",
+                    "Una red"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién había contratado al ladrón según confesó?",
+                "tipo": "test",
+                "opciones": [
+                    "El Joker",
+                    "Lex Luthor",
+                    "El Pingüino",
+                    "Nadie, trabajaba solo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final, Batman admite que...",
+                "tipo": "test",
+                "opciones": [
+                    "La verdad es el arma más poderosa",
+                    "Necesita dormir más",
+                    "Prefiere trabajar solo",
+                    "Quiere un lazo mágico"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Batman usa la inteligencia y Wonder Woman la magia/verdad. ¿Por qué es bueno tener compañeros con habilidades diferentes a las tuyas?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es bueno porque así podemos resolver problemas que no podríamos solucionar solos. Si todos fuéramos iguales, nos atascaríamos en los mismos problemas, pero siendo diferentes nos complementamos."
+            },
+            {
+                "enunciado": "Wonder Woman dice que la corona es peligrosa en malas manos. ¿Por qué crees que el poder debe usarse con responsabilidad?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque si usas el poder para hacer daño o controlar a la gente, te conviertes en un villano. El poder debe servir para ayudar y proteger a los demás, no para aprovecharse de ellos."
+            }
+        ]
+    },
+    {
+        "titulo": "Caos Jurásico en el Museo",
+        "tema": "superheroes",
+        "curso": 5,
+        "texto": "Era una excursión escolar normal para el instituto Midtown, o eso esperaba Peter Parker. Estaban visitando el famoso Museo de Historia Natural de Nueva York. Mientras el profesor explicaba la dieta de los dinosaurios, Peter sentía un cosquilleo inconfundible en la nuca: su sentido arácnido. No era un aviso de peligro inmediato, sino una advertencia constante, como un zumbido de electricidad estática.\n\n—Parker, deja de mirar al techo y atiende —le regañó Flash Thompson, empujándole el hombro.\n\nPeter se escabulló hacia el baño y, en un abrir y cerrar de ojos, cambió su ropa de estudiante por el traje rojo y azul de Spiderman. Saltó hacia las vigas del techo justo a tiempo. Abajo, en la sala principal, las luces parpadearon y se apagaron. Cuando volvieron a encenderse, eran de color rojo emergencia. Un grupo de ladrones tecnológicos, equipados con botas propulsoras y guanteletes de energía, irrumpió rompiendo la claraboya. Buscaban el 'Meteorito de Iridio', una roca espacial recién llegada.\n\n—¡Nadie se mueva! —gritó el líder de los ladrones—. ¡Solo queremos la roca!\n\nSpiderman lanzó una red que pegó los pies de uno de los ladrones al suelo. \n\n—Lo siento, chicos, pero la entrada cuesta diez dólares, y vosotros os habéis colado —bromeó Spiderman colgado boca abajo.\n\nLos ladrones empezaron a disparar rayos de energía. Spiderman esquivaba con agilidad, protegiendo las vitrinas. De repente, el escudo más famoso del mundo cruzó la sala silbando, rebotó en tres ladrones y volvió a la mano de su dueño. En la entrada se alzaba el Capitán América.\n\n—Rendíos ahora —ordenó el Capitán con voz firme—. Estáis rodeados.\n\nLos ladrones, lejos de rendirse, activaron un dispositivo sónico que hizo que los cristales del museo vibraran peligrosamente. El sonido era insoportable para los civiles.\n\n—¡Spiderman! —gritó el Capitán—. Yo me encargo de contenerlos. Tú eres el científico; ¡desactiva ese emisor sónico antes de que el edificio se derrumbe sobre los estudiantes!\n\n—¡A la orden, Capi!\n\nMientras el Capitán América luchaba con una destreza increíble, usando su escudo de Vibranium para bloquear los rayos y proteger a los turistas, Peter se lanzó hacia el dispositivo sónico. Analizó el panel de control. Era tecnología avanzada robada de Industrias Stark.\n\n«Si lo golpeo, la explosión sónica romperá todos los tímpanos en diez manzanas», pensó Peter. «Tengo que invertir la fase».\n\nPeter usó un disparador de redes eléctricas que él mismo había modificado. Conectó su telaraña al puerto de carga del aparato y envió un pulso bioeléctrico calculado. El dispositivo chirrió y, en lugar de emitir ruido, lanzó un pulso silencioso que apagó los trajes de los ladrones. Caerían al suelo como muñecos sin pilas.\n\nEl Capitán América ató a los criminales con una cuerda de acero que llevaba en el cinturón. Luego, se acercó a Spiderman.\n\n—Buen trabajo, soldado. Has priorizado la seguridad de los civiles sobre la pelea. Eso demuestra madurez.\n\n—Viniendo de usted, Capitán, eso significa mucho —respondió Peter jadeando—. Pero ahora tengo que irme, ¡o el autobús escolar se irá sin mí!\n\nPeter desapareció por el techo, volviendo a ser un estudiante más, pero con la satisfacción de saber que, gracias a la ciencia y al trabajo en equipo, el museo seguía en pie.",
+        "glosario": [
+            {
+                "palabra": "Vibranium",
+                "definición": "Un metal ficticio extremadamente resistente y ligero con el que está hecho el escudo del Capitán América."
+            },
+            {
+                "palabra": "Sentido arácnido",
+                "definición": "Poder sensorial de Spiderman que le avisa de los peligros antes de que sucedan."
+            },
+            {
+                "palabra": "Guantelete",
+                "definición": "Guante blindado o tecnológico que cubre la mano y la muñeca, usado a veces como arma."
+            },
+            {
+                "palabra": "Sónico",
+                "definición": "Relacionado con el sonido. Un arma sónica usa ondas de ruido muy fuertes para atacar."
+            },
+            {
+                "palabra": "Identidad secreta",
+                "definición": "La vida normal y el nombre real que un superhéroe oculta para protegerse (ej: Peter Parker)."
+            },
+            {
+                "palabra": "Propulsor",
+                "definición": "Motor pequeño que permite volar o moverse muy rápido empujando aire o energía."
+            },
+            {
+                "palabra": "Vengador",
+                "definición": "Miembro del equipo de superhéroes más importante de la Tierra, dedicados a proteger al mundo."
+            },
+            {
+                "palabra": "Fase",
+                "definición": "En física, ajustar la fase de una onda puede servir para cancelar o anular un sonido o energía."
+            },
+            {
+                "palabra": "Civil",
+                "definición": "Persona inocente que no participa en la batalla y debe ser protegida por los héroes."
+            },
+            {
+                "palabra": "Aliado",
+                "definición": "Persona que colabora y ayuda a otra para conseguir un objetivo común."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde estaba Peter Parker al comienzo de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "En el cine",
+                    "En el Museo de Historia Natural",
+                    "En la Torre Stark",
+                    "En su casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué buscaban robar los ladrones?",
+                "tipo": "test",
+                "opciones": [
+                    "Un hueso de dinosaurio",
+                    "La corona de la reina",
+                    "El Meteorito de Iridio",
+                    "El escudo del Capitán"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo supo Peter que había peligro antes de que se apagaran las luces?",
+                "tipo": "test",
+                "opciones": [
+                    "Le envió un mensaje Iron Man",
+                    "Vio a los ladrones entrar",
+                    "Su sentido arácnido le avisó",
+                    "Escuchó un ruido fuerte"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué arma peligrosa activaron los ladrones?",
+                "tipo": "test",
+                "opciones": [
+                    "Un dispositivo sónico",
+                    "Una bomba de humo",
+                    "Un láser gigante",
+                    "Un robot araña"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué misión le dio el Capitán América a Spiderman?",
+                "tipo": "test",
+                "opciones": [
+                    "Golpear a los ladrones",
+                    "Desactivar el dispositivo sónico usando la ciencia",
+                    "Sacar fotos para el periódico",
+                    "Llamar a la policía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Spiderman no podía simplemente romper el dispositivo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era muy duro",
+                    "Porque la explosión de ruido dañaría los oídos de la gente",
+                    "Porque no tenía fuerza",
+                    "Porque quería quedárselo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo detuvieron finalmente a los ladrones?",
+                "tipo": "test",
+                "opciones": [
+                    "Spiderman apagó sus trajes con un pulso eléctrico",
+                    "El Capitán los noqueó a todos",
+                    "Se rindieron solos",
+                    "Llegó la policía y los arrestó"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué valor demostró Spiderman según el Capitán América?",
+                "tipo": "test",
+                "opciones": [
+                    "Mucha fuerza bruta",
+                    "Madurez al priorizar la seguridad de los civiles",
+                    "Mucho sentido del humor",
+                    "Rapidez para cambiarse de ropa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Spiderman usa la ciencia (invertir la fase, electricidad) para resolver el problema. ¿Por qué es importante estudiar ciencias para ser un buen héroe?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es importante porque saber cómo funcionan las cosas te ayuda a solucionar problemas difíciles sin usar la violencia. La inteligencia es un superpoder tan importante como la fuerza."
+            },
+            {
+                "enunciado": "El Capitán América actúa como un líder tranquilo. ¿Qué harías tú si fueras el líder de tu grupo en un trabajo de clase y algo saliera mal?",
+                "tipo": "abierta",
+                "respuestaModelo": "Si algo saliera mal, intentaría mantener la calma como el Capitán, no enfadarme y buscar una solución rápida repartiendo tareas entre mis compañeros para arreglarlo juntos."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma de la Tablilla Ancestral",
+        "tema": "superheroes",
+        "curso": 5,
+        "texto": "La biblioteca de Gotham era un lugar silencioso y lleno de sombras, ideal para que Batman investigara sin ser visto. El Comisario Gordon le había informado de un robo peculiar: la Tablilla de Sumeria, un artefacto de 3.000 años de antigüedad, había desaparecido de la cámara acorazada sin que sonara ninguna alarma. \n\nBatman iluminó el suelo con la luz ultravioleta de su guante. No había huellas dactilares, pero sí algo extraño: un rastro de arena fina que brillaba ligeramente en la oscuridad.\n\n—No es arena normal —murmuró Batman, analizando la muestra con su micro-ordenador—. Tiene una carga mágica.\n\n—Es arena de las costas de Themyscira —dijo una voz femenina y poderosa desde la ventana.\n\nWonder Woman, la princesa amazona, entró flotando en la habitación. Su lazo dorado resplandecía en su cintura, aportando una luz cálida al lúgubre escenario.\n\n—Batman —saludó ella—. Sentí una perturbación en la magia antigua. Esa tablilla contiene un hechizo para ocultar la verdad a todo el mundo. Si cae en manos equivocadas, nadie podrá volver a distinguir una mentira de la realidad.\n\n—El rastro lleva a las alcantarillas —dijo Batman, ignorando la magia y centrándose en los hechos—. Quien la robó busca esconderse bajo tierra.\n\nAmbos héroes descendieron a los túneles subterráneos de Gotham. Batman usaba su tecnología de sonar para mapear el camino, mientras Wonder Woman usaba sus sentidos agudizados. Al llegar a una gran caverna, encontraron al ladrón: un hechicero mercenario llamado 'El Ilusionista'. Estaba intentando leer la tablilla para activar su poder.\n\n—¡Detente! —ordenó Wonder Woman.\n\nEl Ilusionista rió y golpeó la tablilla. De repente, la cueva se llenó de copias idénticas de él. Había cien Ilusionistas, y todos parecían reales. \n\n—¡No podréis atraparme si no sabéis cuál es el verdadero! —gritaron las cien voces a la vez.\n\nBatman lanzó tres Batarangs explosivos, pero atravesaron a las figuras como si fueran humo. \n\n—Mis sensores térmicos no funcionan —dijo Batman—. La magia engaña a la tecnología.\n\n—Pero la magia no puede engañar a la verdad —respondió Wonder Woman.\n\nLa heroína desenrolló su Lazo de la Verdad. Con un movimiento experto, lo hizo girar creando un tornado de luz dorada. La luz del lazo tocó a las ilusiones, y estas se desvanecieron instantáneamente, como la niebla con el sol. Solo quedó una figura sólida en el centro de la cueva, temblando de miedo.\n\n—¡Se acabó el truco! —dijo Batman, lanzando su pistola de gancho para arrebatarle la tablilla de las manos antes de que pudiera reaccionar.\n\nWonder Woman ató al hechicero con su lazo.\n\n—Dinos, ¿por qué querías borrar la verdad del mundo? —preguntó ella.\n\n—Porque... porque la verdad duele —confesó el villano, obligado por el poder del lazo—, y quería vender mentiras bonitas a la gente rica.\n\nBatman esposó al criminal para entregarlo a la policía.\n\n—La verdad puede doler, pero es lo único que nos hace libres —sentenció Batman con su voz grave.\n\n—Hacemos un buen equipo, Caballero Oscuro —sonrió Wonder Woman recuperando la tablilla—. Tú proteges las sombras y yo traigo la luz.\n\nBatman asintió levemente antes de desaparecer en la oscuridad de los túneles, mientras Wonder Woman salía volando hacia el cielo estrellado, llevando la peligrosa reliquia a un lugar seguro.",
+        "glosario": [
+            {
+                "palabra": "Batcueva",
+                "definición": "El cuartel secreto de Batman, escondido bajo su mansión, lleno de tecnología y vehículos."
+            },
+            {
+                "palabra": "Lazo de la Verdad",
+                "definición": "Cuerda mágica e indestructible de Wonder Woman que obliga a quien la toca a decir la verdad."
+            },
+            {
+                "palabra": "Gadget",
+                "definición": "Cualquier aparato tecnológico pequeño (como el gancho o los batarangs) que usa Batman."
+            },
+            {
+                "palabra": "Mercenario",
+                "definición": "Soldado o villano que trabaja solo por dinero, sin importarle si la causa es buena o mala."
+            },
+            {
+                "palabra": "Ilusión",
+                "definición": "Engaño de los sentidos que hace ver cosas que no son reales, como magia o espejismos."
+            },
+            {
+                "palabra": "Themyscira",
+                "definición": "Isla paradisíaca y oculta donde viven las Amazonas y donde nació Wonder Woman."
+            },
+            {
+                "palabra": "Sonar",
+                "definición": "Tecnología que usa ondas de sonido para 'ver' y hacer mapas en la oscuridad o bajo el agua."
+            },
+            {
+                "palabra": "Justicia",
+                "definición": "Principio moral que busca dar a cada persona lo que merece y respetar la verdad."
+            },
+            {
+                "palabra": "Reliquia",
+                "definición": "Objeto muy antiguo y valioso que se guarda con mucho cuidado."
+            },
+            {
+                "palabra": "Detectivesco",
+                "definición": "Relacionado con la investigación de pistas y misterios para descubrir al culpable."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto fue robado de la biblioteca de Gotham?",
+                "tipo": "test",
+                "opciones": [
+                    "Un libro de hechizos",
+                    "La Tablilla de Sumeria",
+                    "El Batmóvil",
+                    "Una espada mágica"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pista encontró Batman usando su luz ultravioleta?",
+                "tipo": "test",
+                "opciones": [
+                    "Huellas de barro",
+                    "Un rastro de arena mágica brillante",
+                    "Un pelo de gato",
+                    "Un trozo de tela roja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién apareció para ayudar a Batman en la investigación?",
+                "tipo": "test",
+                "opciones": [
+                    "Superman",
+                    "Flash",
+                    "Wonder Woman",
+                    "Robin"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál era el peligro de la Tablilla si se activaba?",
+                "tipo": "test",
+                "opciones": [
+                    "Podría explotar la ciudad",
+                    "Haría que nadie pudiera distinguir la verdad de la mentira",
+                    "Convertiría a todos en ranas",
+                    "Apagaría el sol"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde se escondía el villano 'El Ilusionista'?",
+                "tipo": "test",
+                "opciones": [
+                    "En la cima de una torre",
+                    "En las alcantarillas de Gotham",
+                    "En un barco",
+                    "En el museo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué truco usó el villano para confundir a los héroes?",
+                "tipo": "test",
+                "opciones": [
+                    "Se hizo invisible",
+                    "Creó cien copias ilusorias de sí mismo",
+                    "Apagó la luz",
+                    "Se disfrazó de Batman"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo descubrieron al verdadero villano?",
+                "tipo": "test",
+                "opciones": [
+                    "Batman usó su escáner térmico",
+                    "Wonder Woman usó la luz de su Lazo de la Verdad para borrar las ilusiones",
+                    "El villano se tropezó",
+                    "Le hicieron una pregunta difícil"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué razón dio el villano para querer borrar la verdad?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque la verdad duele y quería vender mentiras bonitas",
+                    "Porque odiaba leer",
+                    "Porque quería ser famoso",
+                    "Porque se aburría"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Batman dice: 'La verdad puede doler, pero es lo único que nos hace libres'. ¿Qué crees que significa esta frase?",
+                "tipo": "abierta",
+                "respuestaModelo": "Significa que aunque a veces decir la verdad sea difícil o nos dé vergüenza, es mejor que mentir, porque las mentiras nos atrapan y nos hacen vivir con miedo a que nos descubran."
+            },
+            {
+                "enunciado": "Batman usa tecnología y Wonder Woman magia. ¿Por qué crees que trabajando juntos son más fuertes que por separado?",
+                "tipo": "abierta",
+                "respuestaModelo": "Porque cada uno tiene habilidades que el otro no tiene. Donde la tecnología de Batman fallaba (con las ilusiones), la magia de Wonder Woman funcionó. Al unirse, cubren sus debilidades."
+            }
+        ]
+    }
+]

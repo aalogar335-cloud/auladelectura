@@ -1,0 +1,1050 @@
+[
+    {
+        "titulo": "Cazadores de Verbos: Misión Espacial",
+        "tema": "gramatica",
+        "texto": "¡Atención, cadete espacial! El astronauta pisó la Luna hace muchos años, pero ahora nosotros viviremos en una casa con jardín en otro planeta. Para comunicarnos con los habitantes del espacio, necesitamos dominar a la perfección el Modo Indicativo. Tu misión hoy es analizar los mensajes de nuestra tripulación, descubrir quién realiza la acción y cuándo sucede. ¿Estás preparado para este viaje intergaláctico? ¡Enciende los motores y demuestra lo que sabes!",
+        "glosario": [
+            {
+                "palabra": "Verbo",
+                "definición": "Es la palabra que indica una acción o estado en la oración, como 'jugar', 'saltar' o 'vivir'."
+            },
+            {
+                "palabra": "Persona y Número",
+                "definición": "Nos dice quién realiza la acción (yo, tú, nosotros...) y si es uno solo (singular) o varios (plural)."
+            },
+            {
+                "palabra": "Modo Indicativo",
+                "definición": "Lo usamos para hablar de acciones reales y seguras, cosas que de verdad han pasado, pasan o pasarán."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "En la oración 'El astronauta pisó la Luna', ¿cuál es el tiempo verbal de 'pisó'?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Futuro simple",
+                    "Pretérito perfecto simple",
+                    "Pretérito imperfecto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Nosotros viviremos en una casa con jardín'. ¿En qué persona y número está el verbo 'viviremos'?",
+                "tipo": "test",
+                "opciones": [
+                    "1.ª persona del singular",
+                    "1.ª persona del plural",
+                    "3.ª persona del plural",
+                    "2.ª persona del plural"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Lee: 'Mi hermano pequeño desayuna cereales cada día'. ¿Cuál es el verbo y en qué tiempo está?",
+                "tipo": "test",
+                "opciones": [
+                    "hermano - Presente",
+                    "pequeño - Futuro",
+                    "desayuna - Presente",
+                    "cereales - Pretérito"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Vosotros habéis comprado las entradas'. ¿A qué tiempo verbal pertenece 'habéis comprado'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "En 'El sol brillaba con fuerza este mediodía', ¿cuál es la persona y número del verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "1.ª persona del singular",
+                    "2.ª persona del singular",
+                    "3.ª persona del singular",
+                    "3.ª persona del plural"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Yo nunca había visto un paisaje tan bonito'. ¿Cuál es el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "nunca",
+                    "había visto",
+                    "paisaje",
+                    "bonito"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Fíjate en esta frase: 'Mañana celebraremos el cumpleaños de Lucía'. ¿Cuál es el tiempo verbal?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Condicional simple",
+                    "Presente",
+                    "Pretérito perfecto simple"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Los pájaros vuelan hacia el sur en otoño'. Identifica la persona y número del verbo 'vuelan'.",
+                "tipo": "test",
+                "opciones": [
+                    "1.ª persona del plural",
+                    "2.ª persona del plural",
+                    "3.ª persona del plural",
+                    "3.ª persona del singular"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Ustedes llegarán tarde si no se dan prisa'. ¿En qué tiempo verbal está 'llegarán'?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Pretérito perfecto simple",
+                    "Futuro simple",
+                    "Condicional"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Tú sabías la respuesta de la adivinanza? ¿Qué tiempo verbal es 'sabías'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Condicional",
+                    "Presente",
+                    "Pretérito imperfecto"
+                ],
+                "correctaIdx": 3
+            }
+        ]
+    },
+    {
+        "titulo": "Detectives del Tiempo Verbal",
+        "tema": "gramatica",
+        "texto": "Aquel equipo de investigadores ganó el trofeo de invierno gracias a su máquina del tiempo. Nosotros habríamos ido a la playa con este sol, pero preferimos investigar los grandes misterios del pasado y las promesas del futuro. Nuestro trabajo consiste en localizar las pistas ocultas en los verbos que la gente deja al hablar. ¿Puedes ayudarnos a clasificar estos tiempos verbales un poco más escurridizos? ¡Ajusta tu lupa de detective y prepárate para viajar en el tiempo!",
+        "glosario": [
+            {
+                "palabra": "Pretérito imperfecto",
+                "definición": "Tiempo del pasado que describe acciones que duraban un tiempo o se repetían, como 'yo jugaba' o 'tú comías'."
+            },
+            {
+                "palabra": "Pretérito perfecto compuesto",
+                "definición": "Habla de una acción pasada pero muy cercana al presente. Se forma con el verbo 'haber', por ejemplo: 'he comido'."
+            },
+            {
+                "palabra": "Condicional",
+                "definición": "Expresa una acción que podría ocurrir si se cumple una condición, como 'yo iría' o 'tú comprarías'."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "'Aquel equipo ganó el trofeo de invierno'. ¿En qué tiempo está el verbo 'ganó'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Pretérito perfecto simple",
+                    "Pretérito pluscuamperfecto",
+                    "Presente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Analiza: 'Nosotros habríamos ido a la playa con este sol'. ¿Qué tiempo es 'habríamos ido'?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional compuesto",
+                    "Futuro compuesto",
+                    "Condicional simple",
+                    "Pretérito imperfecto"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'El cartero ha dejado un paquete en el buzón'. ¿A qué tiempo pertenece 'ha dejado'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito perfecto compuesto",
+                    "Futuro simple",
+                    "Presente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Yo escribiré una carta a mis tíos de Francia'. ¿Cuál es la persona y número del verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "3.ª persona del singular",
+                    "1.ª persona del plural",
+                    "1.ª persona del singular",
+                    "2.ª persona del singular"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "En la frase 'Mi abuelo siempre contaba historias de miedo', ¿qué tiempo verbal es 'contaba'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Pretérito perfecto simple",
+                    "Condicional",
+                    "Presente"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Vosotros habíais terminado los deberes muy pronto'. ¿Qué tiempo verbal se utiliza aquí?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Condicional compuesto",
+                    "Futuro compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Lee la siguiente oración: 'Ella prefiere los helados de vainilla'. Identifica el tiempo verbal.",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito",
+                    "Futuro",
+                    "Condicional",
+                    "Presente"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "'Nosotros cenamos ayer en un restaurante chino'. ¿En qué tiempo está 'cenamos'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Futuro simple",
+                    "Pretérito imperfecto",
+                    "Condicional"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'¿Me prestarías tu lápiz de colores?'. ¿En qué tiempo y persona está 'prestarías'?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro - 2.ª singular",
+                    "Condicional simple - 2.ª singular",
+                    "Condicional compuesto - 1.ª singular",
+                    "Pretérito imperfecto - 2.ª singular"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Los alumnos han aprendido la lección de hoy'. ¿Cuál es el verbo y en qué tiempo está?",
+                "tipo": "test",
+                "opciones": [
+                    "alumnos - Presente",
+                    "han aprendido - Pretérito perfecto compuesto",
+                    "han - Pretérito imperfecto",
+                    "aprendido - Futuro simple"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Cielo y los Verbos",
+        "tema": "gramatica",
+        "texto": "Las nubes cubrieron el cielo en pocos minutos, justo cuando los bomberos apagaron el incendio del viejo bosque. Yo siempre meriendo fruta después del colegio, pero hoy todo era diferente. ¡Incluso el perro de mi vecino ladra más fuerte de lo normal! Mientras escuchabas música con los cascos puestos, me pregunté si vosotros iréis a la excursión el próximo martes. El modo indicativo nos ayuda a contar todas estas cosas que son reales y seguras, ya hayan pasado, estén pasando o vayan a pasar. ¿Te atreves a analizar los verbos de esta historia?",
+        "glosario": [
+            {
+                "palabra": "Presente",
+                "definición": "Tiempo verbal que indica que la acción está ocurriendo en este mismo momento o que es una rutina habitual."
+            },
+            {
+                "palabra": "Pretérito perfecto simple",
+                "definición": "Se usa para acciones del pasado que ya han terminado por completo, como 'salté' o 'comieron'."
+            },
+            {
+                "palabra": "Futuro simple",
+                "definición": "Expresa una acción que todavía no ha ocurrido, pero que sucederá más adelante."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "En la oración 'Las nubes cubrieron el cielo en pocos minutos', ¿qué tiempo verbal es 'cubrieron'?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Pretérito imperfecto",
+                    "Pretérito perfecto simple",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Lee: 'Yo siempre meriendo fruta después del colegio'. ¿En qué persona y número está 'meriendo'?",
+                "tipo": "test",
+                "opciones": [
+                    "1.ª persona del singular",
+                    "3.ª persona del singular",
+                    "1.ª persona del plural",
+                    "2.ª persona del plural"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Vosotros iréis a la excursión el próximo martes'. ¿Cuál es el tiempo verbal de 'iréis'?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Futuro simple",
+                    "Condicional",
+                    "Pretérito perfecto compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Mi madre ha preparado una cena especial'. ¿A qué tiempo pertenece 'ha preparado'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito imperfecto",
+                    "Pretérito pluscuamperfecto",
+                    "Pretérito perfecto compuesto"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "En 'Tú escuchabas música con los cascos puestos', ¿en qué tiempo verbal está 'escuchabas'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Presente",
+                    "Futuro simple",
+                    "Condicional simple"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Nosotros ya habíamos visto esa película de dibujos'. Identifica la persona y el número de 'habíamos visto'.",
+                "tipo": "test",
+                "opciones": [
+                    "3.ª persona del plural",
+                    "1.ª persona del plural",
+                    "2.ª persona del plural",
+                    "1.ª persona del singular"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Los bomberos apagaron el incendio rápidamente'. ¿Qué tiempo es 'apagaron'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito imperfecto",
+                    "Presente",
+                    "Futuro compuesto"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'¿Ustedes vendrán a la fiesta de fin de curso?'. ¿En qué tiempo está 'vendrán'?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional simple",
+                    "Pretérito perfecto simple",
+                    "Futuro simple",
+                    "Presente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Yo habría preferido el helado de chocolate'. ¿Qué tiempo verbal es?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional simple",
+                    "Pretérito pluscuamperfecto",
+                    "Futuro compuesto",
+                    "Condicional compuesto"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "'El perro de mi vecino ladra todas las noches'. Identifica el tiempo, persona y número.",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito - 1.ª singular",
+                    "Presente - 3.ª singular",
+                    "Futuro - 2.ª plural",
+                    "Presente - 3.ª plural"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Exploradores de Tiempos Verbales",
+        "tema": "gramatica",
+        "texto": "¡Qué gran aventura tuvimos el verano pasado! Nosotros caminábamos por el sendero del bosque cuando los científicos descubrieron una nueva especie de planta brillante. Mientras tanto, vosotros leíais muchos libros y el equipo del pueblo ha ganado tres partidos seguidos. Si tuviera más tiempo, yo viajaré a Madrid para contarlo todo. ¡Vosotros habéis hecho un trabajo excelente tomando notas! Para ser un buen explorador, hay que saber contar las historias usando el tiempo verbal exacto. ¡Prepara tu brújula gramatical y resuelve este reto!",
+        "glosario": [
+            {
+                "palabra": "Pretérito pluscuamperfecto",
+                "definición": "Habla de una acción del pasado que ocurrió antes de otra acción también pasada, como 'había comido'."
+            },
+            {
+                "palabra": "Condicional simple",
+                "definición": "Expresa algo que haríamos si se diera una condición. Sus formas suelen terminar en '-ría' (ej. jugaría, iría)."
+            },
+            {
+                "palabra": "Singular y Plural",
+                "definición": "El singular se refiere a una sola persona (yo, tú, él), y el plural a varias (nosotros, vosotros, ellos)."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "En la oración 'Vosotros habéis hecho un trabajo excelente', ¿en qué tiempo está 'habéis hecho'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Futuro compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Ella comprará el pan antes de volver a casa'. ¿Cuál es la persona y número del verbo 'comprará'?",
+                "tipo": "test",
+                "opciones": [
+                    "3.ª persona del singular",
+                    "1.ª persona del singular",
+                    "2.ª persona del singular",
+                    "3.ª persona del plural"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Nosotros caminábamos por el sendero del bosque'. ¿Qué tiempo verbal es 'caminábamos'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Condicional",
+                    "Pretérito imperfecto",
+                    "Presente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'El equipo ha ganado tres partidos seguidos'. ¿A qué tiempo pertenece 'ha ganado'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto compuesto",
+                    "Pretérito perfecto simple",
+                    "Futuro simple",
+                    "Pretérito pluscuamperfecto"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "En 'Tú habías guardado los juguetes en el baúl', ¿qué tiempo verbal se utiliza?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional compuesto",
+                    "Pretérito perfecto compuesto",
+                    "Futuro compuesto",
+                    "Pretérito pluscuamperfecto"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "'¿Me pasarías esa jarra de agua, por favor?'. ¿En qué tiempo está 'pasarías'?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Condicional simple",
+                    "Pretérito imperfecto",
+                    "Presente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Los científicos descubrieron una nueva especie'. Identifica la persona y el número del verbo.",
+                "tipo": "test",
+                "opciones": [
+                    "1.ª persona del plural",
+                    "2.ª persona del plural",
+                    "3.ª persona del plural",
+                    "3.ª persona del singular"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Yo viajaré a Madrid durante las vacaciones'. ¿Qué tiempo verbal es 'viajaré'?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Condicional",
+                    "Presente",
+                    "Pretérito perfecto simple"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Vosotros leíais muchos libros el verano pasado'. ¿A qué tiempo pertenece 'leíais'?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito imperfecto",
+                    "Pretérito pluscuamperfecto",
+                    "Condicional simple"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Nosotros hemos terminado todos los ejercicios de hoy'. ¿Cuál es el tiempo verbal?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro compuesto",
+                    "Pretérito perfecto simple",
+                    "Pretérito perfecto compuesto",
+                    "Pretérito imperfecto"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Misión en el Castillo de los Verbos",
+        "tema": "gramatica",
+        "texto": "Había una vez un reino donde todos hablaban con precisión. El rey ha convocado a los sabios porque los caballeros defenderán la fortaleza mañana. Ayer, los guardias vigilaban las murallas mientras los campesinos trabajaban la tierra. En este lugar, cada acción tiene su momento justo. ¿Podrás identificar los tiempos verbales que usan los habitantes de este castillo sin que te digamos cuál es la palabra clave? ¡Demuestra tu pericia gramatical!",
+        "glosario": [
+            {
+                "palabra": "Verbo Compuesto",
+                "definición": "Forma verbal que utiliza el verbo 'haber' como auxiliar seguido de un participio (ej. 'he comido')."
+            },
+            {
+                "palabra": "Pretérito Imperfecto",
+                "definición": "Indica una acción pasada que se repetía o que no tiene un final preciso (terminan en -aba o -ía)."
+            },
+            {
+                "palabra": "Persona y Número",
+                "definición": "Nos indica quién realiza la acción (yo, tú, él...) y si es uno solo o varios."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "'El rey ha convocado a los sabios'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Presente",
+                    "Pretérito perfecto compuesto",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Los caballeros defenderán la fortaleza'. ¿Cuál es la persona y el número del verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "2.ª persona del plural",
+                    "3.ª persona del plural",
+                    "3.ª persona del singular",
+                    "1.ª persona del plural"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Los guardias vigilaban las murallas'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Pretérito perfecto simple",
+                    "Condicional simple",
+                    "Presente"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Yo limpio mi armadura cada mañana'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Pretérito perfecto simple",
+                    "Condicional simple",
+                    "Presente"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "'Nosotros habríamos abierto la puerta con la llave'. ¿A qué tiempo pertenece el verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional simple",
+                    "Pretérito pluscuamperfecto",
+                    "Condicional compuesto",
+                    "Futuro compuesto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Tú habías avisado del peligro'. ¿Cuál es el tiempo del verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito pluscuamperfecto",
+                    "Pretérito perfecto compuesto",
+                    "Pretérito imperfecto",
+                    "Presente"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Ustedes llegarán pronto al baile'. ¿En qué persona y número está el verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "2.ª persona del singular",
+                    "3.ª persona del plural",
+                    "1.ª persona del plural",
+                    "3.ª persona del singular"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'El bufón contó un chiste divertido'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Presente",
+                    "Pretérito perfecto simple",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Vosotros comeríais pastel si hubiera'. ¿Qué tiempo verbal se utiliza en esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Condicional simple",
+                    "Pretérito imperfecto",
+                    "Condicional compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Las doncellas han bordado un tapiz'. ¿Qué tiempo verbal tiene esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Presente",
+                    "Pretérito perfecto simple"
+                ],
+                "correctaIdx": 0
+            }
+        ]
+    },
+    {
+        "titulo": "Reporteros en el Tiempo",
+        "tema": "gramatica",
+        "texto": "Somos reporteros del tiempo y hoy viajamos al pasado, al presente y al futuro. Los científicos descubrieron fósiles increíbles, mientras que hoy la gente pasea por el parque tranquilamente. Mañana, los astronautas despegarán hacia Marte. Para escribir bien nuestras noticias, debemos dominar el modo indicativo. ¿Serás capaz de identificar los verbos de cada titular y clasificarlos correctamente? ¡Prepara tu libreta y que comience la entrevista!",
+        "glosario": [
+            {
+                "palabra": "Modo Indicativo",
+                "definición": "Modo que usamos para expresar acciones reales o que consideramos como seguras."
+            },
+            {
+                "palabra": "Condicional Simple",
+                "definición": "Indica una acción que depende de una condición (ej. 'Yo iría si pudiera')."
+            },
+            {
+                "palabra": "Futuro Compuesto",
+                "definición": "Acción venidera anterior a otra también futura (ej. 'Habré terminado')."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "'Los científicos descubrieron fósiles'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Pretérito perfecto simple",
+                    "Presente",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'La gente pasea por el parque'. ¿Cuál es el tiempo verbal de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Pretérito perfecto compuesto",
+                    "Futuro simple",
+                    "Condicional simple"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Los astronautas despegarán hacia Marte'. ¿En qué persona y número está el verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "3.ª persona del singular",
+                    "2.ª persona del plural",
+                    "1.ª persona del plural",
+                    "3.ª persona del plural"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "'Yo había escrito la noticia ayer'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Pretérito imperfecto",
+                    "Condicional compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'¿Tú leerás el periódico hoy?'. ¿A qué tiempo pertenece el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Pretérito perfecto simple",
+                    "Futuro simple",
+                    "Condicional simple"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Nosotros hemos grabado la entrevista'. ¿Cuál es el tiempo del verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Presente",
+                    "Futuro compuesto"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Vosotros habríais viajado en avión'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional simple",
+                    "Futuro simple",
+                    "Condicional compuesto",
+                    "Pretérito pluscuamperfecto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'El fotógrafo sacaba las fotos'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Presente",
+                    "Pretérito imperfecto",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Ella ganaría el premio con su historia'. ¿A qué tiempo pertenece el verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional simple",
+                    "Futuro simple",
+                    "Presente",
+                    "Pretérito perfecto simple"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Nosotros cenamos en el estudio anoche'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Pretérito perfecto simple",
+                    "Pretérito imperfecto",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "Aventura en la Isla del Tesoro",
+        "tema": "gramatica",
+        "texto": "Los piratas navegaron por mares desconocidos hasta encontrar la X en el mapa. Yo siempre guardo mi brújula en el bolsillo derecho, pero el capitán dice que nosotros encontraremos el oro antes del anochecer. Si tuviéramos un barco más rápido, llegaríamos a la costa en un abrir y cerrar de ojos. El loro de la cubierta repetía las palabras del contramaestre sin parar. ¿Podrás identificar los tiempos verbales de esta expedición pirata?",
+        "glosario": [
+            {
+                "palabra": "Persona Gramatical",
+                "definición": "Indica quién realiza la acción: yo (1.ª), tú (2.ª) o él/ella (3.ª)."
+            },
+            {
+                "palabra": "Pretérito Perfecto Simple",
+                "definición": "Indica una acción pasada que ya ha terminado de forma puntual (ej. 'navegaron')."
+            },
+            {
+                "palabra": "Condicional Simple",
+                "definición": "Expresa una acción que depende de una condición o un deseo (ej. 'llegaríamos')."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "'Los piratas navegaron por mares desconocidos'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Presente",
+                    "Pretérito perfecto simple",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Yo siempre guardo mi brújula'. ¿En qué tiempo, persona y número está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente - 1.ª singular",
+                    "Pasado - 1.ª singular",
+                    "Presente - 3.ª singular",
+                    "Futuro - 1.ª plural"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Nosotros encontraremos el oro'. ¿A qué tiempo pertenece el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Futuro simple",
+                    "Condicional simple",
+                    "Pretérito perfecto compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Llegaríamos a la costa pronto'. ¿En qué tiempo verbal está el verbo de esta frase?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Pretérito pluscuamperfecto",
+                    "Condicional simple",
+                    "Presente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'El loro repetía las palabras'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito imperfecto",
+                    "Pretérito perfecto simple",
+                    "Presente",
+                    "Futuro compuesto"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Vosotros habéis buscado el tesoro'. ¿Cuál es el tiempo del verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Presente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'El capitán había escondido el mapa'. ¿A qué tiempo pertenece el verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Futuro compuesto",
+                    "Condicional compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Tú disparaste el cañón'. ¿En qué persona y número está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "1.ª persona del singular",
+                    "3.ª persona del singular",
+                    "2.ª persona del singular",
+                    "2.ª persona del plural"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Nosotros habremos llegado al puerto'. ¿Qué tiempo verbal se utiliza aquí?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Futuro compuesto",
+                    "Condicional compuesto",
+                    "Presente"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Las olas golpean el barco'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pasado",
+                    "Futuro",
+                    "Presente",
+                    "Condicional"
+                ],
+                "correctaIdx": 2
+            }
+        ]
+    },
+    {
+        "titulo": "Entrenamiento en la Academia Espacial",
+        "tema": "gramatica",
+        "texto": "¡Atención, reclutas! La misión comenzará en breve. Vosotros entrenáis duro cada día para ser los mejores pilotos. El año pasado, otros cadetes viajaron a la Luna y descubrieron cráteres de hielo. Mi instructor me ha dicho que yo pilotaré la nave principal. Si la energía fallara, nosotros usaríamos los motores de emergencia. Recordad: el éxito depende de vuestra precisión. ¿Estáis listos para analizar los verbos de vuestra hoja de ruta?",
+        "glosario": [
+            {
+                "palabra": "Verbo",
+                "definición": "Palabra que expresa una acción, proceso o estado en la oración."
+            },
+            {
+                "palabra": "Número Plural",
+                "definición": "Indica que la acción es realizada por más de una persona (nosotros, vosotros, ellos)."
+            },
+            {
+                "palabra": "Futuro Simple",
+                "definición": "Expresa una acción que sucederá después del momento en que se habla."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "'La misión comenzará en breve'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Presente",
+                    "Futuro simple",
+                    "Pretérito perfecto simple",
+                    "Condicional simple"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Vosotros entrenáis duro cada día'. ¿En qué persona y número está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "1.ª persona del plural",
+                    "3.ª persona del plural",
+                    "2.ª persona del plural",
+                    "2.ª persona del singular"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Otros cadetes viajaron a la Luna'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito imperfecto",
+                    "Presente",
+                    "Futuro simple"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Mi instructor me ha dicho la verdad'. ¿A qué tiempo pertenece el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Pretérito pluscuamperfecto",
+                    "Pretérito perfecto compuesto",
+                    "Presente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Yo pilotaré la nave principal'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Condicional simple",
+                    "Presente",
+                    "Pretérito perfecto simple"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "'Nosotros usaríamos los motores'. ¿Cuál es el tiempo verbal de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Futuro simple",
+                    "Condicional simple",
+                    "Pretérito imperfecto",
+                    "Condicional compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Tú habías practicado en el simulador'. ¿En qué tiempo está el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto compuesto",
+                    "Pretérito pluscuamperfecto",
+                    "Pretérito imperfecto",
+                    "Futuro compuesto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'La nave aterriza en la pista'. ¿A qué tiempo pertenece el verbo de esta oración?",
+                "tipo": "test",
+                "opciones": [
+                    "Pretérito perfecto simple",
+                    "Presente",
+                    "Futuro simple",
+                    "Condicional"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "'Ellos habrían preferido despegar hoy'. ¿Qué tiempo verbal se utiliza aquí?",
+                "tipo": "test",
+                "opciones": [
+                    "Condicional simple",
+                    "Futuro compuesto",
+                    "Condicional compuesto",
+                    "Pretérito pluscuamperfecto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "'Ustedes escuchan las instrucciones'. ¿En qué persona y número está el verbo?",
+                "tipo": "test",
+                "opciones": [
+                    "2.ª persona del plural",
+                    "3.ª persona del plural",
+                    "1.ª persona del plural",
+                    "2.ª persona del singular"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    }
+]

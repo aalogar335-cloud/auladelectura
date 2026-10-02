@@ -1,0 +1,1472 @@
+[
+    {
+        "titulo": "La Campana Dorada de la Bahía",
+        "tema": "leyendas",
+        "texto": "Hace muchísimos años, en un pequeño pueblo costero llamado Villamarina, existía una campana de oro puro que colgaba en la torre más alta de la vieja ermita. No era una campana común; los ancianos contaban que su sonido tenía el poder de calmar las tormentas más feroces y guiar a los pescadores perdidos en la niebla. El pueblo vivía en paz y prosperidad gracias a su protección mágica. Sin embargo, la fama de la campana llegó a oídos del temible pirata Pata de Hierro, un hombre cuya ambición no conocía límites. Pata de Hierro decidió que aquel tesoro debía ser suyo. Una noche sin luna, desembarcó con sus hombres y, aprovechando el silencio, robó la campana de la torre. La pesada pieza fue cargada en su gran galeón negro. Mientras se alejaba de la costa, el pirata reía imaginando la fortuna que obtendría al fundir el oro. Pero la leyenda decía que la campana solo servía a quienes buscaban el bien. De repente, el cielo se oscureció y el mar comenzó a rugir con una furia nunca vista. Las olas eran tan altas como montañas y el viento silbaba como un monstruo enfurecido. Pata de Hierro intentó hacer sonar la campana para calmar las aguas, pero al golpearla, el metal permaneció en silencio absoluto. En ese momento, un rayo iluminó el barco y el galeón se partió en dos, hundiéndose en las profundidades de la bahía con el pirata y su botín robado. Al amanecer, el mar volvió a estar en calma, pero la campana había desaparecido para siempre. Los habitantes de Villamarina lloraron su pérdida durante días, temiendo que las tormentas destruyeran sus hogares ahora que no tenían protección. Pero ocurrió algo asombroso. Esa misma noche, un pescador que regresaba tarde escuchó un repique cristalino que venía desde el fondo del océano. Era un sonido dulce y rítmico que llenaba el aire de esperanza. Desde aquel día, cada vez que una gran tormenta amenaza con azotar la costa, los habitantes de Villamarina se reúnen en la playa. Dicen que si guardas silencio, puedes escuchar el tañido de la campana dorada resonando bajo las olas. Algunos aseguran haber visto un brillo dorado en las profundidades marinas durante las noches de luna llena. La campana ya no está en la torre, pero sigue cumpliendo su promesa de proteger al pueblo desde su nuevo hogar submarino. Esta leyenda nos recuerda que los tesoros más grandes no se pueden poseer por la fuerza, y que la bondad y la protección permanecen vivas mientras las personas crean en ellas. Villamarina sigue siendo un lugar próspero donde los niños escuchan con atención la historia del pirata que quiso robar la voz de la paz y terminó convirtiéndose en parte del secreto que ahora guarda el mar para siempre bajo su manto azul.",
+        "glosario": [
+            {
+                "palabra": "Ermita",
+                "definición": "Capilla o iglesia pequeña situada normalmente fuera de un pueblo."
+            },
+            {
+                "palabra": "Ambición",
+                "definición": "Deseo intenso de conseguir poder, riquezas o fama."
+            },
+            {
+                "palabra": "Galeón",
+                "definición": "Barco grande de vela que se usaba antiguamente para la guerra o el comercio."
+            },
+            {
+                "palabra": "Botín",
+                "definición": "Conjunto de bienes o riquezas robadas por un grupo, especialmente piratas."
+            },
+            {
+                "palabra": "Repique",
+                "definición": "Sonido repetido y alegre que hacen las campanas."
+            },
+            {
+                "palabra": "Tañido",
+                "definición": "El sonido que produce una campana al ser golpeada."
+            },
+            {
+                "palabra": "Prosperidad",
+                "definición": "Situación en la que las cosas van bien y hay buena fortuna económica."
+            },
+            {
+                "palabra": "Fundir",
+                "definición": "Calentar un metal hasta que se vuelve líquido."
+            },
+            {
+                "palabra": "Azotar",
+                "definición": "Golpear con fuerza, como hace el viento o el agua en una tormenta."
+            },
+            {
+                "palabra": "Manto",
+                "definición": "Capa que cubre algo, en este caso, se refiere a la superficie del mar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De qué material estaba hecha la campana de la ermita?",
+                "tipo": "test",
+                "opciones": [
+                    "Plata",
+                    "Bronce",
+                    "Oro puro",
+                    "Hierro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nombre tenía el pirata que robó la campana?",
+                "tipo": "test",
+                "opciones": [
+                    "Barbanegra",
+                    "Pata de Hierro",
+                    "Garra de Halcón",
+                    "Capitán Garfio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sucedió con el galeón pirata durante la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Llegó a una isla lejana",
+                    "Se hundió en la bahía",
+                    "Regresó al pueblo",
+                    "Se quemó por un rayo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué la campana no sonó cuando el pirata la golpeó?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba rota",
+                    "Porque el pirata no tenía fuerza",
+                    "Porque solo servía a quienes buscaban el bien",
+                    "Porque estaba llena de agua"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué función cumple la campana al final de la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Adornar el fondo del mar",
+                    "Hacerse rica bajo el agua",
+                    "Seguir protegiendo al pueblo",
+                    "Atrapar a más piratas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se sienten los habitantes de Villamarina al escuchar el repique submarino?",
+                "tipo": "test",
+                "opciones": [
+                    "Asustados por el fantasma",
+                    "Tristes por la campana",
+                    "Llenos de esperanza",
+                    "Enfadados con el pirata"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que la ambición de Pata de Hierro 'no conocía límites'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era muy inteligente",
+                    "Que quería robarlo todo sin importarle nada",
+                    "Que sabía navegar muy bien",
+                    "Que no tenía mapas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuándo aseguran algunos haber visto un brillo dorado en el agua?",
+                "tipo": "test",
+                "opciones": [
+                    "Durante las tormentas",
+                    "Al mediodía",
+                    "En las noches de luna llena",
+                    "Nunca"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué opinas de la actitud del pirata al querer fundir la campana?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece que fue muy egoísta porque la campana ayudaba a mucha gente y él solo quería el dinero para él mismo. Al final le salió mal porque las cosas que son mágicas para ayudar no se pueden usar para hacerse rico haciendo daño."
+            },
+            {
+                "enunciado": "Si fueras un habitante de Villamarina, ¿creerías en el sonido que viene del mar?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, yo creo que sí creería porque es una historia muy bonita y da tranquilidad saber que algo te cuida cuando hay tormentas feas. Además, si mucha gente lo escucha a la vez, tiene que ser verdad."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Cóndor de los Andes",
+        "tema": "leyendas",
+        "texto": "En lo más alto de la Cordillera de los Andes, donde el aire es tan frío que parece cristal, vivía un joven pastor llamado Inti. Inti cuidaba de sus alpacas con paciencia y respeto, agradeciendo siempre a la Pachamama por la hierba y el agua. Un día, mientras buscaba una oveja perdida en los riscos más peligrosos, Inti encontró a un cóndor gigante atrapado entre unas rocas afiladas. El ave, símbolo sagrado de las montañas, tenía un ala herida y sus ojos negros reflejaban un profundo dolor. Otros pastores habrían tenido miedo o habrían intentado cazar al animal, pero Inti sintió compasión. Se acercó con cuidado, hablándole con voz suave para no asustarlo. Con mucha habilidad, logró liberar al cóndor y, durante varias semanas, lo alimentó y curó su ala con hierbas medicinales que su abuela le había enseñado a reconocer. Poco a poco, el ave recuperó sus fuerzas. Una mañana, cuando el sol comenzaba a iluminar los picos nevados, el cóndor se puso en pie y extendió sus enormes alas, que medían más de tres metros. Antes de emprender el vuelo, el animal se transformó ante los ojos asombrados de Inti en un hombre alto, vestido con una túnica de plumas brillantes que cambiaban de color con la luz. El hombre le explicó que era el Guardián de las Alturas y que había bajado para probar el corazón de los seres humanos. Como recompensa por su bondad y desinterés, el Guardián le entregó a Inti un pequeño silbato tallado en hueso de montaña. Le dijo que, si alguna vez su pueblo sufría una gran necesidad, solo tendría que tocarlo tres veces. Inti guardó el secreto y regresó a su aldea. Pasaron los años y una terrible sequía azotó la región. Las fuentes se secaron, la hierba se volvió amarilla y los animales empezaron a enfermar. El pueblo estaba desesperado. Entonces, Inti recordó el regalo del Guardián. Subió al pico más alto y sopló el silbato tres veces. Un sonido potente recorrió los valles y, de repente, miles de cóndores aparecieron en el cielo. Con el batir de sus alas, juntaron las nubes lejanas y provocaron una lluvia suave que salvó las cosechas y la vida de todos. Inti nunca le dijo a nadie que él había llamado a las aves, pero desde entonces, los habitantes de los Andes miran al cielo con un respeto sagrado cada vez que ven la sombra de un cóndor. La leyenda cuenta que Inti desapareció un día cuando era muy anciano, y hay quienes dicen que se le vio volando junto al Guardián, vigilando las montañas para siempre. Esta historia nos enseña que la naturaleza no es algo que debamos dominar, sino un ser vivo con el que debemos convivir en armonía, porque aquellos que cuidan de los más pequeños o de los heridos, reciben bendiciones que pueden salvar a todo un mundo.",
+        "glosario": [
+            {
+                "palabra": "Riscos",
+                "definición": "Peñascos altos y escarpados que son difíciles y peligrosos de subir."
+            },
+            {
+                "palabra": "Pachamama",
+                "definición": "Nombre que dan los pueblos andinos a la Madre Tierra."
+            },
+            {
+                "palabra": "Compasión",
+                "definición": "Sentimiento de pena por el sufrimiento de otros que impulsa a ayudarlos."
+            },
+            {
+                "palabra": "Medicinales",
+                "definición": "Plantas o sustancias que sirven para curar enfermedades o heridas."
+            },
+            {
+                "palabra": "Desinterés",
+                "definición": "Hacer algo bueno sin esperar recibir nada a cambio."
+            },
+            {
+                "palabra": "Sequía",
+                "definición": "Largo periodo de tiempo sin lluvia que causa falta de agua."
+            },
+            {
+                "palabra": "Cosechas",
+                "definición": "Conjunto de frutos o plantas que se recogen de la tierra cuando están listos."
+            },
+            {
+                "palabra": "Armonía",
+                "definición": "Relación de paz, equilibrio y entendimiento entre personas o con la naturaleza."
+            },
+            {
+                "palabra": "Símbolo",
+                "definición": "Imagen o animal que representa una idea o algo sagrado."
+            },
+            {
+                "palabra": "Batir",
+                "definición": "Mover las alas de arriba abajo para volar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué animal encontró Inti atrapado entre las rocas?",
+                "tipo": "test",
+                "opciones": [
+                    "Una alpaca",
+                    "Un cóndor gigante",
+                    "Un águila",
+                    "Una oveja"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo curó Inti el ala del ave?",
+                "tipo": "test",
+                "opciones": [
+                    "Con vendas de lana",
+                    "Con hierbas medicinales",
+                    "Con agua del río",
+                    "Con magia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué lugar se desarrolla la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "En la selva amazónica",
+                    "En la Cordillera de los Andes",
+                    "En el desierto",
+                    "En una isla"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el cóndor se transformó en hombre?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era un hechizo",
+                    "Porque quería asustar a Inti",
+                    "Porque era el Guardián de las Alturas probando a los humanos",
+                    "Porque comió una planta mágica"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué regalo recibió Inti por su bondad?",
+                "tipo": "test",
+                "opciones": [
+                    "Una túnica de plumas",
+                    "Un silbato de hueso",
+                    "Muchas ovejas",
+                    "Un saco de oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Podemos inferir que Inti es un personaje...",
+                "tipo": "test",
+                "opciones": [
+                    "Miedoso y solitario",
+                    "Humilde y protector de la vida",
+                    "Ambicioso y fuerte",
+                    "Distraído"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo ayudaron los cóndores al pueblo durante la sequía?",
+                "tipo": "test",
+                "opciones": [
+                    "Trajeron comida en sus picos",
+                    "Juntaron las nubes con sus alas para que lloviera",
+                    "Cavaron pozos en la tierra",
+                    "Llevaron a la gente a otro lugar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué lección principal transmite esta leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los cóndores son peligrosos",
+                    "Que hay que cazar para sobrevivir",
+                    "Que debemos vivir en armonía con la naturaleza",
+                    "Que el oro es lo más importante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que Inti no le contó a nadie lo del silbato?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que no lo dijo porque era un secreto sagrado y él era una persona muy humilde que no quería presumir de ser un héroe. Además, si lo contaba, igual otros intentaban robarle el silbato por avaricia."
+            },
+            {
+                "enunciado": "¿Qué habrías hecho tú si te encuentras un animal herido en el monte?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pues intentaría ayudarle como hizo Inti, pero con cuidado para que no me muerda si tiene miedo. Llamaría a alguien mayor que sepa de animales para curarle bien y que pueda volver a ser libre en la naturaleza."
+            }
+        ]
+    },
+    {
+        "titulo": "La Leyenda de la Flor de Luna",
+        "tema": "leyendas",
+        "texto": "En una lejana aldea de la península de Yucatán, donde la selva abraza las pirámides de piedra, vivía una joven llamada Ixchel. Ella era conocida por su bondad y su risa, que sonaba como el agua cristalina de los cenotes. Ixchel pasaba sus tardes cuidando las orillas del río, pero siempre miraba con melancolía hacia las montañas del norte. Allí, según los ancianos, habitaba el espíritu del sol, un guerrero valiente que cada noche se ocultaba tras los picos para descansar de su largo viaje. Ixchel soñaba con conocerlo, pues sentía que la luz del mundo necesitaba una compañera que la cuidara durante las largas horas de oscuridad. Un día, una gran sequía azotó la región. Las milpas se secaron, la tierra se agrietó y los animales comenzaron a desaparecer buscando frescura. Los sacerdotes dijeron que solo un gesto de amor verdadero despertaría la lluvia. Ixchel, decidida a salvar a su pueblo, subió a la montaña más alta llevando una ofrenda de flores silvestres. Al llegar a la cima, el sol estaba a punto de desaparecer. El calor era tan intenso que las piedras vibraban bajo sus pies. Ixchel cerró los ojos y cantó una melodía dulce, pidiendo perdón por el descuido de los hombres hacia la tierra. El guerrero del sol, conmovido por su pureza, detuvo su descenso por un instante. Una lágrima de fuego cayó de sus ojos y tocó el suelo cerca de la joven. En ese momento, las nubes se agruparon y una lluvia torrencial comenzó a caer, devolviendo la vida a la selva entera. Sin embargo, Ixchel no regresó a la aldea. La leyenda cuenta que se transformó en una hermosa flor blanca que solo abre sus pétalos bajo la luz de las estrellas, esperando el regreso de su amado sol. Los habitantes la llamaron la flor de la luna. Dicen que su aroma es tan potente que llega hasta el cielo, guiando al sol en su amanecer. Desde entonces, cada vez que la lluvia cae después de un largo tiempo, los niños de la aldea buscan la flor de la luna para recordar que el sacrificio por los demás es la semilla de la vida. El pueblo de Ixchel nunca volvió a pasar hambre, pues aprendieron que la naturaleza responde al cariño con abundancia. La flor sigue creciendo en los rincones más secretos de la selva, brillando con un resplandor plateado que parece susurrar historias de tiempos antiguos. Muchos han intentado arrancarla para poseer su belleza, pero la flor se desvanece al tacto de manos egoístas. Solo aquellos que llevan paz en su alma pueden verla en todo su esplendor durante las noches de luna llena. Así, la joven Ixchel se convirtió en el eterno puente entre el fuego del día y la calma de la noche, enseñando a todos que el amor puede cambiar el destino de un mundo entero.",
+        "glosario": [
+            {
+                "palabra": "Cenote",
+                "definición": "Depósito de agua dulce profundo que se encuentra en cuevas o al aire libre."
+            },
+            {
+                "palabra": "Melancolía",
+                "definición": "Sentimiento de tristeza suave o ganas de estar en un lugar diferente."
+            },
+            {
+                "palabra": "Sequía",
+                "definición": "Largo tiempo sin lluvia que hace que la tierra y las plantas se sequen."
+            },
+            {
+                "palabra": "Milpa",
+                "definición": "Lugar donde se siembra principalmente maíz, frijol y calabaza."
+            },
+            {
+                "palabra": "Sacerdote",
+                "definición": "Persona sabia que en las culturas antiguas dirigía las ceremonias religiosas."
+            },
+            {
+                "palabra": "Ofrenda",
+                "definición": "Regalo que se ofrece a alguien importante o a la naturaleza por respeto."
+            },
+            {
+                "palabra": "Torrencial",
+                "definición": "Lluvia que cae con muchísima fuerza y mucha cantidad de agua."
+            },
+            {
+                "palabra": "Esplendor",
+                "definición": "Momento en el que algo brilla con su máxima belleza y luz."
+            },
+            {
+                "palabra": "Egoísta",
+                "definición": "Persona que solo piensa en sí misma y no quiere compartir."
+            },
+            {
+                "palabra": "Península",
+                "definición": "Tierra que está rodeada de agua por todas partes menos por una."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué región geográfica ocurre la historia de Ixchel?",
+                "tipo": "test",
+                "opciones": [
+                    "En el desierto de Sonora",
+                    "En la península de Yucatán",
+                    "En las montañas del Himalaya",
+                    "En la selva amazónica"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema grave afectaba a la aldea?",
+                "tipo": "test",
+                "opciones": [
+                    "Una inundación",
+                    "Un terremoto",
+                    "Una gran sequía",
+                    "Un ataque pirata"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué se transformó Ixchel al final de la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "En una estrella brillante",
+                    "En un pájaro de colores",
+                    "En una hermosa flor blanca",
+                    "En una nube de lluvia"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Ixchel decidió subir a la montaña más alta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería ser famosa",
+                    "Para buscar oro escondido",
+                    "Para salvar a su pueblo pidiendo ayuda",
+                    "Porque se había perdido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué simboliza el hecho de que la flor se desvanezca al tacto de manos egoístas?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la flor es venenosa",
+                    "Que la belleza verdadera no puede ser poseída por la fuerza",
+                    "Que la flor tiene miedo",
+                    "Que la flor es imaginaria"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Según el texto, ¿qué causó que el guerrero del sol llorara fuego?",
+                "tipo": "test",
+                "opciones": [
+                    "El humo de la selva",
+                    "El cansancio de su viaje",
+                    "La conmoción por la pureza de Ixchel",
+                    "El calor de las piedras"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué relación establece la leyenda entre el sol y la flor de la luna?",
+                "tipo": "test",
+                "opciones": [
+                    "Son enemigos naturales",
+                    "La flor guía al sol y lo espera cada noche",
+                    "El sol intenta quemar a la flor",
+                    "No tienen ninguna relación"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió el pueblo sobre la naturaleza al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la lluvia es peligrosa",
+                    "Que la naturaleza responde al cariño con abundancia",
+                    "Que no deben subir a las montañas",
+                    "Que el sol es un guerrero malo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que el sacrificio de Ixchel valió la pena? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí valió la pena porque gracias a ella todo el pueblo pudo seguir viviendo y las plantas volvieron a crecer. Además, aunque no regresó como persona, se convirtió en algo muy bonito que ayuda a recordar que hay que cuidar la tierra."
+            },
+            {
+                "enunciado": "¿Qué harías tú para demostrar respeto a la naturaleza si vivieras en esa aldea?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pues yo intentaría no gastar mucha agua y cuidaría los árboles para que no se sequen. También les contaría a mis amigos la historia de Ixchel para que todos sepan que la selva es importante y no hay que portarse de forma egoísta con ella."
+            }
+        ]
+    },
+    {
+        "titulo": "El Jinete de las Nieves Eternas",
+        "tema": "leyendas",
+        "texto": "Hace mucho tiempo, en los valles del norte, donde la nieve nunca se derrite del todo, existía una aldea asediada por un gigante de hielo. Este gigante no era un ser de carne, sino una tormenta eterna que impedía que las semillas brotaran. Los aldeanos estaban desesperados, pues el invierno duraba ya cien años y las reservas de alimento se agotaban rápidamente. Un joven llamado Erik, que apenas tenía fuerzas pero poseía un gran ingenio, decidió buscar al legendario Caballo de Plata, una criatura que según las leyendas corría más rápido que el viento y traía consigo la primavera en sus cascos brillantes. Erik viajó por bosques congelados donde los árboles crujían como cristal roto ante el paso del aire gélido. Solo llevaba consigo una manzana roja y una manta vieja para abrigarse. Tras siete días de duro camino, llegó a un lago helado que brillaba como un espejo bajo la luz de las estrellas. Allí, en el centro mismo del lago, vio una figura resplandeciente que quitaba el aliento. Era el Caballo de Plata, cuyas crines parecían hilos de luna y sus ojos eran como dos diamantes azules llenos de tristeza. El animal estaba atrapado; su pata trasera se había quedado enganchada en una grieta del hielo mágico. Erik, a pesar del frío terrible que entumecía sus dedos, no dudó ni un segundo. Se acercó despacio, ofreciendo la manzana roja para calmar al asustado animal. Con una piedra afilada y mucha paciencia, trabajó durante horas golpeando el hielo hasta que logró liberar la pata del caballo. La criatura, en agradecimiento, relinchó con un sonido tan potente que rompió el silencio de las montañas. Invitó a Erik a subir a su lomo y, de un salto impresionante, se elevaron sobre las nubes grises. Por donde pasaban las pezuñas de plata, el hielo se derretía y pequeñas flores amarillas comenzaban a nacer instantáneamente. Al llegar a la aldea, el gigante de hielo intentó detenerlos con ráfagas de granizo, pero el calor que desprendía el caballo era superior. La tormenta se desvaneció, convirtiéndose en un suave rocío matinal. El sol brilló por primera vez en un siglo y la tierra, agradecida, entregó sus frutos en pocos días. Erik se convirtió en el guardián del valle, pero el Caballo de Plata desapareció hacia las estrellas, dejando tras de sí un rastro de escarcha plateada que aún hoy se puede ver en el cielo durante las noches claras. Los ancianos dicen que el caballo solo vuelve cuando alguien demuestra un valor desinteresado por su hogar. La leyenda del Salvador del Invierno pasó de padres a hijos, recordando siempre que el tamaño de un héroe no se mide por su estatura física, sino por su voluntad de ayudar a otros. La aldea de Erik floreció y se convirtió en el reino más hermoso de la montaña, donde nunca falta la leña ni la alegría en los hogares cálidos.",
+        "glosario": [
+            {
+                "palabra": "Asediada",
+                "definición": "Lugar que está rodeado por algo que lo ataca o lo presiona constantemente."
+            },
+            {
+                "palabra": "Ingenio",
+                "definición": "Capacidad para inventar cosas o solucionar problemas difíciles con inteligencia."
+            },
+            {
+                "palabra": "Gélido",
+                "definición": "Que está extremadamente frío, como el hielo."
+            },
+            {
+                "palabra": "Crines",
+                "definición": "Pelo largo que crece en el cuello de los caballos."
+            },
+            {
+                "palabra": "Entumecer",
+                "definición": "Perder la sensibilidad o el movimiento en una parte del cuerpo por el frío o falta de riego."
+            },
+            {
+                "palabra": "Relinchar",
+                "definición": "Voz o sonido muy fuerte que emite el caballo."
+            },
+            {
+                "palabra": "Ráfaga",
+                "definición": "Golpe de viento fuerte que aparece de repente y dura poco."
+            },
+            {
+                "palabra": "Rocío",
+                "definición": "Pequeñas gotas de agua que aparecen en las plantas al amanecer."
+            },
+            {
+                "palabra": "Escarcha",
+                "definición": "Capa de hielo muy fina que se forma sobre las superficies cuando hace mucho frío."
+            },
+            {
+                "palabra": "Desinteresado",
+                "definición": "Persona que ayuda a los demás sin esperar recibir nada a cambio."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cuánto tiempo llevaba durando el invierno en la aldea?",
+                "tipo": "test",
+                "opciones": [
+                    "Diez años",
+                    "Un siglo (cien años)",
+                    "Siete días",
+                    "Mil años"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto utilizó Erik para calmar al Caballo de Plata?",
+                "tipo": "test",
+                "opciones": [
+                    "Una piedra afilada",
+                    "Una manta vieja",
+                    "Una manzana roja",
+                    "Una flauta mágica"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nacía por donde pasaban las pezuñas del caballo?",
+                "tipo": "test",
+                "opciones": [
+                    "Más nieve",
+                    "Cristales rotos",
+                    "Pequeñas flores amarillas",
+                    "Piedras de plata"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre la personalidad de Erik?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era fuerte y miedoso",
+                    "Que era inteligente, valiente y generoso",
+                    "Que era egoísta y rápido",
+                    "Que no le gustaba el frío"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el caballo estaba atrapado en el lago?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba bebiendo agua",
+                    "Porque su pata se enganchó en el hielo mágico",
+                    "Porque quería esperar a Erik",
+                    "Porque el gigante de hielo lo ató"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La frase 'el tamaño de un héroe no se mide por su estatura' significa que:",
+                "tipo": "test",
+                "opciones": [
+                    "Los héroes deben ser bajitos",
+                    "Lo más importante son los sentimientos y las acciones, no el físico",
+                    "Erik era un gigante",
+                    "No existen los héroes de verdad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué rastro dejó el caballo en el cielo al desaparecer?",
+                "tipo": "test",
+                "opciones": [
+                    "Nubes negras",
+                    "Un rastro de escarcha plateada",
+                    "Un camino de manzanas",
+                    "Humo de fuego"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué condición debe cumplirse para que el caballo regrese?",
+                "tipo": "test",
+                "opciones": [
+                    "Que alguien sea muy rico",
+                    "Que haga mucho frío",
+                    "Que alguien demuestre valor desinteresado",
+                    "Que se acabe la comida"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué te parece la forma en que Erik convenció al caballo para que confiara en él?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece que fue muy listo porque los animales cuando están asustados pueden ser peligrosos, pero él le dio comida y se acercó despacio. Eso demuestra que Erik tenía mucha paciencia y que no quería hacerle daño, solo ayudarle."
+            },
+            {
+                "enunciado": "Si fueras un aldeano de esa aldea, ¿cómo celebrarías la llegada de la primavera?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo haría una fiesta gigante con toda la comida que empezara a crecer y le daría las gracias a Erik por ser tan valiente. También plantaría muchísimas flores amarillas por todas partes para que el valle siempre estuviera alegre y no volviera el gigante de hielo."
+            }
+        ]
+    },
+    {
+        "titulo": "La Melodía del Bosque Susurrante",
+        "tema": "leyendas",
+        "texto": "Mateo vivía en un pueblo pequeño rodeado de pinos centenarios y montañas que parecían tocar el azul del cielo. En aquel lugar, todos conocían la leyenda del Bosque Susurrante, un rincón de la naturaleza que, según decían los abuelos, había perdido su voz hacía cientos de años. La leyenda contaba que un gigante egoísta había atrapado todos los sonidos en una caja de madera de roble, dejando a los árboles en un silencio profundo y triste. Los pájaros ya no cantaban y el viento pasaba entre las ramas sin hacer el menor ruido. Mateo, un niño de diez años muy curioso, siempre se preguntaba si era posible recuperar aquella música perdida que tanto mencionaban en las historias. Una mañana de otoño, mientras caminaba por la orilla del río, Mateo encontró algo inusual cerca de una vieja raíz. Era un pequeño zorro de pelaje rojizo que tenía una pata atrapada entre unas piedras pesadas. El animalito temblaba de frío y miraba a Mateo con unos ojos grandes y brillantes, llenos de un temor que partía el alma. Mateo, en lugar de asustarse o seguir de largo, se arrodilló con mucho cuidado sobre la tierra húmeda. Con paciencia y suavidad, movió las piedras una a una hasta que el zorro quedó libre. El animal no huyó de inmediato; se quedó un momento observando al niño y luego emitió un pequeño ladrido rítmico. En ese instante, ocurrió algo verdaderamente mágico. El ladrido del zorro no se desvaneció, sino que empezó a rebotar contra los troncos de los árboles, multiplicándose como un eco infinito. De repente, las hojas secas del suelo comenzaron a crujir con un tono musical y el río aumentó su murmullo hasta transformarlo en una melodía cristalina. Mateo comprendió que el gigante de la leyenda no era un monstruo real, sino el olvido y la falta de empatía de los seres humanos. Al ayudar al zorro, había roto el hechizo del silencio. El bosque entero despertó de su letargo. Los pinos empezaron a susurrar secretos antiguos y los pájaros regresaron para llenar el aire con sus trinos alegres. El niño regresó al pueblo corriendo, emocionado por lo que había vivido. Les contó a todos que el bosque no necesitaba llaves mágicas ni espadas para recuperar su voz, sino corazones dispuestos a observar y ayudar a los demás. Desde aquel día, el Bosque Susurrante se convirtió en el lugar más alegre de la comarca. Los habitantes aprendieron a cuidar cada planta y cada animal, sabiendo que la armonía depende de los pequeños actos de bondad. Mateo creció, pero nunca olvidó la mirada de aquel zorro ni el día en que la naturaleza decidió volver a cantar para él. La música del bosque sigue sonando hoy en día, recordándonos que el silencio solo existe donde no hay amor ni respeto por la vida que nos rodea en este mundo.",
+        "glosario": [
+            {
+                "palabra": "Centenarios",
+                "definición": "Que tienen cien años o más de antigüedad."
+            },
+            {
+                "palabra": "Egoísta",
+                "definición": "Persona que solo piensa en sí misma y no quiere compartir."
+            },
+            {
+                "palabra": "Roble",
+                "definición": "Tipo de árbol muy fuerte y resistente que vive muchos años."
+            },
+            {
+                "palabra": "Inusual",
+                "definición": "Algo que es raro, extraño o que no ocurre a menudo."
+            },
+            {
+                "palabra": "Empatía",
+                "definición": "Capacidad de entender y sentir lo que otra persona o animal siente."
+            },
+            {
+                "palabra": "Letargo",
+                "definición": "Estado de sueño profundo o inactividad durante mucho tiempo."
+            },
+            {
+                "palabra": "Trinos",
+                "definición": "Canto alegre y con muchas notas que hacen los pájaros."
+            },
+            {
+                "palabra": "Comarca",
+                "definición": "Conjunto de pueblos que están en una misma zona o región."
+            },
+            {
+                "palabra": "Armonía",
+                "definición": "Cuando todo está en equilibrio y funciona bien en conjunto."
+            },
+            {
+                "palabra": "Bondad",
+                "definición": "Valor de ser bueno y hacer cosas positivas por los demás."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué color tenía el pelaje del zorro que encontró Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Marrón oscuro",
+                    "Gris plateado",
+                    "Rojizo",
+                    "Blanco nieve"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién había robado los sonidos según la leyenda del pueblo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un duende travieso",
+                    "Un gigante egoísta",
+                    "Un lobo feroz",
+                    "Un cazador furtivo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuántos años tenía Mateo en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Ocho años",
+                    "Diez años",
+                    "Doce años",
+                    "Catorce años"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa realmente el 'gigante' de la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Un monstruo que vive en cuevas",
+                    "El olvido y la falta de empatía",
+                    "Un tornado muy fuerte",
+                    "La nieve del invierno"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el bosque recuperó su voz al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque Mateo encontró la caja de roble",
+                    "Porque el gigante se fue del pueblo",
+                    "Por el acto de bondad de Mateo al ayudar al zorro",
+                    "Porque empezó a llover"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo cambió el comportamiento de los habitantes del pueblo?",
+                "tipo": "test",
+                "opciones": [
+                    "Se mudaron a otro lugar",
+                    "Tuvieron miedo del zorro",
+                    "Aprendieron a cuidar y respetar más la naturaleza",
+                    "Dejaron de contar leyendas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos deducir sobre la personalidad de Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es miedoso y solitario",
+                    "Que es compasivo y observador",
+                    "Que es travieso y desobediente",
+                    "Que no le gustan los animales"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "La historia sugiere que la música del bosque es en realidad:",
+                "tipo": "test",
+                "opciones": [
+                    "Una grabación vieja",
+                    "El ruido de las máquinas",
+                    "La conexión y el amor entre los seres vivos",
+                    "Algo que solo escuchan los adultos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué habrías hecho tú si te encuentras al zorro atrapado?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo habría hecho lo mismo que Mateo porque me daría mucha pena dejar al animalito sufriendo. Aunque me diera un poco de miedo que me mordiera, intentaría ayudarle despacito porque todos los animales merecen estar libres."
+            },
+            {
+                "enunciado": "¿Crees que las pequeñas acciones pueden cambiar cosas grandes?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, yo creo que sí. Como Mateo, que solo ayudó a un zorro y al final arregló todo el bosque. Si cada niño hace una cosa pequeña y buena, al final el mundo entero puede estar más contento y mejor cuidado."
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián del Rayo de Luna",
+        "tema": "leyendas",
+        "texto": "En la costa norte de una isla remota, donde las olas rompen con fuerza contra los acantilados de piedra gris, vivía una joven llamada Elara. Desde muy pequeña, su abuelo le contaba la leyenda de Lúmina, una ciudad submarina construida con perlas y corales que solo se hacía visible durante las noches de luna llena. Según el relato antiguo, la ciudad se hundió por la avaricia de sus gobernantes, quienes querían poseer toda la luz del mundo. El hechizo decía que Lúmina solo volvería a brillar cuando alguien realizara una acción de honestidad pura, sin esperar ninguna recompensa a cambio. Elara pasaba las tardes buscando caracolas en la arena, soñando con ver aquel resplandor bajo el mar. Un martes por la tarde, mientras el sol se ocultaba dejando un rastro púrpura en el horizonte, Elara vio algo brillar intensamente entre las algas que la marea había arrastrado. Se acercó y descubrió un amuleto de plata con una piedra azul que parecía contener un rayo de luna en su interior. Era el objeto más hermoso que había visto jamás. Sabía que aquel amuleto pertenecía a la anciana del faro, una mujer solitaria que decía haberlo perdido hacía muchos años. Por un momento, Elara pensó en quedárselo, pues su familia era humilde y aquel tesoro podría ayudarlos mucho. Sin embargo, recordó las palabras de su abuelo sobre la integridad. Sin pensarlo dos veces, corrió hacia el faro y le entregó el amuleto a la anciana. La mujer, con lágrimas en los ojos, le dio las gracias y le dijo que aquel objeto no tenía valor por el metal, sino por los recuerdos que guardaba. Esa misma noche, la luna llena alcanzó el punto más alto del cielo. Elara estaba en la playa cuando, de repente, el mar se iluminó con una luz esmeralda que salía de las profundidades. Ante sus ojos, las torres de Lúmina emergieron suavemente entre las olas, brillando con una intensidad que hacía que la noche pareciera día. Los corales reflejaban los colores del arcoíris y las perlas emitían un sonido suave como campanillas de cristal. Elara comprendió que su honestidad había sido la llave que la ciudad esperaba durante siglos. No necesitaba el oro del amuleto para ser rica; la verdadera riqueza era haber devuelto la luz a su isla y haber cumplido con su deber. La ciudad de Lúmina no se quedó fuera del agua para siempre, sino que volvió a sumergirse al amanecer, dejando en la arena pequeñas escamas de plata como recordatorio. Elara se convirtió en la guardiana de la leyenda, enseñando a los niños que la verdad siempre ilumina más que cualquier joya. Desde entonces, los habitantes de la isla viven con la esperanza de que, mientras existan personas honestas, la luz de Lúmina seguirá guiando sus pasos desde el fondo del océano infinito. La magia de la isla reside ahora en la sinceridad de sus habitantes.",
+        "glosario": [
+            {
+                "palabra": "Remota",
+                "definición": "Un lugar que está muy lejos y es difícil de llegar."
+            },
+            {
+                "palabra": "Acantilados",
+                "definición": "Cortes verticales en las rocas cerca del mar, muy altos y empinados."
+            },
+            {
+                "palabra": "Avaricia",
+                "definición": "Deseo excesivo de tener riquezas y no querer compartirlas con nadie."
+            },
+            {
+                "palabra": "Recompensa",
+                "definición": "Premio o beneficio que se recibe por haber hecho algo."
+            },
+            {
+                "palabra": "Integridad",
+                "definición": "Cualidad de ser honesto y hacer lo correcto siempre."
+            },
+            {
+                "palabra": "Amuleto",
+                "definición": "Objeto pequeño al que se le atribuyen poderes mágicos o de protección."
+            },
+            {
+                "palabra": "Humilde",
+                "definición": "Persona o familia que tiene poco dinero o vive de forma sencilla."
+            },
+            {
+                "palabra": "Esmeralda",
+                "definición": "Color verde brillante muy bonito, parecido al de una piedra preciosa."
+            },
+            {
+                "palabra": "Emergieron",
+                "definición": "Cuando algo sale de dentro del agua hacia la superficie."
+            },
+            {
+                "palabra": "Sinceridad",
+                "definición": "Valor de decir siempre la verdad y actuar sin mentiras."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De qué materiales estaba construida la ciudad de Lúmina?",
+                "tipo": "test",
+                "opciones": [
+                    "Oro y diamantes",
+                    "Hierro y madera",
+                    "Perlas y corales",
+                    "Piedra y cristal"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿A quién pertenecía el amuleto que encontró Elara?",
+                "tipo": "test",
+                "opciones": [
+                    "Al rey de la isla",
+                    "A su abuelo",
+                    "A la anciana del faro",
+                    "A un pirata"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuándo se hacía visible la ciudad según la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "En el solsticio de verano",
+                    "En las noches de luna llena",
+                    "Cada año bisiesto",
+                    "Cuando llovía mucho"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Elara decidió devolver el amuleto a pesar de ser humilde?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaba la plata",
+                    "Porque tenía miedo de la anciana",
+                    "Porque valoraba la integridad y hacer lo correcto",
+                    "Porque pensó que era falso"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué causó originalmente que la ciudad de Lúmina se hundiera?",
+                "tipo": "test",
+                "opciones": [
+                    "Un terremoto gigante",
+                    "La avaricia de sus gobernantes",
+                    "Una ballena enorme",
+                    "Un descuido con el fuego"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza la luz esmeralda que sale del mar?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay un volcán debajo",
+                    "Que el hechizo se ha roto por un acto honesto",
+                    "Que viene una tormenta",
+                    "Que hay peces linterna"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se siente la anciana al recuperar su objeto?",
+                "tipo": "test",
+                "opciones": [
+                    "Enojada porque tardaron mucho",
+                    "Indiferente",
+                    "Agradecida y emocionada por sus recuerdos",
+                    "Sorprendida porque no era suyo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Elara aprende que la 'verdadera riqueza' consiste en:",
+                "tipo": "test",
+                "opciones": [
+                    "Tener muchas joyas",
+                    "Vivir en una ciudad submarina",
+                    "La satisfacción de cumplir con el deber y ser honesta",
+                    "Ser la jefa de la isla"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Te parece difícil ser honesto cuando encuentras algo valioso y nadie te ve?",
+                "tipo": "abierta",
+                "respuestaModelo": "Un poco sí, porque si eres pobre como Elara piensas que ese dinero ayudaría a tus padres. Pero luego te sientes mal por dentro si te quedas algo que no es tuyo, así que al final es mejor devolverlo y dormir tranquilo."
+            },
+            {
+                "enunciado": "¿Qué significa para ti que la ciudad de Lúmina aparezca solo por momentos?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que significa que las cosas mágicas y buenas no pasan todos los días, sino que hay que ganárselas portándose bien. Es como un premio que te enseña que la magia existe si la gente es sincera de verdad."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Baobab Invertido",
+        "tema": "leyendas",
+        "texto": "Hace muchísimos milenios, cuando el mundo era todavía un lienzo tierno y los dioses caminaban entre los ríos de la sabana africana, nació el primer baobab. Al principio, este árbol era la criatura más hermosa y esbelta de toda la naturaleza. Sus ramas eran finas como hilos de seda, sus hojas brillaban con un verde esmeralda que deslumbraba al sol y sus flores desprendían un perfume tan dulce que las abejas viajaban kilómetros solo para olerlo. El baobab, consciente de su increíble belleza, empezó a llenarse de una soberbia que no conocía límites. Cada mañana, cuando el sol salía por el horizonte, el árbol se miraba en el reflejo de los grandes lagos y se burlaba de sus compañeros. A la palmera le decía que su tronco era demasiado flaco y aburrido. Al pequeño arbusto de espinas lo humillaba diciendo que nadie querría acercarse a algo tan feo. Incluso se atrevió a protestar ante los dioses, exigiendo ser más alto que las nubes para que todos los seres del planeta tuvieran que mirar hacia arriba obligatoriamente para admirar su copa. Los dioses, con una paciencia infinita, intentaron calmar su arrogancia dándole frutos deliciosos para que compartiera con los animales, pero el baobab se guardaba la comida en sus ramas más altas para que nadie pudiera alcanzarlos. Un día, una gran sequía azotó la región y los animales, sedientos y hambrientos, se acercaron al gran baobab pidiendo ayuda. El árbol, en lugar de mostrar compasión, extendió sus ramas para alejarlos y se burló de su debilidad. Fue entonces cuando el Gran Espíritu de la Selva perdió la paciencia. Con un estruendo que hizo temblar la tierra, el espíritu descendió del cielo y agarró al baobab por el tronco. Sin decir una sola palabra, lo arrancó de la tierra de un solo tirón. El árbol gritó de terror, pero ya era tarde. El espíritu lo giró en el aire y lo volvió a plantar en la tierra, pero esta vez con las ramas enterradas y las raíces apuntando hacia el cielo. De esta forma, el baobab ya no podría mirarse en el lago ni presumir de su belleza ante los demás. Sus flores se volvieron extrañas y sus frutos, aunque nutritivos, quedaron escondidos tras una corteza dura y rugosa. Desde aquel lejano día, el baobab luce esa figura tan curiosa que conocemos hoy, pareciendo que sus raíces crecen hacia las nubes como si estuviera patas arriba. El árbol aprendió la lección de la humildad por las malas, y ahora dedica su vida a almacenar agua en su enorme tronco para ayudar a los elefantes y viajeros durante las épocas de calor. Ya no es el más guapo, pero se ha convertido en el más generoso y respetado de la sabana. Los ancianos cuentan que, por la noche, si pegas el oído a su corteza, puedes oír un susurro de gratitud hacia los dioses por haberle permitido seguir vivo aunque fuera al revés. Esta leyenda nos enseña que la belleza externa se marchita, pero la utilidad y la bondad son raíces que nos mantienen firmes para siempre.",
+        "glosario": [
+            {
+                "palabra": "Inmemorial",
+                "definición": "Que es tan antiguo que no se recuerda cuándo empezó."
+            },
+            {
+                "palabra": "Soberbia",
+                "definición": "Sentimiento de creerse mejor que los demás y despreciarlos."
+            },
+            {
+                "palabra": "Esbelta",
+                "definición": "Que es alta, delgada y tiene una figura elegante."
+            },
+            {
+                "palabra": "Sabana",
+                "definición": "Gran llanura con pocos árboles y mucha hierba, típica de climas cálidos."
+            },
+            {
+                "palabra": "Humillar",
+                "definición": "Hacer que alguien se sienta avergonzado o inferior."
+            },
+            {
+                "palabra": "Arrogancia",
+                "definición": "Actitud de orgullo excesivo que hace que alguien sea presumido."
+            },
+            {
+                "palabra": "Sequía",
+                "definición": "Largo período de tiempo en el que no llueve y falta el agua."
+            },
+            {
+                "palabra": "Rugosa",
+                "definición": "Que tiene arrugas o bultos y no es suave al tacto."
+            },
+            {
+                "palabra": "Humildad",
+                "definición": "Valor de conocer nuestras limitaciones y no creernos mejores que nadie."
+            },
+            {
+                "palabra": "Gratitud",
+                "definición": "Sentimiento de agradecimiento hacia alguien que nos ha ayudado."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo eran las hojas del baobab al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Duras y marrones",
+                    "Verde esmeralda y brillantes",
+                    "Pequeñas y secas",
+                    "No tenía hojas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hizo el espíritu de la selva para castigar al árbol?",
+                "tipo": "test",
+                "opciones": [
+                    "Lo quemó con un rayo",
+                    "Lo convirtió en piedra",
+                    "Lo plantó al revés con las raíces arriba",
+                    "Lo mandó a otro continente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿A qué animal ayuda el baobab actualmente almacenando agua?",
+                "tipo": "test",
+                "opciones": [
+                    "A los leones",
+                    "A las abejas",
+                    "A los elefantes",
+                    "A los leopardos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el baobab quería ser más alto que las nubes?",
+                "tipo": "test",
+                "opciones": [
+                    "Para ver mejor el paisaje",
+                    "Para que todos tuvieran que admirarlo obligatoriamente",
+                    "Para llegar al sol",
+                    "Para recoger más agua de lluvia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que el árbol 'aprendió la lección por las malas'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que aprendió a través de un castigo duro",
+                    "Que no aprendió nada",
+                    "Que fue una lección divertida",
+                    "Que los dioses fueron buenos con él"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cuál era el principal defecto del baobab en su juventud?",
+                "tipo": "test",
+                "opciones": [
+                    "La pereza",
+                    "La timidez",
+                    "La vanidad y la soberbia",
+                    "La falta de agua"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿cuál es la 'verdadera riqueza' del árbol hoy en día?",
+                "tipo": "test",
+                "opciones": [
+                    "Sus flores hermosas",
+                    "Su altura",
+                    "Su capacidad de ser generoso y dar agua",
+                    "Su perfume dulce"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué sentimiento tienen los ancianos hacia el baobab al contar la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Odio",
+                    "Respeto y sabiduría",
+                    "Indiferencia",
+                    "Mucho miedo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que los dioses hicieron bien al castigar al baobab de esa manera?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que sí porque el árbol se portaba muy mal con los demás y no quería compartir nada. A veces necesitamos un susto para darnos cuenta de que no somos mejores que nadie y que hay que ayudar."
+            },
+            {
+                "enunciado": "Si fueras un animal de la sabana, ¿perdonarías al baobab ahora que ayuda a todos?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, lo perdonaría porque ahora está haciendo cosas buenas. Aunque antes fuera presumido, ahora guarda agua para que los animales no mueran de sed, y eso demuestra que ha cambiado su forma de ser."
+            }
+        ]
+    },
+    {
+        "titulo": "La Doncella del Salto del Agua",
+        "tema": "leyendas",
+        "texto": "En las profundas selvas del norte, donde el agua cae con un estruendo que parece música de tambores, se encuentra una de las cataratas más bellas del mundo. La leyenda dice que hace cientos de años, en una aldea cercana, vivía una joven llamada Naia. Ella poseía una conexión mágica con el río; se decía que podía entender el idioma de los peces y que el agua se volvía más clara cuando ella se bañaba en sus orillas. Naia era feliz cuidando de la naturaleza, pero su pueblo estaba pasando por un momento difícil. Un cacique de una tribu lejana, movido por la codicia, quería desviar el cauce del río para llevarse todo el agua a sus propias tierras, dejando a la aldea de Naia en la más absoluta miseria. El cacique envió a sus guerreros para construir una gran barrera de piedras y troncos. Naia, al ver cómo el río empezaba a agonizar y los peces saltaban desesperados, decidió subir hasta la cima de la gran catarata para pedir ayuda a los espíritus ancestrales. Caminó durante toda la noche, esquivando jaguares y serpientes, guiada únicamente por el brillo de las luciérnagas. Al llegar arriba, se encontró con el Guardián de la Cascada, un ser hecho de espuma y luz azul. El Guardián le dijo que para salvar el río necesitaba un sacrificio de amor puro. Naia, sin dudarlo, ofreció su libertad para convertirse en parte del agua para siempre. En ese momento, una luz intensa envolvió a la joven y su cuerpo se transformó en una corriente de agua cristalina y poderosa. El río creció con una fuerza sobrenatural, rompiendo la barrera de los guerreros y devolviendo la vida a los campos de su aldea. Los soldados del cacique huyeron aterrorizados, pensando que el río había cobrado vida propia. Desde entonces, el agua nunca ha dejado de correr con fuerza en ese lugar. Los habitantes de la aldea, en señal de respeto, nunca volvieron a contaminar las orillas y cuentan que, en los días de mucho sol, se puede ver la figura de Naia reflejada en el arcoíris que se forma sobre la caída del agua. Ella ya no es una niña humana, sino el alma misma de la catarata que protege a todos los seres vivos que dependen de ella. La leyenda de Naia nos recuerda que el egoísmo de unos pocos no puede vencer a la generosidad de quienes aman su hogar. Incluso hoy, los viajeros que visitan el lugar dicen sentir una paz extraña y refrescante, como si alguien los estuviera cuidando desde la espuma blanca. La historia de la doncella del agua se convirtió en un símbolo de valentía que los padres cuentan a sus hijos para que aprendan que la naturaleza es un tesoro que debemos proteger con todas nuestras fuerzas, pues sin ella, la vida simplemente se marchitaría como una flor sin rocío.",
+        "glosario": [
+            {
+                "palabra": "Estruendo",
+                "definición": "Ruido muy fuerte y ensordecedor."
+            },
+            {
+                "palabra": "Cacique",
+                "definición": "Jefe de una comunidad o tribu indígena."
+            },
+            {
+                "palabra": "Codicia",
+                "definición": "Deseo excesivo de tener riquezas o posesiones solo para uno mismo."
+            },
+            {
+                "palabra": "Cauce",
+                "definición": "El camino por donde corren las aguas de un río."
+            },
+            {
+                "palabra": "Miseria",
+                "definición": "Situación de mucha pobreza y falta de lo necesario para vivir."
+            },
+            {
+                "palabra": "Agonizar",
+                "definición": "Estar cerca de morir o de desaparecer."
+            },
+            {
+                "palabra": "Ancestrales",
+                "definición": "Que pertenece a los antepasados o a tiempos muy remotos."
+            },
+            {
+                "palabra": "Sobrenatural",
+                "definición": "Algo que no tiene una explicación lógica o que parece magia."
+            },
+            {
+                "palabra": "Rocío",
+                "definición": "Gotas de agua que aparecen en las plantas por la mañana."
+            },
+            {
+                "palabra": "Contaminar",
+                "definición": "Ensuciar o dañar el medio ambiente con sustancias malas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué don especial tenía Naia según la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Podía volar sobre los árboles",
+                    "Entendía el idioma de los peces",
+                    "Podía convertir las piedras en oro",
+                    "Hacía que lloviera fuego"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué quería hacer el cacique de la tribu lejana?",
+                "tipo": "test",
+                "opciones": [
+                    "Construir un puente",
+                    "Desviar el río para su propio beneficio",
+                    "Hacer una fiesta en la cascada",
+                    "Limpiar el agua de la selva"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué se transformó Naia al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "En un jaguar de plata",
+                    "En una nube de lluvia",
+                    "En una corriente de agua cristalina",
+                    "En una luciérnaga gigante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Naia decidió sacrificarse?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba cansada de vivir en la aldea",
+                    "Para salvar el río y a su gente de la miseria",
+                    "Porque el Guardián era su amigo",
+                    "Para ser famosa en todo el mundo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos deducir sobre el carácter del cacique?",
+                "tipo": "test",
+                "opciones": [
+                    "Que era un hombre justo",
+                    "Que era egoísta y no le importaba el sufrimiento de los demás",
+                    "Que tenía mucha sed",
+                    "Que era muy miedoso"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué función cumple el arcoíris en esta leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Es una señal de que va a llover",
+                    "Es donde Naia se esconde del sol",
+                    "Es el reflejo de Naia cuidando la catarata",
+                    "Es un puente para cruzar el río"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué los guerreros huyeron aterrorizados?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque vieron a un jaguar",
+                    "Porque se quedaron sin comida",
+                    "Porque el río creció con una fuerza mágica e inesperada",
+                    "Porque Naia les gritó"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de la historia respecto a la naturaleza?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es peligrosa y hay que evitarla",
+                    "Que es un tesoro que debemos proteger con valentía",
+                    "Que el agua siempre es gratis",
+                    "Que los ríos no se pueden mover"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece justo que Naia tuviera que convertirse en agua para salvar a los demás?",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí me da un poco de pena que no pudiera seguir siendo una niña, pero creo que fue muy heroico porque prefirió salvar a todo su pueblo que quedarse ella sola tranquila. Gracias a ella ahora todos tienen agua."
+            },
+            {
+                "enunciado": "¿Qué harías tú para proteger el agua de tu comunidad si estuviera en peligro?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo intentaría hablar con la gente para que no tiren basura y ahorraría toda la que pudiera en casa. También pediría ayuda a los adultos para que nadie ensucie los ríos, porque el agua es de todos."
+            }
+        ]
+    },
+    {
+        "titulo": "La Canción de Amancay",
+        "tema": "leyendas",
+        "texto": "Hace mucho tiempo, en el imperio del sol, existía una montaña que siempre estaba cubierta por una túnica de nubes blancas. Los habitantes de las faldas de la cordillera la llamaban la Montaña de Plata, no porque tuviera metal precioso, sino por el brillo constante de su nieve. En un pueblo cercano vivía Cusi, una niña que amaba las flores más que a nada en el mundo. Sin embargo, su tierra era seca y pedregosa, y las únicas plantas que crecían eran cactus con espinas afiladas. Un día, una sequía terrible azotó la región. Los ríos se convirtieron en caminos de polvo y las llamas lloraban de sed. El abuelo de Cusi, el anciano más sabio del lugar, le contó una antigua leyenda: en la cima de la montaña vivía el Espíritu del Viento Helado, quien guardaba la única semilla de la Flor de la Esperanza. Si alguien lograba plantarla en el valle, el agua regresaría. Cusi, valiente y decidida, comenzó el ascenso. El camino era empinado y el frío calaba hasta los huesos. Después de caminar durante tres soles, llegó a la cumbre. Allí, el Espíritu del Viento la recibió con un soplido helado. ¿Qué hace una pequeña humana en mi reino de hielo?, preguntó con voz de tormenta. Vengo por la semilla, respondió Cusi temblando. Mi pueblo muere de sed. El Espíritu rió con un sonido de cristales rotos. Solo te daré la semilla si me entregas algo que sea verdaderamente tuyo. Cusi no tenía oro ni joyas. Miró su collar de cuentas de colores, pero sabía que eso no bastaba. Entonces, recordó su mayor tesoro: su capacidad de cantar. El Espíritu aceptó. Cusi cantó su canción más hermosa, entregando su voz al viento para siempre. El Espíritu, conmovido por el sacrificio, le entregó una pequeña semilla azul. Cusi bajó la montaña en silencio, sin poder decir una palabra. Al llegar al centro de la aldea, plantó la semilla en la tierra seca. De repente, de la tierra brotó una flor hermosa y transparente. En ese instante, las nubes se abrieron y una lluvia suave y dulce comenzó a caer. Los ríos volvieron a cantar y los campos se volvieron verdes de nuevo. Aunque Cusi nunca recuperó su voz, cada vez que el viento soplaba entre las flores del valle, se escuchaba una melodía dulce. El pueblo llamó a esas flores Amancay, en honor a la niña que cambió su voz por la vida de todos. Hoy en día, los viajeros que suben a los Andes dicen que, si guardas silencio absoluto cerca de los picos nevados, todavía puedes escuchar el eco de aquella canción perdida, recordándonos que el amor verdadero no necesita palabras para ser entendido por el corazón de la naturaleza misma en esta tierra sagrada de los antepasados incas.",
+        "glosario": [
+            {
+                "palabra": "Cordillera",
+                "definición": "Serie de montañas enlazadas entre sí que forman una cadena."
+            },
+            {
+                "palabra": "Pedregosa",
+                "definición": "Tierra que está llena de piedras y es difícil para cultivar."
+            },
+            {
+                "palabra": "Sequía",
+                "definición": "Largo tiempo sin lluvia que hace que la tierra se seque."
+            },
+            {
+                "palabra": "Ascenso",
+                "definición": "Acción de subir a un sitio muy alto, como una montaña."
+            },
+            {
+                "palabra": "Cumbres",
+                "definición": "Las partes más altas y puntiagudas de las montañas."
+            },
+            {
+                "palabra": "Espíritu",
+                "definición": "Ser mágico o invisible que cuida de la naturaleza."
+            },
+            {
+                "palabra": "Sacrificio",
+                "definición": "Dejar de tener algo que quieres mucho para ayudar a otros."
+            },
+            {
+                "palabra": "Conmovido",
+                "definición": "Sentir una emoción fuerte, como lástima o ternura."
+            },
+            {
+                "palabra": "Valle",
+                "definición": "Terreno llano que está situado entre montañas."
+            },
+            {
+                "palabra": "Ancestros",
+                "definición": "Personas de la familia o del pueblo que vivieron hace mucho tiempo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba la niña protagonista de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Amancay",
+                    "Cusi",
+                    "Llama",
+                    "Plata"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué le pidió el Espíritu del Viento a cambio de la semilla?",
+                "tipo": "test",
+                "opciones": [
+                    "Su collar de cuentas",
+                    "Sus joyas de oro",
+                    "Su capacidad de cantar",
+                    "Su manta de lana"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué planta nació de la semilla azul que plantó Cusi?",
+                "tipo": "test",
+                "opciones": [
+                    "Un cactus gigante",
+                    "Una flor transparente",
+                    "Un árbol de plata",
+                    "Una palmera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el pueblo llamaba a la montaña 'Montaña de Plata'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque tenía minas de plata",
+                    "Porque el hielo y la nieve brillaban mucho",
+                    "Porque los dioses tiraban monedas",
+                    "Porque las piedras eran grises"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza el hecho de que Cusi pierda su voz?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tenía miedo del viento",
+                    "Su generosidad al dar algo valioso por los demás",
+                    "Que el Espíritu era malvado",
+                    "Que se olvidó de cómo hablar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió el paisaje de la aldea al final de la leyenda?",
+                "tipo": "test",
+                "opciones": [
+                    "Se llenó de nieve eterna",
+                    "Se volvió un desierto de cactus",
+                    "Los ríos volvieron y los campos reverdecieron",
+                    "Se convirtió en una ciudad de oro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Si Cusi no hubiera subido a la montaña, ¿qué habría pasado?",
+                "tipo": "test",
+                "opciones": [
+                    "Habría llovido igual",
+                    "El abuelo habría ido en su lugar",
+                    "La sequía habría destruido el pueblo",
+                    "El Espíritu habría bajado solo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué tipo de narración es este texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Una noticia de prensa",
+                    "Un manual de instrucciones",
+                    "Una leyenda tradicional",
+                    "Un poema corto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué opinas de la decisión de Cusi de dar su voz al Espíritu?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue muy valiente porque quedarse sin hablar es muy difícil, pero ella prefirió que todo su pueblo tuviera agua. Demostró que quiere mucho a su familia y a su tierra."
+            },
+            {
+                "enunciado": "¿Por qué crees que el Espíritu aceptó la canción en lugar de dinero?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pienso que es porque la música sale del corazón y es algo único. El dinero no le sirve a un espíritu de la montaña, pero una canción bonita es un regalo especial que nadie más puede dar."
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián del Puente de Cristal",
+        "tema": "leyendas",
+        "texto": "En el corazón de un bosque donde los árboles susurran secretos antiguos, existía un puente de piedra que cruzaba un río de aguas turbulentas. No era un puente común; los lugareños lo llamaban el Puente del Juicio. Decían que solo aquellos con un corazón limpio podían cruzarlo sin que las piedras se convirtieran en humo bajo sus pies. Un joven pastor llamado Mateo, conocido por su honestidad, debía cruzar el río para llevar su rebaño a los pastos de verano. Al llegar al borde, se encontró con un anciano de barbas blancas que bloqueaba el paso. ¿A dónde vas con tanta prisa, pequeño pastor?, preguntó el anciano. Busco los pastos verdes, señor, respondió Mateo con respeto. Mi familia depende de estas ovejas. El anciano sonrió y sacó una moneda de oro de su túnica. Te daré esta moneda si me dejas una de tus ovejas para mi cena. Mateo miró la moneda. Valía más que todo su rebaño junto. Podría comprar una casa nueva para sus padres y ropa caliente para sus hermanos. Sin embargo, miró a sus ovejas, que lo seguían con confianza. No puedo hacerlo, señor. Estas ovejas están bajo mi cuidado y yo les prometí llevarlas a salvo. Su confianza no tiene precio, dijo Mateo con firmeza. El anciano asintió y se desvaneció como la niebla matutina. Mateo comenzó a cruzar el puente. A mitad del camino, las piedras empezaron a brillar como diamantes y una voz surgió del agua. Soy el espíritu del río, dijo la voz. He visto tu elección. Muchos habrían preferido el oro, pero tú preferiste la lealtad. Como recompensa, te concederé un deseo. Mateo lo pensó mucho. No pidió oro, ni palacios. Deseo que este puente sea siempre seguro para todos los caminantes y que el río nunca se desborde sobre el pueblo, pidió con sencillez. El espíritu quedó impresionado. No pidió nada para sí mismo, sino para los demás. Desde aquel día, el río se volvió tranquilo y cristalino. El puente se volvió indestructible y, cuentan las leyendas, que aquel que lo cruzaba sentía una paz inmediata en su alma. Mateo creció y se convirtió en el líder más sabio que la región hubiera conocido jamás. Siempre decía que la verdadera riqueza no es lo que guardas en los bolsillos, sino la palabra que cumples y el cuidado que das a quienes dependen de ti. La leyenda del pastor y el puente se extendió por todo el reino, enseñando a los niños que la integridad es el único material que puede construir un puente hacia un futuro mejor. Incluso ahora, cuando alguien se enfrenta a una decisión difícil, los abuelos del lugar dicen: recuerda a Mateo en el puente, y elige el camino que te permita mirar a las estrellas sin sentir vergüenza de tus actos hoy y siempre bajo este cielo azul.",
+        "glosario": [
+            {
+                "palabra": "Turbulentas",
+                "definición": "Aguas que se mueven con mucha fuerza y desorden."
+            },
+            {
+                "palabra": "Honestidad",
+                "definición": "Valor de decir siempre la verdad y actuar con justicia."
+            },
+            {
+                "palabra": "Rebaño",
+                "definición": "Grupo de ovejas que andan juntas y son cuidadas por un pastor."
+            },
+            {
+                "palabra": "Túnica",
+                "definición": "Ropa larga y suelta que cubre el cuerpo hasta las rodillas o pies."
+            },
+            {
+                "palabra": "Desvaneció",
+                "definición": "Cuando algo desaparece poco a poco de la vista."
+            },
+            {
+                "palabra": "Lealtad",
+                "definición": "Cumplir con una promesa y no abandonar a los amigos o seres queridos."
+            },
+            {
+                "palabra": "Indestructible",
+                "definición": "Algo que es tan fuerte que no se puede romper nunca."
+            },
+            {
+                "palabra": "Integridad",
+                "definición": "Ser una persona entera, que siempre hace lo correcto aunque nadie mire."
+            },
+            {
+                "palabra": "Líder",
+                "definición": "Persona que guía a un grupo y a la que todos respetan."
+            },
+            {
+                "palabra": "Vergüenza",
+                "definición": "Sentimiento incómodo cuando sabemos que hemos hecho algo mal."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo llamaban los habitantes del pueblo al puente de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Puente de Oro",
+                    "Puente del Juicio",
+                    "Puente de Madera",
+                    "Puente de las Ovejas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué le ofreció el anciano a Mateo a cambio de una oveja?",
+                "tipo": "test",
+                "opciones": [
+                    "Una bolsa de plata",
+                    "Una moneda de oro",
+                    "Un bastón mágico",
+                    "Una túnica blanca"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pidió Mateo al espíritu del río como deseo?",
+                "tipo": "test",
+                "opciones": [
+                    "Mucho oro",
+                    "Un palacio",
+                    "Que el puente fuera seguro para todos",
+                    "Ser el rey del bosque"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué las piedras del puente brillaron cuando Mateo cruzaba?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era mediodía",
+                    "Porque Mateo tenía un corazón limpio",
+                    "Porque el anciano las encendió",
+                    "Porque eran piedras preciosas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa la frase 'su confianza no tiene precio'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las ovejas eran baratas",
+                    "Que el dinero es más importante",
+                    "Que no se puede vender la lealtad por dinero",
+                    "Que no sabía contar dinero"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué ocurrió con el anciano tras la respuesta de Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Se enfadó mucho",
+                    "Se desvaneció como la niebla",
+                    "Se llevó una oveja a la fuerza",
+                    "Se sentó a llorar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo era el carácter de Mateo según la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Codicioso y rápido",
+                    "Sencillo, sabio y honesto",
+                    "Miedoso y callado",
+                    "Travieso y desordenado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza final que dan los abuelos a los niños?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no hay que hablar con extraños",
+                    "Que hay que elegir el camino que no te dé vergüenza",
+                    "Que las ovejas son mejores que el oro",
+                    "Que los puentes son peligrosos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece que Mateo fue inteligente al rechazar la moneda de oro?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, fue muy listo. A lo mejor con el oro compraba cosas, pero luego se sentiría muy mal por haber traicionado a sus ovejitas. La tranquilidad de hacer lo correcto vale más que el dinero."
+            },
+            {
+                "enunciado": "¿Por qué crees que Mateo pidió algo para el pueblo en lugar de pedir algo para él?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que es porque él era muy generoso. Sabía que si el puente era seguro y el río no se desbordaba, todos en su aldea vivirían mejor, y eso le hacía más feliz que tener juguetes o riquezas solo para él."
+            }
+        ]
+    }
+]

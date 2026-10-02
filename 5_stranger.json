@@ -1,0 +1,1472 @@
+[
+    {
+        "titulo": "El Mensaje en la Estática: Código Rojo",
+        "tema": "stranger",
+        "texto": "Era una tarde gris de noviembre en Hawkins, Indiana. Las hojas secas cubrían las calles como una alfombra crujiente de color marrón y naranja. En el sótano de la casa de los Wheeler, Mike caminaba de un lado a otro con impaciencia. Sobre la mesa, el tablero de 'Calabozos y Dragones' estaba desplegado, pero las figuras estaban quietas. Faltaba alguien. Will no había llegado.\n\n—Seguro que su madre lo ha retenido —dijo Lucas, lanzando una goma elástica contra una caja de pizza vacía—. Ya conocéis a Joyce, se preocupa mucho.\n\n—No es solo eso —intervino Dustin, ajustándose la gorra—. ¿Habéis notado la electricidad hoy? Mi brújula lleva media hora girando como loca. No apunta al Norte verdadero.\n\nDe repente, el Supercom de Mike, su enorme walkie-talkie, emitió un chirrido agudo que les hizo taparse los oídos. No era el ruido normal. Entre la estática, se oyó una respiración agitada y una sola palabra repetida: «Mirkwood... Mirkwood...».\n\n—¡Es Will! —gritó Mike, agarrando el aparato—. ¡Will! ¿Me recibes? ¡Cambio!\n\nSolo hubo silencio y luego un zumbido eléctrico. Mike miró a sus amigos con los ojos muy abiertos.\n\n—Código Rojo. Repito, Código Rojo. Coged las bicicletas. Ahora.\n\nSalieron del garaje a toda velocidad. El aire frío les golpeaba la cara mientras pedaleaban hacia el bosque de Mirkwood. Eleven iba sentada en la parte trasera de la bici de Mike, agarrándose fuerte a su cintura. Llevaba su chaqueta rosa y tenía una expresión concentrada. Ella sentía cosas que los demás no podían.\n\nAl llegar al borde del bosque, encendieron las linternas. Los haces de luz cortaban la oscuridad, iluminando troncos retorcidos que parecían manos esqueléticas intentando atraparlos. El camino de tierra estaba húmedo y resbaladizo.\n\n—Will suele ir al Castillo Byers cuando quiere esconderse —susurró Lucas, apagando su linterna para no llamar la atención—. ¿Creéis que el Demogorgon ha vuelto?\n\n—No —dijo Eleven suavemente—. El portal está cerrado. Pero... hay eco.\n\nSiguieron avanzando hasta llegar a la pequeña fortificación de ramas y tela que Will llamaba el Castillo Byers. Estaba vacía, pero el Supercom de Will estaba tirado en el suelo, emitiendo chispas azules.\n\n—Mirad esto —dijo Dustin, señalando los árboles. Una sustancia pegajosa, parecida a una tela de araña gris, cubría los troncos cercanos. El aire se volvió helado de repente, tanto que podían ver su propio aliento.\n\nEleven dio un paso al frente y extendió la mano. Sangre empezó a caer de su nariz. \n\n—Está aquí —dijo ella.\n\nDe entre las sombras surgió una figura. No era un monstruo gigante, sino una especie de sombra oscura que se arrastraba por el suelo. Will estaba detrás de un árbol, paralizado por el miedo. La sombra intentaba rodearlo.\n\n—¡El tirachinas, Lucas! —ordenó Mike.\n\nLucas preparó su 'Muñequera', cargó una piedra y disparó con precisión. La piedra atravesó la sombra sin hacerle daño, pero la distrajo. Eso fue suficiente. Eleven gritó, canalizando toda su energía. Una onda invisible golpeó la sombra, empujándola hacia atrás, disolviéndola como humo en el viento.\n\nWill corrió hacia ellos, temblando. \n\n—Gracias, chicos —dijo con voz débil—. Sentí que el frío volvía. Intenté avisaros, pero la radio explotó.\n\n—Los amigos no mienten y los amigos no abandonan —dijo Mike, ayudándole a levantarse—. Vámonos a casa antes de que a mi madre le dé un ataque.\n\nMontaron de nuevo en las bicicletas, con Will a salvo entre ellos. Mientras salían del bosque, Dustin miró su brújula. La aguja volvía a apuntar al Norte. Hawkins parecía tranquilo de nuevo, pero ellos sabían que, mientras estuvieran juntos, podrían enfrentarse a cualquier oscuridad, fuera de este mundo o del 'Mundo del Revés'.",
+        "glosario": [
+            {
+                "palabra": "Walkie-talkie",
+                "definición": "Aparato de radio portátil que sirve para hablar a distancia con otras personas."
+            },
+            {
+                "palabra": "Estática",
+                "definición": "Ruido molesto, como un zumbido o chisporroteo, que se escucha en la radio cuando no hay buena señal."
+            },
+            {
+                "palabra": "Mirkwood",
+                "definición": "Nombre de fantasía que los niños le ponen al bosque oscuro cercano a sus casas en Hawkins."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "Frase secreta que usa el grupo de amigos para decir que hay una emergencia muy importante."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento con una aguja magnética que sirve para saber dónde está el Norte y no perderse."
+            },
+            {
+                "palabra": "Supercom",
+                "definición": "El nombre especial que le dan los protagonistas a sus walkie-talkies de largo alcance."
+            },
+            {
+                "palabra": "Castillo Byers",
+                "definición": "La pequeña cabaña o fuerte hecho de ramas que Will construyó en el bosque para jugar y esconderse."
+            },
+            {
+                "palabra": "Demogorgon",
+                "definición": "El monstruo principal de su juego de rol, cuyo nombre usan para llamar a la criatura real que les ataca."
+            },
+            {
+                "palabra": "Norte verdadero",
+                "definición": "La dirección exacta hacia el Polo Norte de la Tierra, hacia donde deben apuntar las brújulas si no hay interferencias."
+            },
+            {
+                "palabra": "Mundo del Revés",
+                "definición": "Una dimensión paralela oscura y fría que es como un espejo tenebroso de nuestro mundo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué lugar comienza la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "En el colegio",
+                    "En el sótano de Mike",
+                    "En el bosque",
+                    "En la casa de Will"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué problema tenía la brújula de Dustin?",
+                "tipo": "test",
+                "opciones": [
+                    "Estaba rota y no tenía aguja",
+                    "Apuntaba siempre al Sur",
+                    "Giraba locamente y no marcaba el Norte",
+                    "Se le habían acabado las pilas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa 'Código Rojo' para el grupo?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tienen hambre",
+                    "Que hay una emergencia grave",
+                    "Que van a jugar a las cartas",
+                    "Que se ha terminado el colegio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde se había escondido Will?",
+                "tipo": "test",
+                "opciones": [
+                    "En el sótano",
+                    "En la escuela",
+                    "En el Castillo Byers",
+                    "En el supermercado"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Lucas apagó su linterna en el bosque?",
+                "tipo": "test",
+                "opciones": [
+                    "Para no gastar pilas",
+                    "Para no llamar la atención",
+                    "Porque se rompió",
+                    "Para asustar a Dustin"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo supieron que Eleven estaba usando sus poderes?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque sus ojos brillaban",
+                    "Porque le sangraba la nariz",
+                    "Porque levitó en el aire",
+                    "Porque se puso a gritar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué arma usó Lucas para distraer a la sombra?",
+                "tipo": "test",
+                "opciones": [
+                    "Una espada",
+                    "Un bate de béisbol",
+                    "Su tirachinas",
+                    "Fuegos artificiales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Al final de la historia, ¿qué indicaba que el peligro había pasado?",
+                "tipo": "test",
+                "opciones": [
+                    "Salió el sol",
+                    "La brújula volvió a apuntar al Norte",
+                    "Llegó la policía",
+                    "Encontraron un tesoro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Mike dice: 'Los amigos no mienten y los amigos no abandonan'. ¿Por qué crees que esta frase es tan importante para el grupo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que es importante porque significa que confían mucho los unos en los otros. Saben que si tienen problemas, no estarán solos y siempre se ayudarán, pase lo que pase."
+            },
+            {
+                "enunciado": "¿Por qué crees que fueron ellos a buscar a Will en vez de llamar a la policía inmediatamente?",
+                "tipo": "abierta",
+                "respuestaModelo": "Pienso que fueron ellos porque saben cosas sobre los monstruos y Eleven que los adultos no entenderían o no creerían, así que pensaron que ellos eran los mejores para salvar a su amigo rápidamente."
+            }
+        ]
+    },
+    {
+        "titulo": "Misterio en el Club Audiovisual",
+        "tema": "stranger",
+        "texto": "Era sábado por la noche y la Escuela Secundaria Hawkins estaba totalmente a oscuras, excepto por cuatro linternas que se movían sigilosamente por el pasillo principal. Mike, Dustin, Lucas y Will caminaban de puntillas, intentando que sus zapatillas no chirriaran en el suelo encerado.\n\n—Esto es una mala idea —susurró Lucas, mirando hacia atrás—. Si el Jefe Hopper nos pilla aquí, nos va a encerrar de por vida.\n\n—Tranquilo —respondió Dustin, que iba delante con un mapa del colegio—. Solo necesitamos llegar al Club Audiovisual. El Sr. Clarke recibió ayer el nuevo equipo de radio Heathkit. Es superpotente. Si queremos contactar con Eleven, que está escondida en la cabaña, necesitamos esa radio.\n\nLlegaron a la puerta del aula de ciencias. Estaba cerrada con llave. Mike intentó abrirla, pero fue inútil.\n\n—Dejadme a mí —dijo Dustin, sacando una horquilla del pelo de su bolsillo—. He visto cómo hacen esto en las películas.\n\nTras dos minutos forcejeando, la horquilla se rompió. Will suspiró y miró a la cerradura. Cerró los ojos un momento, concentrándose. A veces, desde que volvió del Mundo del Revés, sentía cosas. \n\n—No estamos solos —dijo Will, abriendo los ojos de golpe.\n\nUn ruido metálico sonó al final del pasillo, cerca de los laboratorios. Clank. Clank. Clank. No eran pasos humanos; sonaba como garras sobre metal.\n\n—¡Al Club Audiovisual, rápido! —ordenó Mike.\n\nCorrieron hacia la sala del club. Por suerte, esa puerta estaba abierta. Entraron y bloquearon la entrada con una silla. La sala estaba llena de aparatos electrónicos, cables y pantallas. En el centro, brillaba la nueva radio Heathkit.\n\n—Dustin, enciéndela —dijo Mike—. Lucas, vigila la puerta.\n\nDustin se puso los auriculares y empezó a girar los diales, buscando la frecuencia correcta. El ruido de estática llenó la habitación. Mientras, los golpes en la puerta empezaron a sonar. Algo quería entrar.\n\n—¡Date prisa! —gritó Lucas, preparando su tirachinas.\n\n—¡No encuentro la señal! —respondió Dustin, sudando—. ¡Hay demasiada interferencia magnética!\n\nDe repente, la radio se encendió sola. Una voz suave salió de los altavoces: «...Amigos...».\n\n—¡Es Eleven! —exclamó Mike, cogiendo el micrófono—. ¡El! Estamos en el colegio. Hay algo fuera. ¿Puedes ayudarnos?\n\nHubo un silencio. Luego, la luz de la sala empezó a parpadear frenéticamente. Las luces de Navidad que el Sr. Clarke tenía guardadas en una caja se encendieron solas, brillando con fuerza. \n\n—Ella no está aquí físicamente —dijo Will—, pero nos está escuchando. Está usando la electricidad.\n\nLa cosa que golpeaba la puerta rugió. La madera empezó a astillarse. Justo cuando parecía que la puerta iba a ceder, el sistema de megafonía de todo el colegio se encendió al máximo volumen. Un ruido agudo, como un pitido sónico insoportable, resonó por los pasillos.\n\nLa criatura al otro lado de la puerta chilló de dolor. Oyeron cómo sus garras resbalaban y se alejaba corriendo, huyendo del ruido que le hacía daño en los oídos sensibles.\n\nUnos segundos después, el ruido paró y las luces volvieron a la normalidad. Dustin se quitó los auriculares, respirando agitadamente.\n\n—¿Ha sido ella? —preguntó Lucas, bajando el tirachinas.\n\n—Sí —sonrió Mike—. Nos ha salvado desde lejos.\n\nSalieron del colegio con cuidado, asegurándose de que la criatura (probablemente un pequeño Demodog perdido) se había ido. Se subieron a sus bicicletas y pedalearon bajo la luz de la luna.\n\n—Esa radio es increíble —dijo Dustin—. Pero la próxima vez, pediremos permiso al Sr. Clarke antes de colarnos.\n\nMike miró hacia el bosque mientras pedaleaba. Sabía que Eleven estaba ahí fuera, cuidándoles. Y esa noche, una vez más, habían demostrado que con un poco de ciencia y mucha amistad, podían superar cualquier peligro en Hawkins.",
+        "glosario": [
+            {
+                "palabra": "Sigilosamente",
+                "definición": "Moverse con mucho cuidado y en silencio para que nadie te vea ni te oiga."
+            },
+            {
+                "palabra": "Audiovisual",
+                "definición": "Relacionado con el sonido (audio) y la imagen (visual); el club donde usan radios y cámaras."
+            },
+            {
+                "palabra": "Heathkit",
+                "definición": "Una marca famosa de radios muy potentes que se usaban mucho en los años 80."
+            },
+            {
+                "palabra": "Frecuencia",
+                "definición": "El 'canal' invisible por donde viaja la voz en la radio; hay que buscar la correcta para escuchar."
+            },
+            {
+                "palabra": "Interferencia",
+                "definición": "Ruidos o problemas que impiden que la señal de radio se escuche con claridad."
+            },
+            {
+                "palabra": "Parpadear",
+                "definición": "Cuando una luz se enciende y se apaga muy rápido de forma repetida."
+            },
+            {
+                "palabra": "Megafonía",
+                "definición": "El sistema de altavoces que hay en los colegios para dar avisos a todas las clases a la vez."
+            },
+            {
+                "palabra": "Sónico",
+                "definición": "Relacionado con el sonido; un ruido sónico es un sonido muy fuerte o especial."
+            },
+            {
+                "palabra": "Demodog",
+                "definición": "Una criatura monstruosa parecida a un perro, pero del Mundo del Revés."
+            },
+            {
+                "palabra": "Diales",
+                "definición": "Las ruedas o botones giratorios de una radio que sirven para buscar las emisoras."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿A qué lugar del colegio querían ir los chicos?",
+                "tipo": "test",
+                "opciones": [
+                    "Al gimnasio",
+                    "A la cafetería",
+                    "Al Club Audiovisual",
+                    "A la biblioteca"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué entraron al colegio de noche?",
+                "tipo": "test",
+                "opciones": [
+                    "Para robar comida",
+                    "Para usar la nueva radio potente y contactar con Eleven",
+                    "Para esconderse de sus padres",
+                    "Para estudiar para un examen"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto usó Dustin para intentar abrir la puerta?",
+                "tipo": "test",
+                "opciones": [
+                    "Una llave maestra",
+                    "Una tarjeta de crédito",
+                    "Una horquilla del pelo",
+                    "Un martillo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién sintió primero que no estaban solos en el colegio?",
+                "tipo": "test",
+                "opciones": [
+                    "Mike",
+                    "Will",
+                    "Lucas",
+                    "Dustin"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo supieron que Eleven les estaba escuchando?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque entró por la puerta",
+                    "Porque les llamó por teléfono",
+                    "Porque las luces empezaron a parpadear y oyeron su voz",
+                    "Porque les envió una carta"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué ahuyentó a la criatura que golpeaba la puerta?",
+                "tipo": "test",
+                "opciones": [
+                    "Un ruido muy fuerte de la megafonía",
+                    "Un disparo de Lucas",
+                    "La luz de las linternas",
+                    "La llegada de la policía"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Se dice que la criatura huyó porque tenía 'oídos sensibles'. Esto significa que...",
+                "tipo": "test",
+                "opciones": [
+                    "Le gustaba la música",
+                    "El ruido fuerte le causaba mucho dolor",
+                    "Estaba sorda",
+                    "Tenía las orejas muy grandes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendieron los chicos esa noche?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no deben entrar al colegio sin permiso",
+                    "Que las radios no sirven para nada",
+                    "Que Eleven ya no es su amiga",
+                    "Que el colegio está embrujado"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "Aunque Eleven estaba lejos, ayudó a sus amigos. ¿Qué crees que significa ser un buen amigo aunque no estés físicamente presente?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que significa que te preocupas por ellos y estás atento. Aunque no estés a su lado, puedes escucharles o ayudarles de otras formas si te necesitan, como hizo Eleven con las luces."
+            },
+            {
+                "enunciado": "¿Te parece valiente lo que hicieron los chicos? ¿Hubieras hecho tú lo mismo? Explica por qué.",
+                "tipo": "abierta",
+                "respuestaModelo": "Me parece muy valiente porque el colegio de noche da miedo y había un monstruo. Yo creo que me habría dado demasiado miedo entrar, pero si fuera para ayudar a una amiga importante como Eleven, igual lo intentaría."
+            }
+        ]
+    },
+    {
+        "titulo": "El Código Rojo en Mirkwood",
+        "tema": "stranger",
+        "texto": "Era una tarde de noviembre en Hawkins, Indiana, y el viento soplaba con fuerza, arrancando las últimas hojas secas de los árboles. En el sótano de la casa de los Wheeler, cuatro amigos estaban sentados alrededor de una mesa plegable, concentrados en una partida de 'Calabozos y Dragones'. Mike, el líder del grupo, narraba la historia con voz misteriosa, mientras Dustin, Lucas y Will escuchaban atentamente. Eleven, sentada en el sofá con una caja de gofres Eggo, observaba el juego con curiosidad, aunque no entendía todas las reglas.\n\nDe repente, el Supercom de Dustin, su enorme walkie-talkie, emitió un chirrido agudo que rompió el silencio. No era el sonido normal de cuando intentaban hablar entre ellos. Era estática, un ruido blanco y molesto, mezclado con una voz muy débil que parecía venir de muy lejos. Mike cogió el aparato y ajustó la antena.\n\n—¿Hola? ¿Hay alguien ahí? —preguntó Mike.\n\nEntre el ruido, se escuchó una frase entrecortada: «...frío... sombra... árbol caído...». Will se puso pálido al instante. Se llevó la mano a la nuca y un escalofrío recorrió su espalda. Él conocía esa sensación mejor que nadie. Era el frío del 'Mundo del Revés'.\n\n—Es un Código Rojo —dijo Lucas, poniéndose de pie de un salto y cogiendo su tirachinas táctico, al que llamaba 'La Muñequera'.\n\n—Alguien está en problemas en el bosque —añadió Dustin, guardando su brújula en la mochila—. Y creo que la señal viene de Mirkwood.\n\nSin perder un segundo, el grupo salió del garaje. Eleven se subió en la parte trasera de la bicicleta de Mike. La noche ya había caído sobre Hawkins y las farolas parpadeaban de forma extraña. Pedalearon con fuerza, formando una fila india. Las luces de sus linternas cortaban la oscuridad mientras se adentraban en el bosque de Mirkwood. El camino era de tierra y estaba lleno de raíces que hacían saltar las bicicletas, pero ellos conocían ese bosque como la palma de su mano.\n\nAl llegar cerca del Castillo Byers, el refugio secreto de Will, se detuvieron. El aire allí estaba helado, mucho más que en el resto del pueblo. Eleven bajó de la bici y caminó lentamente hacia un roble viejo que había sido partido por un rayo años atrás. \n\n—Está aquí —susurró ella. De su nariz comenzó a salir un pequeño hilo de sangre. Estaba usando sus poderes para detectar el peligro.\n\nDe repente, escucharon un crujido de ramas. No era un animal normal. Una criatura pequeña, parecida a un Demodog pero más torpe, salió de entre los arbustos. Se había perdido y estaba asustada, pero eso la hacía peligrosa. Gruñó mostrando varias filas de dientes afilados.\n\n—¡Atrás! —gritó Mike, poniendo su bicicleta como escudo para proteger a sus amigos.\n\nLucas preparó su tirachinas con una piedra lisa y apuntó. Dustin iluminó a la criatura con su linterna para cegarla momentáneamente. Will, aunque tenía miedo, no se movió; sabía que si corría, la criatura le perseguiría. \n\nLa criatura saltó hacia ellos, pero Eleven levantó la mano derecha. Con un grito de esfuerzo, detuvo al monstruo en el aire usando su telequinesis. La criatura flotó unos segundos, pataleando sin tocar a nadie, y luego fue lanzada con fuerza hacia la espesura del bosque, lejos de ellos, soltando un chillido mientras huía asustada.\n\nEleven cayó de rodillas, agotada. Mike y Will corrieron a ayudarla. \n\n—¿Estás bien, El? —preguntó Mike preocupado.\n\n—Solo... cansada —respondió ella, limpiándose la sangre de la nariz con la manga.\n\nDustin miró su brújula. La aguja, que antes giraba locamente por la energía del monstruo, ahora volvía a apuntar al Norte. \n\n—El peligro ha pasado —dijo Dustin suspirando de alivio—. Buen trabajo, equipo.\n\nRegresaron a casa pedaleando bajo la luna llena. Sabían que Hawkins era un lugar extraño y a veces peligroso, pero esa noche habían aprendido una vez más que no importaba lo grande o aterrador que fuera el monstruo; si 'La Pandilla' se mantenía unida y cuidaban los unos de los otros, no había nada que no pudieran vencer. Antes de despedirse, Mike usó su walkie-talkie una última vez: «Cambio y corto, chicos. Mañana terminamos la partida».",
+        "glosario": [
+            {
+                "palabra": "Walkie-talkie",
+                "definición": "Un aparato parecido a un teléfono móvil antiguo que sirve para hablar por radio a distancia con otras personas."
+            },
+            {
+                "palabra": "Supercom",
+                "definición": "El nombre especial que le dan los protagonistas a sus walkie-talkies de largo alcance y alta potencia."
+            },
+            {
+                "palabra": "Mirkwood",
+                "definición": "El nombre de fantasía que los niños le pusieron al bosque oscuro que rodea sus casas en Hawkins."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "Una frase secreta del grupo que significa que hay una emergencia muy grave y deben reunirse de inmediato."
+            },
+            {
+                "palabra": "Mundo del Revés",
+                "definición": "Una dimensión paralela oscura y fría, como un espejo tenebroso de nuestro mundo, donde viven los monstruos."
+            },
+            {
+                "palabra": "Telequinesis",
+                "definición": "El superpoder de mover objetos o personas con la mente sin necesidad de tocarlos."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento con una aguja imantada que sirve para orientarse y saber siempre dónde está el Norte."
+            },
+            {
+                "palabra": "Castillo Byers",
+                "definición": "Una pequeña cabaña hecha de ramas y telas en el bosque donde Will suele ir para dibujar o estar tranquilo."
+            },
+            {
+                "palabra": "Demodog",
+                "definición": "Una criatura monstruosa del Mundo del Revés, parecida a un perro pero sin cara y con muchos dientes."
+            },
+            {
+                "palabra": "Estática",
+                "definición": "El ruido molesto, como un zumbido, que hacen las radios o televisiones cuando no sintonizan bien la señal."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué estaban haciendo los chicos al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Estudiando para un examen",
+                    "Jugando a 'Calabozos y Dragones'",
+                    "Viendo una película",
+                    "Comiendo pizza en el colegio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto usaron para escuchar el mensaje de ayuda?",
+                "tipo": "test",
+                "opciones": [
+                    "Un teléfono fijo",
+                    "Una televisión antigua",
+                    "El Supercom (walkie-talkie)",
+                    "Una carta"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Quién sintió un escalofrío en la nuca al oír el mensaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Mike",
+                    "Dustin",
+                    "Lucas",
+                    "Will"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Cómo se llamaba el arma que llevaba Lucas?",
+                "tipo": "test",
+                "opciones": [
+                    "El Cañón",
+                    "La Muñequera",
+                    "Excalibur",
+                    "Rayo Láser"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que a Eleven le sangraba la nariz?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se había golpeado con una rama",
+                    "Porque tenía un resfriado",
+                    "Porque usar sus poderes le requiere mucho esfuerzo físico",
+                    "Porque hacía mucho frío"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué papel tuvo Dustin en la aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Usó su linterna para cegar al monstruo y su brújula para orientarse",
+                    "Se quedó en casa comiendo",
+                    "Llamó a la policía",
+                    "Se escondió detrás de un árbol"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Por qué los chicos fueron en bicicleta en lugar de ir en coche?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque sus coches estaban rotos",
+                    "Porque son niños y las bicicletas son su medio de transporte principal",
+                    "Porque las bicicletas son más rápidas que los coches",
+                    "Porque querían hacer ejercicio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica que el peligro había pasado al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Salió el sol inmediatamente",
+                    "La aguja de la brújula volvió a apuntar al Norte",
+                    "Apareció el jefe de policía Hopper",
+                    "Encontraron un tesoro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "En la historia, cada amigo hace algo diferente para ayudar (Mike protege, Lucas apunta, Dustin ilumina, Eleven usa poderes). ¿Por qué crees que es bueno que en un grupo de amigos cada uno tenga habilidades diferentes?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que es muy bueno porque así, cuando hay un problema difícil, entre todos pueden solucionarlo. Si a uno se le da mal algo, seguro que a otro se le da bien, y así se complementan como un equipo completo."
+            },
+            {
+                "enunciado": "Mike dice que 'La Pandilla' debe mantenerse unida. ¿Qué harías tú si un amigo tuyo estuviera muy asustado como Will en el cuento?",
+                "tipo": "abierta",
+                "respuestaModelo": "Si un amigo mío estuviera muy asustado, yo no me burlaría de él. Me quedaría a su lado, le diría que no está solo y le ayudaría a enfrentar el miedo, porque para eso están los amigos, para apoyarse."
+            }
+        ]
+    },
+    {
+        "titulo": "Misión Secreta en la Escuela Hawkins",
+        "tema": "stranger",
+        "texto": "Era sábado por la noche y la Escuela Secundaria Hawkins estaba completamente a oscuras y en silencio. Bueno, casi en silencio. Cuatro sombras pequeñas se movían sigilosamente por el pasillo principal, iluminando el suelo con sus linternas. Eran Mike, Lucas, Dustin y Will. Habían planeado esta misión durante toda la semana en el comedor escolar, hablando en clave para que nadie los descubriera.\n\n—Recordad el plan —susurró Mike, que iba en cabeza—. Objetivo: llegar al Club Audiovisual. Tenemos que contactar con Eleven, y la nueva radio del Sr. Clarke es la única lo bastante potente para llegar hasta la cabaña de Hopper.\n\n—Espero que el Sr. Clarke no se enfade por cogerle 'prestada' la radio —dijo Dustin nervioso, mirando hacia los lados—. Si nos pilla el director, estaremos castigados hasta que tengamos treinta años.\n\n—Relájate, Dustin —respondió Lucas—. Nadie sabe que estamos aquí. Somos ninjas.\n\nLlegaron a la puerta del Club Audiovisual, pero estaba cerrada con llave. Will se acercó a la cerradura. Aunque era tímido, tenía mucha habilidad para abrir cosas sin romperlas usando clips. Mientras Will trabajaba en la puerta, las luces del pasillo empezaron a parpadear. Un zumbido eléctrico llenó el aire.\n\n—¿Habéis sentido eso? —preguntó Will, deteniéndose. Se frotó los brazos. Hacía frío de repente.\n\nAl fondo del pasillo, cerca de los laboratorios de ciencias, una sombra alargada se movió. No era el conserje. Se oyeron unos pasos húmedos y pesados: *Chof, chof, chof*.\n\n—¡Código Rojo! —susurró Lucas—. ¡Algo ha entrado en el colegio!\n\nWill consiguió abrir la puerta con un *clic* y todos entraron corriendo al aula, bloqueando la entrada con una silla. La sala estaba llena de radios, cables y televisiones. En el centro estaba el equipo 'Heathkit', la radio más potente del pueblo.\n\n—Dustin, enciéndela —ordenó Mike—. Lucas, vigila la puerta con los prismáticos. Will y yo buscaremos algo para defendernos.\n\nDustin se puso los auriculares y empezó a mover los diales buscando la frecuencia correcta. Solo se oía estática. Mientras, los pasos se acercaban a la puerta. *Pum. Pum.* Algo golpeó la madera.\n\n—¡Date prisa, Dustin! —gritó Lucas.\n\n—¡Hay demasiada interferencia! —respondió Dustin sudando—. ¡No encuentro el canal!\n\nDe repente, la radio se encendió sola con una luz brillante. A través del altavoz, se oyó una voz suave pero firme: «...Amigos...».\n\nEra Eleven. Aunque estaba lejos, escondida en el bosque, podía sentir que estaban en peligro. En ese momento, las televisiones del aula se encendieron todas a la vez con un ruido blanco ensordecedor, un volumen tan alto que tuvieron que taparse los oídos. La criatura que estaba al otro lado de la puerta chilló de dolor, porque los monstruos del Mundo del Revés odian el ruido fuerte y la luz. Oyeron cómo sus garras resbalaban por el suelo mientras huía corriendo del colegio.\n\nLas televisiones se apagaron y el silencio volvió.\n\n—¡Lo ha hecho ella! —dijo Mike sonriendo—. Eleven nos ha salvado a distancia.\n\n—¡Eso ha sido tubular! —exclamó Dustin, usando su palabra favorita para decir que algo era genial.\n\nEsperaron unos minutos para asegurarse de que era seguro salir. Recogieron sus cosas y salieron por la puerta trasera del gimnasio, donde habían dejado escondidas sus bicicletas. Pedalearon rápido bajo la luz de la luna, sintiendo el viento en la cara. Habían entrado en el colegio de noche, habían contactado con su amiga y habían sobrevivido a un monstruo, todo antes de la hora de cenar.\n\n—La próxima vez —dijo Will jadeando mientras subían una cuesta—, quedamos para jugar a los videojuegos en mi casa. Es más seguro.\n\nTodos se rieron. Sabían que, en Hawkins, la aventura siempre les encontraba, pero mientras tuvieran sus bicicletas y sus walkie-talkies, estarían preparados para lo que fuera.",
+        "glosario": [
+            {
+                "palabra": "Sigilosamente",
+                "definición": "Moverse con mucho cuidado y en silencio para que nadie se dé cuenta de que estás ahí."
+            },
+            {
+                "palabra": "Club Audiovisual",
+                "definición": "Un grupo del colegio donde los alumnos aprenden sobre radios, cámaras, televisiones y sonido."
+            },
+            {
+                "palabra": "Heathkit",
+                "definición": "Una marca de radios muy potentes que había que montar por piezas, muy famosa en los años 80."
+            },
+            {
+                "palabra": "Frecuencia",
+                "definición": "El 'canal' invisible por donde viaja la voz en la radio; hay que sintonizar la correcta para escuchar."
+            },
+            {
+                "palabra": "Interferencia",
+                "definición": "Ruidos molestos que impiden que la radio se escuche bien, a veces causados por tormentas o monstruos."
+            },
+            {
+                "palabra": "Tubular",
+                "definición": "Una palabra de jerga de los años 80 que usaban los jóvenes para decir que algo era genial o increíble."
+            },
+            {
+                "palabra": "Diales",
+                "definición": "Las ruedas o botones giratorios de una radio que sirven para buscar las emisoras."
+            },
+            {
+                "palabra": "Ruido blanco",
+                "definición": "Un sonido constante y borroso, como el de una televisión sin canal ('shhhhhh'), que puede ser muy molesto."
+            },
+            {
+                "palabra": "Prismáticos",
+                "definición": "Un instrumento con lentes que sirve para ver cosas que están lejos como si estuvieran cerca."
+            },
+            {
+                "palabra": "En clave",
+                "definición": "Hablar usando palabras secretas o códigos para que los demás no entiendan lo que dices."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué día y a qué hora ocurre la aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Lunes por la mañana",
+                    "Sábado por la noche",
+                    "Domingo por la tarde",
+                    "Viernes al mediodía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué querían usar la radio del Sr. Clarke?",
+                "tipo": "test",
+                "opciones": [
+                    "Para escuchar música rock",
+                    "Para llamar a la policía",
+                    "Porque era muy potente y querían hablar con Eleven",
+                    "Porque querían robarla"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo consiguieron abrir la puerta cerrada del aula?",
+                "tipo": "test",
+                "opciones": [
+                    "Mike la derribó de una patada",
+                    "Tenían la llave del conserje",
+                    "Will usó un clip para abrir la cerradura",
+                    "La puerta estaba abierta"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué señal les avisó de que algo raro pasaba en el pasillo?",
+                "tipo": "test",
+                "opciones": [
+                    "Sonó la alarma de incendios",
+                    "Las luces parpadearon y sintieron frío",
+                    "Vieron un fantasma",
+                    "Olía a comida quemada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Dustin dice que hay 'demasiada interferencia'. ¿Qué significa esto en la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la radio estaba rota",
+                    "Que Dustin no sabía usar la radio",
+                    "Que la presencia del monstruo o la energía de Eleven dificultaban la señal",
+                    "Que no había electricidad en el colegio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo ahuyentó Eleven al monstruo?",
+                "tipo": "test",
+                "opciones": [
+                    "Encendiendo todas las televisiones con un ruido muy fuerte",
+                    "Apareciendo allí y golpeándolo",
+                    "Llamando al director del colegio",
+                    "Apagando todas las luces para que se tropezara"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué medio de transporte usaron para huir?",
+                "tipo": "test",
+                "opciones": [
+                    "El coche de sus padres",
+                    "Sus monopatines",
+                    "El autobús escolar",
+                    "Sus bicicletas"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "Al final, Will sugiere jugar a videojuegos la próxima vez. ¿Por qué dice esto?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gusta salir de casa",
+                    "Porque prefiere actividades seguras después del susto que han pasado",
+                    "Porque se le ha roto la bicicleta",
+                    "Porque odia el Club Audiovisual"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Los chicos arriesgaron un castigo severo por contactar con Eleven. ¿Crees que merece la pena arriesgarse tanto por una amiga? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, yo creo que merece la pena porque si un amigo está solo y lejos, necesita saber que te acuerdas de él. La amistad es más importante que un castigo del colegio, siempre que no sea algo demasiado peligroso."
+            },
+            {
+                "enunciado": "¿Qué opinas del trabajo en equipo en esta historia? ¿Podría Mike haberlo hecho todo él solo?",
+                "tipo": "abierta",
+                "respuestaModelo": "No, Mike no podría haberlo hecho solo. Necesitaba a Will para abrir la puerta, a Dustin para manejar la radio y a Lucas para vigilar. El trabajo en equipo fue fundamental porque cada uno aportó algo que los demás no sabían hacer."
+            }
+        ]
+    },
+    {
+        "titulo": "El Mensaje del Castillo Byers",
+        "tema": "stranger",
+        "texto": "Era un viernes por la tarde en Hawkins, Indiana, y el cielo estaba cubierto de nubes grises que amenazaban con una tormenta inminente. En el sótano de Mike Wheeler, el ambiente era tenso, pero no por el clima. La partida de 'Calabozos y Dragones' llevaba durando más de cinco horas. Mike, oculto tras su pantalla de Dungeon Master, narraba con voz grave: «El Demogorgon ruge y la cueva tiembla. ¿Qué hacéis?».\n\nDustin golpeó la mesa con el puño. «¡Lanzo una bola de fuego!», gritó, ajustándose su gorra tricolor. Lucas rodó los ojos y preparó sus dados, mientras Will Byers, que había estado extrañamente callado, miraba hacia la ventana del sótano. De repente, Will se llevó la mano a la nuca. Un escalofrío le recorrió la espalda, erizándole el vello de los brazos. Conocía esa sensación. Era el frío del Mundo del Revés.\n\nEn ese preciso instante, el Supercom de Dustin, su enorme walkie-talkie, emitió un chirrido agudo y molesto. No era la estática habitual. Entre el ruido blanco, una voz distorsionada susurró: «...Castillo... ayuda... frío...».\n\nMike soltó el manual de juego. «¿Habéis oído eso?», preguntó. Eleven, que estaba sentada en el sofá construyendo una torre con gofres Eggo, se levantó de golpe. Sus ojos marrones estaban muy abiertos. «Amigo», dijo ella, señalando la radio.\n\n—Es un Código Rojo —dijo Lucas, poniéndose su bandana de camuflaje—. Alguien está en el Castillo Byers y está en peligro.\n\nSin perder un segundo, la pandilla subió las escaleras y corrió hacia el garaje. Cogieron sus bicicletas y salieron a la calle justo cuando las primeras gotas de lluvia empezaban a caer. Pedalearon con fuerza, formando una fila india, con Mike llevando a Eleven en la parte trasera de su bici. El viento les golpeaba la cara, pero no se detuvieron. Tenían que llegar al bosque de Mirkwood antes de que anocheciera por completo.\n\nAl adentrarse en el bosque, la temperatura bajó drásticamente. Los árboles parecían sombras alargadas que intentaban atraparlos. Encendieron las linternas de sus manillares, creando haces de luz que bailaban entre las ramas. Dustin miró su brújula; la aguja giraba sin control, lo que significaba que había una fuerte energía magnética cerca. «Estamos cerca», gritó Dustin por encima del ruido del viento.\n\nLlegaron al Castillo Byers, el refugio secreto que Will había construido con ramas y telas viejas. Estaba oscuro y silencioso. Will bajó de su bicicleta con miedo, pero Mike le puso una mano en el hombro. «Juntos», le recordó. Se acercaron a la entrada. Dentro, acurrucado en una esquina, encontraron un pequeño animal, parecido a un perro, pero con una piel extraña y viscosa. No era un Demodog adulto, pero tampoco era un perro normal. Estaba herido y emitía un gemido que sonaba como estática de radio.\n\n—Es una cría —dijo Dustin fascinado, acercándose—, debe haber cruzado por una grieta pequeña.\n\n—¡Cuidado! —gritó Lucas, preparando su tirachinas, al que llamaba 'La Muñequera'.\n\nLa criatura intentó morder a Dustin, pero Eleven dio un paso al frente. Levantó su mano derecha y miró fijamente al animal. No quería hacerle daño, solo calmarlo. Con su mente, creó una barrera invisible que impidió que la criatura saltara. El animal se quedó flotando unos centímetros sobre el suelo, confundido.\n\n—Tenemos que devolverlo —dijo Will—. Si se queda aquí, su madre vendrá a buscarlo. Y no queremos que la madre venga.\n\nMike asintió. «Eleven, ¿puedes encontrar la grieta?». Ella cerró los ojos y se concentró. Un hilo de sangre bajó por su nariz. Señaló hacia un viejo roble hueco a unos metros de distancia. En su interior, una pequeña luz naranja pulsaba débilmente: una mini-puerta al Mundo del Revés.\n\nCon mucho cuidado, y usando la telequinesis de Eleven, llevaron a la criatura hasta el árbol. En cuanto el animal sintió el aire tóxico de su hogar, se escabulló por el agujero. Eleven gritó con fuerza y, con un movimiento brusco de sus manos, cerró la grieta. La luz naranja desapareció y el bosque volvió a quedarse en silencio.\n\nEstaban empapados por la lluvia y agotados, pero sonreían. «Eso ha sido tubular», dijo Dustin, usando su palabra favorita. Regresaron a casa de Mike pedaleando bajo la lluvia, sabiendo que, una vez más, habían protegido a Hawkins sin que ningún adulto se enterara. Mientras compartían una pizza caliente esa noche, Mike miró a sus amigos y supo que, mientras estuvieran unidos, ningún monstruo podría con ellos.",
+        "glosario": [
+            {
+                "palabra": "Walkie-talkie",
+                "definición": "Aparato portátil que sirve para comunicarse por radio a distancia."
+            },
+            {
+                "palabra": "Mundo del Revés",
+                "definición": "Una dimensión paralela oscura y peligrosa que es como un espejo tenebroso de nuestro mundo."
+            },
+            {
+                "palabra": "Supercom",
+                "definición": "Nombre especial que le dan los protagonistas a sus comunicadores de largo alcance."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "Frase secreta del grupo que significa que hay una emergencia muy grave."
+            },
+            {
+                "palabra": "Castillo Byers",
+                "definición": "La pequeña cabaña o fuerte que Will construyó en el bosque para tener un lugar seguro."
+            },
+            {
+                "palabra": "Telequinesis",
+                "definición": "El poder de mover objetos o seres vivos con la mente sin tocarlos."
+            },
+            {
+                "palabra": "Mirkwood",
+                "definición": "Nombre de fantasía que los niños le pusieron al bosque de Hawkins, sacado de los libros de 'El Señor de los Anillos'."
+            },
+            {
+                "palabra": "Estática",
+                "definición": "Ruido molesto, como un zumbido, que hacen las radios cuando no hay buena señal."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento que sirve para orientarse y que siempre señala al Norte (a menos que haya monstruos cerca)."
+            },
+            {
+                "palabra": "Tubular",
+                "definición": "Palabra de moda en los años 80 que significa que algo es genial o increíble."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué estaban haciendo los chicos al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Estudiando matemáticas",
+                    "Jugando a 'Calabozos y Dragones'",
+                    "Viendo la televisión",
+                    "Montando en bicicleta"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién sintió primero que había peligro?",
+                "tipo": "test",
+                "opciones": [
+                    "Mike",
+                    "Lucas",
+                    "Will",
+                    "Dustin"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué objeto usaron para escuchar el mensaje de ayuda?",
+                "tipo": "test",
+                "opciones": [
+                    "Un teléfono",
+                    "El Supercom",
+                    "Una televisión",
+                    "Una carta"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Hacia dónde se dirigieron con sus bicicletas?",
+                "tipo": "test",
+                "opciones": [
+                    "Al colegio",
+                    "Al centro comercial",
+                    "Al bosque de Mirkwood",
+                    "A casa de Dustin"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué le pasó a la brújula de Dustin en el bosque?",
+                "tipo": "test",
+                "opciones": [
+                    "Se rompió y cayó al suelo",
+                    "La aguja giraba sin control por la energía magnética",
+                    "Apuntaba perfectamente al Norte",
+                    "Se quedó sin pilas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo controló Eleven a la criatura?",
+                "tipo": "test",
+                "opciones": [
+                    "Le gritó muy fuerte",
+                    "Usó una red para atraparla",
+                    "Usó su telequinesis para levantarla en el aire",
+                    "Le dio comida"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Will quería devolver a la criatura a su mundo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no le gustaban los animales",
+                    "Para evitar que la madre del monstruo viniera a buscarlo",
+                    "Porque quería quedársela de mascota",
+                    "Porque olía mal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa que a Eleven le sangrara la nariz?",
+                "tipo": "test",
+                "opciones": [
+                    "Que estaba resfriada",
+                    "Que se había golpeado",
+                    "Que estaba usando sus poderes al máximo",
+                    "Que tenía miedo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Mike le recuerda a Will la palabra 'Juntos' antes de entrar al refugio. ¿Por qué crees que es importante hacer las cosas en equipo cuando se tiene miedo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que es importante porque cuando estás con tus amigos te sientes más valiente y seguro. Si uno tiene miedo, los otros le animan, y entre todos pueden resolver problemas que uno solo no podría."
+            },
+            {
+                "enunciado": "¿Crees que los chicos hicieron bien en ir al bosque solos en lugar de llamar a la policía? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que fue un poco peligroso ir solos, pero hicieron bien porque la policía adulta no hubiera creído que había un monstruo o una grieta mágica. Ellos eran los únicos que sabían qué hacer."
+            }
+        ]
+    },
+    {
+        "titulo": "Peligro en el Club Audiovisual",
+        "tema": "stranger",
+        "texto": "Era la hora del recreo en la Escuela Secundaria Hawkins, pero Mike, Lucas, Dustin y Will no estaban en el patio comiendo sus bocadillos. Estaban reunidos en secreto en el Club Audiovisual, una pequeña sala llena de radios, cables y televisores antiguos. Su profesor favorito, el Sr. Clarke, les había dejado las llaves para que probaran la nueva radio 'Heathkit', un aparato enorme y potente capaz de captar señales de lugares muy lejanos.\n\n—Si sintonizamos la frecuencia correcta —dijo Dustin, ajustándose los auriculares—, podríamos escuchar a gente de Australia. ¡O quizás contactar con Eleven!\n\nEleven estaba escondida en una cabaña segura en el bosque para que los «hombres malos» del laboratorio no la encontraran, y los chicos la echaban mucho de menos. Mike cogió el micrófono con esperanza. «El, ¿estás ahí? Soy Mike. Cambio».\n\nSolo se escuchó un siseo constante, como lluvia cayendo sobre un techo de chapa. Dustin movió lentamente los diales de la radio. De repente, el sonido cambió. No era una voz humana, sino un rugido bajo y gutural, seguido de un sonido húmedo: *clic, clac, clic*.\n\n—¿Qué es eso? —preguntó Lucas, frunciendo el ceño.\n\nWill se puso pálido. Se frotó el brazo como si tuviera frío, aunque en la sala hacía calor. «Es el Azotamentes», susurró. «Está buscando una entrada».\n\nEn ese momento, las luces del aula parpadearon violentamente y luego estallaron, dejando la sala en penumbra. La radio empezó a echar humo. Una sombra oscura comenzó a formarse en la esquina del techo, como una mancha de tinta que cobraba vida. No era el monstruo gigante, sino una pequeña parte de él, una «sombra espía» que se había colado por la señal eléctrica.\n\n—¡Código Rojo! —gritó Mike—. ¡Tenemos que salir de aquí!\n\nIntentaron abrir la puerta, pero estaba atascada. La sombra bajó del techo y tomó la forma de una araña de humo. Dustin miró a su alrededor buscando algo para defenderse. Vio el extintor colgado en la pared. «¡Lucas, usa tu tirachinas! ¡Dale al botón de la alarma de incendios!», ordenó Dustin.\n\nLucas no dudó. Sacó su tirachinas 'La Muñequera' de su bolsillo trasero, cargó una canica y apuntó al pequeño cuadro rojo de la alarma que estaba al otro lado de la sala, justo detrás del monstruo de humo. Respiró hondo, cerró un ojo y soltó la goma. La canica voló recta y golpeó el cristal de la alarma con fuerza.\n\n*¡RRRIIIIING!* El timbre de la escuela sonó tan fuerte que les dolieron los dientes. El sonido agudo pareció herir a la sombra, que se retorció y chilló. Al mismo tiempo, el sistema de aspersores contra incendios se activó, rociando agua por toda la habitación. El agua y el ruido confundieron a la criatura de humo, que se disolvió hasta desaparecer por el enchufe de la pared.\n\nLa puerta se abrió de golpe y el Sr. Clarke entró corriendo, empapándose al instante bajo la lluvia artificial. «¡Chicos! ¿Estáis bien? ¿Qué ha pasado?», preguntó asustado.\n\nMike, Lucas, Dustin y Will se miraron. Estaban empapados y temblando, pero a salvo. No podían decirle al profesor que habían luchado contra un monstruo de otra dimensión.\n\n—Ha sido un accidente, Sr. Clarke —mintió Mike rápidamente—. La radio se sobrecalentó y Dustin... bueno, Dustin tropezó con el extintor.\n\nEl profesor suspiró, aliviado de que no hubiera fuego real. «Bueno, lo importante es que estáis bien. Pero me temo que el Club Audiovisual estará cerrado unos días por reparaciones».\n\nSalieron al pasillo secándose el pelo. Dustin miró a sus amigos con una sonrisa nerviosa. «Eso ha estado cerca. Demasiado cerca».\n\n—La próxima vez —dijo Will—, usemos los walkie-talkies. Son menos peligrosos.\n\nMike asintió. Aunque no habían podido hablar con Eleven, sabían que ella estaría orgullosa de cómo habían trabajado en equipo. Se montaron en sus bicicletas y se alejaron del colegio, listos para la siguiente aventura, porque en Hawkins, la tranquilidad nunca duraba mucho tiempo.",
+        "glosario": [
+            {
+                "palabra": "Club Audiovisual",
+                "definición": "Un grupo del colegio donde los alumnos aprenden a usar radios, cámaras y equipos de sonido."
+            },
+            {
+                "palabra": "Frecuencia",
+                "definición": "El 'canal' invisible por donde viajan las voces en la radio; hay que buscar la correcta para escuchar."
+            },
+            {
+                "palabra": "Gutural",
+                "definición": "Un sonido ronco y profundo que se hace con la garganta, como el gruñido de un animal."
+            },
+            {
+                "palabra": "Azotamentes",
+                "definición": "El monstruo gigante y poderoso del Mundo del Revés que controla a las demás criaturas como una mente maestra."
+            },
+            {
+                "palabra": "Heathkit",
+                "definición": "Una marca de radios muy potentes y famosas en los años 80 que la gente montaba en su casa."
+            },
+            {
+                "palabra": "Diales",
+                "definición": "Las ruedas o botones que se giran en una radio antigua para buscar las emisoras."
+            },
+            {
+                "palabra": "Tirachinas",
+                "definición": "Un juguete o arma pequeña en forma de Y con una goma elástica que sirve para lanzar piedras."
+            },
+            {
+                "palabra": "Aspersores",
+                "definición": "Aparatos en el techo que sueltan agua automáticamente cuando detectan fuego o humo."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "La frase secreta que usan los amigos para avisar de que hay un peligro inmediato."
+            },
+            {
+                "palabra": "Siseo",
+                "definición": "El sonido suave y continuo como 'shhhh' que hace la radio cuando no sintoniza nada."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué lugar del colegio estaban los chicos?",
+                "tipo": "test",
+                "opciones": [
+                    "En el gimnasio",
+                    "En el comedor",
+                    "En el Club Audiovisual",
+                    "En el patio"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué querían hacer con la radio nueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Escuchar música rock",
+                    "Contactar con Eleven",
+                    "Hacer una broma al director",
+                    "Escuchar las noticias"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Quién identificó al monstruo como el 'Azotamentes'?",
+                "tipo": "test",
+                "opciones": [
+                    "Mike",
+                    "Dustin",
+                    "Will",
+                    "El Sr. Clarke"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué forma tomó la sombra que entró en la sala?",
+                "tipo": "test",
+                "opciones": [
+                    "Una araña de humo",
+                    "Un perro gigante",
+                    "Un pájaro negro",
+                    "Un murciélago"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Para qué usó Lucas su tirachinas?",
+                "tipo": "test",
+                "opciones": [
+                    "Para atacar al monstruo directamente",
+                    "Para romper la ventana y huir",
+                    "Para activar la alarma de incendios",
+                    "Para llamar la atención del profesor"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué dos cosas ahuyentaron a la criatura de humo?",
+                "tipo": "test",
+                "opciones": [
+                    "El fuego y los gritos",
+                    "El ruido fuerte del timbre y el agua",
+                    "La luz del sol y la sal",
+                    "Las linternas y las piedras"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Mike le mintió al Sr. Clarke al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque es un niño travieso",
+                    "Para proteger el secreto del Mundo del Revés",
+                    "Porque le daba vergüenza decir la verdad",
+                    "Para que no le quitaran la radio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué decidieron usar la próxima vez para comunicarse?",
+                "tipo": "test",
+                "opciones": [
+                    "Teléfonos fijos",
+                    "Cartas",
+                    "Walkie-talkies",
+                    "Señales de humo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "En esta historia, Lucas tiene un papel muy importante con su puntería. ¿Por qué crees que es importante confiar en las habilidades de tus amigos en momentos difíciles?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es importante porque si confías en ellos, no te pones tan nervioso. Sabes que ellos pueden hacer cosas que tú no puedes, como Lucas con su puntería, y así entre todos es más fácil solucionar el problema."
+            },
+            {
+                "enunciado": "Los chicos deciden ocultar la verdad al profesor para protegerle a él y a Eleven. ¿Crees que hay situaciones en las que mentir está justificado? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que mentir casi siempre está mal, pero a veces, si es para proteger a alguien de un peligro muy grande o para guardar un secreto importante que podría hacer daño si se sabe, puede estar justificado."
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio de las Calabazas Podridas",
+        "tema": "stranger",
+        "texto": "Era la víspera de Halloween en Hawkins, Indiana, y el aire olía a hojas quemadas y caramelo. Sin embargo, en el salón recreativo 'Palace Arcade', el olor predominante era el de pizza barata y tensión eléctrica. Dustin Henderson golpeaba furiosamente los botones de la máquina de 'Dig Dug', intentando superar su propia puntuación máxima, mientras Lucas Sinclair le animaba a gritos desde atrás.\n\n—¡Cuidado con el Pooka, Dustin! ¡Gira a la izquierda! —gritaba Lucas.\n\nMike Wheeler miraba el reloj. Se hacía tarde. Will Byers, por su parte, estaba apoyado en la pared, algo apartado del grupo. De repente, las luces de neón del salón parpadearon. Una, dos, tres veces. Will se llevó la mano a la nuca. Sintió ese frío conocido, como si alguien le hubiera pasado un cubito de hielo por la columna vertebral. El sonido de los videojuegos se volvió lejano y fue sustituido por un zumbido sordo.\n\n—Chicos —susurró Will. Su voz apenas se oyó, pero Mike, que siempre estaba atento a su amigo, se giró al instante.\n\n—¿Will? ¿Estás bien? —preguntó Mike, olvidándose de la partida.\n\n—Está aquí. O al menos... una parte de él —respondió Will temblando.\n\nDustin perdió su última vida en el juego y soltó un quejido, pero al ver la cara pálida de Will, se puso serio. Sacaron sus 'Supercoms' (los walkie-talkies) y salieron al aparcamiento, donde Eleven les esperaba sentada en el bordillo, comiendo unas patatas fritas que había conseguido de una máquina expendedora.\n\n—¿Qué pasa? —preguntó Eleven, limpiándose las manos.\n\n—Will ha sentido algo —explicó Lucas—. Una sombra.\n\nDe repente, el walkie-talkie de Dustin emitió un sonido horrible, una mezcla de estática y un sonido húmedo, como algo arrastrándose por el barro. Dustin ajustó la frecuencia.\n\n—Viene del huerto de calabazas de Merrill —dijo Dustin, consultando su brújula—. Hay una interferencia magnética enorme viniendo del sur.\n\n—Es un Código Rojo —sentenció Mike—. ¡A las bicis!\n\nLa pandilla se puso en marcha. Pedalearon en formación bajo la luz de la luna llena. Sus linternas cortaban la oscuridad de la carretera rural. El viento de otoño les golpeaba la cara, pero no se detuvieron. Sabían que si el Mundo del Revés estaba filtrándose en Hawkins, tenían que detenerlo antes de que se extendiera.\n\nAl llegar al huerto de calabazas, el escenario era desolador. Lo que debería haber sido un campo lleno de calabazas naranjas y brillantes listas para Halloween, era ahora un pantano de podredumbre. Las calabazas estaban negras y desinfladas, cubiertas de una sustancia viscosa y grisácea.\n\n—Puaj —dijo Lucas, tapándose la nariz—, huele a huevos podridos.\n\n—No toquéis nada —advirtió Mike.\n\nSe adentraron sigilosamente entre las filas de cultivos arruinados. En el centro del campo, vieron el problema. Una grieta pequeña, no más grande que una pelota de baloncesto, brillaba con una luz rojiza en el suelo. De ella salía un zarcillo grueso y espinoso que se movía como una serpiente, inyectando veneno negro en la tierra.\n\n—Es una raíz del Azotamentes —susurró Will aterrorizado—, está envenenando el suelo.\n\nLa raíz pareció sentir su presencia. Se giró bruscamente hacia ellos y se levantó como una cobra, lista para atacar. Lucas cargó su tirachinas 'La Muñequera' con una piedra y disparó, golpeando al zarcillo, pero esto solo lo enfureció más.\n\n—¡El! —gritó Mike.\n\nEleven dio un paso al frente. Extendió su mano derecha hacia la grieta y la raíz. Su rostro se tensó por el esfuerzo. La raíz intentó golpearla, pero se detuvo en el aire, frenada por una barrera invisible. Eleven gritó, canalizando su energía. Con un movimiento brusco de muñeca, arrancó la raíz del suelo y la lanzó lejos. Luego, se concentró en la grieta brillante. Las luces de las linternas parpadearon violentamente. Con un último grito, Eleven cerró el puño y la grieta se selló con un sonido sordo, dejando solo tierra quemada.\n\nEleven cayó de rodillas, agotada, con un hilo de sangre bajando por su nariz. Mike la sostuvo antes de que tocara el suelo fangoso.\n\n—¿Lo has cerrado? —preguntó Dustin, acercándose con precaución.\n\n—Sí —susurró ella—, se ha ido.\n\nWill respiró hondo. El frío en su nuca había desaparecido. El aire volvía a oler solo a calabaza podrida, y no a azufre y muerte.\n\n—Vámonos antes de que el granjero Merrill nos vea y piense que hemos sido nosotros los que hemos destrozado su cosecha —sugirió Lucas.\n\nMontaron en sus bicicletas y regresaron al pueblo. Estaban sucios y cansados, pero se sentían invencibles. Mientras pedaleaban, Mike miró a sus amigos. Sabía que no eran los héroes que salían en los cómics; no llevaban capa ni volaban. Pero allí estaban, salvando su pueblo una vez más, armados solo con bicicletas, un tirachinas y la valentía de no dejar a nadie atrás.",
+        "glosario": [
+            {
+                "palabra": "Arcade",
+                "definición": "Salón de juegos recreativos muy popular en los años 80 donde se jugaba con máquinas de monedas."
+            },
+            {
+                "palabra": "Walkie-talkie",
+                "definición": "Aparato portátil de radio que sirve para comunicarse a distancia sin cables."
+            },
+            {
+                "palabra": "Mundo del Revés",
+                "definición": "Una dimensión paralela oscura y peligrosa que es un reflejo tenebroso de nuestro mundo."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "Frase secreta del grupo que indica una emergencia muy grave y que deben reunirse de inmediato."
+            },
+            {
+                "palabra": "Azotamentes",
+                "definición": "El monstruo gigante y poderoso (Mind Flayer) que controla a las criaturas del Mundo del Revés."
+            },
+            {
+                "palabra": "Interferencia",
+                "definición": "Ruidos molestos que impiden que una señal de radio se escuche con claridad."
+            },
+            {
+                "palabra": "Zarcillo",
+                "definición": "Tallo o rama larga y delgada de una planta que se enrosca en las cosas."
+            },
+            {
+                "palabra": "Viscosa",
+                "definición": "Sustancia pegajosa, espesa y resbaladiza, como el moco o la miel."
+            },
+            {
+                "palabra": "Estática",
+                "definición": "Ruido como un zumbido ('shhhh') que hacen las radios o televisiones cuando no hay señal."
+            },
+            {
+                "palabra": "Supercom",
+                "definición": "Nombre especial que le dan los chicos a sus walkie-talkies de largo alcance."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde estaban los chicos al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "En el colegio",
+                    "En el salón recreativo 'Palace Arcade'",
+                    "En casa de Mike",
+                    "En el bosque"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué señal física sintió Will para saber que había peligro?",
+                "tipo": "test",
+                "opciones": [
+                    "Le dolió la cabeza",
+                    "Sintió mucho calor",
+                    "Sintió un frío en la nuca",
+                    "Le sangró la nariz"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué problema había en el huerto de calabazas?",
+                "tipo": "test",
+                "opciones": [
+                    "Alguien había robado las calabazas",
+                    "Estaban podridas por una raíz del Mundo del Revés",
+                    "No habían crecido por falta de agua",
+                    "Estaban congeladas por la nieve"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto usó Dustin para localizar la dirección de la señal?",
+                "tipo": "test",
+                "opciones": [
+                    "Un mapa",
+                    "Su brújula",
+                    "Un GPS",
+                    "Un telescopio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué parpadearon las luces en el salón recreativo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque había una tormenta",
+                    "Por la presencia de energía del Mundo del Revés",
+                    "Porque se fue la luz en todo el pueblo",
+                    "Porque Dustin golpeó la máquina"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo derrotaron a la raíz invasora?",
+                "tipo": "test",
+                "opciones": [
+                    "Le prendieron fuego",
+                    "La cortaron con un hacha",
+                    "Eleven usó sus poderes para arrancarla y cerrar la grieta",
+                    "Llamaron a la policía"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué nos indica que usar los poderes cansa a Eleven?",
+                "tipo": "test",
+                "opciones": [
+                    "Se queda dormida inmediatamente",
+                    "Le sangra la nariz y cae agotada",
+                    "Se pone a llorar",
+                    "Le cambia el color de los ojos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final, deciden irse rápido para que no les culpen. ¿De qué podrían culparles?",
+                "tipo": "test",
+                "opciones": [
+                    "De robar caramelos",
+                    "De destrozar la cosecha de calabazas",
+                    "De romper las bicicletas",
+                    "De hacer ruido por la noche"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Will siente miedo pero confía en sus amigos. ¿Por qué crees que es importante tener amigos que te crean cuando tienes un problema extraño?",
+                "tipo": "abierta",
+                "respuestaModelo": "Creo que es muy importante porque si nadie te cree, te sientes solo y el problema parece más grande. Si tus amigos te creen y te apoyan, te sientes más valiente para enfrentarlo."
+            },
+            {
+                "enunciado": "La pandilla actúa sin esperar a los adultos. ¿Crees que hicieron bien o deberían haber llamado al jefe de policía Hopper? Explica por qué.",
+                "tipo": "abierta",
+                "respuestaModelo": "Hicieron bien porque la grieta estaba creciendo rápido y los adultos habrían tardado mucho en llegar o no les habrían creído. Ellos sabían qué hacer y tenían a Eleven para solucionarlo."
+            }
+        ]
+    },
+    {
+        "titulo": "Emergencia en la Cima de los Vientos",
+        "tema": "stranger",
+        "texto": "Dustin Henderson estaba muy orgulloso de su último invento: 'Cerebro'. Era una torre de radio casera, construida con paraguas viejos, papel de aluminio y piezas de desguace, que había montado en la colina más alta de Hawkins, conocida como la Cima de los Vientos. Según sus cálculos, 'Cerebro' era tan potente que podía captar señales de otros continentes. \n\n—¿Suzie? ¿Estás ahí, Suzie-Poo? Aquí Dustin. Cambio —decía al micrófono, esperando respuesta de su novia en Utah.\n\nPero esa tarde no hubo respuesta. En su lugar, los altavoces emitieron un gruñido bajo y metálico. No sonaba como una persona, ni como una interferencia normal. Sonaba como hambre. Dustin ajustó los diales nervioso. El gruñido se repitió, seguido de un sonido de masticar. Algo estaba interfiriendo en su frecuencia, y ese algo estaba cerca.\n\n—Chicos, tenemos un problema —dijo Dustin por su walkie-talkie portátil—. Código Rojo. Reunión en la Cima de los Vientos. Traed armas.\n\nVeinte minutos después, Mike, Lucas, Will y Eleven llegaron jadeando a la base de la colina. Habían dejado las bicicletas abajo porque la pendiente era muy empinada.\n\n—¿Qué pasa, Dustin? —preguntó Lucas, con su tirachinas en la mano y la bandana de camuflaje en la frente—. Estaba cenando.\n\n—'Cerebro' ha captado algo —explicó Dustin—. Y creo que ese algo está intentando comerse la torre.\n\nSubieron la colina con sigilo. La noche había caído y la luna iluminaba la estructura metálica de la torre de radio. Y allí estaba. No era un Demogorgon gigante, pero era una criatura del tamaño de un perro grande, con piel grisácea y sin ojos. Un Demodog solitario. Estaba mordiendo los cables de la batería de la torre, atraído por la electricidad.\n\n—Se está comiendo la energía —susurró Will—. Le gusta la electricidad.\n\n—Si rompe 'Cerebro', me costará meses arreglarlo —dijo Dustin horrorizado—, y además, si absorbe suficiente energía, podría llamar a otros.\n\n—Tenemos que espantarlo —dijo Mike—. Lucas, ¿puedes darle desde aquí?\n\nLucas calculó la distancia. Estaban a unos veinte metros. \n\n—Es un tiro difícil con el viento, pero puedo intentarlo. Necesito una distracción.\n\nMike miró a Eleven. \n\n—El, ¿puedes hacer ruido? Algo que lo confunda.\n\nEleven asintió. Se concentró en una vieja furgoneta abandonada que había en la cima de la colina. Con un movimiento de cabeza, hizo que la bocina de la furgoneta sonara de golpe: *¡MOOOOOC!*.\n\nEl Demodog soltó los cables y se giró hacia la furgoneta, rugiendo y abriendo su boca llena de dientes como pétalos de flor. En ese instante, Lucas soltó la goma de su tirachinas. La piedra voló por el aire y golpeó una lata de gasolina vacía cerca del monstruo, creando un estruendo metálico que lo asustó aún más.\n\nLa criatura, confundida por los ruidos que venían de todas partes, empezó a retroceder. Eleven dio un paso adelante. Levantó la mano y empujó el aire. El Demodog salió rodando colina abajo, chillando, hasta perderse en la oscuridad del bosque de Mirkwood.\n\n—¡Sí! —gritó Dustin, corriendo a revisar su torre—. ¡Cables a salvo! Solo tiene unos mordiscos.\n\n—¿Creéis que volverá? —preguntó Will, mirando hacia el bosque oscuro.\n\n—Si vuelve, estaremos listos —dijo Mike con seguridad—. Pero por ahora, creo que le hemos quitado el hambre.\n\nSe sentaron en la hierba, bajo la torre 'Cerebro', mirando las luces del pueblo de Hawkins a lo lejos. Eleven apoyó la cabeza en el hombro de Mike. Habían salvado el invento de Dustin y habían evitado que el monstruo se hiciera más fuerte.\n\n—¿Sabéis? —dijo Lucas, guardando su tirachinas—. A veces pienso que somos los guardianes secretos de este pueblo. Nadie sabe lo que hacemos.\n\n—Mejor así —respondió Dustin, intentando sintonizar la radio de nuevo—. Si mi madre supiera que lucho contra perros demonio, no me dejaría salir de casa hasta los treinta años.\n\nTodos se rieron. La estática de la radio se calmó y, por un momento, se escuchó una canción lejana. No era Suzie, pero era música. Y allí arriba, con sus mejores amigos, Dustin pensó que no había mejor lugar en el mundo.",
+        "glosario": [
+            {
+                "palabra": "Cerebro",
+                "definición": "El nombre que Dustin le pone a su potente torre de radio casera para hablar a larga distancia."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "La señal de emergencia máxima del grupo que significa 'deja todo lo que estés haciendo y ven'."
+            },
+            {
+                "palabra": "Demodog",
+                "definición": "Una criatura del Mundo del Revés, parecida a un perro pero sin ojos y con una boca que se abre en pétalos."
+            },
+            {
+                "palabra": "Frecuencia",
+                "definición": "El canal invisible por el que viajan las ondas de radio."
+            },
+            {
+                "palabra": "Interferencia",
+                "definición": "Ruido o señal extraña que se mezcla con la radio y no deja escuchar bien."
+            },
+            {
+                "palabra": "Sigilo",
+                "definición": "Hacer las cosas con mucho cuidado y silencio para no ser descubierto."
+            },
+            {
+                "palabra": "Tirachinas",
+                "definición": "Arma pequeña en forma de Y con una goma que usa Lucas para lanzar piedras con puntería."
+            },
+            {
+                "palabra": "Mirkwood",
+                "definición": "Nombre de fantasía que usan los niños para llamar al bosque de Hawkins."
+            },
+            {
+                "palabra": "Diales",
+                "definición": "Botones giratorios de las radios antiguas que sirven para buscar emisoras."
+            },
+            {
+                "palabra": "Distracción",
+                "definición": "Algo que se hace para desviar la atención de alguien (o de un monstruo) hacia otro lado."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué estaba intentando hacer Dustin al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Llamar a la policía",
+                    "Contactar con su novia Suzie por radio",
+                    "Escuchar música",
+                    "Pedir una pizza"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Dónde construyó Dustin su torre 'Cerebro'?",
+                "tipo": "test",
+                "opciones": [
+                    "En el jardín de su casa",
+                    "En el colegio",
+                    "En la Cima de los Vientos",
+                    "En el sótano de Mike"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué estaba haciendo el Demodog en la torre?",
+                "tipo": "test",
+                "opciones": [
+                    "Dormía bajo la estructura",
+                    "Intentaba subir para ver mejor",
+                    "Mordía los cables porque le atraía la electricidad",
+                    "Estaba jugando con la antena"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué tuvieron que dejar las bicicletas abajo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se les pincharon las ruedas",
+                    "Porque la cuesta era muy empinada",
+                    "Porque se les olvidaron las llaves",
+                    "Para que no se las robaran"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el plan para deshacerse del monstruo?",
+                "tipo": "test",
+                "opciones": [
+                    "Atacarlo todos a la vez corriendo",
+                    "Eleven hizo ruido con una bocina para distraerlo y Lucas disparó",
+                    "Llamaron a Hopper para que disparara",
+                    "Le dieron comida para que se fuera"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Lucas dice que son los 'guardianes secretos' del pueblo. ¿Qué quiere decir?",
+                "tipo": "test",
+                "opciones": [
+                    "Que trabajan para la policía en secreto",
+                    "Que protegen el pueblo de peligros sin que nadie más lo sepa",
+                    "Que les gusta jugar al escondite",
+                    "Que son superhéroes famosos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo expulsó Eleven finalmente al Demodog?",
+                "tipo": "test",
+                "opciones": [
+                    "Lo empujó colina abajo con sus poderes",
+                    "Lo levantó y lo tiró al cielo",
+                    "Le gritó hasta que se fue",
+                    "No hizo nada, se fue solo"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué temía Dustin que pasara si su madre se enteraba?",
+                "tipo": "test",
+                "opciones": [
+                    "Que le quitara la paga",
+                    "Que no le dejara salir de casa hasta los treinta años",
+                    "Que se comiera sus dulces",
+                    "Que vendiera su radio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Cada amigo usó una habilidad diferente (Dustin la tecnología, Lucas la puntería, Eleven los poderes). ¿Por qué crees que es mejor resolver problemas en grupo que solo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es mejor en grupo porque cada persona sabe hacer cosas distintas. Si Dustin hubiera estado solo, no habría podido espantar al monstruo. Juntando las habilidades de todos, son mucho más fuertes."
+            },
+            {
+                "enunciado": "¿Qué harías tú si vieras algo peligroso como un monstruo? ¿Intentarías ser un héroe o buscarías ayuda?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que buscaría ayuda de un adulto o de la policía, porque soy un niño y podría ser muy peligroso enfrentarme a un monstruo solo. Pero si no hubiera nadie más, intentaría esconderme o huir."
+            }
+        ]
+    },
+    {
+        "titulo": "El Apagón Secreto en Starcourt",
+        "tema": "stranger",
+        "texto": "Era un viernes caluroso de julio en Hawkins, Indiana. El nuevo Centro Comercial Starcourt brillaba como una joya de neón en medio del pueblo. El aire acondicionado estaba a tope, y el olor a palomitas de maíz y laca para el pelo llenaba los pasillos. Mike, Lucas, Dustin, Will y Eleven estaban sentados en una mesa de la heladería 'Scoops Ahoy', disfrutando de un enorme helado compartido con forma de barco. Steve Harrington, con su uniforme de marinero, les había colado un extra de sirope de chocolate antes de volver al trabajo.\n\n—Os digo que 'La Historia Interminable' es la mejor película del año —insistía Dustin con la boca llena de vainilla.\n\n—No tiene sentido que vuelen en un perro —replicó Lucas, limpiándose las gafas—. Es físicamente imposible.\n\nMike miró a Eleven, que sonreía tímidamente mientras limpiaba una gota de helado de su nariz. Parecía un día perfecto y normal. Pero en Hawkins, la normalidad nunca duraba mucho. De repente, la canción de Madonna que sonaba por los altavoces se distorsionó, convirtiéndose en un chirrido grave y lento. Las luces de neón rosa y azul del techo parpadearon una, dos, tres veces, antes de apagarse por completo. El centro comercial quedó en penumbra, iluminado solo por las luces de emergencia rojas.\n\nLa gente empezó a murmurar, molesta por el apagón. Pero Will Byers se quedó rígido en su silla. Su mano fue instintivamente a su nuca. Los pelos se le erizaron y sintió ese frío helado y conocido que le recorría la columna vertebral.\n\n—Chicos —susurró Will, con la voz temblorosa.\n\nMike reaccionó al instante. Conocía esa mirada en los ojos de su amigo. \n\n—¿Lo sientes? —preguntó Mike.\n\n—Está cerca —respondió Will—. El Azotamentes. O algo conectado a él.\n\n—Código Rojo —dijo Lucas, poniéndose serio. Sacó su 'Supercom' de la mochila, aunque sabía que dentro del centro comercial la señal sería débil.\n\n—Tenemos que salir de aquí —sugirió Dustin.\n\n—No —dijo Eleven, poniéndose de pie. Se limpió la boca con decisión—. No podemos dejar que haga daño a la gente.\n\nSiguiendo la intuición de Will, la pandilla se escabulló hacia los pasillos de servicio, lejos de la multitud. Will sentía que el frío venía de los generadores de electricidad, en el sótano. Bajaron las escaleras de hormigón con sus linternas encendidas. El aire allí abajo olía a ozono y a cable quemado. Al llegar a la sala de generadores, vieron algo que les heló la sangre.\n\nUna criatura pequeña, del tamaño de un gato pero hecha de sombras y sustancia viscosa, estaba enroscada alrededor de los cables principales. No era un Demogorgon gigante, sino un fragmento del Desuellamentes que buscaba energía para crecer. La criatura absorbía la electricidad, brillando con una luz violeta pulsante.\n\n—Se está alimentando —susurró Dustin fascinado y horrorizado a la vez—. Si sigue así, provocará un incendio en todo el centro comercial.\n\nLa criatura notó su presencia. Giró su cabeza sin rostro hacia ellos y emitió un siseo amenazante. Se preparó para saltar hacia Mike.\n\n—¡Cuidado! —gritó Lucas, sacando su tirachinas 'La Muñequera'. Cargó una piedra rápidamente y disparó. ¡Plaf! La piedra golpeó a la criatura, pero solo sirvió para enfadarla más. La masa viscosa se estiró, haciéndose más grande y afilada.\n\nEleven dio un paso al frente. Extendió su mano derecha hacia la criatura. Su rostro se puso serio y concentrado. \n\n—¡Déjalos! —gritó ella.\n\nCon un movimiento brusco de su cabeza, Eleven usó su telequinesis. La criatura salió despedida por el aire y se estrelló contra la pared de hormigón. Pero era resistente. Se volvió a recomponer e intentó atacar de nuevo. Eleven gritó con más fuerza, y esta vez, empujó a la criatura hacia una jaula de metal vacía que había en la esquina. Con un gesto de su mano, cerró la puerta de la jaula y dobló los barrotes de metal con la mente para sellarla.\n\nLa criatura chilló dentro de la jaula, atrapada. Will respiró hondo; el frío en su nuca empezaba a desaparecer.\n\n—Lo tenemos —dijo Mike, poniendo una mano en el hombro de Eleven, que estaba un poco mareada y con un hilo de sangre en la nariz.\n\n—Tenemos que avisar a Hopper —dijo Dustin—. Él sabrá qué hacer con esta... cosa.\n\nSalieron del sótano justo cuando las luces del centro comercial volvían a encenderse. La música volvió a sonar y la gente aplaudía, pensando que solo había sido un fallo técnico. Nadie sabía que, bajo sus pies, cinco niños acababan de salvar el día. Se sentaron de nuevo en la heladería, exhaustos pero aliviados.\n\n—Eso ha sido intenso —dijo Lucas, guardando su tirachinas.\n\n—Definitivamente —asintió Mike—. Pero lo hemos hecho juntos. Como siempre.\n\nEleven sonrió y robó una cucharada del helado de Mike. En Hawkins, incluso una tarde tranquila de helados podía convertirse en una misión para salvar el mundo, pero mientras se tuvieran los unos a los otros, estaban preparados para todo.",
+        "glosario": [
+            {
+                "palabra": "Starcourt",
+                "definición": "El nombre del centro comercial nuevo y brillante de Hawkins donde les gusta ir a los chicos."
+            },
+            {
+                "palabra": "Azotamentes",
+                "definición": "El monstruo principal y más poderoso del Mundo del Revés, que controla a las otras criaturas (Mind Flayer)."
+            },
+            {
+                "palabra": "Supercom",
+                "definición": "El nombre especial que le dan los chicos a sus walkie-talkies de largo alcance."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "Frase secreta del grupo que significa que hay una emergencia muy grave y peligrosa."
+            },
+            {
+                "palabra": "Telequinesis",
+                "definición": "El superpoder de mover cosas o personas con la mente sin tocarlas, como hace Eleven."
+            },
+            {
+                "palabra": "Viscosa",
+                "definición": "Una sustancia pegajosa, húmeda y resbaladiza, parecida al blandiblú."
+            },
+            {
+                "palabra": "Ozono",
+                "definición": "Un gas que tiene un olor muy fuerte y característico, parecido al olor que hay después de una tormenta eléctrica."
+            },
+            {
+                "palabra": "Mundo del Revés",
+                "definición": "Una dimensión paralela oscura y fría que es un reflejo tenebroso de nuestro mundo."
+            },
+            {
+                "palabra": "Generadores",
+                "definición": "Máquinas grandes que producen la electricidad para que funcionen las luces y aparatos de un edificio."
+            },
+            {
+                "palabra": "Penumbra",
+                "definición": "Cuando hay muy poca luz, casi a oscuras, pero todavía se puede ver un poco."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Dónde estaban los protagonistas al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "En el colegio",
+                    "En la heladería Scoops Ahoy del centro comercial",
+                    "En el sótano de Mike",
+                    "En el bosque"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué señal física sintió Will para saber que había peligro?",
+                "tipo": "test",
+                "opciones": [
+                    "Le dolió la cabeza",
+                    "Sintió mucho calor",
+                    "Se le erizaron los pelos de la nuca y sintió frío",
+                    "Le sangró la nariz"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué estaba haciendo la criatura en el sótano?",
+                "tipo": "test",
+                "opciones": [
+                    "Estaba durmiendo",
+                    "Estaba absorbiendo electricidad de los cables",
+                    "Estaba comiendo helado",
+                    "Estaba escondiéndose de Hopper"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto usó Lucas para intentar detener a la criatura?",
+                "tipo": "test",
+                "opciones": [
+                    "Una espada",
+                    "Su tirachinas 'La Muñequera'",
+                    "Un bate de béisbol",
+                    "Una linterna"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo atrapó Eleven finalmente al monstruo?",
+                "tipo": "test",
+                "opciones": [
+                    "Lo congeló con hielo",
+                    "Lo empujó dentro de una jaula y dobló los barrotes con la mente",
+                    "Lo pisó",
+                    "Llamó a la policía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué la gente del centro comercial aplaudió al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque vieron a los niños salvar el día",
+                    "Porque pensaron que el apagón fue solo un fallo técnico y la luz volvió",
+                    "Porque les regalaron helado",
+                    "Porque empezó una película"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica que usar los poderes requiere esfuerzo para Eleven?",
+                "tipo": "test",
+                "opciones": [
+                    "Se pone a reír",
+                    "Le cambia el color del pelo",
+                    "Le sale un hilo de sangre por la nariz y se marea",
+                    "Se queda dormida al instante"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Will dice que siente al 'Azotamentes'. ¿Qué significa esto?",
+                "tipo": "test",
+                "opciones": [
+                    "Que tiene hambre",
+                    "Que el monstruo principal está cerca o conectado a la criatura",
+                    "Que quiere irse a casa",
+                    "Que hace frío en el centro comercial"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Eleven decide no huir y bajar al sótano para proteger a la gente. ¿Qué opinas de su decisión? ¿Crees que fue valiente?",
+                "tipo": "abierta",
+                "respuestaModelo": "Sí, creo que fue muy valiente. Podría haber salido corriendo para salvarse ella misma, pero decidió arriesgarse para que nadie del centro comercial saliera herido, y eso es lo que hacen los héroes."
+            },
+            {
+                "enunciado": "En el grupo de amigos, cada uno tiene un papel (Will detecta el peligro, Lucas ataca, Eleven usa poderes...). ¿Por qué es bueno trabajar en equipo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es bueno porque cada uno sabe hacer una cosa diferente. Si estuvieran solos, Will habría tenido miedo y Lucas no habría podido vencer al monstruo. Juntos combinan sus fuerzas y se ayudan."
+            }
+        ]
+    },
+    {
+        "titulo": "La Frecuencia Fantasma en Mirkwood",
+        "tema": "stranger",
+        "texto": "Dustin Henderson subió jadeando la colina más alta de Hawkins, conocida como la 'Cima de los Vientos'. Llevaba una mochila pesada llena de cables, baterías y antenas. Detrás de él, empujando sus bicicletas cuesta arriba, venían Mike, Lucas y Will. Era una tarde de sábado y el sol empezaba a ponerse, tiñendo el cielo de colores naranjas y violetas.\n\n—Venga, chicos, ya casi estamos —dijo Dustin emocionado—. Hoy es el día perfecto para probar 'Cerebro'.\n\n'Cerebro' era el último invento de Dustin: una torre de radio casera gigante que él aseguraba que podía contactar con lugares tan lejanos como Australia o incluso escuchar transmisiones secretas. Cuando llegaron a la cima, montaron la estructura metálica. Dustin conectó los auriculares y empezó a girar los diales, buscando una señal.\n\n—¿Oís eso? —preguntó Dustin.\n\nMike y Lucas se acercaron. Solo se oía estática, ese sonido de lluvia constante. Pero de repente, entre el ruido, surgió un sonido rítmico. *Bip... Bip... Grrr...* No era código morse. Y definitivamente no era una persona hablando. Era un gruñido bajo y húmedo.\n\nWill, que estaba sentado en la hierba, se puso pálido. Se frotó el brazo. \n\n—Ese sonido... no es de este mundo —dijo Will en voz baja.\n\nEleven, que había estado observando el bosque desde lo alto de la colina, se giró bruscamente. \n\n—Demogorgon —dijo ella.\n\n—No puede ser —replicó Lucas—. Eleven cerró el portal el año pasado.\n\n—Quizás quedó uno atrapado —sugirió Mike—. O quizás hay una nueva grieta pequeña.\n\nEl sonido en la radio se hizo más fuerte. Dustin miró su brújula. La aguja no apuntaba al Norte; apuntaba directamente hacia el corazón del bosque de Mirkwood, colina abajo. \n\n—Hay una interferencia magnética muy fuerte —dijo Dustin—. Viene de allí abajo.\n\n—Código Rojo —sentenció Mike—. Tenemos que investigar antes de que se haga de noche completamente.\n\nDejaron 'Cerebro' en la colina y montaron en sus bicicletas. Bajaron a toda velocidad por el sendero de tierra, esquivando raíces y piedras. Las luces de sus linternas rebotaban en los árboles. El bosque de Mirkwood siempre daba miedo, pero esa noche parecía más oscuro de lo normal. La niebla se pegaba al suelo.\n\nLlegaron a un claro donde había un viejo cobertizo abandonado. La brújula de Dustin giraba como loca. De dentro del cobertizo salía una luz rojiza y pulsante. Will temblaba de frío. \n\n—Está dentro —dijo Will.\n\nMike hizo una señal para que se detuvieran. Se acercaron sigilosamente a la ventana sucia del cobertizo. Dentro, vieron una pequeña grieta en la pared, brillante y pegajosa, que conectaba con el Mundo del Revés. Una criatura parecida a un perro sin piel, un Demodog, intentaba arañar la grieta para hacerla más grande y pasar por ella.\n\n—Está intentando entrar —susurró Lucas, preparando su tirachinas con una piedra explosiva (un petardo atado a una piedra).\n\n—Si entra, llamará a más —dijo Dustin.\n\n—El, ¿puedes cerrarlo? —preguntó Mike a Eleven.\n\nEleven asintió, aunque parecía asustada. \n\n—Necesito acercarme.\n\nLucas tomó la iniciativa. \n\n—Yo lo distraigo. A la de tres. ¡Uno, dos, tres!\n\nLucas lanzó la piedra explosiva contra el tejado de chapa del cobertizo. *¡PUM!* El ruido fuerte asustó al Demodog, que chilló y miró hacia arriba. Aprovechando la confusión, Mike abrió la puerta de una patada y Eleven entró. \n\nLa criatura se giró para atacarla, abriendo su boca llena de dientes como una flor carnívora. Pero Eleven levantó la mano y gritó. Una onda de energía golpeó al monstruo, empujándolo de vuelta hacia la grieta. El Demodog aulló mientras era succionado de regreso a su dimensión oscura. \n\nEleven no paró. Juntó ambas manos y se concentró en la grieta brillante. Las luces de las linternas de los chicos parpadearon violentamente. Con un último grito de esfuerzo, Eleven cerró la grieta. La luz roja desapareció, dejando solo una pared de madera vieja y sucia.\n\nEl silencio volvió al bosque. Eleven cayó de rodillas, agotada, y Mike corrió a sostenerla. \n\n—¿Se ha ido? —preguntó Dustin, asomando la cabeza.\n\n—Se ha ido —confirmó Mike, sonriendo.\n\nRegresaron a sus bicicletas, con el corazón latiendo a mil por hora. Habían evitado una invasión ellos solos. Mientras pedaleaban de vuelta a casa bajo la luz de la luna, Dustin cogió su walkie-talkie.\n\n—Dustin a base. Misión cumplida. El portal está cerrado. Repito, portal cerrado. Cambio y corto.\n\nWill sonrió por primera vez en toda la tarde. El frío se había ido. Sabían que en Hawkins nunca podían estar tranquilos del todo, pero mientras tuvieran sus bicicletas, sus radios y a sus amigos, estarían listos para lo que viniera.",
+        "glosario": [
+            {
+                "palabra": "Cerebro",
+                "definición": "El nombre que Dustin le puso a su potente torre de radio casera para hablar a larga distancia."
+            },
+            {
+                "palabra": "Mirkwood",
+                "definición": "El nombre de fantasía que los niños usan para llamar al bosque oscuro de Hawkins."
+            },
+            {
+                "palabra": "Demodog",
+                "definición": "Una criatura monstruosa del Mundo del Revés, parecida a un perro pero sin ojos y muy peligrosa."
+            },
+            {
+                "palabra": "Código Rojo",
+                "definición": "Señal de emergencia del grupo que significa peligro inmediato."
+            },
+            {
+                "palabra": "Interferencia",
+                "definición": "Ruidos extraños en la radio causados por tormentas o energía magnética."
+            },
+            {
+                "palabra": "Estática",
+                "definición": "El sonido de lluvia o zumbido constante que hace una radio cuando no sintoniza nada."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento que sirve para orientarse; si hay un portal cerca, deja de apuntar al Norte."
+            },
+            {
+                "palabra": "Sigilosamente",
+                "definición": "Moverse con mucho cuidado y en silencio para no ser descubierto."
+            },
+            {
+                "palabra": "Tirachinas",
+                "definición": "Arma de juguete que usa Lucas para lanzar piedras con puntería."
+            },
+            {
+                "palabra": "Mundo del Revés",
+                "definición": "La dimensión paralela oscura de donde vienen los monstruos."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué estaba haciendo Dustin al principio de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Jugando al escondite",
+                    "Probando su torre de radio 'Cerebro'",
+                    "Comiendo pizza",
+                    "Huyendo de un monstruo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sonido extraño captaron por la radio?",
+                "tipo": "test",
+                "opciones": [
+                    "Una canción de rock",
+                    "A una persona pidiendo ayuda",
+                    "Un gruñido bajo y húmedo",
+                    "El sonido del mar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Hacia dónde apuntaba la brújula de Dustin?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacia el Norte",
+                    "Hacia el colegio",
+                    "Hacia el bosque de Mirkwood",
+                    "Hacia su casa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué encontraron dentro del cobertizo abandonado?",
+                "tipo": "test",
+                "opciones": [
+                    "Un tesoro pirata",
+                    "Una grieta brillante y un Demodog",
+                    "Una bicicleta vieja",
+                    "A Hopper durmiendo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué usó Lucas para distraer al monstruo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una piedra explosiva lanzada con su tirachinas",
+                    "Una linterna muy potente",
+                    "Un grito muy fuerte",
+                    "Un trozo de carne"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cómo consiguió Eleven cerrar la grieta?",
+                "tipo": "test",
+                "opciones": [
+                    "Poniendo tablas de madera",
+                    "Usando pegamento",
+                    "Usando sus poderes mentales y mucha concentración",
+                    "Llamando a los bomberos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué parpadeaban las linternas cuando Eleven usaba sus poderes?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se estaban quedando sin pilas",
+                    "Porque la energía de Eleven afecta a la electricidad",
+                    "Porque los chicos tenían miedo y les temblaba la mano",
+                    "Porque estaba lloviendo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sintieron los chicos al volver a casa?",
+                "tipo": "test",
+                "opciones": [
+                    "Tristes y derrotados",
+                    "Aburridos",
+                    "Aliviados y orgullosos de haber cumplido la misión",
+                    "Enfadados entre ellos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Lucas confía en que su distracción funcionará para que Eleven pueda entrar. ¿Por qué es importante confiar en los planes del grupo?",
+                "tipo": "abierta",
+                "respuestaModelo": "Es importante porque si cada uno hace lo que quiere sin seguir el plan, puede salir mal y alguien puede hacerse daño. Al confiar en el plan, trabajan coordinados y tienen más éxito."
+            },
+            {
+                "enunciado": "¿Qué te parece la actitud de Will? Aunque tenía mucho miedo, fue con sus amigos. ¿Qué nos dice eso sobre él?",
+                "tipo": "abierta",
+                "respuestaModelo": "Nos dice que Will es muy valiente y leal. Aunque estaba asustado porque ya había estado en el Mundo del Revés, prefirió ir a ayudar a sus amigos antes que quedarse seguro en casa."
+            }
+        ]
+    }
+]

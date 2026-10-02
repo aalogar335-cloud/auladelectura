@@ -1,0 +1,1274 @@
+[
+    {
+        "titulo": "El Mapa de los Tres Volcanes",
+        "tema": "aventuras",
+        "texto": "Mateo y Clara descubrieron un pergamino amarillento oculto en el antiguo desván de su abuelo aventurero. No era un papel cualquiera; era el mapa hacia el Valle de las Orquídeas de Cristal, un lugar que muchos consideraban una simple leyenda. Con sus mochilas rojas cargadas de provisiones, una brújula antigua y mucha valentía, los hermanos se internaron en la espesa selva de la isla remota de Islaruna. El aire era húmedo y olía a tierra mojada. De repente, un rugido lejano los hizo detenerse en seco. Mateo, el hermano más pequeño, sintió un escalofrío intenso, pero Clara le tomó la mano con firmeza. 'Es solo el viento soplando entre las rocas huecas', susurró ella para darle confianza. Siguieron el sendero marcado por piedras talladas con formas de animales extraños y mitológicos. Al llegar al caudaloso río Esmeralda, se dieron cuenta de que el puente de cuerdas estaba roto por el tiempo. Debían cruzar usando los grandes troncos flotantes. Fue una prueba de equilibrio muy difícil, pero gracias a la agilidad natural de Mateo, lograron llegar a la otra orilla sin mojarse los pies. Detrás de una cascada gigante, encontraron una entrada de piedra oculta. Al entrar, la oscuridad era casi total, hasta que Clara encendió su potente linterna de metal. Las paredes estaban cubiertas de inscripciones antiguas que contaban la historia de una civilización que amaba la naturaleza sobre todas las cosas del mundo. En el centro de la cueva, bajo un rayo de sol que se filtraba por el techo, brillaban tres orquídeas que parecían hechas de diamantes puros. No se las llevaron; en su lugar, sacaron una fotografía para enseñársela a su abuelo. Comprendieron que el verdadero tesoro no era la riqueza material, sino el viaje compartido y el respeto por los misterios ocultos del mundo. Salieron de la cueva justo cuando el sol comenzaba a ocultarse, tiñendo el cielo de colores púrpuras y naranjas. Habían vivido la mayor aventura de sus cortas vidas, transformando su miedo inicial en una curiosidad infinita por el planeta.",
+        "glosario": [
+            {
+                "palabra": "Pergamino",
+                "definición": "Papel muy antiguo que se usaba para escribir o dibujar mapas importantes."
+            },
+            {
+                "palabra": "Desván",
+                "definición": "Parte más alta de una casa donde se suelen guardar objetos viejos."
+            },
+            {
+                "palabra": "Provisiones",
+                "definición": "Comida y agua necesarias para un viaje o una excursión larga."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento que tiene una aguja que siempre señala hacia el norte."
+            },
+            {
+                "palabra": "Escalofrío",
+                "definición": "Sensación de frío o miedo que hace temblar un poco el cuerpo."
+            },
+            {
+                "palabra": "Mitológicos",
+                "definición": "Seres fantásticos que aparecen en las leyendas y cuentos antiguos."
+            },
+            {
+                "palabra": "Caudaloso",
+                "definición": "Dicho de un río que lleva muchísima agua con mucha fuerza."
+            },
+            {
+                "palabra": "Inscripciones",
+                "definición": "Letras o dibujos grabados en piedra o metal para dar un mensaje."
+            },
+            {
+                "palabra": "Civilización",
+                "definición": "Grupo de personas que viven juntas y tienen sus propias reglas y cultura."
+            },
+            {
+                "palabra": "Infinitas",
+                "definición": "Cosas que no tienen fin o que son muy grandes y numerosas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el lugar donde encontraron las flores brillantes?",
+                "tipo": "test",
+                "opciones": [
+                    "La Isla Remota",
+                    "El Valle de las Orquídeas de Cristal",
+                    "El Río Esmeralda",
+                    "El Desván del Abuelo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto utilizó Clara para ver dentro de la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Una vela",
+                    "Un fósforo",
+                    "Una linterna de metal",
+                    "Un rayo de sol"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué usaron para cruzar el río al ver que el puente estaba roto?",
+                "tipo": "test",
+                "opciones": [
+                    "Una canoa",
+                    "Nadaron",
+                    "Troncos flotantes",
+                    "Saltaron por las rocas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Clara le dijo a Mateo que el rugido era solo el viento?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque ella era sorda",
+                    "Para evitar que su hermano tuviera miedo y se detuviera",
+                    "Porque conocía muy bien a los animales",
+                    "Porque el viento realmente hablaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos indica que Mateo y Clara son niños responsables?",
+                "tipo": "test",
+                "opciones": [
+                    "Que llevaban mochilas rojas",
+                    "Que prepararon una mochila con provisiones y herramientas",
+                    "Que sabían nadar muy bien",
+                    "Que no le tenían miedo a la oscuridad"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los hermanos decidieron no llevarse las orquídeas de cristal?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque pesaban demasiado",
+                    "Porque eran falsas",
+                    "Por respeto a la naturaleza y al misterio del lugar",
+                    "Porque no tenían espacio en la mochila"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué sentimiento experimentó Mateo al principio de la aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Aburrimiento total",
+                    "Miedo e inseguridad",
+                    "Mucha hambre",
+                    "Enfado con su hermana"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "A juzgar por la historia, ¿qué tipo de persona era el abuelo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un hombre muy serio y gruñón",
+                    "Un viajero que valoraba los misterios y la historia",
+                    "Un carpintero que hacía baúles",
+                    "Un hombre que nunca salía de casa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el mayor aprendizaje de los hermanos tras el viaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Que deben comprar linternas nuevas",
+                    "Que las fotos son mejores que los dibujos",
+                    "Que el valor de la experiencia es superior al dinero",
+                    "Que no deben entrar en cuevas oscuras"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que los obstáculos son 'oportunidades para aprender'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que si algo es difícil, es mejor no hacerlo",
+                    "Que los problemas nos ayudan a descubrir de qué somos capaces",
+                    "Que hay que esperar a que alguien nos ayude",
+                    "Que los puentes rotos son divertidos"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Abismo de Cristal",
+        "tema": "aventuras",
+        "texto": "Leo siempre había soñado con explorar las profundidades desconocidas del océano. Como joven cadete de la Academia Submarina, recibió su primera misión importante: investigar una señal luminosa extraña que provenía del misterioso Abismo de Cristal. Acompañado por Spark, un pequeño delfín robótico diseñado para la exploración en grietas estrechas, Leo se sumergió en su cápsula personal llamada 'Explorador Azul'. A medida que descendían, la luz del sol desaparecía y criaturas bioluminiscentes empezaban a rodearlos como si fueran pequeñas estrellas marinas flotantes. De pronto, un banco de medusas gigantes bloqueó el camino totalmente. Eran hermosas pero peligrosas por su electricidad natural. Spark activó un pulso sónico muy suave que las alejó sin causarles ningún daño físico, permitiendo que la cápsula continuara su descenso seguro hacia el fondo. Al llegar abajo, Leo vio algo increíble: los restos de una antigua ciudad sumergida, con cúpulas de cristal que todavía conservaban aire en su interior. En el centro de la plaza principal, una gran esfera de energía emitía el pulso que habían detectado desde la superficie. No era una señal de auxilio, sino un mensaje de bienvenida pacífico. Leo utilizó los sensores de su cápsula para traducir los símbolos grabados en la base de la esfera metálica. Decían: 'El océano protege a quienes lo cuidan con amor'. Se dio cuenta de que aquella ciudad no estaba abandonada por descuido, sino que sus habitantes se habían mudado a zonas más profundas para evitar que los humanos interfirieran con su delicado ecosistema. Leo decidió no revelar la ubicación exacta en su informe final para proteger el gran secreto de la ciudad. Solo informó que la señal era un fenómeno natural provocado por minerales magnéticos raros. Al regresar a la superficie, Spark emitió un alegre silbido electrónico de aprobación. Leo miró el horizonte y sonrió, sintiéndose un verdadero guardián del mar. Había comprendido que la mayor aventura consiste en proteger los milagros que la naturaleza ha logrado ocultar de la curiosidad destructiva del hombre moderno. Estaba listo para su próxima misión.",
+        "glosario": [
+            {
+                "palabra": "Cadete",
+                "definición": "Alumno que se está preparando para ser un profesional, como un piloto o explorador."
+            },
+            {
+                "palabra": "Abismo",
+                "definición": "Lugar del océano que es extremadamente profundo y oscuro."
+            },
+            {
+                "palabra": "Cápsula",
+                "definición": "Vehículo pequeño y cerrado que sirve para viajar bajo el agua o por el espacio."
+            },
+            {
+                "palabra": "Bioluminiscentes",
+                "definición": "Seres vivos que tienen la capacidad de producir su propia luz en la oscuridad."
+            },
+            {
+                "palabra": "Pulso sónico",
+                "definición": "Onda de sonido que se usa para mover objetos o detectar cosas bajo el agua."
+            },
+            {
+                "palabra": "Cúpulas",
+                "definición": "Techos en forma de media esfera, como una burbuja dada la vuelta."
+            },
+            {
+                "palabra": "Sensores",
+                "definición": "Aparatos tecnológicos que sirven para medir o detectar cosas de forma automática."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Lugar donde viven animales y plantas que se necesitan unos a otros para sobrevivir."
+            },
+            {
+                "palabra": "Interferir",
+                "definición": "Meterse en algo o molestarlo de manera que cambie su estado natural."
+            },
+            {
+                "palabra": "Magnéticos",
+                "definición": "Minerales que tienen la fuerza de un imán y pueden atraer metales."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el delfín robótico que acompaña a Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "Blue",
+                    "Spark",
+                    "Explorador",
+                    "Cristal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué mensaje estaba grabado en la base de la esfera de energía?",
+                "tipo": "test",
+                "opciones": [
+                    "¡Socorro, ayúdennos!",
+                    "El océano protege a quienes lo cuidan con amor",
+                    "Bienvenidos a la ciudad de cristal",
+                    "Peligro: medusas eléctricas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nombre tiene la cápsula de Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "Delfín Plateado",
+                    "Estrella Marina",
+                    "Explorador Azul",
+                    "Academia Submarina"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Leo decidió mentir en su informe final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no quería que su jefe supiera la verdad",
+                    "Para proteger la ciudad sumergida de la posible curiosidad dañina de los humanos",
+                    "Porque se le olvidó lo que había visto",
+                    "Porque Spark se lo pidió"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el propósito del pulso sónico de Spark?",
+                "tipo": "test",
+                "opciones": [
+                    "Destruir a las medusas",
+                    "Atraer a los peces luminosos",
+                    "Apartar a las medusas sin lastimarlas",
+                    "Llamar a los habitantes de la ciudad"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se sentía Leo al regresar a la superficie?",
+                "tipo": "test",
+                "opciones": [
+                    "Decepcionado por no encontrar oro",
+                    "Orgulloso de haber protegido el secreto del mar",
+                    "Asustado por las medusas",
+                    "Cansado y con ganas de dormir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué podemos deducir sobre los habitantes de la ciudad sumergida?",
+                "tipo": "test",
+                "opciones": [
+                    "Que eran muy guerreros",
+                    "Que valoraban su paz y la salud de su entorno natural",
+                    "Que eran robots como Spark",
+                    "Que no sabían escribir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los habitantes se mudaron a zonas todavía más profundas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el agua estaba caliente",
+                    "Para evitar el contacto con el ser humano y sus interferencias",
+                    "Porque buscaban comida nueva",
+                    "Porque sus casas se rompieron"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué significa ser un 'guardián del mar' según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Pescar muchos peces",
+                    "Vigilar que nadie entre a nadar",
+                    "Actuar para conservar y defender la vida marina",
+                    "Tener un delfín robot"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué tipo de aventura vivió realmente Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "Una aventura de lucha y combate",
+                    "Una aventura de descubrimiento científico y compromiso moral",
+                    "Una aventura aburrida sin sentido",
+                    "Una carrera de velocidad"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Templo del Jaguar",
+        "tema": "aventuras",
+        "texto": "Lucas era un niño curioso que vivía cerca de la selva amazónica. Un día, siguiendo el rastro de una mariposa azul brillante, encontró una entrada oculta entre lianas gigantes. Era el Templo del Jaguar, un lugar perdido hace siglos. Lucas llevaba su mochila con una linterna, una cuerda y una libreta de notas. Al entrar, el aire olía a incienso y humedad. Las paredes estaban decoradas con relieves de guerreros y animales sagrados. De repente, el suelo vibró y una puerta de piedra se cerró detrás de él. Lucas no tuvo miedo; sabía que cada problema tiene una solución lógica. Usó su linterna para iluminar el techo, donde vio un mosaico de estrellas. Recordó las lecciones de astronomía de su escuela y comprendió que debía presionar las piedras que formaban la constelación de Orión. Al hacerlo, un mecanismo secreto hizo que una pared se deslizara, revelando una sala llena de estatuas de jade. En el centro, había un pedestal con un espejo de obsidiana. Al mirarse en él, Lucas no vio su reflejo, sino imágenes de la selva en el futuro. El templo era un observatorio antiguo diseñado para proteger el ecosistema. El espejo le mostró que la tala de árboles estaba amenazando el hogar de sus amigos animales. Lucas anotó todo en su libreta, comprendiendo que su misión no era llevarse objetos valiosos, sino información para salvar el bosque. Encontró una salida secreta que lo llevó directamente al río. Mientras caminaba de regreso a su aldea, el jaguar tallado en la entrada pareció guiñarle un ojo. Había aprendido que el conocimiento es el tesoro más grande de la humanidad y que la naturaleza necesita guardianes valientes. Lucas se prometió estudiar ciencias para ser el mejor defensor de la selva. Esa noche, mientras las estrellas brillaban sobre el dosel verde, el niño soñó con mapas antiguos y nuevas formas de cuidar el planeta, sintiéndose parte de una historia mucho más grande que él mismo. Él comprendió que cada pequeño descubrimiento podría ayudar a los demás habitantes de esta tierra tan hermosa donde vivía muy feliz con su amada familia unida.",
+        "glosario": [
+            {
+                "palabra": "Lianas",
+                "definición": "Plantas largas y trepadoras que cuelgan de los árboles en la selva."
+            },
+            {
+                "palabra": "Relieves",
+                "definición": "Figuras o formas que sobresalen de una superficie plana, como una pared."
+            },
+            {
+                "palabra": "Jade",
+                "definición": "Piedra preciosa de color verde muy valorada en las culturas antiguas."
+            },
+            {
+                "palabra": "Obsidiana",
+                "definición": "Piedra volcánica negra y brillante que parece un cristal oscuro."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Conjunto formado por los seres vivos y el lugar donde viven."
+            },
+            {
+                "palabra": "Astronomía",
+                "definición": "Ciencia que estudia los astros, como las estrellas y los planetas."
+            },
+            {
+                "palabra": "Constelación",
+                "definición": "Grupo de estrellas que forman una figura imaginaria en el cielo."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base o pie de piedra sobre el que se coloca una estatua u objeto."
+            },
+            {
+                "palabra": "Dosel",
+                "definición": "Capa superior de la selva formada por las copas de los árboles."
+            },
+            {
+                "palabra": "Mecanismo",
+                "definición": "Conjunto de piezas que se mueven para que una máquina o puerta funcione."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué animal siguió Lucas para encontrar la entrada del templo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un jaguar",
+                    "Una mariposa azul",
+                    "Un guerrero",
+                    "Un loro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué constelación tuvo que presionar Lucas para abrir la pared?",
+                "tipo": "test",
+                "opciones": [
+                    "La Osa Mayor",
+                    "Casiopea",
+                    "Orión",
+                    "El Can Mayor"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿De qué material era el espejo mágico del pedestal?",
+                "tipo": "test",
+                "opciones": [
+                    "De jade",
+                    "De plata",
+                    "De obsidiana",
+                    "De cristal"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Lucas decidió no llevarse nada valioso del templo?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque no cabía en su mochila",
+                    "Porque entendió que la información era más importante",
+                    "Porque tenía miedo de los fantasmas",
+                    "Porque las estatuas pesaban mucho"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué función real tenía el Templo del Jaguar según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Era una tumba de reyes",
+                    "Era una escuela para niños",
+                    "Era un observatorio para proteger la selva",
+                    "Era una casa para los jaguares"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo se sintió Lucas cuando la puerta de piedra se cerró?",
+                "tipo": "test",
+                "opciones": [
+                    "Aterrorizado y gritó",
+                    "Tranquilo porque confiaba en su lógica",
+                    "Aburrido y se durmió",
+                    "Enfadado con la mariposa"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué mensaje le dio el espejo sobre el futuro de la selva?",
+                "tipo": "test",
+                "opciones": [
+                    "Que habría más jaguares",
+                    "Que se convertiría en una ciudad",
+                    "Que los árboles estaban en peligro",
+                    "Que encontrarían más oro"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos deducir sobre Lucas por el hecho de llevar una libreta?",
+                "tipo": "test",
+                "opciones": [
+                    "Que le gusta dibujar cómics",
+                    "Que es una persona organizada y estudiosa",
+                    "Que estaba perdido",
+                    "Que quería escribir un diario pirata"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es importante el conocimiento para Lucas al final del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Para ganar mucho dinero",
+                    "Para ser famoso en su aldea",
+                    "Para proteger y defender la naturaleza",
+                    "Para encontrar más templos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cuál es la enseñanza principal de esta aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Que nunca entres solo a la selva",
+                    "Que la valentía y el estudio ayudan al planeta",
+                    "Que las mariposas azules son mágicas",
+                    "Que el jade es muy caro"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Vuelo del Halcón de Plata",
+        "tema": "aventuras",
+        "texto": "Sara siempre miraba las montañas nevadas desde su ventana, soñando con volar. Un día, un anciano le entregó un silbato de madera con forma de halcón. 'Solo úsalo cuando tu corazón busque la verdad', le dijo misteriosamente. Esa tarde, Sara subió a la colina más alta y sopló con fuerza. Del cielo bajó un ave majestuosa con plumas que brillaban como el metal: el Halcón de Plata. El ave la invitó a subir a su lomo y, en un parpadeo, estaban surcando las nubes. Sara sentía el viento frío en su rostro y la adrenalina corriendo por sus venas. Volaron sobre valles profundos y cascadas que parecían hilos de plata. El halcón la llevó hasta la Cumbre del Silencio, donde el tiempo parecía haberse detenido. Allí, entre las rocas, crecía la Flor del Valor, una planta que solo florece cuando alguien demuestra una generosidad pura. El halcón le explicó que la flor se estaba marchitando porque la gente en el valle había olvidado ayudarse mutuamente. Sara comprendió que la belleza del mundo depende de nuestras acciones diarias. Ella no cortó la flor, sino que le dio un poco del agua que llevaba en su cantimplora y cantó una canción de esperanza. Al instante, la flor recuperó su color vibrante y un aroma dulce inundó la montaña. El halcón, agradecido, la trajo de vuelta a casa antes del anochecer. Desde ese día, Sara no solo soñaba con volar, sino que se dedicó a organizar grupos de ayuda en su comunidad. La verdadera aventura no fue el viaje por el cielo, sino descubrir que ella tenía el poder de cambiar su entorno con pequeños gestos. El silbato de madera seguía en su cuello, pero ya no necesitaba tocarlo para sentirse especial. Sabía que el Halcón de Plata siempre la observaba desde las alturas, cuidando a quienes trabajan por el bienestar de los demás en el gran libro de la vida. Sara comprendió que la naturaleza y el respeto son lo más importante para todos los humanos que desean vivir en un mundo completamente mejor y lleno de paz junto a su pueblo.",
+        "glosario": [
+            {
+                "palabra": "Majestuosa",
+                "definición": "Que es muy grande, elegante y causa admiración."
+            },
+            {
+                "palabra": "Adrenalina",
+                "definición": "Sensación de emoción o nerviosismo ante una situación de peligro o aventura."
+            },
+            {
+                "palabra": "Surcando",
+                "definición": "Atravesar o ir por un lugar, como volar por el aire o navegar el mar."
+            },
+            {
+                "palabra": "Generosidad",
+                "definición": "Acción de dar o ayudar a los demás sin esperar nada a cambio."
+            },
+            {
+                "palabra": "Marchitando",
+                "definición": "Cuando una planta se seca o pierde su fuerza y color."
+            },
+            {
+                "palabra": "Vibrante",
+                "definición": "Color que es muy vivo, intenso y lleno de luz."
+            },
+            {
+                "palabra": "Comunidad",
+                "definición": "Grupo de personas que viven en un mismo lugar y se ayudan."
+            },
+            {
+                "palabra": "Entorno",
+                "definición": "Todo lo que nos rodea, como la naturaleza y las personas de nuestro barrio."
+            },
+            {
+                "palabra": "Venas",
+                "definición": "Conductos por donde corre la sangre dentro de nuestro cuerpo."
+            },
+            {
+                "palabra": "Vibrante",
+                "definición": "Color que es muy vivo, intenso y lleno de luz."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué forma tenía el silbato que el anciano le dio a Sara?",
+                "tipo": "test",
+                "opciones": [
+                    "De montaña",
+                    "De flor",
+                    "De halcón",
+                    "De nube"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿A qué lugar llevó el Halcón de Plata a Sara?",
+                "tipo": "test",
+                "opciones": [
+                    "Al Valle Profundo",
+                    "A la Cumbre del Silencio",
+                    "A la Ciudad de Plata",
+                    "A su ventana"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué hizo Sara para ayudar a la Flor del Valor?",
+                "tipo": "test",
+                "opciones": [
+                    "La cortó",
+                    "Le dio agua y cantó",
+                    "La llevó a su casa",
+                    "Le puso un silbato"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que el anciano le dio el silbato precisamente a Sara?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque era la más alta",
+                    "Porque vio en ella un deseo sincero de buscar la verdad",
+                    "Porque eran familia",
+                    "Porque Sara no tenía juguetes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué representa el hecho de que la flor se estuviera marchitando?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hacía mucho calor",
+                    "La pérdida de bondad entre las personas del valle",
+                    "Que el halcón no la cuidaba",
+                    "Que Sara llegó tarde"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el relato dice que la verdadera aventura no fue volar?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque volar le dio miedo",
+                    "Porque ayudar a los demás fue un descubrimiento más importante",
+                    "Porque el halcón era robótico",
+                    "Porque Sara prefiere caminar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la vida de Sara después de su viaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Se mudó a las montañas",
+                    "Empezó a volar sola",
+                    "Se volvió una líder solidaria en su pueblo",
+                    "Dejó de mirar por la ventana"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué podemos inferir sobre el Halcón de Plata?",
+                "tipo": "test",
+                "opciones": [
+                    "Es un animal normal de la selva",
+                    "Es un guía mágico que protege los valores humanos",
+                    "Es una estatua que cobró vida",
+                    "Es un invento del anciano"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Sara ya no necesitaba tocar el silbato al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se rompió",
+                    "Porque ya sabía que el poder de ayudar estaba dentro de ella",
+                    "Porque el halcón se fue para siempre",
+                    "Porque el anciano se lo quitó"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el valor más importante que destaca esta historia?",
+                "tipo": "test",
+                "opciones": [
+                    "La velocidad",
+                    "La generosidad y el trabajo en equipo",
+                    "La fuerza física",
+                    "La riqueza"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "La Ciudad Perdida de los Sabios",
+        "tema": "aventuras",
+        "texto": "El sol de la tarde bañaba las cumbres de los Andes cuando Elena y su perro Trueno encontraron una grieta inusual en la pared de una cueva. No era una cueva común; los bordes de la roca parecían pulidos por manos humanas. Con su linterna, Elena iluminó el camino y descubrió una escalera de metal que descendía hacia la oscuridad. Al bajar, se encontró frente a una puerta gigantesca con engranajes de bronce que brillaban como el oro. Era la entrada a la Ciudad de los Sabios, una civilización que, según los cuentos de su abuela, se ocultó para proteger su avanzada tecnología. Elena observó un panel con símbolos extraños. Recordó los rompecabezas que solía resolver con su hermano y entendió que debía alinear los dibujos del sol, la luna y las estrellas en un orden específico. Al completar la secuencia, el mecanismo cobró vida con un zumbido armonioso y la puerta se abrió lentamente. Dentro, la ciudad era un espectáculo de ingeniería: puentes colgantes unían torres de cristal, y pequeños robots silenciosos patrullaban las calles empedradas. No había ruidos molestos ni contaminación; todo funcionaba con energía geotérmica proveniente del corazón de la tierra. Elena caminó hasta la biblioteca central, donde encontró un pergamino que explicaba que el verdadero progreso es aquel que no daña la naturaleza. De repente, una luz tenue iluminó una salida que llevaba de vuelta a la superficie. Antes de irse, Elena tomó una pequeña pieza de metal sobrante como prueba de su hallazgo, pero decidió que la ubicación del lugar debía permanecer en secreto. Comprendió que el mundo exterior aún no estaba listo para cuidar una ciudad tan pura. Al salir, Trueno ladró alegremente, y Elena miró hacia atrás por última vez, sabiendo que ahora era la guardiana de un tesoro mucho más valioso que cualquier moneda: el conocimiento de que un futuro mejor es posible si aprendemos a vivir en equilibrio con nuestro planeta y sus recursos. Elena sonrió mientras volvía a casa, llevando aquel secreto grabado para siempre en su mente joven y brillante. Ahora sabía que el mañana sería una nueva oportunidad.",
+        "glosario": [
+            {
+                "palabra": "Cumbres",
+                "definición": "La parte más alta de una montaña o un terreno elevado."
+            },
+            {
+                "palabra": "Inusual",
+                "definición": "Algo que no es común, frecuente o que resulta extraño."
+            },
+            {
+                "palabra": "Engranajes",
+                "definición": "Piezas con dientes que encajan entre sí para transmitir movimiento en máquinas."
+            },
+            {
+                "palabra": "Civilización",
+                "definición": "Grupo de personas que viven juntas y tienen sus propias reglas, arte y tecnología."
+            },
+            {
+                "palabra": "Tecnología",
+                "definición": "Conjunto de conocimientos y aparatos que sirven para resolver problemas humanos."
+            },
+            {
+                "palabra": "Secuencia",
+                "definición": "Serie de cosas que siguen un orden determinado, una tras otra."
+            },
+            {
+                "palabra": "Ingeniería",
+                "definición": "Arte de diseñar y construir edificios, máquinas o sistemas complejos."
+            },
+            {
+                "palabra": "Geotérmica",
+                "definición": "Energía que se obtiene aprovechando el calor que sale del interior de la tierra."
+            },
+            {
+                "palabra": "Pergamino",
+                "definición": "Piel o papel antiguo que se usaba para escribir documentos importantes."
+            },
+            {
+                "palabra": "Hallazgo",
+                "definición": "Acción de encontrar algo que estaba oculto o que nadie conocía."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué animal acompañaba a Elena durante su descubrimiento en la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Un gato llamado Relámpago",
+                    "Un perro llamado Trueno",
+                    "Un pájaro llamado Viento",
+                    "Un lobo llamado Sombra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué material eran los engranajes de la puerta gigantesca?",
+                "tipo": "test",
+                "opciones": [
+                    "De plata",
+                    "De hierro",
+                    "De bronce",
+                    "De plástico"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué tipo de energía utilizaba la ciudad para no contaminar?",
+                "tipo": "test",
+                "opciones": [
+                    "Energía solar",
+                    "Energía geotérmica",
+                    "Energía eólica",
+                    "Carbón"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Elena supo resolver el acertijo de los símbolos?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque leyó un mapa antes",
+                    "Por su experiencia resolviendo rompecabezas con su hermano",
+                    "Porque la abuela le dio la respuesta",
+                    "Fue pura suerte"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál era el objetivo principal de la Ciudad de los Sabios al ocultarse?",
+                "tipo": "test",
+                "opciones": [
+                    "Esconderse de los enemigos",
+                    "Proteger su avanzada tecnología y su equilibrio",
+                    "Buscar oro bajo tierra",
+                    "Esperar a que Elena llegara"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Elena al leer el pergamino de la biblioteca?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el oro es lo más importante",
+                    "Que el progreso real no debe dañar a la naturaleza",
+                    "Que los robots son peligrosos",
+                    "Que debe vivir bajo tierra"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Elena decidió mantener en secreto la ubicación de la ciudad?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería la ciudad solo para ella",
+                    "Porque el mundo exterior aún no era capaz de cuidarla",
+                    "Porque perdió el camino de regreso",
+                    "Porque Trueno se lo pidió"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "A juzgar por su comportamiento, ¿qué cualidad describe mejor a Elena?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedosa",
+                    "Responsable y observadora",
+                    "Ambiciosa",
+                    "Distraída"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Para qué tomó Elena una pieza de metal antes de salir?",
+                "tipo": "test",
+                "opciones": [
+                    "Para venderla y ser rica",
+                    "Como una evidencia personal de que el lugar era real",
+                    "Para arreglar su linterna",
+                    "Para lanzarla al río"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué sentimiento predomina en Elena al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Tristeza por dejar la ciudad",
+                    "Esperanza de que un futuro mejor es posible",
+                    "Enojo por tener que guardar un secreto",
+                    "Aburrimiento"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Galeón de Plata",
+        "tema": "aventuras",
+        "texto": "Martín y su mejor amiga, Sofía, estaban a bordo del ‘Neo-Explorador’, un submarino diseñado para explorar arrecifes profundos. Su misión era encontrar el Galeón de Plata, un barco hundido hace tres siglos que, según los rumores, transportaba un cargamento de mapas antiguos. Mientras descendían, las capas del océano cambiaban de color, pasando del azul brillante a un violeta profundo. ‘Mira esos corales’, exclamó Sofía señalando la pantalla. Los corales no eran solo hermosos; servían de refugio para miles de peces de colores. De pronto, el sonar detectó una estructura metálica cubierta de algas y esponjas. Era el galeón. Con los brazos robóticos del submarino, los niños despejaron cuidadosamente la arena que cubría la cabina del capitán. Dentro, encontraron una caja de madera sellada con cera. Martín recordó que la cera protegía el papel de la humedad del mar. Al abrirla con delicadeza, descubrieron cartas de navegación que mostraban rutas marítimas desconocidas. Sin embargo, también notaron algo preocupante: bolsas de plástico atrapadas en los restos del naufragio. Martín y Sofía decidieron usar su tiempo extra para limpiar el área con los recolectores del submarino. Entendieron que el pasado es importante, pero proteger el presente de los animales marinos es vital. La aventura se convirtió en una operación de rescate ecológico. Al regresar a la superficie, los niños entregaron los mapas al museo local, pero se sintieron más orgullosos de la basura que habían retirado del fondo del mar. Su profesor de ciencias los felicitó por su compromiso con el medio ambiente. Esa noche, Martín miró las estrellas y pensó que cada rincón del planeta, desde las cumbres más altas hasta los abismos más oscuros, cuenta una historia que merece ser escuchada y protegida. La verdadera valentía no solo consiste en buscar tesoros olvidados, sino en tener el valor de actuar cuando vemos que la naturaleza sufre por el descuido humano. Fue el día más importante de sus vidas escolares. Ellos aprendieron que ser exploradores requiere una gran responsabilidad constante. Los barcos antiguos guardan muchos secretos valiosos que debemos cuidar hoy. Finalmente, subieron a cubierta para observar cómo el sol se ocultaba.",
+        "glosario": [
+            {
+                "palabra": "Arrecifes",
+                "definición": "Estructuras bajo el mar formadas por corales donde viven muchos animales."
+            },
+            {
+                "palabra": "Galeón",
+                "definición": "Barco de vela grande y muy antiguo usado para viajes largos por el océano."
+            },
+            {
+                "palabra": "Rumores",
+                "definición": "Información que se dice entre la gente pero que no se sabe si es verdad."
+            },
+            {
+                "palabra": "Sonar",
+                "definición": "Aparato que usa el sonido para detectar objetos debajo del agua."
+            },
+            {
+                "palabra": "Naufragio",
+                "definición": "Restos de un barco que se ha hundido en el mar."
+            },
+            {
+                "palabra": "Navegación",
+                "definición": "Ciencia o arte de conducir barcos de un lugar a otro."
+            },
+            {
+                "palabra": "Ecológico",
+                "definición": "Relacionado con la protección del medio ambiente y los seres vivos."
+            },
+            {
+                "palabra": "Compromiso",
+                "definición": "Obligación o promesa de hacer algo importante por los demás o el mundo."
+            },
+            {
+                "palabra": "Vital",
+                "definición": "Algo que es totalmente necesario para la vida o muy importante."
+            },
+            {
+                "palabra": "Abismos",
+                "definición": "Lugares del océano que son extremadamente profundos y oscuros."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el submarino que utilizaban los niños?",
+                "tipo": "test",
+                "opciones": [
+                    "Explorador Marino",
+                    "Neo-Explorador",
+                    "Galeón de Plata",
+                    "Submarino Azul"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Hace cuánto tiempo se había hundido el barco?",
+                "tipo": "test",
+                "opciones": [
+                    "Cien años",
+                    "Tres siglos",
+                    "Diez años",
+                    "Mil años"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué material sellaba la caja de madera para proteger los mapas?",
+                "tipo": "test",
+                "opciones": [
+                    "Plástico",
+                    "Cera",
+                    "Pegamento",
+                    "Metal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué los corales son importantes según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque brillan en la oscuridad",
+                    "Porque sirven de refugio para muchos peces",
+                    "Porque indican dónde hay oro",
+                    "Porque limpian el agua"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué motivó a los niños a limpiar el fondo del mar?",
+                "tipo": "test",
+                "opciones": [
+                    "El profesor se lo ordenó",
+                    "Vieron bolsas de plástico afectando el naufragio",
+                    "Buscaban monedas entre la basura",
+                    "Querían terminar rápido"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué nos enseña la decisión de Martín y Sofía sobre sus valores?",
+                "tipo": "test",
+                "opciones": [
+                    "Que les gusta más la basura que los mapas",
+                    "Que valoran la salud del planeta más que el simple hallazgo de tesoros",
+                    "Que no sabían usar bien el submarino",
+                    "Que querían ser famosos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué entregaron los mapas a un museo?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que la gente pueda conocer la historia",
+                    "Porque el submarino estaba lleno",
+                    "Porque los mapas estaban sucios",
+                    "Porque el museo les pagó mucho"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Cuál es la definición de 'valentía' que propone el relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Pelear contra monstruos marinos",
+                    "Actuar cuando vemos que la naturaleza sufre",
+                    "Bajar al fondo del mar sin luces",
+                    "Encontrar barcos muy viejos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo cambió la misión original del submarino?",
+                "tipo": "test",
+                "opciones": [
+                    "Se convirtió en una guerra",
+                    "Se transformó en una operación de rescate ecológico",
+                    "Se canceló por el clima",
+                    "Terminó en un nuevo naufragio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué relación establece el texto entre el pasado y el presente?",
+                "tipo": "test",
+                "opciones": [
+                    "El pasado no importa",
+                    "Debemos aprender del pasado pero cuidar el presente",
+                    "El pasado es mejor que el presente",
+                    "Son exactamente iguales"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián del Astrolabio Perdido",
+        "tema": "aventuras",
+        "texto": "Leo caminaba con dificultad por la ladera de la Gran Cordillera, sintiendo el aire frío en sus mejillas. En su mochila guardaba un mapa amarillento que había pertenecido a su abuelo, un famoso explorador. Según los dibujos, en algún lugar de esta montaña se encontraba el Observatorio de Cristal, un lugar mágico donde los antiguos sabios estudiaban el cenit. Leo no estaba solo; su pequeña brújula de bronce lo guiaba con precisión. De repente, el suelo bajo sus pies cedió. Tras un breve deslizamiento, se encontró en una sala circular iluminada por una luz azulada que brotaba de las paredes. En el centro, sobre un pedestal ancestral, descansaba un objeto fascinante: un astrolabio de plata decorado con piedras preciosas que representaban cada constelación conocida. Leo sintió una mezcla de asombro y responsabilidad. Sabía que aquel objeto no era un simple tesoro, sino un códice estelar que permitía entender los ciclos de la naturaleza. Mientras lo observaba, escuchó un eco profundo. El enigma para activar el mecanismo requería colocar las piedras en el orden de las estaciones del año. Con paciencia y perseverancia, Leo recordó las lecciones de su abuelo sobre el cielo nocturno. Movió la piedra del invierno hacia el norte y la del verano hacia el sur. De inmediato, el techo de la cueva se volvió transparente, revelando el cosmos en todo su esplendor. El astrolabio comenzó a girar, proyectando mapas de tierras lejanas en el suelo de piedra. Leo comprendió que su verdadera aventura no había terminado, sino que acababa de empezar. Aquel hallazgo le otorgaba la misión de proteger el conocimiento del pasado para las generaciones del futuro. Con cuidado, guardó el astrolabio en su mochila y comenzó el ascenso de regreso. Ya no era solo un niño curioso; ahora era el nuevo guardián de los cielos. La montaña parecía saludarlo con un viento suave mientras él bajaba hacia el valle, soñando con los nuevos horizontes que los mapas estelares le habían revelado aquella tarde inolvidable de primavera.",
+        "glosario": [
+            {
+                "palabra": "Astrolabio",
+                "definición": "Antiguo instrumento que se usaba para saber la posición de las estrellas."
+            },
+            {
+                "palabra": "Cenit",
+                "definición": "Punto más alto en el cielo, justo encima de nuestra cabeza."
+            },
+            {
+                "palabra": "Constelación",
+                "definición": "Grupo de estrellas que forman una figura imaginaria en el cielo."
+            },
+            {
+                "palabra": "Códice",
+                "definición": "Libro muy antiguo escrito a mano antes de que existiera la imprenta."
+            },
+            {
+                "palabra": "Perseverancia",
+                "definición": "Valor de seguir intentando algo con esfuerzo hasta conseguirlo."
+            },
+            {
+                "palabra": "Enigma",
+                "definición": "Misterio o pregunta difícil de resolver que requiere ingenio."
+            },
+            {
+                "palabra": "Cordillera",
+                "definición": "Cadena de montañas que están unidas entre sí."
+            },
+            {
+                "palabra": "Brújula",
+                "definición": "Instrumento que tiene una aguja imantada que siempre señala el norte."
+            },
+            {
+                "palabra": "Ancestral",
+                "definición": "Algo que pertenece a los antepasados o que es muy antiguo."
+            },
+            {
+                "palabra": "Mecanismo",
+                "definición": "Conjunto de piezas que trabajan juntas para que algo funcione."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto guardaba Leo en su mochila al principio del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Una linterna",
+                    "Un mapa amarillento",
+                    "Un libro de ciencias",
+                    "Una merienda"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿De qué material estaba hecho el astrolabio que encontró Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "De oro puro",
+                    "De madera tallada",
+                    "De plata con piedras preciosas",
+                    "De cristal transparente"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿En qué estación del año ocurre la historia según el final del texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Invierno",
+                    "Otoño",
+                    "Verano",
+                    "Primavera"
+                ],
+                "correctaIdx": 3
+            },
+            {
+                "enunciado": "¿Qué relación crees que tenía Leo con su abuelo basándote en el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "No se conocían",
+                    "Le tenía miedo",
+                    "Lo admiraba y seguía sus pasos",
+                    "Eran rivales"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué el techo de la cueva se volvió transparente al activar el astrolabio?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se rompió la piedra",
+                    "Era un efecto mágico del mecanismo activado",
+                    "Porque salió el sol",
+                    "Para que Leo pudiera escapar"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad de Leo fue necesaria para resolver el enigma del pedestal?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física",
+                    "Su velocidad",
+                    "Sus conocimientos sobre el cielo y la paciencia",
+                    "Su capacidad de saltar"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué representa el astrolabio más allá de ser un objeto de plata?",
+                "tipo": "test",
+                "opciones": [
+                    "Dinero para ser rico",
+                    "El conocimiento y la historia de los antiguos",
+                    "Un juguete olvidado",
+                    "Una herramienta para mineros"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el texto dice que la aventura de Leo 'acababa de empezar' al final?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque se perdió otra vez",
+                    "Porque ahora tenía la misión de descubrir nuevos lugares",
+                    "Porque tenía que volver a bajar la montaña",
+                    "Porque el astrolabio se rompió"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se sintió Leo cuando se encontró en la sala circular?",
+                "tipo": "test",
+                "opciones": [
+                    "Aburrido y cansado",
+                    "Asombrado y con sentido del deber",
+                    "Enojado por haberse caído",
+                    "Con ganas de salir corriendo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es el mensaje principal de esta historia de aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Que las montañas son peligrosas",
+                    "Que debemos cuidar el saber del pasado",
+                    "Que es mejor no explorar solo",
+                    "Que los mapas antiguos no sirven"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Arrecife de Neón",
+        "tema": "aventuras",
+        "texto": "Marina ajustó su máscara de buceo y saltó desde la borda de la expedición hacia el agua turquesa. No buscaba galeones hundidos ni cofres de monedas de oro; su objetivo era el Arrecife de Neón. Se decía que en las profundidades vivía una biodiversidad única capaz de iluminar el océano sin luz solar. Mientras descendía, la presión aumentaba, pero su traje sumergible de última generación la protegía. De repente, una corriente cálida la arrastró hacia una grieta oculta entre esponjas gigantes. Al cruzarla, Marina quedó sin aliento. El arrecife entero brillaba con una bioluminiscencia espectacular. Plantas submarinas de color fucsia y peces que parecían bombillas vivas danzaban en el agua. Era un ecosistema de una fragilidad extrema. Marina sacó su cámara para registrar el hallazgo, sabiendo que debía preservar aquel lugar del turismo masivo. Observó cómo un banco de peces plateados se refugiaba en una cueva de coral que palpitaba con luz suave. Sin embargo, notó algo extraño: una red de pesca abandonada estaba atrapada entre las ramas de coral más brillantes, amenazando la vida de las criaturas. Con mucho cuidado y usando sus herramientas de buceadora profesional, Marina cortó los hilos de plástico. Fue una tarea delicada que requirió toda su destreza. Al liberar el arrecife, la luz de los corales pareció intensificarse, como si le dieran las gracias. Marina comprendió que la verdadera aventura de un explorador moderno no es solo descubrir, sino también proteger y curar. Tras recoger la red vieja para llevarla a la superficie, comenzó su ascenso lento hacia la escotilla del barco. Al salir, el sol calentaba su rostro y sus compañeros esperaban noticias con impaciencia. Marina sonrió, guardando el secreto de la ubicación exacta. Les mostró las fotos de la belleza que habían salvado, convencida de que algunos tesoros deben permanecer ocultos para poder sobrevivir. Aquel día, el océano le había enseñado que el respeto es la herramienta más importante de cualquier expedición científica en el gran azul.",
+        "glosario": [
+            {
+                "palabra": "Arrecife",
+                "definición": "Gran estructura bajo el mar formada por esqueletos de corales."
+            },
+            {
+                "palabra": "Sumergible",
+                "definición": "Vehículo o traje que puede funcionar debajo del agua."
+            },
+            {
+                "palabra": "Bioluminiscencia",
+                "definición": "Capacidad de algunos seres vivos de producir su propia luz."
+            },
+            {
+                "palabra": "Ecosistema",
+                "definición": "Conjunto de seres vivos y el medio ambiente donde se relacionan."
+            },
+            {
+                "palabra": "Corriente",
+                "definición": "Movimiento continuo de agua en una dirección dentro del mar."
+            },
+            {
+                "palabra": "Escotilla",
+                "definición": "Abertura o puerta pequeña que hay en la cubierta de los barcos."
+            },
+            {
+                "palabra": "Preservar",
+                "definición": "Proteger algo de un daño o peligro para que se mantenga bien."
+            },
+            {
+                "palabra": "Fragilidad",
+                "definición": "Cualidad de las cosas que se pueden romper o dañar con facilidad."
+            },
+            {
+                "palabra": "Biodiversidad",
+                "definición": "Variedad de diferentes especies de animales y plantas en un lugar."
+            },
+            {
+                "palabra": "Expedición",
+                "definición": "Viaje que se realiza con un fin científico, de exploración o aventura."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué era lo que Marina buscaba en las profundidades del océano?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de oro",
+                    "Galeones hundidos",
+                    "El Arrecife de Neón",
+                    "Un collar perdido"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué objeto peligroso encontró Marina atrapado en el coral?",
+                "tipo": "test",
+                "opciones": [
+                    "Una caja de madera",
+                    "Una red de pesca abandonada",
+                    "Un ancla vieja",
+                    "Una botella de cristal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Hacia dónde subió Marina cuando terminó su inmersión?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacia una cueva",
+                    "Hacia la escotilla del barco",
+                    "Hacia una isla",
+                    "Hacia un submarino"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el arrecife se llama 'de Neón'?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque hay luces eléctricas",
+                    "Por la bioluminiscencia de sus seres vivos",
+                    "Porque Marina llevaba linternas",
+                    "Porque el agua es de cristal"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el principal conflicto que Marina tuvo que resolver bajo el agua?",
+                "tipo": "test",
+                "opciones": [
+                    "Pelear contra un tiburón",
+                    "Escapar de una corriente fría",
+                    "Quitar una red que dañaba el ecosistema",
+                    "Encontrar su cámara perdida"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Marina decidió guardar en secreto la ubicación exacta del arrecife?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque quería volver sola",
+                    "Para protegerlo del turismo masivo y el daño humano",
+                    "Porque se le olvidó el camino",
+                    "Para que nadie más encuentre el oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la luz del coral después de que Marina quitara la red?",
+                "tipo": "test",
+                "opciones": [
+                    "Se apagó por completo",
+                    "Cambió de azul a rojo",
+                    "Se intensificó como muestra de agradecimiento",
+                    "No pasó nada"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Según el texto, ¿qué significa ser un 'explorador moderno'?",
+                "tipo": "test",
+                "opciones": [
+                    "Ser el que más tesoros encuentra",
+                    "Descubrir lugares para hacer hoteles",
+                    "Descubrir pero también proteger y curar la naturaleza",
+                    "Viajar siempre en barcos rápidos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo describirías la actitud de Marina durante su expedición?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedosa y descuidada",
+                    "Responsable, valiente y respetuosa",
+                    "Distraída y poco profesional",
+                    "Aburrida de su trabajo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué lección aprendió Marina de esta aventura submarina?",
+                "tipo": "test",
+                "opciones": [
+                    "Que el mar es muy profundo",
+                    "Que el respeto es la herramienta más importante",
+                    "Que los peces son brillantes",
+                    "Que bucear es divertido"
+                ],
+                "correctaIdx": 1
+            }
+        ]
+    }
+]

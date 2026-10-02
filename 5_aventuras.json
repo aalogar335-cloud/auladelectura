@@ -1,0 +1,1325 @@
+[
+    {
+        "titulo": "El Guardián del Cenote Sagrado",
+        "tema": "aventuras",
+        "texto": "El calor de la selva de Yucatán era una manta húmeda que pesaba sobre los hombros de Mateo. Acompañado por su inseparable perra, Chispa, avanzaba cortando la densa maleza con cuidado de no molestar a las iguanas que dormitaban sobre las piedras calizas. Mateo no buscaba oro ni joyas, sino algo mucho más valioso para su abuelo: una planta medicinal que solo crecía en las paredes de un cenote olvidado. El mapa que sostenía en sus manos era un pergamino amarillento que crujía con cada movimiento, dibujado hace décadas por exploradores que hablaban de un lugar donde el agua era tan azul que parecía un trozo de cielo caído en la tierra. Tras caminar durante horas, el sonido de los insectos fue reemplazado por un goteo rítmico. De repente, el suelo desapareció bajo una cortina de lianas. Mateo las apartó y contuvo el aliento. Frente a él se abría una caverna circular con una abertura en el techo por donde entraba un rayo de sol puro, iluminando un estanque de aguas cristalinas. Sin embargo, no estaba solo. En el centro del cenote, sobre una roca que sobresalía del agua, descansaba un jaguar de ojos dorados. El felino no parecía agresivo, pero su presencia imponía un respeto ancestral. Mateo recordó las historias de su comunidad: los animales son los guardianes de la selva y solo permiten el paso a quienes tienen un corazón honesto. Con movimientos lentos, el niño se arrodilló y depositó una ofrenda de frutos silvestres sobre una piedra plana. «Solo busco la flor de luna para sanar a mi abuelo», susurró con voz temblorosa pero firme. El jaguar lo observó durante un minuto eterno, estiró sus patas delanteras y, con un salto ágil y silencioso, desapareció entre las sombras de las rocas. Mateo sintió que el aire regresaba a sus pulmones. Nadó con suavidad hacia la pared húmeda de la cueva, donde unas pequeñas flores blancas brillaban con un resplandor casi mágico. Recogió solo las necesarias, cuidando de dejar las raíces intactas para que siguieran creciendo. Mientras trepaba de regreso a la superficie, escuchó un rugido lejano que no sonaba a amenaza, sino a despedida. Al salir del cenote, el sol empezaba a ponerse, tiñendo la selva de tonos anaranjados y púrpuras. Mateo apretó la bolsa con las flores contra su pecho y emprendió el camino de vuelta. Sabía que la verdadera aventura no había sido encontrar el lugar, sino aprender que la naturaleza y los humanos pueden entenderse si existe el respeto mutuo. Al llegar a su aldea, la luz de las antorchas le dio la bienvenida, y en los ojos de su abuelo vio el orgullo de quien sabe que su nieto ya no era solo un niño, sino un joven valiente que comprendía los secretos de la selva. Aquella noche, bajo las estrellas, Mateo durmió sabiendo que el jaguar seguía allí, cuidando el agua que da la vida.",
+        "glosario": [
+            {
+                "palabra": "Cenote",
+                "definition": "Pozo natural de agua dulce que se forma por la caída del techo de una o varias cuevas."
+            },
+            {
+                "palabra": "Pergamino",
+                "definition": "Piel de animal estirada y seca que se usaba antiguamente para escribir o dibujar mapas."
+            },
+            {
+                "palabra": "Ancestral",
+                "definition": "Algo muy antiguo que pertenece a los antepasados o a los abuelos de nuestros abuelos."
+            },
+            {
+                "palabra": "Ofrenda",
+                "definition": "Regalo que se ofrece con respeto o por una causa noble, a veces con un significado sagrado."
+            },
+            {
+                "palabra": "Maleza",
+                "definition": "Conjunto de hierbas y arbustos que crecen de forma silvestre y muy apretada en el campo o la selva."
+            },
+            {
+                "palabra": "Resplandor",
+                "definition": "Luz muy clara que despide un cuerpo o que se refleja en una superficie."
+            },
+            {
+                "palabra": "Intactas",
+                "definition": "Cosas que no han sido tocadas o que se mantienen tal y como estaban al principio."
+            },
+            {
+                "palabra": "Imponer",
+                "definition": "Causar una impresión de respeto, miedo o asombro en los demás."
+            },
+            {
+                "palabra": "Caliza",
+                "definition": "Un tipo de roca que se disuelve fácilmente con el agua y forma cuevas y paisajes especiales."
+            },
+            {
+                "palabra": "Rítmico",
+                "definition": "Sonido o movimiento que se repite de forma regular, como el latido del corazón."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué buscaba Mateo en la selva?",
+                "tipo": "test",
+                "opciones": [
+                    "Tesoro pirata",
+                    "Una planta medicinal",
+                    "Una ciudad perdida",
+                    "Un jaguar de oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cómo se llamaba la perra que acompañaba a Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Luna",
+                    "Estrella",
+                    "Chispa",
+                    "Mancha"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Dónde crecía la flor de luna?",
+                "tipo": "test",
+                "opciones": [
+                    "En lo alto de un árbol",
+                    "En el jardín de su casa",
+                    "En las paredes de un cenote",
+                    "Cerca del río principal"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Mateo no salió corriendo cuando vio al jaguar?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque estaba paralizado de miedo",
+                    "Porque recordaba que debía mostrar respeto y honestidad",
+                    "Porque el jaguar estaba enjaulado",
+                    "Porque quería pelear con él"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se infiere que Mateo es un niño responsable porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Sabe leer mapas antiguos",
+                    "Llevó ofrendas a la selva",
+                    "Dejó las raíces de las plantas para que volvieran a crecer",
+                    "Caminó durante muchas horas sin quejarse"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué simboliza el rayo de sol que entraba en la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Que ya era mediodía",
+                    "Un foco artificial",
+                    "Un elemento que da una atmósfera mágica y sagrada al lugar",
+                    "Que el techo de la cueva estaba roto"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Al final del relato, ¿qué sentimiento predomina en Mateo?",
+                "tipo": "test",
+                "opciones": [
+                    "Miedo por el rugido del jaguar",
+                    "Tristeza por dejar la selva",
+                    "Satisfacción y aprendizaje sobre el respeto a la naturaleza",
+                    "Avaricia por querer vender las flores"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué cualidad de Mateo fue la que convenció al jaguar de dejarlo pasar?",
+                "tipo": "test",
+                "opciones": [
+                    "Su fuerza física",
+                    "Su capacidad para nadar",
+                    "Su corazón honesto y su humildad",
+                    "Su habilidad con el mapa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que Mateo hizo bien en entrar solo a un lugar tan peligroso? Explica por qué.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue un poco arriesgado porque la selva es peligrosa, pero lo hizo por una buena causa que era ayudar a su abuelo. Además, como él conocía las historias de su pueblo y respetaba a los animales, estaba más preparado que una persona que solo va a curiosear."
+            },
+            {
+                "enunciado": "¿Qué harías tú si te encontraras con un animal salvaje en medio de una aventura?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo me quedaría muy quieto como hizo Mateo para no asustarlo. Creo que los animales no atacan si no se sienten amenazados, así que intentaría demostrarle que no quiero hacerle daño y me alejaría despacio sin darle la espalda."
+            }
+        ]
+    },
+    {
+        "titulo": "El Enigma del Galeón Sumergido",
+        "tema": "aventuras",
+        "texto": "Bajo las olas turquesas de la costa de Cádiz, un secreto de trescientos años aguardaba en silencio. Clara, una joven apasionada por la arqueología marina, ajustó su máscara de buceo y revisó el tanque de oxígeno. No buscaba lingotes de plata, sino el diario de bitácora del 'Viento del Sur', un barco que desapareció durante una tormenta histórica. Con un movimiento elegante de sus aletas, descendió hacia el fondo arenoso donde los restos de madera podrida apenas sobresalían. Los peces de colores nadaban entre las cuadernas del barco, convirtiendo el naufragio en un arrecife lleno de vida. Clara llevaba consigo una cámara resistente al agua y una pequeña pizarra para anotar sus hallazgos. De repente, entre los restos de la popa, vio algo metálico que brillaba. Era una caja de bronce herméticamente cerrada por el óxido y el paso del tiempo. Con mucho cuidado, para no dañar la frágil estructura, la liberó de la arena. Al subir a la superficie, la emoción le impedía respirar con normalidad. En el barco de apoyo, su equipo la esperaba con impaciencia. Utilizaron herramientas especiales para abrir la caja sin romper lo que hubiera dentro. Para su sorpresa, el diario estaba envuelto en capas de tela encerada que lo habían protegido de la humedad del mar. Al abrir las páginas amarillentas, Clara sintió que viajaba en el tiempo. El capitán no hablaba de riquezas, sino de una ruta secreta hacia una isla que no figuraba en ningún mapa moderno. Sin embargo, la última página contenía una advertencia: «El verdadero tesoro no es lo que se guarda, sino lo que se protege». Clara comprendió que su misión no era sacar todo el barco a la superficie para exhibirlo en un museo ruidoso, sino preservar la historia que el océano había custodiado con tanto celo. Decidió que solo tomarían fotografías y algunos objetos pequeños, dejando el resto del galeón donde pertenecía: en la paz del fondo marino. Aquella aventura le enseñó que ser un explorador no significa poseer las cosas, sino entender su significado y respetar el pasado. Mientras regresaban al puerto, el sol se ocultaba en el horizonte, y Clara miró por última vez hacia el lugar del naufragio. El 'Viento del Sur' seguiría descansando allí, pero ahora su historia viviría en los libros que ella escribiría. Se sentía afortunada por haber sido la elegida para leer esas palabras perdidas, sabiendo que algunos secretos son más hermosos cuando permanecen bajo el mar, protegidos por los corales y el silencio azul.",
+        "glosario": [
+            {
+                "palabra": "Arqueología",
+                "definition": "Ciencia que estudia las artes, los monumentos y los objetos de la antigüedad a través de sus restos."
+            },
+            {
+                "palabra": "Bitácora",
+                "definition": "Libro donde los capitanes de los barcos anotan todo lo que sucede durante un viaje."
+            },
+            {
+                "palabra": "Cuadernas",
+                "definition": "Cada una de las piezas curvas de madera o hierro que forman el 'esqueleto' de un barco."
+            },
+            {
+                "palabra": "Herméticamente",
+                "definition": "Algo que está cerrado de tal manera que no deja entrar ni salir el aire ni los líquidos."
+            },
+            {
+                "palabra": "Preservar",
+                "definition": "Proteger o cuidar algo para que se mantenga en buen estado a través del tiempo."
+            },
+            {
+                "palabra": "Naufragio",
+                "definition": "Restos de un barco que se ha hundido en el mar, en un río o en un lago."
+            },
+            {
+                "palabra": "Galeón",
+                "definition": "Barco grande de vela que se usaba antiguamente, especialmente para el comercio y la guerra."
+            },
+            {
+                "palabra": "Celo",
+                "definition": "Cuidado, esmero o interés muy grande que se pone en hacer o guardar algo."
+            },
+            {
+                "palabra": "Óxido",
+                "definition": "Capa rojiza que se forma en la superficie del hierro y otros metales por la humedad."
+            },
+            {
+                "palabra": "Custodiar",
+                "definition": "Guardar algo con cuidado y vigilancia para que no se pierda o se estropee."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué buscaba Clara en el fondo del mar?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de oro",
+                    "El diario de bitácora",
+                    "Un collar de perlas",
+                    "Un anca perdida"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿En qué ciudad se sitúa la costa del relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Huelva",
+                    "Málaga",
+                    "Cádiz",
+                    "Almería"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Cómo estaba protegido el diario dentro de la caja?",
+                "tipo": "test",
+                "opciones": [
+                    "Con papel de aluminio",
+                    "Con capas de tela encerada",
+                    "Dentro de una bolsa de plástico",
+                    "Con cinta adhesiva"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede deducir que Clara es una exploradora ética porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Sabe bucear muy bien",
+                    "Encontró una caja de bronce",
+                    "Decidió dejar la mayoría del barco en el mar para respetarlo",
+                    "Tiene una cámara de fotos cara"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué importancia tienen los peces en el naufragio según el texto?",
+                "tipo": "test",
+                "opciones": [
+                    "Son una molestia para Clara",
+                    "Indican que hay tesoros cerca",
+                    "Han convertido los restos del barco en su hogar (arrecife)",
+                    "Están dañando la madera del barco"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa la frase: 'El verdadero tesoro no es lo que se guarda, sino lo que se protege'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que cerrar bien las cajas",
+                    "Que el conocimiento y la historia son más valiosos que el oro",
+                    "Que hay que esconder los mapas",
+                    "Que el capitán era un mentiroso"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Clara no sacó todo el barco a la superficie?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque pesaba demasiado",
+                    "Porque no tenía permiso",
+                    "Para preservar la historia y respetar el lugar del descanso",
+                    "Porque no tenía tiempo"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Al leer el diario, Clara sintió que...",
+                "tipo": "test",
+                "opciones": [
+                    "Se mareaba",
+                    "Viajaba en el tiempo",
+                    "Se hacía rica",
+                    "Tenía hambre"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Te parece que Clara hizo bien dejando el barco bajo el agua? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí me parece que hizo genial, porque si sacas todo del mar a veces se rompe o pierde su magia. Dejándolo allí, los peces pueden seguir viviendo en el barco y la historia se queda tranquila en su sitio original, que es más especial."
+            },
+            {
+                "enunciado": "¿Qué descubrirías tú si pudieras explorar un barco hundido?",
+                "tipo": "abierta",
+                "respuestaModelo": "Me gustaría encontrar objetos de la vida diaria, como los platos que usaban o los juguetes de algún niño que viajara allí. Me parece más emocionante saber cómo vivían que encontrar simplemente monedas de oro o plata."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Galeón de las Brumas",
+        "tema": "aventuras",
+        "texto": "El sol se ocultaba tras el horizonte, tiñendo el mar de un color carmesí que parecía fuego líquido. Leo, un joven de once años con el pelo revuelto y ojos llenos de curiosidad, observaba desde el acantilado un extraño fenómeno que solo ocurría cada cien años. Entre la niebla espesa que solía cubrir la cala del Olvido, emergió la silueta desgastada de un barco antiguo. No era un barco cualquiera; era el 'Estrella del Norte', un galeón legendario que, según los ancianos del pueblo, guardaba un mapa capaz de revelar la ubicación de la Ciudad de los Sueños. Sin pensárselo dos veces, Leo bajó por el sendero rocoso, sintiendo el salitre en su rostro y el latido acelerado de su corazón. La madera del barco crujía como si tuviera vida propia bajo sus pies descalzos. Al entrar en el camarote del capitán, el aire olía a papel viejo y a misterio. Allí, sobre una mesa de caoba, descansaba un cofre de bronce adornado con figuras de criaturas marinas. Al abrirlo, no encontró oro ni joyas, sino un extraño artefacto circular y un pergamino amarillento. De repente, el barco empezó a tambalearse. No era el oleaje, sino que la niebla empezaba a disiparse y el galeón amenazaba con volver a las profundidades. Leo guardó los objetos en su mochila y corrió hacia la cubierta. Una red de cuerdas viejas se interponía en su camino, pero él las esquivó con la agilidad de un gato. Saltó al agua justo antes de que una ola gigante envolviera el casco. Nadó con todas sus fuerzas hacia la orilla, sintiendo el peso de la historia en su espalda. Una vez en la arena, empapado pero eufórico, extendió el pergamino. Los dibujos no representaban islas, sino constelaciones que debían alinearse con el artefacto de bronce. Leo comprendió que la aventura apenas acababa de comenzar. No buscaba riquezas materiales, sino el conocimiento que los antiguos habían escondido para protegerlo de la codicia humana. Miró hacia el mar, donde ya no quedaba rastro del barco, solo la inmensidad azul bajo la primera estrella de la noche. Sabía que su abuelo tenía razón cuando decía que los tesoros más grandes no brillan, sino que se sienten en el alma. Con el artefacto en una mano y el mapa en la otra, Leo regresó a casa en silencio. Sus pasos eran firmes, pues ya no era el mismo niño que había subido al acantilado por la tarde. Había descubierto que el valor no es la ausencia de miedo, sino la capacidad de seguir adelante cuando el corazón te dice que hay algo importante por descubrir. La Ciudad de los Sueños lo esperaba, y él estaba listo para descifrar cada uno de sus enigmas, respetando siempre el legado de aquellos que navegaron antes que él por los mares de la esperanza.",
+        "glosario": [
+            {
+                "palabra": "Carmesí",
+                "definition": "Un color rojo intenso, parecido al de la sangre o de algunas frutas."
+            },
+            {
+                "palabra": "Cala",
+                "definition": "Una bahía pequeña donde el mar entra en la tierra, ideal para que los barcos se protejan."
+            },
+            {
+                "palabra": "Galeón",
+                "definition": "Barco grande de vela que se usaba antiguamente para el comercio y la guerra."
+            },
+            {
+                "palabra": "Salitre",
+                "definition": "Sustancia salada que deja el agua de mar en las rocas o en la piel cuando se seca."
+            },
+            {
+                "palabra": "Caoba",
+                "definition": "Madera muy fina, de color rojizo y muy resistente, usada para muebles caros."
+            },
+            {
+                "palabra": "Pergamino",
+                "definition": "Piel de animal que se trataba antiguamente para poder escribir sobre ella."
+            },
+            {
+                "palabra": "Artefacto",
+                "definition": "Objeto construido con cierta técnica para un uso determinado, a veces complejo."
+            },
+            {
+                "palabra": "Eufórico",
+                "definition": "Sentirse exageradamente alegre o emocionado por algo bueno que ha pasado."
+            },
+            {
+                "palabra": "Constelación",
+                "definition": "Grupo de estrellas que forman una figura imaginaria en el cielo nocturno."
+            },
+            {
+                "palabra": "Legado",
+                "definition": "Algo material o inmaterial que se deja o se transmite a los que vienen después."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el barco legendario que encontró Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "Estrella del Norte",
+                    "Cazador de Sueños",
+                    "El Galeón de Bronce",
+                    "Viento de Esperanza"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué encontró Leo dentro del cofre de bronce?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas de oro y joyas",
+                    "Un mapa y una espada",
+                    "Un artefacto circular y un pergamino",
+                    "Unas llaves viejas"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué olor percibió Leo al entrar en el camarote?",
+                "tipo": "test",
+                "opciones": [
+                    "A pescado fresco",
+                    "A papel viejo y misterio",
+                    "A flores de la selva",
+                    "A comida de barco"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el barco aparecía solo cada cien años?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque funcionaba con pilas",
+                    "Porque era un fenómeno mágico o legendario",
+                    "Porque el capitán estaba dormido",
+                    "Porque se perdía en la niebla"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Si el mapa mostraba constelaciones, ¿qué tipo de viaje le espera a Leo?",
+                "tipo": "test",
+                "opciones": [
+                    "Un viaje bajo el mar",
+                    "Un viaje siguiendo las estrellas",
+                    "Un viaje a través del tiempo",
+                    "Un viaje por el desierto"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cualidad demuestra Leo al saltar del barco antes de que se hundiera?",
+                "tipo": "test",
+                "opciones": [
+                    "Agilidad y reflejos rápidos",
+                    "Mucha fuerza en los brazos",
+                    "Que sabía volar",
+                    "Que no quería mojarse"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué significa que 'el valor no es la ausencia de miedo'?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no hay que tener miedo nunca",
+                    "Que hay que ser valiente aunque sientas miedo",
+                    "Que el miedo es para los niños pequeños",
+                    "Que los héroes no sienten nada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Leo no buscaba oro o riquezas?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque ya era rico",
+                    "Porque prefería el conocimiento y la aventura",
+                    "Porque no cabían en su mochila",
+                    "Porque el oro pesaba demasiado"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Leo hizo bien en subir al barco solo? Explica tu opinión.",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue un poco arriesgado porque el barco se podía hundir en cualquier momento, pero a la vez hizo bien porque si no lo hubiera intentado se habría perdido una oportunidad única de ayudar a su pueblo y descubrir algo increíble."
+            },
+            {
+                "enunciado": "¿Qué harías tú si encontraras un mapa que lleva a la Ciudad de los Sueños?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo llamaría a mis mejores amigos para ir juntos, porque una aventura así mola más si la compartes. También prepararía una mochila con linternas y comida, y trataría de descifrar los dibujos con mucho cuidado para no perdernos por el camino."
+            }
+        ]
+    },
+    {
+        "titulo": "El Guardián del Templo Perdido",
+        "tema": "aventuras",
+        "texto": "La selva amazónica rugía con una sinfonía de gritos de monos y aleteos de guacamayos. Sara, una joven exploradora con una mochila llena de brújulas y cuadernos, se abría paso entre la vegetación densa. Su objetivo era el Templo de la Lluvia, una estructura de piedra cubierta por raíces milenarias que, según decían, guardaba el secreto para acabar con las sequías del mundo. El calor era sofocante, pero Sara no se detenía. Había estudiado los jeroglíficos antiguos durante años y sabía que el templo solo revelaba su entrada cuando la luz del mediodía golpeaba una estatua de jaguar oculta en la maleza. Tras horas de esfuerzo, encontró la estatua. Sus ojos de esmeralda brillaron cuando el sol alcanzó el cenit. De pronto, un mecanismo oculto hizo que las raíces se apartaran, dejando ver una puerta de piedra maciza. Sara entró con cautela, encendiendo su linterna. Las paredes estaban decoradas con relieves que contaban la historia de una civilización que vivía en armonía con la naturaleza. En el centro de la sala principal, sobre un altar de jade, reposaba una pequeña vasija de barro que contenía un líquido azul brillante. Sin embargo, antes de poder acercarse, una voz profunda pareció surgir de las sombras. No era una persona, sino un eco antiguo que ponía a prueba su intención. «¿Vienes a robar o vienes a sanar?», resonó en la sala. Sara, con voz firme, respondió que su única intención era compartir la sabiduría del agua con aquellos que sufrían por la falta de lluvia. La vasija se iluminó con más fuerza y el suelo empezó a vibrar. No era una trampa, sino la activación de un sistema de canales que llevaba siglos seco. El agua empezó a brotar de las paredes, fresca y pura, llenando el templo de una energía renovada. Sara no se llevó la vasija; comprendió que el tesoro no era el objeto, sino el mecanismo que permitía que la vida floreciera de nuevo. Salió del templo justo cuando la lluvia empezaba a caer sobre la selva, una lluvia suave que parecía agradecer su respeto por lo sagrado. En su cuaderno, Sara anotó que la verdadera aventura no consiste en poseer, sino en comprender cómo todo en la Tierra está conectado. Al regresar a su aldea, no llevaba oro en los bolsillos, pero en su mente guardaba el plano de un sistema de riego que salvaría los cultivos de su gente. Había aprendido que la valentía más grande es aquella que se usa para ayudar a los demás. La selva, ahora más verde y vibrante que nunca, parecía despedirla con un murmullo de hojas, guardando para siempre el secreto de la chica que habló con las piedras y escuchó el lenguaje del agua.",
+        "glosario": [
+            {
+                "palabra": "Sinfonía",
+                "definition": "Conjunto de sonidos diferentes que suenan a la vez de forma armoniosa."
+            },
+            {
+                "palabra": "Sofocante",
+                "definition": "Un calor tan fuerte que provoca sensación de ahogo o mucha fatiga."
+            },
+            {
+                "palabra": "Jeroglífico",
+                "definition": "Sistema de escritura antiguo que usa dibujos o símbolos en lugar de letras."
+            },
+            {
+                "palabra": "Cenit",
+                "definition": "Punto más alto en el cielo donde se sitúa el sol a mediodía."
+            },
+            {
+                "palabra": "Maciza",
+                "definition": "Algo que es sólido, pesado y que no tiene huecos por dentro."
+            },
+            {
+                "palabra": "Relieve",
+                "definition": "Figura o forma que sobresale sobre una superficie plana, como en las paredes talladas."
+            },
+            {
+                "palabra": "Jade",
+                "definition": "Una piedra preciosa de color verde muy valorada desde la antigüedad."
+            },
+            {
+                "palabra": "Intención",
+                "definition": "El deseo o propósito que tiene una persona al hacer una acción."
+            },
+            {
+                "palabra": "Brotar",
+                "definition": "Salir un líquido hacia afuera, o empezar a nacer una planta."
+            },
+            {
+                "palabra": "Sagrado",
+                "definition": "Algo que merece un respeto muy especial por su significado religioso o espiritual."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué buscaba Sara en la selva amazónica?",
+                "tipo": "test",
+                "opciones": [
+                    "El Templo de la Lluvia",
+                    "Una ciudad de oro",
+                    "Un animal fantástico",
+                    "Una cueva de piratas"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué piedra preciosa tenían los ojos de la estatua del jaguar?",
+                "tipo": "test",
+                "opciones": [
+                    "Rubíes",
+                    "Diamantes",
+                    "Esmeraldas",
+                    "Zafiros"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué había dentro de la vasija de barro en el altar?",
+                "tipo": "test",
+                "opciones": [
+                    "Monedas antiguas",
+                    "Un líquido azul brillante",
+                    "Tierra de colores",
+                    "Nada, estaba vacía"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuándo se revelaba la entrada del templo?",
+                "tipo": "test",
+                "opciones": [
+                    "A medianoche",
+                    "Cuando llovía mucho",
+                    "Al mediodía, con la luz del sol",
+                    "Al amanecer"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué significa que la voz puso a prueba la 'intención' de Sara?",
+                "tipo": "test",
+                "opciones": [
+                    "Que quería saber si era rápida",
+                    "Que quería saber si era egoísta o generosa",
+                    "Que quería saber si sabía leer",
+                    "Que quería saber si tenía miedo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué Sara no se llevó la vasija?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque pesaba demasiado",
+                    "Porque entendió que lo importante era el sistema de agua",
+                    "Porque se le rompió al tocarla",
+                    "Porque tenía prisa por salir"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Sara al final de su aventura?",
+                "tipo": "test",
+                "opciones": [
+                    "Que la selva es un lugar horrible",
+                    "Que todo en la Tierra está conectado",
+                    "Que los templos están llenos de trampas",
+                    "Que las brújulas no funcionan"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede decir que Sara es una persona...",
+                "tipo": "test",
+                "opciones": [
+                    "Respetuosa y estudiosa",
+                    "Miedosa y débil",
+                    "Ambiciosa y egoísta",
+                    "Despistada"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Qué te parece más valioso: un cofre lleno de oro o un sistema para llevar agua a un pueblo con sed? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que el agua es mucho más valiosa porque sin el oro puedes vivir perfectamente, pero sin agua la gente y las plantas se mueren. El agua ayuda a todo el mundo y el oro solo hace rica a una persona."
+            },
+            {
+                "enunciado": "¿Te gustaría ser explorador o exploradora como Sara? ¿Qué llevarías en tu mochila?",
+                "tipo": "abierta",
+                "respuestaModelo": "¡Sí, me encantaría! En mi mochila llevaría una linterna potente, una libreta para dibujar los bichos que vea, un botiquín por si me caigo y una cámara para enseñarle a todo el mundo los lugares tan increíbles que hay en la naturaleza."
+            }
+        ]
+    },
+    {
+        "titulo": "El Corazón de la Montaña de Cristal",
+        "tema": "aventuras",
+        "texto": "El aire en la base de la Montaña de Cristal era tan puro que parecía brillar. Samuel, un joven explorador de apenas doce años, ajustó las correas de su mochila con determinación. Llevaba consigo un viejo mapa heredado de su abuela, quien siempre decía que el mayor tesoro del mundo no era de oro, sino de luz. La leyenda contaba que en la cima existía una cueva donde el hielo nunca se derretía y donde se guardaba el Prisma del Equilibrio. Samuel comenzó el ascenso temprano, cuando el sol apenas asomaba sus dedos dorados por el horizonte. El camino era estrecho y zigzagueante, rodeado de pinos centenarios que susurraban secretos con el viento. A mitad de camino, se encontró con un obstáculo inesperado: un puente de cuerdas que cruzaba un abismo profundo. El miedo intentó paralizar sus piernas, pero recordó las palabras de su abuela: «El valor no es no tener miedo, sino seguir adelante a pesar de él». Cruzó el puente con pasos lentos y rítmicos, manteniendo la vista fija en la roca firme del otro lado. Al llegar a la zona más alta, la vegetación desapareció para dar paso a paredes de cuarzo que reflejaban los colores del arcoíris. El frío se volvió intenso, pero la curiosidad de Samuel era un fuego que lo mantenía caliente. Finalmente, divisó la entrada de la cueva. Dentro, el espectáculo era asombroso: estalactitas transparentes colgaban del techo como lámparas naturales. En el centro, sobre un pedestal de roca blanca, reposaba el Prisma. Al tocarlo, una calidez suave recorrió sus manos y una visión inundó su mente: vio bosques verdes, ríos limpios y animales viviendo en paz. Samuel comprendió que el Prisma no era una joya para vender, sino un recordatorio de la belleza natural que los humanos debían proteger. No intentó llevárselo; en su lugar, sacó su cuaderno y dibujó el símbolo que brillaba en el centro del cristal. Al bajar de la montaña, se sentía diferente. Sus pasos eran más ligeros y su mirada más atenta a cada detalle del bosque. No traía riquezas materiales, pero traía una misión: contar a todos la importancia de cuidar el mundo para que la luz de la montaña nunca se apagara. Al llegar a su aldea, sus amigos lo rodearon ansiosos por ver el oro. Samuel solo sonrió y les mostró su dibujo, comenzando a relatar cómo el verdadero descubrimiento no fue el Prisma, sino la conexión que sintió con la tierra bajo sus pies. Aquella noche, bajo un cielo estrellado, Samuel supo que su vida como explorador acababa de comenzar, pero ya no buscaría minas de joyas, sino formas de ayudar a que la naturaleza siguiera brillando por mil años más.",
+        "glosario": [
+            {
+                "palabra": "Zigzagueante",
+                "definition": "Un camino que va formando líneas en forma de Z, con muchas curvas hacia los lados."
+            },
+            {
+                "palabra": "Centenarios",
+                "definition": "Árboles o seres que tienen cien años o más de vida."
+            },
+            {
+                "palabra": "Prisma",
+                "definition": "Cuerpo de cristal que puede reflejar la luz y descomponerla en los colores del arcoíris."
+            },
+            {
+                "palabra": "Abismo",
+                "definition": "Un precipicio o lugar muy profundo donde el fondo no se alcanza a ver bien."
+            },
+            {
+                "palabra": "Cuarzo",
+                "definition": "Un mineral muy duro y brillante que a veces parece cristal transparente."
+            },
+            {
+                "palabra": "Estalactitas",
+                "definition": "Formaciones de piedra o hielo que cuelgan del techo de las cuevas como si fueran lanzas."
+            },
+            {
+                "palabra": "Pedestal",
+                "definition": "Base o columna pequeña que sirve para poner encima algo valioso o una estatua."
+            },
+            {
+                "palabra": "Visión",
+                "definition": "Imagen o escena que aparece en la mente, a veces como un sueño o un mensaje importante."
+            },
+            {
+                "palabra": "Materiales",
+                "definition": "Cosas que se pueden tocar y tienen valor de dinero, como el oro o las joyas."
+            },
+            {
+                "palabra": "Equilibrio",
+                "definition": "Estado donde todas las partes de la naturaleza están en armonía y funcionan bien juntas."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿De quién heredó Samuel el mapa que utilizaba?",
+                "tipo": "test",
+                "opciones": [
+                    "De su padre",
+                    "De su abuela",
+                    "De un viejo pirata",
+                    "De su profesor"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué objeto buscaba Samuel en la cima de la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Una corona de oro",
+                    "El Prisma del Equilibrio",
+                    "Un libro de hechizos",
+                    "Un cofre con diamantes"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué material formaba las paredes de la zona más alta de la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Madera",
+                    "Cuarzo",
+                    "Hierro",
+                    "Barro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Cuando Samuel cruzó el puente de cuerdas, ¿qué podemos inferir sobre su carácter?",
+                "tipo": "test",
+                "opciones": [
+                    "Que no sentía nada de miedo",
+                    "Que era imprudente y no pensaba",
+                    "Que era valiente porque actuó aunque estaba asustado",
+                    "Que prefería volver a casa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué Samuel decidió no llevarse el Prisma de la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque pesaba demasiado",
+                    "Porque entendió que su valor era espiritual y debía quedarse allí",
+                    "Porque tenía miedo de que el puente se rompiera",
+                    "Porque no era de oro real"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué cambió en la forma de caminar de Samuel al bajar de la montaña?",
+                "tipo": "test",
+                "opciones": [
+                    "Caminaba más triste",
+                    "Sus pasos eran más ligeros y su mirada más atenta",
+                    "Iba corriendo porque tenía prisa",
+                    "Le dolían mucho los pies"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final de la historia, ¿qué tipo de explorador decide ser Samuel?",
+                "tipo": "test",
+                "opciones": [
+                    "Uno que busca oro en minas",
+                    "Uno que protege y valora la naturaleza",
+                    "Uno que vende mapas antiguos",
+                    "Uno que vive siempre solo en cuevas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué lección le dio su abuela sobre el valor?",
+                "tipo": "test",
+                "opciones": [
+                    "Que los valientes nunca tienen miedo",
+                    "Que el valor es hacer cosas peligrosas sin pensar",
+                    "Que el valor es seguir adelante aunque sientas miedo",
+                    "Que no hace falta ser valiente si tienes un mapa"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Crees que los amigos de Samuel se decepcionaron al ver que no traía oro? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que al principio sí porque esperaban ver cosas brillantes y caras, pero luego, cuando Samuel les cuente su aventura y lo que vio, se darán cuenta de que su historia mola mucho más que un trozo de metal."
+            },
+            {
+                "enunciado": "¿Qué significa para ti que 'el mayor tesoro es de luz' según lo que aprendió Samuel?",
+                "tipo": "abierta",
+                "respuestaModelo": "Significa que las cosas que de verdad valen no son las que puedes comprar, sino las cosas bonitas del mundo como el bosque o los ríos limpios. Esa luz es lo que hace que el planeta esté vivo y sea guay vivir en él."
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Galeón de las Arenas",
+        "tema": "aventuras",
+        "texto": "El desierto del Sáhara parecía un océano de olas amarillas que nunca terminaba. Valentina, una intrépida joven con su brújula siempre al cuello, guiaba a su camello llamado Rayo por las dunas más altas. No buscaba agua, sino el 'Galeón de las Arenas', un barco pirata que, según las leyendas, se perdió hace siglos cuando el desierto aún era un mar profundo. Tras tres días de viaje bajo un sol implacable, Valentina divisó algo extraño en el horizonte. No era un oasis, sino un mástil de madera que sobresalía de la arena como un dedo señalando al cielo. Al acercarse, descubrió el casco de un barco inmenso, perfectamente conservado por la sequedad del desierto. Valentina descendió por una trampilla hacia la bodega. El aire olía a madera vieja y a especias exóticas. Entre barriles vacíos, encontró un pequeño baúl de cuero. Al abrirlo, no vio monedas, sino cientos de semillas de plantas que ya no existían en esa región. Junto a las semillas había una nota escrita con tinta descolorida: «Para los que vengan después, cuando la arena vuelva a ser jardín». Valentina comprendió que los antiguos navegantes no eran simples piratas, sino guardianes que esperaban que el mundo volviera a ser verde. De repente, una tormenta de arena empezó a formarse. El viento soplaba con fuerza, golpeando los costados del barco con un sonido fantasmal. Valentina guardó el baúl en sus alforjas y salió rápidamente. La visibilidad era casi nula, pero confió en el instinto de Rayo para alejarse del torbellino. Cuando la calma regresó, el galeón había desaparecido de nuevo bajo una nueva montaña de arena. Valentina regresó a su pueblo con el baúl. Con la ayuda de los ancianos, plantaron las semillas en una zona protegida. Meses después, pequeñas flores de colores nunca vistos empezaron a brotar, atrayendo a mariposas y pájaros que hacía años que no se veían por allí. Valentina no se hizo rica vendiendo tesoros, pero transformó su aldea en un lugar lleno de vida. Cada vez que miraba hacia el horizonte, sonreía sabiendo que bajo las dunas aún quedaban secretos esperando a ser descubiertos por quienes saben mirar más allá de las apariencias. La aventura no había terminado con el hallazgo del barco, sino que continuaba con cada nueva hoja que nacía en su jardín. Comprendió que ser una exploradora significaba ser una sembradora de futuro y que las leyendas a veces solo necesitan un poco de cuidado para hacerse realidad frente a tus ojos.",
+        "glosario": [
+            {
+                "palabra": "Intrépida",
+                "definition": "Persona valiente que no teme a los peligros y se atreve con aventuras difíciles."
+            },
+            {
+                "palabra": "Implacable",
+                "definition": "Algo muy fuerte o duro que no se detiene ni se suaviza, como el calor del sol en el desierto."
+            },
+            {
+                "palabra": "Mástil",
+                "definition": "Palo largo y vertical de un barco que sirve para sujetar las velas."
+            },
+            {
+                "palabra": "Oasis",
+                "definition": "Lugar en medio del desierto donde hay agua y crecen plantas y árboles."
+            },
+            {
+                "palabra": "Conservado",
+                "definition": "Algo que se mantiene en buen estado durante mucho tiempo sin estropearse."
+            },
+            {
+                "palabra": "Especias",
+                "definition": "Sustancias vegetales que se usan para dar sabor a la comida o para perfumes, como la canela."
+            },
+            {
+                "palabra": "Alforjas",
+                "definition": "Bolsas grandes que se ponen a los lados de la silla de montar de un caballo o camello."
+            },
+            {
+                "palabra": "Descolorida",
+                "definition": "Algo que ha perdido su color original por el tiempo o la luz del sol."
+            },
+            {
+                "palabra": "Torbellino",
+                "definition": "Viento muy fuerte que gira rápidamente en círculos levantando polvo o arena."
+            },
+            {
+                "palabra": "Instinto",
+                "definition": "Capacidad natural de los animales y personas para actuar de forma correcta sin tener que pensarlo mucho."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llamaba el camello de Valentina?",
+                "tipo": "test",
+                "opciones": [
+                    "Duna",
+                    "Sáhara",
+                    "Rayo",
+                    "Viento"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué encontró Valentina dentro del baúl de cuero?",
+                "tipo": "test",
+                "opciones": [
+                    "Joyas y coronas",
+                    "Semillas de plantas antiguas",
+                    "Mapas de otras ciudades",
+                    "Monedas de oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué fenómeno meteorológico ocurrió mientras Valentina estaba en el barco?",
+                "tipo": "test",
+                "opciones": [
+                    "Una lluvia torrencial",
+                    "Una tormenta de nieve",
+                    "Una tormenta de arena",
+                    "Un huracán"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Se puede inferir que el desierto antes era distinto porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Las leyendas decían que antes era un mar profundo",
+                    "Había muchos camellos",
+                    "Valentina llevaba una brújula",
+                    "El barco era muy moderno"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Por qué Valentina confió en Rayo durante la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el camello tenía un mapa",
+                    "Porque los camellos tienen instinto para orientarse",
+                    "Porque Rayo podía ver a través de la arena",
+                    "Porque el camello hablaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pasó con el galeón al terminar la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Se rompió en mil pedazos",
+                    "Fue enterrado de nuevo por la arena",
+                    "Salió volando por el viento",
+                    "Se convirtió en un oasis"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el resultado de plantar las semillas en la aldea?",
+                "tipo": "test",
+                "opciones": [
+                    "No creció nada porque el suelo era malo",
+                    "La aldea se llenó de vida con flores, pájaros y mariposas",
+                    "Valentina se hizo muy rica vendiendo las flores",
+                    "Las plantas se secaron enseguida"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Valentina sobre ser exploradora?",
+                "tipo": "test",
+                "opciones": [
+                    "Que hay que buscar siempre oro",
+                    "Que es mejor viajar sola",
+                    "Que significa ser una sembradora de futuro",
+                    "Que los camellos son lentos"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Por qué crees que los antiguos navegantes guardaron semillas en lugar de tesoros?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que eran listos y sabían que el dinero no se come. Guardar semillas era su forma de dar esperanza para que en el futuro el desierto volviera a ser un sitio bonito y con vida para la gente."
+            },
+            {
+                "enunciado": "Si fueras Valentina, ¿habrías intentado vender las semillas o habrías hecho lo mismo que ella?",
+                "tipo": "abierta",
+                "respuestaModelo": "Habría hecho lo mismo que ella, porque si las vendes solo tienes dinero una vez, pero si las plantas tienes un jardín para siempre y todo el pueblo puede disfrutar de las flores y los pájaros."
+            }
+        ]
+    },
+    {
+        "titulo": "El Secreto del Galeón de las Arenas",
+        "tema": "aventuras",
+        "texto": "El desierto del Sáhara parecía un océano de olas amarillas que nunca terminaba. Valentina, una intrépida joven con su brújula siempre al cuello, guiaba a su camello llamado Rayo por las dunas más altas. No buscaba agua, sino el Galeón de las Arenas, un barco pirata que, según las leyendas, se perdió hace siglos cuando el desierto aún era un mar profundo y lleno de vida. Tras tres días de viaje bajo un sol implacable, Valentina divisó algo extraño en el horizonte. No era un oasis, sino un mástil de madera que sobresalía de la arena como un dedo señalando al cielo. Al acercarse, descubrió el casco de un barco inmenso, perfectamente conservado por la sequedad extrema del desierto. Valentina descendió por una trampilla hacia la bodega oscura. El aire olía a madera vieja y a especias exóticas. Entre barriles vacíos, encontró un pequeño baúl de cuero. Al abrirlo, no vio monedas, sino cientos de semillas de plantas que ya no existían en esa región. Junto a las semillas había una nota escrita con tinta descolorida: «Para los que vengan después, cuando la arena vuelva a ser jardín». Valentina comprendió que los antiguos navegantes no eran simples piratas, sino guardianes que esperaban que el mundo volviera a ser verde. De repente, una tormenta de arena empezó a formarse. El viento soplaba con fuerza, golpeando los costados del barco con un sonido fantasmal. Valentina guardó el baúl en sus alforjas y salió rápidamente. La visibilidad era casi nula, pero confió en el instinto de Rayo para alejarse del torbellino. Cuando la calma regresó, el galeón había desaparecido de nuevo bajo una nueva montaña de arena. Valentina regresó a su pueblo con el baúl. Con la ayuda de los ancianos, plantaron las semillas en una zona protegida cerca del pozo. Meses después, pequeñas flores de colores nunca vistos empezaron a brotar, atrayendo a mariposas y pájaros que hacía años que no se veían por allí. Valentina no se hizo rica vendiendo tesoros, pero transformó su aldea en un lugar lleno de vida. Cada vez que miraba hacia el horizonte, sonreía sabiendo que bajo las dunas aún quedaban secretos esperando a ser descubiertos por quienes saben mirar más allá de las apariencias. La aventura no había terminado con el hallazgo del barco, sino que continuaba con cada nueva hoja que nacía en su jardín. Comprendió que ser una exploradora significaba ser una sembradora de futuro y que las leyendas a veces solo necesitan un poco de cuidado para hacerse realidad frente a tus ojos. El desierto seguía siendo inmenso, pero ahora tenía un pequeño rincón donde el pasado y el futuro se abrazaban gracias a su valentía. El Galeón de las Arenas seguía allí, descansando, habiendo cumplido su misión más importante a través del tiempo.",
+        "glosario": [
+            {
+                "palabra": "Intrépida",
+                "definición": "Persona valiente que no teme a los peligros y se atreve con aventuras difíciles."
+            },
+            {
+                "palabra": "Implacable",
+                "definición": "Algo muy fuerte o duro que no se detiene ni se suaviza, como el calor del sol."
+            },
+            {
+                "palabra": "Mástil",
+                "definición": "Palo largo y vertical de un barco que sirve para sujetar las velas."
+            },
+            {
+                "palabra": "Oasis",
+                "definición": "Lugar en medio del desierto donde hay agua y crecen plantas y árboles."
+            },
+            {
+                "palabra": "Conservado",
+                "definición": "Algo que se mantiene en buen estado durante mucho tiempo sin estropearse."
+            },
+            {
+                "palabra": "Especias",
+                "definición": "Sustancias vegetales que se usan para dar sabor a la comida o para perfumes."
+            },
+            {
+                "palabra": "Alforjas",
+                "definición": "Bolsas grandes que se ponen a los lados de la silla de montar de un camello o caballo."
+            },
+            {
+                "palabra": "Descolorida",
+                "definición": "Algo que ha perdido su color original por el paso del tiempo."
+            },
+            {
+                "palabra": "Torbellino",
+                "definición": "Viento muy fuerte que gira rápidamente en círculos levantando polvo o arena."
+            },
+            {
+                "palabra": "Instinto",
+                "definición": "Capacidad natural de los animales para actuar de forma correcta sin tener que pensarlo."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Cómo se llama el camello de Valentina?",
+                "tipo": "test",
+                "opciones": [
+                    "Duna",
+                    "Sáhara",
+                    "Rayo",
+                    "Viento"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué encontró Valentina dentro del baúl de cuero?",
+                "tipo": "test",
+                "opciones": [
+                    "Joyas y coronas",
+                    "Semillas de plantas antiguas",
+                    "Mapas de otras ciudades",
+                    "Monedas de oro"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué fenómeno meteorológico ocurrió mientras Valentina estaba en el barco?",
+                "tipo": "test",
+                "opciones": [
+                    "Una lluvia torrencial",
+                    "Una tormenta de nieve",
+                    "Una tormenta de arena",
+                    "Un huracán"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Se puede deducir que el desierto antes era distinto porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Las leyendas decían que antes era un mar",
+                    "Había muchos camellos",
+                    "Valentina llevaba una brújula",
+                    "El barco era muy moderno"
+                ],
+                "correctaIdx": 0
+            },
+            {
+                "enunciado": "¿Por qué Valentina confió en Rayo durante la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque el camello tenía un mapa",
+                    "Porque los camellos tienen instinto para orientarse",
+                    "Porque Rayo podía ver a través de la arena",
+                    "Porque el camello hablaba"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué pasó con el galeón al terminar la tormenta?",
+                "tipo": "test",
+                "opciones": [
+                    "Se rompió en mil pedazos",
+                    "Fue enterrado de nuevo por la arena",
+                    "Salió volando por el viento",
+                    "Se convirtió en un oasis"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál fue el resultado principal de la aventura de Valentina?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacerse rica vendiendo semillas",
+                    "Transformar su aldea en un lugar lleno de vida",
+                    "Encontrar agua debajo del barco",
+                    "Comprar más camellos"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué mensaje quería transmitir el antiguo capitán con su nota?",
+                "tipo": "test",
+                "opciones": [
+                    "Que odiaba el desierto",
+                    "Que esperaba que el futuro fuera más verde y mejor",
+                    "Que el barco no tenía oro",
+                    "Que las semillas eran venenosas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Valentina hizo bien en no vender las semillas? ¿Por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que hizo superbién porque si las vendía solo tendría dinero un rato, pero al plantarlas ayudó a todo su pueblo. Ahora tienen flores y pájaros, y eso es mucho más bonito que tener monedas guardadas en una caja."
+            },
+            {
+                "enunciado": "¿Por qué crees que el texto dice que ser exploradora es 'ser una sembradora de futuro'?",
+                "tipo": "abierta",
+                "respuestaModelo": "Significa que lo que Valentina encontró sirve para que las cosas mejoren más adelante. No solo descubrió algo viejo, sino que lo usó para que crecieran plantas nuevas, y eso es como fabricar un futuro más guay para todos."
+            }
+        ]
+    },
+    {
+        "titulo": "El Ascenso a la Cumbre de los Vientos",
+        "tema": "aventuras",
+        "texto": "El aire en la base de la cordillera era tan puro que parecía brillar. Julián ajustó las correas de su mochila con determinación, sintiendo el peso del equipo de escalada sobre sus hombros. A sus doce años, se enfrentaba al reto más grande de su vida: alcanzar la Cueva de los Ecos, un lugar legendario que, según su abuelo, guardaba el cristal de obsidiana más puro del mundo. No lo buscaba por su valor económico, sino porque era la pieza final para completar el telescopio que estaban construyendo juntos. El sendero inicial era estrecho y zigzagueante, rodeado de pinos centenarios que susurraban secretos con el viento. Julián caminaba con paso firme, recordando las lecciones sobre seguridad y respeto a la montaña. A medida que ascendía, la vegetación desaparecía, dando paso a rocas afiladas y parches de nieve perpetua que crujían bajo sus botas. De repente, una niebla espesa comenzó a descender de las cimas, envolviéndolo todo en un manto blanco y silencioso. Julián sintió un escalofrío de duda. La visibilidad era casi nula y el camino parecía desvanecerse. Recordó que la montaña no es una enemiga, sino una maestra que exige paciencia. En lugar de entrar en pánico, buscó un saliente rocoso para protegerse y esperó. Consultó su brújula y su mapa con calma, respirando hondo para controlar el ritmo de su corazón. Tras una hora de espera, un rayo de sol rompió la bruma, iluminando una pared vertical que parecía insuperable. Con manos expertas, Julián comenzó la escalada, buscando grietas seguras para sus dedos. Cada movimiento era una danza de equilibrio y fuerza. El esfuerzo era agotador, pero la meta estaba cerca. Al llegar a la entrada de la cueva, el espectáculo fue asombroso. Las paredes brillaban con reflejos metálicos y un silencio sagrado lo inundaba todo. En el fondo, sobre un pedestal natural, reposaba la obsidiana. Al tocarla, Julián no sintió poder, sino una profunda conexión con la tierra. No intentó llevarse más de lo necesario; solo tomó el pequeño fragmento que encajaba en su telescopio. El descenso fue rápido pero cuidadoso. Sabía que la mayoría de los accidentes ocurren al bajar, cuando el cansancio relaja la atención. Al llegar al campamento base, el sol se ocultaba, tiñendo las nubes de colores púrpuras. Julián miró hacia atrás y agradeció a la montaña por permitirle pasar. Había aprendido que la verdadera aventura no es solo llegar a la cima, sino el crecimiento interior que ocurre durante el camino. Esa noche, mientras observaba las estrellas con su abuelo a través de la nueva lente, comprendió que los límites solo existen en nuestra mente y que la constancia puede superar cualquier obstáculo geográfico. La montaña seguía allí, inmensa y eterna, pero Julián ya no era el mismo niño que había comenzado la subida aquella mañana.",
+        "glosario": [
+            {
+                "palabra": "Cordillera",
+                "definición": "Una cadena de montañas que están unidas entre sí."
+            },
+            {
+                "palabra": "Obsidiana",
+                "definición": "Una roca volcánica de color negro brillante que parece cristal."
+            },
+            {
+                "palabra": "Zigzagueante",
+                "definición": "Un camino que va formando líneas en forma de Z, con muchas curvas."
+            },
+            {
+                "palabra": "Nieve perpetua",
+                "definición": "Nieve que nunca se derrite, ni siquiera durante el verano."
+            },
+            {
+                "palabra": "Bruma",
+                "definición": "Niebla poco espesa, especialmente la que se forma sobre el mar o en la montaña."
+            },
+            {
+                "palabra": "Insuperable",
+                "definición": "Algo que no se puede vencer, pasar o superar por ser muy difícil."
+            },
+            {
+                "palabra": "Pedestal",
+                "definición": "Base o plataforma sobre la que se coloca un objeto importante."
+            },
+            {
+                "palabra": "Geográfico",
+                "definición": "Relacionado con las características de la tierra, como montañas, ríos o valles."
+            },
+            {
+                "palabra": "Constancia",
+                "definición": "Valor que consiste en no rendirse y seguir trabajando hasta conseguir una meta."
+            },
+            {
+                "palabra": "Vegetación",
+                "definición": "Conjunto de todas las plantas, árboles y arbustos de un lugar."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿Qué objeto buscaba Julián en la cueva?",
+                "tipo": "test",
+                "opciones": [
+                    "Un tesoro de monedas",
+                    "Un cristal de obsidiana",
+                    "Un mapa antiguo",
+                    "Unas botas mágicas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Para qué necesitaba Julián ese cristal?",
+                "tipo": "test",
+                "opciones": [
+                    "Para venderlo y ser rico",
+                    "Para decorar su habitación",
+                    "Para terminar un telescopio",
+                    "Para regalárselo a su madre"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "¿Qué técnica utilizó Julián cuando bajó la niebla?",
+                "tipo": "test",
+                "opciones": [
+                    "Corrió muy rápido para no perderse",
+                    "Se sentó a llorar",
+                    "Esperó con calma en un refugio rocoso",
+                    "Gritó para pedir ayuda"
+                ],
+                "correctaIdx": 2
+            },
+            {
+                "enunciado": "Se puede inferir que Julián es un escalador preparado porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Tiene doce años",
+                    "Lleva brújula, mapa y sabe mantener la calma",
+                    "Su abuelo le dio el equipo",
+                    "No le tiene miedo a nada"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué el texto dice que el descenso es peligroso?",
+                "tipo": "test",
+                "opciones": [
+                    "Porque hay más lobos",
+                    "Porque el cansancio hace que prestes menos atención",
+                    "Porque la obsidiana pesa mucho",
+                    "Porque el camino cambia de sitio"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué aprendió Julián sobre la montaña durante su viaje?",
+                "tipo": "test",
+                "opciones": [
+                    "Que es una enemiga peligrosa",
+                    "Que es una maestra que exige paciencia",
+                    "Que es muy aburrida",
+                    "Que no hay que subirla nunca"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la verdadera meta de la aventura según el relato?",
+                "tipo": "test",
+                "opciones": [
+                    "Hacerse famoso",
+                    "El crecimiento interior y la superación",
+                    "Encontrar piedras brillantes",
+                    "Ganar una apuesta al abuelo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué simboliza el telescopio al final de la historia?",
+                "tipo": "test",
+                "opciones": [
+                    "Un juguete caro",
+                    "El resultado del trabajo en equipo y la perseverancia",
+                    "Un objeto que no funciona",
+                    "La soledad de la montaña"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Crees que Julián fue valiente o imprudente al ir solo a la montaña?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que fue valiente pero con cabeza, porque llevaba todo lo necesario como el mapa y la brújula. Además, cuando se puso peligroso con la niebla, no hizo ninguna tontería y se esperó a que pasara, así que demostró que sabía lo que hacía."
+            },
+            {
+                "enunciado": "Si tú tuvieras que construir algo con tu abuelo o abuela, ¿qué te gustaría que fuera y por qué?",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí me gustaría construir una casa en un árbol bien grande. Me parece guay porque pasaríamos mucho tiempo diseñando los planos y cortando maderas, y al final tendríamos un sitio secreto para nosotros solos para leer o jugar."
+            }
+        ]
+    },
+    {
+        "titulo": "El Misterio del Galeón Sumergido",
+        "tema": "aventuras",
+        "texto": "Bajo las aguas turquesas de la costa caribeña, un secreto de tres siglos aguardaba en silencio. Marina ajustó su máscara de buceo y revisó el manómetro de su tanque de oxígeno. Acompañada por su padre, un arqueólogo marino, se sumergió en un mundo de azul profundo y burbujas rítmicas. El objetivo de la expedición era localizar el 'San Sebastián', un galeón que desapareció durante una tormenta en el año 1720. No buscaban lingotes de oro, sino una caja de plomo que contenía cartas diplomáticas que podrían cambiar la historia de dos países. El descenso fue lento para permitir que sus oídos se adaptaran a la presión del agua. A medida que bajaban, la luz del sol se volvía más tenue, creando un ambiente de catedral sumergida. De repente, entre los corales y las anémonas, apareció una silueta geométrica que no pertenecía a la naturaleza: una enorme ancla de hierro cubierta de herrumbre. Siguieron el rastro del ancla hasta que vieron las cuadernas de madera podrida del barco, que ahora servían de hogar para cientos de peces de colores. Marina sintió una emoción indescriptible; estaba tocando la historia con sus propias manos. Con mucho cuidado para no levantar sedimento y perder la visibilidad, buscaron en lo que quedaba de la cabina del capitán. La pericia de Marina fue clave: divisó una esquina metálica que sobresalía bajo una capa de arena y conchas. Con un pincel especial, fue retirando los restos hasta liberar la caja de plomo. Al subirla a la superficie, la caja parecía más pesada por el valor de los secretos que guardaba. Ya en el barco de investigación, el equipo celebró el hallazgo con precaución. Marina comprendió que la arqueología no es robar tesoros, sino rescatar la memoria del mundo. Las cartas, protegidas por el plomo, estaban intactas. Hablaban de tratados de paz y de sueños de personas que vivieron hace cientos de años. Esa noche, mientras observaba el mar bajo la luna, Marina se dio cuenta de que el océano es como una gran biblioteca que guarda capítulos olvidados de la humanidad. Se prometió a sí misma seguir explorando las profundidades, no para hacerse rica, sino para dar voz a los que el tiempo había silenciado. El 'San Sebastián' ya no era un montón de madera vieja en el fondo del mar, sino un puente que unía el pasado con el presente. La aventura submarina le había enseñado que debajo de las olas existe un universo de conocimiento esperando a ser descubierto por aquellos que tienen la paciencia de buscar y el respeto de proteger.",
+        "glosario": [
+            {
+                "palabra": "Manómetro",
+                "definición": "Instrumento que sirve para medir la presión de los gases o líquidos, como el aire del tanque de buceo."
+            },
+            {
+                "palabra": "Expedición",
+                "definición": "Viaje que realiza un grupo de personas con un fin científico, de investigación o de aventura."
+            },
+            {
+                "palabra": "Diplomáticas",
+                "definición": "Relacionado con los acuerdos y relaciones entre diferentes países."
+            },
+            {
+                "palabra": "Herrumbre",
+                "definición": "Capa de color rojizo que se forma en el hierro por culpa de la humedad y el oxígeno."
+            },
+            {
+                "palabra": "Cuadernas",
+                "definición": "Las piezas de madera o hierro que forman el 'esqueleto' de un barco."
+            },
+            {
+                "palabra": "Sedimento",
+                "definición": "Materia como arena o barro que se deposita en el fondo de un líquido."
+            },
+            {
+                "palabra": "Pericia",
+                "definición": "Habilidad y experiencia que tiene una persona para hacer algo muy bien."
+            },
+            {
+                "palabra": "Arqueología",
+                "definición": "Ciencia que estudia las sociedades antiguas a través de sus restos materiales."
+            },
+            {
+                "palabra": "Galeón",
+                "definición": "Un barco antiguo de vela muy grande que se usaba para viajes largos por el océano."
+            },
+            {
+                "palabra": "Presión",
+                "definición": "Fuerza que ejerce un líquido o un gas sobre un cuerpo, como el agua sobre un buceador."
+            }
+        ],
+        "preguntas": [
+            {
+                "enunciado": "¿En qué año desapareció el galeón 'San Sebastián'?",
+                "tipo": "test",
+                "opciones": [
+                    "1820",
+                    "1720",
+                    "1920",
+                    "1620"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué buscaban Marina y su padre en el naufragio?",
+                "tipo": "test",
+                "opciones": [
+                    "Cofres llenos de monedas de oro",
+                    "Una caja de plomo con cartas",
+                    "Joyas de la corona",
+                    "Espadas antiguas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué parte del barco servía ahora de hogar para los peces?",
+                "tipo": "test",
+                "opciones": [
+                    "Las velas",
+                    "Las cuadernas de madera",
+                    "Los cañones",
+                    "Las literas"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Se puede deducir que Marina es una buceadora experta porque...",
+                "tipo": "test",
+                "opciones": [
+                    "Es hija de un arqueólogo",
+                    "Revisa su manómetro y compensa la presión de sus oídos",
+                    "Encontró el ancla primero",
+                    "Lleva un pincel especial"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué es importante usar un pincel para limpiar la caja bajo el agua?",
+                "tipo": "test",
+                "opciones": [
+                    "Para que la caja brille más",
+                    "Para no levantar sedimento y no dañar el objeto frágil",
+                    "Porque el pincel da buena suerte",
+                    "Para que los peces no se asusten"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Cuál es la diferencia entre un cazatesoros y un arqueólogo según Marina?",
+                "tipo": "test",
+                "opciones": [
+                    "El arqueólogo usa gafas de bucear",
+                    "El cazatesoros quiere dinero y el arqueólogo quiere rescatar la memoria",
+                    "El arqueólogo siempre va en barcos más grandes",
+                    "No hay ninguna diferencia"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Qué protegía las cartas de la humedad del mar?",
+                "tipo": "test",
+                "opciones": [
+                    "Una bolsa de plástico",
+                    "La caja de plomo",
+                    "La madera del barco",
+                    "La arena del fondo"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "Al final, Marina compara el océano con...",
+                "tipo": "test",
+                "opciones": [
+                    "Una pecera gigante",
+                    "Una gran biblioteca de la humanidad",
+                    "Un desierto azul",
+                    "Un parque de atracciones"
+                ],
+                "correctaIdx": 1
+            },
+            {
+                "enunciado": "¿Por qué crees que Marina siente una 'emoción indescriptible' al tocar el barco?",
+                "tipo": "abierta",
+                "respuestaModelo": "Yo creo que se siente así porque es como si estuviera viajando en el tiempo. Tocar algo que lleva trescientos años hundido y que nadie ha visto desde entonces debe ser emocionante, como si fueras el primero en descubrir un secreto muy antiguo."
+            },
+            {
+                "enunciado": "Si pudieras rescatar un objeto del pasado para conocer mejor la historia, ¿qué elegirías?",
+                "tipo": "abierta",
+                "respuestaModelo": "A mí me gustaría encontrar una cápsula del tiempo de hace mil años con dibujos de niños de aquella época. Sería guay ver a qué jugaban o qué animales dibujaban para saber si nos parecemos un poco a ellos aunque haya pasado tanto tiempo."
+            }
+        ]
+    }
+]

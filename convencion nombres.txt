@@ -1,0 +1,2 @@
+Los profesores tendrán un usuario que empiece por profe- seguido de su grupo. Ejemplo: profe-5C o profe-3A.
+Los alumnos tendrán un usuario que empiece por su grupo seguido de un guion. Ejemplo: 5C-juanperez o 3A-anagarcia.
